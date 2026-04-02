@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-02T12:59:37.652Z",
+  "generatedAt": "2026-04-02T13:03:12.656Z",
   "companies": [
+    {
+      "slug": "mitrix-technology",
+      "name": "Mitrix Technology",
+      "status": "rejected",
+      "stage": "rejected",
+      "process": "Rejected after review",
+      "requirements": "—",
+      "notes": "Rejection noted 2026-03-31: looking for a much more senior candidate (\"сеньористый сеньор\").",
+      "links": [],
+      "updatedAt": "2026-04-02T13:03:12.651Z"
+    },
     {
       "slug": "svitla-systems",
       "name": "Svitla Systems",
