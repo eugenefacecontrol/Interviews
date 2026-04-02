@@ -1,11 +1,15 @@
 #!/usr/bin/env node
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 
 const root = path.resolve(__dirname, '..');
+const workspaceRoot = path.resolve(root, '..');
 const registryPath = path.join(root, 'companies.json');
 const markdownPath = path.join(root, 'companies.md');
 const companiesDir = path.join(root, 'companies');
+const renderScriptPath = path.join(root, 'scripts', 'render-companies-html.js');
+const sshKeyPath = path.join(workspaceRoot, 'keys', 'github_ed25519');
 
 function slugify(value) {
   return String(value)
@@ -119,6 +123,24 @@ function main() {
   fs.writeFileSync(readmePath, readme + '\n');
 
   console.log(`Updated ${entry.name} (${slug})`);
+
+  const shouldGit = !args['no-git'];
+  const shouldPush = !args['no-push'];
+
+  if (shouldGit) {
+    execSync(`node ${JSON.stringify(renderScriptPath)}`, { stdio: 'inherit', cwd: workspaceRoot });
+    execSync('git add interviews', { stdio: 'inherit', cwd: workspaceRoot });
+    execSync(`git commit -m ${JSON.stringify(`Add or update ${entry.name} interview record`)}`, { stdio: 'inherit', cwd: workspaceRoot });
+
+    if (shouldPush) {
+      const sshCmd = `ssh -i ${JSON.stringify(sshKeyPath)} -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new`;
+      execSync('git push', {
+        stdio: 'inherit',
+        cwd: workspaceRoot,
+        env: { ...process.env, GIT_SSH_COMMAND: sshCmd }
+      });
+    }
+  }
 }
 
 main();

@@ -12,6 +12,6 @@ Interview workspace.
 - `scripts/render-companies-html.js` — HTML generator
 
 ## Callable command
-Planned global command name: `interviews-add`
+Global command name: `interviews-add`
 
-It will add or update a company, refresh registries, and prepare the change for commit.
+It adds or updates a company, refreshes registries, regenerates HTML, creates a git commit, and pushes to `origin` by default.

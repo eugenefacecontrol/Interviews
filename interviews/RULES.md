@@ -16,7 +16,7 @@ This area is dedicated to interview tracking and preparation. Work here stays se
    - links
 4. Update the registry whenever a company is added or changed.
 5. Store company-specific materials inside that company folder.
-6. After adding a company, create a git commit for the change.
+6. After adding or updating a company, create a git commit for the change and push it to the configured `origin` remote unless explicitly told not to.
 7. Keep HTML output in sync with the canonical companies registry so it can be published via GitHub Pages.
 8. Always work on interview-related data separately from other domains.
 
