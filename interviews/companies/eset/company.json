@@ -6,8 +6,10 @@
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: Agile Test Engineer; Stack: Python, testing, CI/CD; Salary: 18-22k PLN gross",
   "notes": "Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf",
-  "links": [],
-  "updatedAt": "2026-04-02T22:36:09.878922+00:00",
+  "links": [
+    "https://www.eset.com/pl/kariera"
+  ],
+  "updatedAt": "2026-04-02T22:38:53.974753+00:00",
   "role": "Agile Test Engineer",
   "salary": "18-22k PLN gross",
   "stack": "Python, testing, CI/CD",

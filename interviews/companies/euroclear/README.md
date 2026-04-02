@@ -17,3 +17,4 @@ Role: Test Manager; Stack: Test strategy, Jira; Salary: N/A
 Imported from CSV shortlist. Fit: 4/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://careers.euroclear.com

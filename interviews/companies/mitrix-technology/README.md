@@ -1,9 +1,11 @@
 # Mitrix Technology
 
+- Role: 
 - Status: rejected
 - Stage: rejected
+- Salary: 
 - Fit: low
-- Recommended CV: CV 2
+- CV: 
 
 ## Process
 Rejected after review

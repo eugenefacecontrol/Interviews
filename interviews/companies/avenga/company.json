@@ -6,8 +6,10 @@
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: Automation Engineer; Stack: JS/TS, Playwright, Azure DevOps; Salary: 23-26k PLN net",
   "notes": "Imported from CSV shortlist. Fit: 9/10. CV file: qa-devops-cv.pdf",
-  "links": [],
-  "updatedAt": "2026-04-02T22:36:09.879402+00:00",
+  "links": [
+    "https://nofluffjobs.com"
+  ],
+  "updatedAt": "2026-04-02T22:38:53.974763+00:00",
   "role": "Automation Engineer",
   "salary": "23-26k PLN net",
   "stack": "JS/TS, Playwright, Azure DevOps",

@@ -17,3 +17,4 @@ Role: QA Engineer; Stack: JS/TS, Playwright/Cypress, API; Salary: 13-20k PLN net
 Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://careers.airhelp.com

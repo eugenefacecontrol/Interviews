@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T22:36:09.879796+00:00",
+  "generatedAt": "2026-04-02T22:38:53.979287+00:00",
   "companies": [
     {
       "slug": "ailleron",
@@ -9,8 +9,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: QA Consultant; Stack: Playwright, Appium, AI tools; Salary: N/A",
       "notes": "Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.879588+00:00",
+      "links": [
+        "https://www.ailleron.com/career"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974768+00:00",
       "role": "QA Consultant",
       "salary": "N/A",
       "stack": "Playwright, Appium, AI tools",
@@ -25,8 +27,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: QA Engineer; Stack: JS/TS, Playwright/Cypress, API; Salary: 13-20k PLN net",
       "notes": "Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.878644+00:00",
+      "links": [
+        "https://careers.airhelp.com"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974744+00:00",
       "role": "QA Engineer",
       "salary": "13-20k PLN net",
       "stack": "JS/TS, Playwright/Cypress, API",
@@ -41,8 +45,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Senior Test Automation; Stack: C#, Selenium, Jenkins; Salary: N/A",
       "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.878835+00:00",
+      "links": [
+        "https://www.aliorbank.pl/kariera"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974750+00:00",
       "role": "Senior Test Automation",
       "salary": "N/A",
       "stack": "C#, Selenium, Jenkins",
@@ -57,8 +63,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Senior Automation Engineer; Stack: Java/Python/TypeScript, IAM; Salary: 30-33k PLN net",
       "notes": "Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.878447+00:00",
+      "links": [
+        "https://justjoin.it"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974735+00:00",
       "role": "Senior Automation Engineer",
       "salary": "30-33k PLN net",
       "stack": "Java/Python/TypeScript, IAM",
@@ -73,8 +81,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: QA Automation; Stack: C#, API, BDD; Salary: 100-130 PLN/h",
       "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.879496+00:00",
+      "links": [
+        "https://nofluffjobs.com"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974766+00:00",
       "role": "QA Automation",
       "salary": "100-130 PLN/h",
       "stack": "C#, API, BDD",
@@ -89,8 +99,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Automation Engineer; Stack: JS/TS, Playwright, Azure DevOps; Salary: 23-26k PLN net",
       "notes": "Imported from CSV shortlist. Fit: 9/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.879402+00:00",
+      "links": [
+        "https://nofluffjobs.com"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974763+00:00",
       "role": "Automation Engineer",
       "salary": "23-26k PLN net",
       "stack": "JS/TS, Playwright, Azure DevOps",
@@ -105,8 +117,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: AQA Engineer; Stack: TypeScript, Playwright, AI, CI/CD; Salary: 14-17.5k PLN net",
       "notes": "Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.878016+00:00",
+      "links": [
+        "https://justjoin.it"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974713+00:00",
       "role": "AQA Engineer",
       "salary": "14-17.5k PLN net",
       "stack": "TypeScript, Playwright, AI, CI/CD",
@@ -134,8 +148,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Agile Test Engineer; Stack: Python, testing, CI/CD; Salary: 18-22k PLN gross",
       "notes": "Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.878922+00:00",
+      "links": [
+        "https://www.eset.com/pl/kariera"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974753+00:00",
       "role": "Agile Test Engineer",
       "salary": "18-22k PLN gross",
       "stack": "Python, testing, CI/CD",
@@ -150,8 +166,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Test Manager; Stack: Test strategy, Jira; Salary: N/A",
       "notes": "Imported from CSV shortlist. Fit: 4/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.879012+00:00",
+      "links": [
+        "https://careers.euroclear.com"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974755+00:00",
       "role": "Test Manager",
       "salary": "N/A",
       "stack": "Test strategy, Jira",
@@ -166,8 +184,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Senior QA Engineer; Stack: Playwright, TS, AWS; Salary: 15-22k PLN net",
       "notes": "Imported from CSV shortlist. Fit: 9/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.879289+00:00",
+      "links": [
+        "https://nofluffjobs.com"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974761+00:00",
       "role": "Senior QA Engineer",
       "salary": "15-22k PLN net",
       "stack": "Playwright, TS, AWS",
@@ -182,8 +202,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: SDET AI; Stack: Playwright, AI, C#/.NET; Salary: 120-130 PLN/h",
       "notes": "Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.879678+00:00",
+      "links": [
+        "https://justjoin.it"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974771+00:00",
       "role": "SDET AI",
       "salary": "120-130 PLN/h",
       "stack": "Playwright, AI, C#/.NET",
@@ -198,8 +220,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Test Automation Engineer; Stack: Docker, REST, JS/Java; Salary: 11.7-18.8k PLN net",
       "notes": "Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.878738+00:00",
+      "links": [
+        "https://careers.miquido.com"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974747+00:00",
       "role": "Test Automation Engineer",
       "salary": "11.7-18.8k PLN net",
       "stack": "Docker, REST, JS/Java",
@@ -227,8 +251,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Manual QA; Stack: Manual API testing; Salary: 60-100 PLN/h",
       "notes": "Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.879102+00:00",
+      "links": [
+        "https://justjoin.it"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974758+00:00",
       "role": "Manual QA",
       "salary": "60-100 PLN/h",
       "stack": "Manual API testing",
@@ -243,8 +269,10 @@
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: SDET Java Selenium; Stack: Java, Selenium, CI/CD; Salary: 900-1100 PLN/day",
       "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
-      "links": [],
-      "updatedAt": "2026-04-02T22:36:09.878548+00:00",
+      "links": [
+        "https://justjoin.it"
+      ],
+      "updatedAt": "2026-04-02T22:38:53.974740+00:00",
       "role": "SDET Java Selenium",
       "salary": "900-1100 PLN/day",
       "stack": "Java, Selenium, CI/CD",

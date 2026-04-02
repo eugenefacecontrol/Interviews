@@ -1,9 +1,11 @@
 # Svitla Systems
 
+- Role: 
 - Status: rejected
 - Stage: screening
+- Salary: 
 - Fit: medium
-- Recommended CV: CV 2
+- CV: 
 
 ## Process
 Rejected before process start

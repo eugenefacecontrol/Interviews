@@ -17,3 +17,4 @@ Role: Agile Test Engineer; Stack: Python, testing, CI/CD; Salary: 18-22k PLN gro
 Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://www.eset.com/pl/kariera

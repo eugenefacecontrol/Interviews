@@ -17,3 +17,4 @@ Role: SDET AI; Stack: Playwright, AI, C#/.NET; Salary: 120-130 PLN/h
 Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://justjoin.it

@@ -17,3 +17,4 @@ Role: QA Consultant; Stack: Playwright, Appium, AI tools; Salary: N/A
 Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://www.ailleron.com/career

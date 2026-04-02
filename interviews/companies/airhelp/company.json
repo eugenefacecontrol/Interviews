@@ -6,8 +6,10 @@
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: QA Engineer; Stack: JS/TS, Playwright/Cypress, API; Salary: 13-20k PLN net",
   "notes": "Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf",
-  "links": [],
-  "updatedAt": "2026-04-02T22:36:09.878644+00:00",
+  "links": [
+    "https://careers.airhelp.com"
+  ],
+  "updatedAt": "2026-04-02T22:38:53.974744+00:00",
   "role": "QA Engineer",
   "salary": "13-20k PLN net",
   "stack": "JS/TS, Playwright/Cypress, API",

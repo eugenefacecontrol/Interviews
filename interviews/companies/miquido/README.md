@@ -17,3 +17,4 @@ Role: Test Automation Engineer; Stack: Docker, REST, JS/Java; Salary: 11.7-18.8k
 Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://careers.miquido.com

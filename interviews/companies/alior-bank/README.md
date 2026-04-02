@@ -17,3 +17,4 @@ Role: Senior Test Automation; Stack: C#, Selenium, Jenkins; Salary: N/A
 Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://www.aliorbank.pl/kariera

@@ -6,8 +6,10 @@
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: Senior Automation Engineer; Stack: Java/Python/TypeScript, IAM; Salary: 30-33k PLN net",
   "notes": "Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf",
-  "links": [],
-  "updatedAt": "2026-04-02T22:36:09.878447+00:00",
+  "links": [
+    "https://justjoin.it"
+  ],
+  "updatedAt": "2026-04-02T22:38:53.974735+00:00",
   "role": "Senior Automation Engineer",
   "salary": "30-33k PLN net",
   "stack": "Java/Python/TypeScript, IAM",

@@ -17,3 +17,4 @@ Role: Senior Automation Engineer; Stack: Java/Python/TypeScript, IAM; Salary: 30
 Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://justjoin.it

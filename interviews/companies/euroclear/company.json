@@ -6,8 +6,10 @@
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: Test Manager; Stack: Test strategy, Jira; Salary: N/A",
   "notes": "Imported from CSV shortlist. Fit: 4/10. CV file: qa-devops-cv.pdf",
-  "links": [],
-  "updatedAt": "2026-04-02T22:36:09.879012+00:00",
+  "links": [
+    "https://careers.euroclear.com"
+  ],
+  "updatedAt": "2026-04-02T22:38:53.974755+00:00",
   "role": "Test Manager",
   "salary": "N/A",
   "stack": "Test strategy, Jira",

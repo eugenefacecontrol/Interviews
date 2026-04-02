@@ -17,3 +17,4 @@ Role: Automation Engineer; Stack: JS/TS, Playwright, Azure DevOps; Salary: 23-26
 Imported from CSV shortlist. Fit: 9/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://nofluffjobs.com

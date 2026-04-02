@@ -6,8 +6,10 @@
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: QA Automation; Stack: C#, API, BDD; Salary: 100-130 PLN/h",
   "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
-  "links": [],
-  "updatedAt": "2026-04-02T22:36:09.879496+00:00",
+  "links": [
+    "https://nofluffjobs.com"
+  ],
+  "updatedAt": "2026-04-02T22:38:53.974766+00:00",
   "role": "QA Automation",
   "salary": "100-130 PLN/h",
   "stack": "C#, API, BDD",

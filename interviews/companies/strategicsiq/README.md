@@ -17,3 +17,4 @@ Role: SDET Java Selenium; Stack: Java, Selenium, CI/CD; Salary: 900-1100 PLN/day
 Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://justjoin.it

@@ -17,3 +17,4 @@ Role: AQA Engineer; Stack: TypeScript, Playwright, AI, CI/CD; Salary: 14-17.5k P
 Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://justjoin.it

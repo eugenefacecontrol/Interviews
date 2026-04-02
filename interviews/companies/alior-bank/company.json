@@ -6,8 +6,10 @@
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: Senior Test Automation; Stack: C#, Selenium, Jenkins; Salary: N/A",
   "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
-  "links": [],
-  "updatedAt": "2026-04-02T22:36:09.878835+00:00",
+  "links": [
+    "https://www.aliorbank.pl/kariera"
+  ],
+  "updatedAt": "2026-04-02T22:38:53.974750+00:00",
   "role": "Senior Test Automation",
   "salary": "N/A",
   "stack": "C#, Selenium, Jenkins",

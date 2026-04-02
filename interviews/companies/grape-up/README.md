@@ -17,3 +17,4 @@ Role: Senior QA Engineer; Stack: Playwright, TS, AWS; Salary: 15-22k PLN net
 Imported from CSV shortlist. Fit: 9/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://nofluffjobs.com

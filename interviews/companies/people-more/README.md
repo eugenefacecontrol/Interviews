@@ -17,3 +17,4 @@ Role: Manual QA; Stack: Manual API testing; Salary: 60-100 PLN/h
 Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf
 
 ## Links
+- https://justjoin.it
