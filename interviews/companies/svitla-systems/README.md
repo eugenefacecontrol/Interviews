@@ -2,6 +2,8 @@
 
 - Status: rejected
 - Stage: screening
+- Fit: medium
+- Recommended CV: CV 2
 
 ## Process
 Rejected before process start
