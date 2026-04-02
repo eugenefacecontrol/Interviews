@@ -2,6 +2,8 @@
 
 - Status: rejected
 - Stage: rejected
+- Fit: low
+- Recommended CV: CV 2
 
 ## Process
 Rejected after review
