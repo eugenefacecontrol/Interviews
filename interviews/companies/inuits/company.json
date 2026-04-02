@@ -1,0 +1,16 @@
+{
+  "slug": "inuits",
+  "name": "Inuits",
+  "status": "target",
+  "stage": "cv_to_send",
+  "process": "Initial outreach / CV submission planned",
+  "requirements": "Role: SDET AI; Stack: Playwright, AI, C#/.NET; Salary: 120-130 PLN/h",
+  "notes": "Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf",
+  "links": [],
+  "updatedAt": "2026-04-02T22:36:09.879678+00:00",
+  "role": "SDET AI",
+  "salary": "120-130 PLN/h",
+  "stack": "Playwright, AI, C#/.NET",
+  "fit": "7/10",
+  "cv": "qa-devops-cv.pdf"
+}

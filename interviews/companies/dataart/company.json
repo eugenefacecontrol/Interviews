@@ -1,0 +1,16 @@
+{
+  "slug": "dataart",
+  "name": "DataArt",
+  "status": "target",
+  "stage": "cv_to_send",
+  "process": "Initial outreach / CV submission planned",
+  "requirements": "Role: AQA Engineer; Stack: TypeScript, Playwright, AI, CI/CD; Salary: 14-17.5k PLN net",
+  "notes": "Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf",
+  "links": [],
+  "updatedAt": "2026-04-02T22:36:09.878016+00:00",
+  "role": "AQA Engineer",
+  "salary": "14-17.5k PLN net",
+  "stack": "TypeScript, Playwright, AI, CI/CD",
+  "fit": "8/10",
+  "cv": "qa-devops-cv.pdf"
+}

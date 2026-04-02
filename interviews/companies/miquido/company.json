@@ -1,0 +1,16 @@
+{
+  "slug": "miquido",
+  "name": "Miquido",
+  "status": "target",
+  "stage": "cv_to_send",
+  "process": "Initial outreach / CV submission planned",
+  "requirements": "Role: Test Automation Engineer; Stack: Docker, REST, JS/Java; Salary: 11.7-18.8k PLN net",
+  "notes": "Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf",
+  "links": [],
+  "updatedAt": "2026-04-02T22:36:09.878738+00:00",
+  "role": "Test Automation Engineer",
+  "salary": "11.7-18.8k PLN net",
+  "stack": "Docker, REST, JS/Java",
+  "fit": "7/10",
+  "cv": "qa-devops-cv.pdf"
+}
