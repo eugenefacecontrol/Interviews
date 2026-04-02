@@ -9,6 +9,7 @@ Interview workspace.
 - `RULES.md` — operating rules for this area
 - `companies.json` — canonical registry for automation
 - `companies.md` — human-readable registry
+- `cv.json` — CV registry with available resume versions
 - `companies/` — per-company folders
 - `site/` — generated HTML for GitHub Pages
 - `scripts/add-company.js` — helper for adding/updating companies

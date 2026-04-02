@@ -14,6 +14,8 @@ This area is dedicated to interview tracking and preparation. Work here stays se
    - notes
    - dates
    - links
+   - rejection reason when applicable
+   - fit estimate and recommended CV when enough information is available
 4. Update the registry whenever a company is added or changed.
 5. Store company-specific materials inside that company folder.
 6. After adding or updating a company, create a git commit for the change and push it to the configured `origin` remote unless explicitly told not to.
@@ -24,6 +26,7 @@ This area is dedicated to interview tracking and preparation. Work here stays se
 ## Expected structure
 - `interviews/companies.json` — canonical machine-readable registry
 - `interviews/companies.md` — human-readable summary
+- `interviews/cv.json` — canonical CV registry with available resume versions
 - `interviews/companies/<slug>/` — per-company folder
 - `interviews/site/` — generated HTML output
 
