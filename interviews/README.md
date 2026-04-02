@@ -2,6 +2,9 @@
 
 Interview workspace.
 
+## Report
+- Published report: https://eugenefacecontrol.github.io/Interviews/interviews/site/
+
 ## Files
 - `RULES.md` — operating rules for this area
 - `companies.json` — canonical registry for automation
