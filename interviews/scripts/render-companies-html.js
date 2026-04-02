@@ -8,7 +8,13 @@ const outputPath = path.join(root, 'site', 'index.html');
 
 const data = JSON.parse(fs.readFileSync(registryPath, 'utf8'));
 const rows = data.companies.length
-  ? data.companies.map(c => `<tr><td>${escapeHtml(c.name)}</td><td>${escapeHtml(c.status || '')}</td><td>${escapeHtml(c.stage || '')}</td><td>${escapeHtml(c.updatedAt || '')}</td></tr>`).join('\n')
+  ? data.companies.map(c => {
+      const primaryLink = Array.isArray(c.links) && c.links.length ? c.links[0] : '';
+      const companyCell = primaryLink
+        ? `<a href="${escapeAttribute(primaryLink)}" target="_blank" rel="noopener noreferrer">${escapeHtml(c.name)}</a>`
+        : escapeHtml(c.name);
+      return `<tr><td>${companyCell}</td><td>${escapeHtml(c.status || '')}</td><td>${escapeHtml(c.stage || '')}</td><td>${escapeHtml(c.updatedAt || '')}</td></tr>`;
+    }).join('\n')
   : '<tr><td colspan="4">No companies yet.</td></tr>';
 
 const html = `<!doctype html>
@@ -57,4 +63,8 @@ function escapeHtml(value) {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
+}
+
+function escapeAttribute(value) {
+  return escapeHtml(value);
 }
