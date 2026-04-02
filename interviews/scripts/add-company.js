@@ -1,0 +1,124 @@
+#!/usr/bin/env node
+const fs = require('fs');
+const path = require('path');
+
+const root = path.resolve(__dirname, '..');
+const registryPath = path.join(root, 'companies.json');
+const markdownPath = path.join(root, 'companies.md');
+const companiesDir = path.join(root, 'companies');
+
+function slugify(value) {
+  return String(value)
+    .trim()
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '') || 'company';
+}
+
+function parseArgs(argv) {
+  const out = {};
+  for (let i = 2; i < argv.length; i++) {
+    const item = argv[i];
+    if (!item.startsWith('--')) continue;
+    const key = item.slice(2);
+    const next = argv[i + 1];
+    if (!next || next.startsWith('--')) {
+      out[key] = true;
+    } else {
+      out[key] = next;
+      i++;
+    }
+  }
+  return out;
+}
+
+function ensureDir(dir) {
+  fs.mkdirSync(dir, { recursive: true });
+}
+
+function loadRegistry() {
+  return JSON.parse(fs.readFileSync(registryPath, 'utf8'));
+}
+
+function saveRegistry(data) {
+  data.generatedAt = new Date().toISOString();
+  fs.writeFileSync(registryPath, JSON.stringify(data, null, 2) + '\n');
+}
+
+function saveMarkdown(data) {
+  const lines = [
+    '# Companies',
+    '',
+    'This is the canonical human-readable list of interview companies.',
+    '',
+    '| Company | Status | Stage | Last update |',
+    '|---|---|---|---|'
+  ];
+  for (const c of data.companies) {
+    lines.push(`| ${c.name} | ${c.status || ''} | ${c.stage || ''} | ${c.updatedAt || ''} |`);
+  }
+  fs.writeFileSync(markdownPath, lines.join('\n') + '\n');
+}
+
+function main() {
+  const args = parseArgs(process.argv);
+  if (!args.name) {
+    console.error('Usage: interviews-add --name "Company" [--status ...] [--stage ...] [--process ...] [--requirements ...] [--notes ...] [--links ...]');
+    process.exit(1);
+  }
+
+  ensureDir(companiesDir);
+  const slug = args.slug || slugify(args.name);
+  const companyDir = path.join(companiesDir, slug);
+  ensureDir(companyDir);
+
+  const registry = loadRegistry();
+  const now = new Date().toISOString();
+  const entry = {
+    slug,
+    name: args.name,
+    status: args.status || 'new',
+    stage: args.stage || '',
+    process: args.process || '',
+    requirements: args.requirements || '',
+    notes: args.notes || '',
+    links: args.links ? args.links.split(',').map(s => s.trim()).filter(Boolean) : [],
+    updatedAt: now
+  };
+
+  const idx = registry.companies.findIndex(c => c.slug === slug || c.name === args.name);
+  if (idx >= 0) registry.companies[idx] = { ...registry.companies[idx], ...entry };
+  else registry.companies.push(entry);
+
+  registry.companies.sort((a, b) => a.name.localeCompare(b.name));
+  saveRegistry(registry);
+  saveMarkdown(registry);
+
+  const companyInfoPath = path.join(companyDir, 'company.json');
+  fs.writeFileSync(companyInfoPath, JSON.stringify(entry, null, 2) + '\n');
+
+  const readmePath = path.join(companyDir, 'README.md');
+  const readme = [
+    `# ${entry.name}`,
+    '',
+    `- Status: ${entry.status}`,
+    `- Stage: ${entry.stage}`,
+    '',
+    '## Process',
+    entry.process || '',
+    '',
+    '## Requirements',
+    entry.requirements || '',
+    '',
+    '## Notes',
+    entry.notes || '',
+    '',
+    '## Links',
+    ...(entry.links.length ? entry.links.map(link => `- ${link}`) : [''])
+  ].join('\n');
+  fs.writeFileSync(readmePath, readme + '\n');
+
+  console.log(`Updated ${entry.name} (${slug})`);
+}
+
+main();
