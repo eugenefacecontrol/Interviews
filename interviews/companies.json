@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T13:45:56.747Z",
+  "generatedAt": "2026-04-02T13:53:34.614Z",
   "companies": [
     {
       "slug": "effectivesoft",
@@ -10,7 +10,9 @@
       "requirements": "Senior Automation QA Engineer; Remote; Full-time; automation-first QA; Cypress; JavaScript/TypeScript; API testing; CI/CD; GitHub workflows; 5+ years QA Automation; English B2+",
       "notes": "Отказ: нужен Cypress. JD received 2026-04-02 for Senior Automation QA Engineer.",
       "links": [],
-      "updatedAt": "2026-04-02T13:45:56.741Z"
+      "fit": "low",
+      "recommendedCv": "CV 2",
+      "updatedAt": "2026-04-02T13:53:34.608Z"
     },
     {
       "slug": "mitrix-technology",
@@ -21,6 +23,8 @@
       "requirements": "—",
       "notes": "Rejection noted 2026-03-31: looking for a much more senior candidate (\"сеньористый сеньор\").",
       "links": [],
+      "fit": "low",
+      "recommendedCv": "CV 2",
       "updatedAt": "2026-04-02T13:03:12.651Z"
     },
     {
@@ -34,6 +38,8 @@
       "links": [
         "https://justjoin.it/job-offer/svitla-systems-senior-automation-qa-engineer-krakow-testing"
       ],
+      "fit": "medium",
+      "recommendedCv": "CV 2",
       "updatedAt": "2026-04-02T12:59:37.652Z"
     }
   ]
