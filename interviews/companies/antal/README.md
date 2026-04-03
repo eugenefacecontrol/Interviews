@@ -1,11 +1,10 @@
 # Antal
 
-- Role: Senior Automation Engineer
 - Status: target
 - Stage: cv_to_send
-- Salary: 30-33k PLN net
 - Fit: 6/10
-- CV: qa-devops-cv.pdf
+- Recommended CV: CV 2
+- Outreach: —
 
 ## Process
 Initial outreach / CV submission planned
@@ -17,4 +16,4 @@ Role: Senior Automation Engineer; Stack: Java/Python/TypeScript, IAM; Salary: 30
 Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf
 
 ## Links
-- https://justjoin.it
+- https://justjoin.it/job-offer/antal-sp-z-o-o--senior-test-automation-engineer-warszawa-testing
