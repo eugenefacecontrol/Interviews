@@ -4,7 +4,7 @@ This is the canonical human-readable list of interview companies.
 
 | Company | Status | Stage | Fit | Recommended CV | Outreach | Last update |
 |---|---|---|---|---|---|---|
-| Ailleron | applied | cv_sent | 7/10 | CV 2 |  | 2026-04-03T10:51:19.219Z |
+| Ailleron | applied | cv_sent | 7/10 | CV 2 | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
 | AirHelp | contacted | outreach_sent | 8/10 | CV 2 | Sent to Giorgi Beburishvili (LinkedIn) | 2026-04-03T11:09:50.590Z |
 | Alior Bank | target | cv_to_send | 5/10 |  |  | 2026-04-02T22:38:53.974750+00:00 |
 | Antal | target | cv_to_send | 6/10 |  |  | 2026-04-02T22:38:53.974735+00:00 |

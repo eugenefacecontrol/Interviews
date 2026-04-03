@@ -5,11 +5,12 @@
   "stage": "cv_sent",
   "process": "CV sent",
   "requirements": "Role: QA Consultant; Stack: Playwright, Appium, AI tools; Salary: N/A",
-  "notes": "CV sent. Note: communication/job context is in Polish, so there may be a language-fit risk.",
+  "notes": "CV sent. Note: communication/job context is in Polish, so there may be a language-fit risk. Outreach sent to Tanya Akulich via LinkedIn: https://www.linkedin.com/in/tanya-akulich.",
   "links": [
     "https://www.ailleron.com/career"
   ],
   "fit": "7/10",
   "recommendedCv": "CV 2",
-  "updatedAt": "2026-04-03T10:51:19.219Z"
+  "outreach": "Sent to Tanya Akulich (LinkedIn)",
+  "updatedAt": "2026-04-03T11:09:52.055Z"
 }

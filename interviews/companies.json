@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T11:09:50.595Z",
+  "generatedAt": "2026-04-03T11:09:52.061Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -8,17 +8,18 @@
       "stage": "cv_sent",
       "process": "CV sent",
       "requirements": "Role: QA Consultant; Stack: Playwright, Appium, AI tools; Salary: N/A",
-      "notes": "CV sent. Note: communication/job context is in Polish, so there may be a language-fit risk.",
+      "notes": "CV sent. Note: communication/job context is in Polish, so there may be a language-fit risk. Outreach sent to Tanya Akulich via LinkedIn: https://www.linkedin.com/in/tanya-akulich.",
       "links": [
         "https://www.ailleron.com/career"
       ],
-      "updatedAt": "2026-04-03T10:51:19.219Z",
+      "updatedAt": "2026-04-03T11:09:52.055Z",
       "role": "QA Consultant",
       "salary": "N/A",
       "stack": "Playwright, Appium, AI tools",
       "fit": "7/10",
       "cv": "qa-devops-cv.pdf",
-      "recommendedCv": "CV 2"
+      "recommendedCv": "CV 2",
+      "outreach": "Sent to Tanya Akulich (LinkedIn)"
     },
     {
       "slug": "airhelp",
