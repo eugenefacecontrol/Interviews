@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T11:09:52.061Z",
+  "generatedAt": "2026-04-03T11:40:32.192Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -24,22 +24,22 @@
     {
       "slug": "airhelp",
       "name": "AirHelp",
-      "status": "contacted",
-      "stage": "outreach_sent",
-      "process": "Direct outreach sent",
+      "status": "interview_scheduled",
+      "stage": "intro_call",
+      "process": "LinkedIn outreach replied, intro call scheduled",
       "requirements": "Role: QA Engineer; Stack: JS/TS, Playwright/Cypress, API; Salary: 13-20k PLN net",
-      "notes": "Outreach sent to Giorgi Beburishvili via LinkedIn: https://www.linkedin.com/in/giorgibeburishvili. Cover letter sent.",
+      "notes": "Giorgi Beburishvili replied on LinkedIn. Intro call scheduled for Tuesday 2026-04-07 13:00-13:30 GMT+02:00.",
       "links": [
         "https://careers.airhelp.com"
       ],
-      "updatedAt": "2026-04-03T11:09:50.590Z",
+      "updatedAt": "2026-04-03T11:40:32.186Z",
       "role": "QA Engineer",
       "salary": "13-20k PLN net",
       "stack": "JS/TS, Playwright/Cypress, API",
       "fit": "8/10",
       "cv": "qa-devops-cv.pdf",
       "recommendedCv": "CV 2",
-      "outreach": "Sent to Giorgi Beburishvili (LinkedIn)"
+      "outreach": "Replied by Giorgi Beburishvili (LinkedIn); call booked for 2026-04-07 13:00-13:30 GMT+02:00"
     },
     {
       "slug": "alior-bank",
