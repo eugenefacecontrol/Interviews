@@ -14,7 +14,7 @@ This is the canonical human-readable list of interview companies.
 | EffectiveSoft | rejected | rejected | low | CV 2 |  | 2026-04-02T13:53:34.608Z |
 | ESET | target | cv_to_send | 6/10 |  |  | 2026-04-02T22:38:53.974753+00:00 |
 | Euroclear | target | cv_to_send | 4/10 |  |  | 2026-04-02T22:38:53.974755+00:00 |
-| Grape Up | target | cv_to_send | 9/10 |  |  | 2026-04-02T22:38:53.974761+00:00 |
+| Grape Up | applied | talent_pool | 9/10 | CV 2 | Applied via careers page | 2026-04-03T21:24:08.253Z |
 | Inuits | target | cv_to_send | 7/10 |  |  | 2026-04-02T22:38:53.974771+00:00 |
 | Miquido | target | cv_to_send | 7/10 |  |  | 2026-04-02T22:38:53.974747+00:00 |
 | Mitrix Technology | rejected | rejected | low | CV 2 |  | 2026-04-02T13:53:34.666Z |

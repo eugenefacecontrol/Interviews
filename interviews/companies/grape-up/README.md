@@ -1,20 +1,19 @@
 # Grape Up
 
-- Role: Senior QA Engineer
-- Status: target
-- Stage: cv_to_send
-- Salary: 15-22k PLN net
+- Status: applied
+- Stage: talent_pool
 - Fit: 9/10
-- CV: qa-devops-cv.pdf
+- Recommended CV: CV 2
+- Outreach: Applied via careers page
 
 ## Process
-Initial outreach / CV submission planned
+Applied to talent pool for upcoming Senior QA Engineer opportunities
 
 ## Requirements
-Role: Senior QA Engineer; Stack: Playwright, TS, AWS; Salary: 15-22k PLN net
+Senior QA Engineer; 5+ years QA; Playwright 3+ years; TypeScript; Page Object Pattern; Git; API testing; performance testing; Artillery.io or Grafana k6; GitHub Actions; JIRA/Xray; BDD; large-scale corporate projects; English B2+
 
 ## Notes
-Imported from CSV shortlist. Fit: 9/10. CV file: qa-devops-cv.pdf
+Applied. This is a talent pool posting, meaning there may be no immediate open seat; candidates are collected and contacted when a matching project opens.
 
 ## Links
-- https://nofluffjobs.com
+- https://careers.grapeup.com/career/senior-qa-engineer-3/
