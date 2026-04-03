@@ -13,9 +13,9 @@ const rows = data.companies.length
       const applyCell = primaryLink
         ? `<a href="${escapeAttribute(primaryLink)}" target="_blank" rel="noopener noreferrer">Apply</a>`
         : '';
-      return `<tr><td>${escapeHtml(c.name || '')}</td><td>${escapeHtml(c.role || '')}</td><td>${escapeHtml(c.salary || '')}</td><td>${escapeHtml(c.stack || '')}</td><td>${escapeHtml(c.fit || '')}</td><td>${escapeHtml(c.status || '')}</td><td>${escapeHtml(c.stage || '')}</td><td>${applyCell}</td><td>${escapeHtml(c.updatedAt || '')}</td></tr>`;
+      return `<tr><td>${escapeHtml(c.name || '')}</td><td>${escapeHtml(c.role || '')}</td><td>${escapeHtml(c.salary || '')}</td><td>${escapeHtml(c.stack || '')}</td><td>${escapeHtml(c.fit || '')}</td><td>${escapeHtml(c.recommendedCv || c.cv || '')}</td><td>${escapeHtml(c.outreach || '')}</td><td>${escapeHtml(c.status || '')}</td><td>${escapeHtml(c.stage || '')}</td><td>${applyCell}</td><td>${escapeHtml(c.updatedAt || '')}</td></tr>`;
     }).join('\n')
-  : '<tr><td colspan="9">No companies yet.</td></tr>';
+  : '<tr><td colspan="11">No companies yet.</td></tr>';
 
 const html = `<!doctype html>
 <html lang="en">
@@ -45,6 +45,8 @@ const html = `<!doctype html>
         <th>Salary</th>
         <th>Stack</th>
         <th>Fit</th>
+        <th>CV</th>
+        <th>Outreach</th>
         <th>Status</th>
         <th>Stage</th>
         <th>Apply Link</th>

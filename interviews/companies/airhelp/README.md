@@ -1,20 +1,19 @@
 # AirHelp
 
-- Role: QA Engineer
-- Status: target
-- Stage: cv_to_send
-- Salary: 13-20k PLN net
+- Status: contacted
+- Stage: outreach_sent
 - Fit: 8/10
-- CV: qa-devops-cv.pdf
+- Recommended CV: CV 2
+- Outreach: Sent to Giorgi Beburishvili (LinkedIn)
 
 ## Process
-Initial outreach / CV submission planned
+Direct outreach sent
 
 ## Requirements
 Role: QA Engineer; Stack: JS/TS, Playwright/Cypress, API; Salary: 13-20k PLN net
 
 ## Notes
-Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf
+Outreach sent to Giorgi Beburishvili via LinkedIn: https://www.linkedin.com/in/giorgibeburishvili. Cover letter sent.
 
 ## Links
 - https://careers.airhelp.com

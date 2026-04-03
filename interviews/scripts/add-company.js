@@ -55,11 +55,11 @@ function saveMarkdown(data) {
     '',
     'This is the canonical human-readable list of interview companies.',
     '',
-    '| Company | Status | Stage | Fit | Recommended CV | Last update |',
-    '|---|---|---|---|---|---|'
+    '| Company | Status | Stage | Fit | Recommended CV | Outreach | Last update |',
+    '|---|---|---|---|---|---|---|'
   ];
   for (const c of data.companies) {
-    lines.push(`| ${c.name} | ${c.status || ''} | ${c.stage || ''} | ${c.fit || ''} | ${c.recommendedCv || ''} | ${c.updatedAt || ''} |`);
+    lines.push(`| ${c.name} | ${c.status || ''} | ${c.stage || ''} | ${c.fit || ''} | ${c.recommendedCv || ''} | ${c.outreach || ''} | ${c.updatedAt || ''} |`);
   }
   fs.writeFileSync(markdownPath, lines.join('\n') + '\n');
 }
@@ -67,7 +67,7 @@ function saveMarkdown(data) {
 function main() {
   const args = parseArgs(process.argv);
   if (!args.name) {
-    console.error('Usage: interviews-add --name "Company" [--status ...] [--stage ...] [--process ...] [--requirements ...] [--notes ...] [--links ...] [--fit ...] [--recommended-cv ...]');
+    console.error('Usage: interviews-add --name "Company" [--status ...] [--stage ...] [--process ...] [--requirements ...] [--notes ...] [--links ...] [--fit ...] [--recommended-cv ...] [--outreach ...]');
     process.exit(1);
   }
 
@@ -89,6 +89,7 @@ function main() {
     links: typeof args.links === 'string' ? args.links.split(',').map(s => s.trim()).filter(Boolean) : [],
     fit: args.fit || '',
     recommendedCv: args['recommended-cv'] || '',
+    outreach: args.outreach || '',
     updatedAt: now
   };
 
@@ -111,6 +112,7 @@ function main() {
     `- Stage: ${entry.stage}`,
     `- Fit: ${entry.fit || '—'}`,
     `- Recommended CV: ${entry.recommendedCv || '—'}`,
+    `- Outreach: ${entry.outreach || '—'}`,
     '',
     '## Process',
     entry.process || '',
