@@ -4,7 +4,7 @@ This is the canonical human-readable list of interview companies.
 
 | Company | Status | Stage | Fit | Recommended CV | Last update |
 |---|---|---|---|---|---|
-| Ailleron | target | cv_to_send | 8/10 |  | 2026-04-02T22:38:53.974768+00:00 |
+| Ailleron | applied | cv_sent | 7/10 | CV 2 | 2026-04-03T10:51:19.219Z |
 | AirHelp | target | cv_to_send | 8/10 |  | 2026-04-02T22:38:53.974744+00:00 |
 | Alior Bank | target | cv_to_send | 5/10 |  | 2026-04-02T22:38:53.974750+00:00 |
 | Antal | target | cv_to_send | 6/10 |  | 2026-04-02T22:38:53.974735+00:00 |

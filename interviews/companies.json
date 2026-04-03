@@ -1,23 +1,24 @@
 {
-  "generatedAt": "2026-04-03T09:08:47.472Z",
+  "generatedAt": "2026-04-03T10:51:19.225Z",
   "companies": [
     {
       "slug": "ailleron",
       "name": "Ailleron",
-      "status": "target",
-      "stage": "cv_to_send",
-      "process": "Initial outreach / CV submission planned",
+      "status": "applied",
+      "stage": "cv_sent",
+      "process": "CV sent",
       "requirements": "Role: QA Consultant; Stack: Playwright, Appium, AI tools; Salary: N/A",
-      "notes": "Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf",
+      "notes": "CV sent. Note: communication/job context is in Polish, so there may be a language-fit risk.",
       "links": [
         "https://www.ailleron.com/career"
       ],
-      "updatedAt": "2026-04-02T22:38:53.974768+00:00",
+      "updatedAt": "2026-04-03T10:51:19.219Z",
       "role": "QA Consultant",
       "salary": "N/A",
       "stack": "Playwright, Appium, AI tools",
-      "fit": "8/10",
-      "cv": "qa-devops-cv.pdf"
+      "fit": "7/10",
+      "cv": "qa-devops-cv.pdf",
+      "recommendedCv": "CV 2"
     },
     {
       "slug": "airhelp",

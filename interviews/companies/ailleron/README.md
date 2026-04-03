@@ -1,20 +1,18 @@
 # Ailleron
 
-- Role: QA Consultant
-- Status: target
-- Stage: cv_to_send
-- Salary: N/A
-- Fit: 8/10
-- CV: qa-devops-cv.pdf
+- Status: applied
+- Stage: cv_sent
+- Fit: 7/10
+- Recommended CV: CV 2
 
 ## Process
-Initial outreach / CV submission planned
+CV sent
 
 ## Requirements
 Role: QA Consultant; Stack: Playwright, Appium, AI tools; Salary: N/A
 
 ## Notes
-Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf
+CV sent. Note: communication/job context is in Polish, so there may be a language-fit risk.
 
 ## Links
 - https://www.ailleron.com/career
