@@ -1,20 +1,19 @@
 # Avenga
 
-- Role: Automation Engineer
-- Status: target
-- Stage: cv_to_send
-- Salary: 23-26k PLN net
+- Status: preparing
+- Stage: message_to_recruiter
 - Fit: 9/10
-- CV: qa-devops-cv.pdf
+- Recommended CV: CV 2
+- Outreach: Drafting recruiter message
 
 ## Process
-Initial outreach / CV submission planned
+Preparing recruiter outreach / application message
 
 ## Requirements
-Role: Automation Engineer; Stack: JS/TS, Playwright, Azure DevOps; Salary: 23-26k PLN net
+QA Engineer with focus on test automation; 3+ years QA/test automation; JavaScript/TypeScript or C#; REST/GraphQL; Cypress or Playwright; Gherkin/Cucumber/SpecFlow; Postman; GitHub/Azure DevOps; Node.js/npm; agile/DevOps; plus mobile release/store management, cloud, containers, microservices
 
 ## Notes
-Imported from CSV shortlist. Fit: 9/10. CV file: qa-devops-cv.pdf
+Preparing message to recruiter. Strong overall fit due to JS/TS, Playwright, API testing, CI/CD, DevOps mindset, distributed/agile team experience. Potentially weaker on C# / Gherkin / mobile release specifics if not emphasized.
 
 ## Links
 - https://nofluffjobs.com
