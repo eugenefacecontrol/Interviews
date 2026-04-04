@@ -16,6 +16,7 @@ This is the canonical human-readable list of interview companies.
 | Euroclear | target | cv_to_send | 4/10 |  |  | 2026-04-02T22:38:53.974755+00:00 |
 | Grape Up | applied | talent_pool | 9/10 | CV 2 | Applied via careers page | 2026-04-03T21:24:08.253Z |
 | Inuits | target | cv_to_send | 7/10 |  |  | 2026-04-02T22:38:53.974771+00:00 |
+| Kaseya | saved | considering | 3/10 | CV 2 | Apply later | 2026-04-04T20:58:16.039Z |
 | Miquido | target | cv_to_send | 7/10 |  |  | 2026-04-02T22:38:53.974747+00:00 |
 | Mitrix Technology | rejected | rejected | low | CV 2 |  | 2026-04-02T13:53:34.666Z |
 | Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  | 2026-04-03T09:08:47.467Z |
