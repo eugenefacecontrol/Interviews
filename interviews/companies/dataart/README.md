@@ -1,20 +1,19 @@
 # DataArt
 
-- Role: AQA Engineer
-- Status: target
-- Stage: cv_to_send
-- Salary: 14-17.5k PLN net
-- Fit: 8/10
-- CV: qa-devops-cv.pdf
+- Status: applying
+- Stage: message_prep
+- Fit: 7/10
+- Recommended CV: CV 2
+- Outreach: Preparing application
 
 ## Process
-Initial outreach / CV submission planned
+Preparing application for travel/transport microservices QA automation project
 
 ## Requirements
-Role: AQA Engineer; Stack: TypeScript, Playwright, AI, CI/CD; Salary: 14-17.5k PLN net
+Senior/Lead QA Automation; travel/transport domain; microservices; API/E2E/contract/performance testing; Python; SQL; Postman; Datadog; Robot Framework; Playwright; REST; Pub/Sub; Kafka; Kubernetes; GCP; CI/CD; mentoring; Agile
 
 ## Notes
-Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf
+Preparing to apply. Strong fit on API, microservices, Playwright, CI/CD, documentation, mentoring potential. Weaker on Python depth, Robot Framework, and GCP-specific experience.
 
 ## Links
 - https://justjoin.it

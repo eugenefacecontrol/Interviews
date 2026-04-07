@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T20:58:16.044Z",
+  "generatedAt": "2026-04-07T13:31:23.418Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -120,20 +120,22 @@
     {
       "slug": "dataart",
       "name": "DataArt",
-      "status": "target",
-      "stage": "cv_to_send",
-      "process": "Initial outreach / CV submission planned",
-      "requirements": "Role: AQA Engineer; Stack: TypeScript, Playwright, AI, CI/CD; Salary: 14-17.5k PLN net",
-      "notes": "Imported from CSV shortlist. Fit: 8/10. CV file: qa-devops-cv.pdf",
+      "status": "applying",
+      "stage": "message_prep",
+      "process": "Preparing application for travel/transport microservices QA automation project",
+      "requirements": "Senior/Lead QA Automation; travel/transport domain; microservices; API/E2E/contract/performance testing; Python; SQL; Postman; Datadog; Robot Framework; Playwright; REST; Pub/Sub; Kafka; Kubernetes; GCP; CI/CD; mentoring; Agile",
+      "notes": "Preparing to apply. Strong fit on API, microservices, Playwright, CI/CD, documentation, mentoring potential. Weaker on Python depth, Robot Framework, and GCP-specific experience.",
       "links": [
         "https://justjoin.it"
       ],
-      "updatedAt": "2026-04-02T22:38:53.974713+00:00",
+      "updatedAt": "2026-04-07T13:31:23.412Z",
       "role": "AQA Engineer",
       "salary": "14-17.5k PLN net",
       "stack": "TypeScript, Playwright, AI, CI/CD",
-      "fit": "8/10",
-      "cv": "qa-devops-cv.pdf"
+      "fit": "7/10",
+      "cv": "qa-devops-cv.pdf",
+      "recommendedCv": "CV 2",
+      "outreach": "Preparing application"
     },
     {
       "slug": "effectivesoft",
