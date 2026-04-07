@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T13:31:23.418Z",
+  "generatedAt": "2026-04-07T13:33:45.999Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -116,6 +116,22 @@
       "cv": "qa-devops-cv.pdf",
       "recommendedCv": "CV 2",
       "outreach": "Applied via site; sent to Karolina Zamysłowska (LinkedIn)"
+    },
+    {
+      "slug": "coherent-solutions",
+      "name": "Coherent Solutions",
+      "status": "applying",
+      "stage": "message_prep",
+      "process": "Preparing application for QA Automation Engineer in travel and transportation sphere",
+      "requirements": "QA Automation Engineer; travel/transportation; microservices; API/E2E/contract/performance testing; Python; SQL; Postman; Datadog; Robot Framework; Playwright; REST; Pub/Sub; Kafka; Kubernetes; GCP; CI/CD; Agile",
+      "notes": "Preparing to apply. Strong fit on API, Playwright, CI/CD, microservices mindset; weaker on Python depth, Robot Framework, and GCP-specific experience.",
+      "links": [
+        "https://www.coherentsolutions.com/careers/qa-automation-engineer-travel-and-transportation-sphere"
+      ],
+      "fit": "7/10",
+      "recommendedCv": "CV 2",
+      "outreach": "Preparing application",
+      "updatedAt": "2026-04-07T13:33:45.994Z"
     },
     {
       "slug": "dataart",
