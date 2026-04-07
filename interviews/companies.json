@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T13:33:45.999Z",
+  "generatedAt": "2026-04-07T15:07:46.024Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -136,22 +136,22 @@
     {
       "slug": "dataart",
       "name": "DataArt",
-      "status": "applying",
-      "stage": "message_prep",
-      "process": "Preparing application for travel/transport microservices QA automation project",
-      "requirements": "Senior/Lead QA Automation; travel/transport domain; microservices; API/E2E/contract/performance testing; Python; SQL; Postman; Datadog; Robot Framework; Playwright; REST; Pub/Sub; Kafka; Kubernetes; GCP; CI/CD; mentoring; Agile",
-      "notes": "Preparing to apply. Strong fit on API, microservices, Playwright, CI/CD, documentation, mentoring potential. Weaker on Python depth, Robot Framework, and GCP-specific experience.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied for Test Automation Engineer role",
+      "requirements": "Test Automation Engineer; 3+ years; two programming languages; two automation tools; API and UI automation; Git/Bitbucket; REST; reusable test frameworks; QAA process from scratch; Agile",
+      "notes": "Applied via JustJoinIt for DataArt Test Automation Engineer role. Strong fit on Playwright, UI/API automation, CI/CD, reusable frameworks, and DevOps-aligned QA background.",
       "links": [
-        "https://justjoin.it"
+        "https://justjoin.it/job-offer/dataart-test-automation-engineer-it-services-krakow-testing"
       ],
-      "updatedAt": "2026-04-07T13:31:23.412Z",
+      "updatedAt": "2026-04-07T15:07:46.018Z",
       "role": "AQA Engineer",
       "salary": "14-17.5k PLN net",
       "stack": "TypeScript, Playwright, AI, CI/CD",
-      "fit": "7/10",
+      "fit": "8/10",
       "cv": "qa-devops-cv.pdf",
       "recommendedCv": "CV 2",
-      "outreach": "Preparing application"
+      "outreach": "Applied via JustJoinIt"
     },
     {
       "slug": "effectivesoft",

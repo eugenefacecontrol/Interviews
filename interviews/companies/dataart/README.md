@@ -1,19 +1,19 @@
 # DataArt
 
-- Status: applying
-- Stage: message_prep
-- Fit: 7/10
+- Status: applied
+- Stage: application_sent
+- Fit: 8/10
 - Recommended CV: CV 2
-- Outreach: Preparing application
+- Outreach: Applied via JustJoinIt
 
 ## Process
-Preparing application for travel/transport microservices QA automation project
+Applied for Test Automation Engineer role
 
 ## Requirements
-Senior/Lead QA Automation; travel/transport domain; microservices; API/E2E/contract/performance testing; Python; SQL; Postman; Datadog; Robot Framework; Playwright; REST; Pub/Sub; Kafka; Kubernetes; GCP; CI/CD; mentoring; Agile
+Test Automation Engineer; 3+ years; two programming languages; two automation tools; API and UI automation; Git/Bitbucket; REST; reusable test frameworks; QAA process from scratch; Agile
 
 ## Notes
-Preparing to apply. Strong fit on API, microservices, Playwright, CI/CD, documentation, mentoring potential. Weaker on Python depth, Robot Framework, and GCP-specific experience.
+Applied via JustJoinIt for DataArt Test Automation Engineer role. Strong fit on Playwright, UI/API automation, CI/CD, reusable frameworks, and DevOps-aligned QA background.
 
 ## Links
-- https://justjoin.it
+- https://justjoin.it/job-offer/dataart-test-automation-engineer-it-services-krakow-testing
