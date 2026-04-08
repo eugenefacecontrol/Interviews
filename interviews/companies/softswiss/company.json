@@ -1,16 +1,17 @@
 {
   "slug": "softswiss",
   "name": "SOFTSWISS",
-  "status": "applying",
-  "stage": "message_prep",
-  "process": "Preparing application for Senior AQA Engineer in Game Aggregator team",
-  "requirements": "Senior AQA Engineer; UI and API automation; strong Java; JUnit5/TestNG; Selenium/Selenide; SQL; Docker/Docker Compose; GitLab CI/CD or TeamCity or Jenkins; ELK; Allure TestOps; mentoring; manual testing when needed",
-  "notes": "Preparing to apply. Strong fit on API/UI automation, CI/CD, SQL, Docker, regression stability, and QA process ownership. Main gaps: strong Java requirement and Selenium/Selenide-centered stack.",
+  "status": "applied",
+  "stage": "referred",
+  "process": "Referred/applied via internal contact for Senior QA Automation Engineer opportunities",
+  "requirements": "Senior QA Automation / AQA Engineer; Java-heavy automation roles with framework ownership, UI/API automation, CI/CD, SQL, Docker, Selenium/Selenide or adjacent stack",
+  "notes": "User was submitted by friend / internal contact: https://www.linkedin.com/in/rusovich/. Relevant roles: https://careers.softswiss.com/vacancies/qa-automation-engineer-senior/ and https://careers.softswiss.com/vacancies/aqa-engineer-senior-boost-team/. Overall fit depends on how Java-heavy the конкретная команда is.",
   "links": [
-    "https://www.softswiss.com/"
+    "https://careers.softswiss.com/vacancies/qa-automation-engineer-senior/",
+    "https://careers.softswiss.com/vacancies/aqa-engineer-senior-boost-team/"
   ],
-  "fit": "6/10",
+  "fit": "5/10",
   "recommendedCv": "CV 2",
-  "outreach": "Preparing application",
-  "updatedAt": "2026-04-08T09:36:26.601Z"
+  "outreach": "Submitted by Rusovich (LinkedIn internal contact)",
+  "updatedAt": "2026-04-08T09:59:31.437Z"
 }
