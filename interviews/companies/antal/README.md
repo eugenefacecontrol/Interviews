@@ -1,19 +1,19 @@
 # Antal
 
-- Status: target
-- Stage: cv_to_send
+- Status: applied
+- Stage: application_sent
 - Fit: 6/10
 - Recommended CV: CV 2
-- Outreach: —
+- Outreach: Applied via JustJoinIt
 
 ## Process
-Initial outreach / CV submission planned
+Applied for Senior Test Automation Engineer role
 
 ## Requirements
 Role: Senior Automation Engineer; Stack: Java/Python/TypeScript, IAM; Salary: 30-33k PLN net
 
 ## Notes
-Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf
+Applied for Antal role via updated JustJoinIt link.
 
 ## Links
 - https://justjoin.it/job-offer/antal-sp-z-o-o--senior-test-automation-engineer-warszawa-testing

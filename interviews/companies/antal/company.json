@@ -1,16 +1,16 @@
 {
   "slug": "antal",
   "name": "Antal",
-  "status": "target",
-  "stage": "cv_to_send",
-  "process": "Initial outreach / CV submission planned",
+  "status": "applied",
+  "stage": "application_sent",
+  "process": "Applied for Senior Test Automation Engineer role",
   "requirements": "Role: Senior Automation Engineer; Stack: Java/Python/TypeScript, IAM; Salary: 30-33k PLN net",
-  "notes": "Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf",
+  "notes": "Applied for Antal role via updated JustJoinIt link.",
   "links": [
     "https://justjoin.it/job-offer/antal-sp-z-o-o--senior-test-automation-engineer-warszawa-testing"
   ],
   "fit": "6/10",
   "recommendedCv": "CV 2",
-  "outreach": "",
-  "updatedAt": "2026-04-03T21:51:18.092Z"
+  "outreach": "Applied via JustJoinIt",
+  "updatedAt": "2026-04-08T10:35:05.105Z"
 }
