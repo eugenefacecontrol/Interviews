@@ -22,5 +22,6 @@ This is the canonical human-readable list of interview companies.
 | Mitrix Technology | rejected | rejected | low | CV 2 |  | 2026-04-02T13:53:34.666Z |
 | Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  | 2026-04-03T09:08:47.467Z |
 | People More | target | cv_to_send | 3/10 |  |  | 2026-04-02T22:38:53.974758+00:00 |
+| SOFTSWISS | applying | message_prep | 6/10 | CV 2 | Preparing application | 2026-04-08T09:36:26.601Z |
 | Strategicsiq | target | cv_to_send | 5/10 |  |  | 2026-04-02T22:38:53.974740+00:00 |
 | Svitla Systems | rejected | screening | medium | CV 2 |  | 2026-04-02T13:53:34.725Z |

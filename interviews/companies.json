@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T15:07:46.024Z",
+  "generatedAt": "2026-04-08T09:36:26.607Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -319,6 +319,22 @@
       "stack": "Manual API testing",
       "fit": "3/10",
       "cv": "qa-devops-cv.pdf"
+    },
+    {
+      "slug": "softswiss",
+      "name": "SOFTSWISS",
+      "status": "applying",
+      "stage": "message_prep",
+      "process": "Preparing application for Senior AQA Engineer in Game Aggregator team",
+      "requirements": "Senior AQA Engineer; UI and API automation; strong Java; JUnit5/TestNG; Selenium/Selenide; SQL; Docker/Docker Compose; GitLab CI/CD or TeamCity or Jenkins; ELK; Allure TestOps; mentoring; manual testing when needed",
+      "notes": "Preparing to apply. Strong fit on API/UI automation, CI/CD, SQL, Docker, regression stability, and QA process ownership. Main gaps: strong Java requirement and Selenium/Selenide-centered stack.",
+      "links": [
+        "https://www.softswiss.com/"
+      ],
+      "fit": "6/10",
+      "recommendedCv": "CV 2",
+      "outreach": "Preparing application",
+      "updatedAt": "2026-04-08T09:36:26.601Z"
     },
     {
       "slug": "strategicsiq",
