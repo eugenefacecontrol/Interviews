@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T09:59:31.443Z",
+  "generatedAt": "2026-04-08T10:29:36.354Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -259,20 +259,22 @@
     {
       "slug": "miquido",
       "name": "Miquido",
-      "status": "target",
-      "stage": "cv_to_send",
-      "process": "Initial outreach / CV submission planned",
-      "requirements": "Role: Test Automation Engineer; Stack: Docker, REST, JS/Java; Salary: 11.7-18.8k PLN net",
-      "notes": "Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied for QA/Test Automation role",
+      "requirements": "Test Automation Engineer; Docker; REST; JS/Java; performance/load testing exposure helpful",
+      "notes": "Applied. Performance/load testing answer positioned honestly: no direct commercial ownership of JMeter/Locust, but strong adjacent experience in CI/CD optimization, API testing, runtime improvements, and observability.",
       "links": [
         "https://careers.miquido.com"
       ],
-      "updatedAt": "2026-04-02T22:38:53.974747+00:00",
+      "updatedAt": "2026-04-08T10:29:36.348Z",
       "role": "Test Automation Engineer",
       "salary": "11.7-18.8k PLN net",
       "stack": "Docker, REST, JS/Java",
       "fit": "7/10",
-      "cv": "qa-devops-cv.pdf"
+      "cv": "qa-devops-cv.pdf",
+      "recommendedCv": "CV 2",
+      "outreach": "Applied via company site"
     },
     {
       "slug": "mitrix-technology",

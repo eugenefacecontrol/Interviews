@@ -1,20 +1,19 @@
 # Miquido
 
-- Role: Test Automation Engineer
-- Status: target
-- Stage: cv_to_send
-- Salary: 11.7-18.8k PLN net
+- Status: applied
+- Stage: application_sent
 - Fit: 7/10
-- CV: qa-devops-cv.pdf
+- Recommended CV: CV 2
+- Outreach: Applied via company site
 
 ## Process
-Initial outreach / CV submission planned
+Applied for QA/Test Automation role
 
 ## Requirements
-Role: Test Automation Engineer; Stack: Docker, REST, JS/Java; Salary: 11.7-18.8k PLN net
+Test Automation Engineer; Docker; REST; JS/Java; performance/load testing exposure helpful
 
 ## Notes
-Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf
+Applied. Performance/load testing answer positioned honestly: no direct commercial ownership of JMeter/Locust, but strong adjacent experience in CI/CD optimization, API testing, runtime improvements, and observability.
 
 ## Links
 - https://careers.miquido.com
