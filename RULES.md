@@ -24,11 +24,11 @@ This area is dedicated to interview tracking and preparation. Work here stays se
 9. Always work on interview-related data separately from other domains.
 
 ## Expected structure
-- `interviews/companies.json` — canonical machine-readable registry
-- `interviews/companies.md` — human-readable summary
-- `interviews/cv.json` — canonical CV registry with available resume versions
-- `interviews/companies/<slug>/` — per-company folder
-- `interviews/site/` — generated HTML output
+- `companies.json` — canonical machine-readable registry
+- `companies.md` — human-readable summary
+- `cv.json` — canonical CV registry with available resume versions
+- `companies/<slug>/` — per-company folder
+- `site/` — generated HTML output
 
 ## Update policy
 When the user asks to change the rules, update this file directly and keep the rest of the structure aligned with it.

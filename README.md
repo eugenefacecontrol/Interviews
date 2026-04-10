@@ -3,7 +3,7 @@
 Interview workspace.
 
 ## Report
-- Published report: https://eugenefacecontrol.github.io/Interviews/interviews/site/
+- Published report: https://eugenefacecontrol.github.io/Interviews/site/
 
 ## Files
 - `RULES.md` — operating rules for this area
