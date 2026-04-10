@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2026-04-02T13:50:00Z",
+  "cv": [
+    {
+      "id": "cv-1",
+      "name": "CV 1",
+      "link": "https://docs.google.com/document/d/1BtZrrgHDID8W4rxod1OtQgviSC4b0Ghkn5dRzJW1ceI/edit?usp=sharing",
+      "notes": "User-provided CV version"
+    },
+    {
+      "id": "cv-2",
+      "name": "CV 2",
+      "link": "https://docs.google.com/document/d/1yW8blq957owXi-M-3WF-PGzqAY3YOPKSGMAcuIecOKU/edit?usp=sharing",
+      "notes": "User-provided CV version"
+    }
+  ]
+}
