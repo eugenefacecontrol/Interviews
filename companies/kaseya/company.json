@@ -1,16 +1,16 @@
 {
   "slug": "kaseya",
   "name": "Kaseya",
-  "status": "saved",
-  "stage": "considering",
-  "process": "Saved for later application",
+  "status": "interview_invited",
+  "stage": "phone_screen_to_schedule",
+  "process": "Application reviewed positively; invited to schedule next interview (phone call)",
   "requirements": "QA Automation Engineer (Python); Python 3+ years must-have; PyTest 2+ years; Cucumber/Gherkin; CI/CD integration; Linux; Bash scripting; automation frameworks; hybrid 3 days/week in Kraków",
-  "notes": "Saved for later. Fit is limited because the role is strongly Python/PyTest/Cucumber-oriented and requires hybrid attendance in Kraków 3 days/week.",
+  "notes": "Recruiter replied positively and invited to schedule next interview by phone. Mandatory hybrid mode: 3 days office + 2 remote per week in Kraków.",
   "links": [
     "https://www.linkedin.com/jobs/view/4376417311"
   ],
   "fit": "3/10",
   "recommendedCv": "CV 2",
-  "outreach": "Apply later",
-  "updatedAt": "2026-04-04T20:58:16.039Z"
+  "outreach": "Recruiter replied; scheduling phone screen",
+  "updatedAt": "2026-04-10T12:06:10.353Z"
 }

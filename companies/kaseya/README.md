@@ -1,19 +1,19 @@
 # Kaseya
 
-- Status: saved
-- Stage: considering
+- Status: interview_invited
+- Stage: phone_screen_to_schedule
 - Fit: 3/10
 - Recommended CV: CV 2
-- Outreach: Apply later
+- Outreach: Recruiter replied; scheduling phone screen
 
 ## Process
-Saved for later application
+Application reviewed positively; invited to schedule next interview (phone call)
 
 ## Requirements
 QA Automation Engineer (Python); Python 3+ years must-have; PyTest 2+ years; Cucumber/Gherkin; CI/CD integration; Linux; Bash scripting; automation frameworks; hybrid 3 days/week in Kraków
 
 ## Notes
-Saved for later. Fit is limited because the role is strongly Python/PyTest/Cucumber-oriented and requires hybrid attendance in Kraków 3 days/week.
+Recruiter replied positively and invited to schedule next interview by phone. Mandatory hybrid mode: 3 days office + 2 remote per week in Kraków.
 
 ## Links
 - https://www.linkedin.com/jobs/view/4376417311

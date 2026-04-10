@@ -134,15 +134,15 @@ function main() {
   const shouldPush = !args['no-push'];
 
   if (shouldGit) {
-    execSync(`node ${JSON.stringify(renderScriptPath)}`, { stdio: 'inherit', cwd: workspaceRoot });
-    execSync('git add interviews', { stdio: 'inherit', cwd: workspaceRoot });
-    execSync(`git commit -m ${JSON.stringify(`Add or update ${entry.name} interview record`)}`, { stdio: 'inherit', cwd: workspaceRoot });
+    execSync(`node ${JSON.stringify(renderScriptPath)}`, { stdio: 'inherit', cwd: root });
+    execSync('git add .', { stdio: 'inherit', cwd: root });
+    execSync(`git commit -m ${JSON.stringify(`Add or update ${entry.name} interview record`)}`, { stdio: 'inherit', cwd: root });
 
     if (shouldPush) {
       const sshCmd = `ssh -i ${JSON.stringify(sshKeyPath)} -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new`;
       execSync('git push', {
         stdio: 'inherit',
-        cwd: workspaceRoot,
+        cwd: root,
         env: { ...process.env, GIT_SSH_COMMAND: sshCmd }
       });
     }
