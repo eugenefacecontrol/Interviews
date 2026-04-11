@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T16:49:31.458Z",
+  "generatedAt": "2026-04-11T17:14:08.456Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -239,6 +239,22 @@
       "stack": "Playwright, AI, C#/.NET",
       "fit": "7/10",
       "cv": "qa-devops-cv.pdf"
+    },
+    {
+      "slug": "jacobs",
+      "name": "Jacobs",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied for Senior QA Engineer role in Digital Twin platform context",
+      "requirements": "Senior QA Engineer; Playwright; TypeScript; React E2E; Azure; Azure DevOps; API testing; 3D/digital twin environment; real-time systems; performance testing with k6; Azure SQL; GitHub; Jira/Azure DevOps",
+      "notes": "Applied. Strong fit on Playwright, CI/CD, API/integration testing, Azure-adjacent tooling, and infra-aware debugging. Weaker areas: performance testing depth and 3D/streaming-specific testing.",
+      "links": [
+        "https://jacobs.taleo.net/"
+      ],
+      "fit": "8/10",
+      "recommendedCv": "CV 2",
+      "outreach": "Applied via company site",
+      "updatedAt": "2026-04-11T17:14:08.450Z"
     },
     {
       "slug": "kaseya",
