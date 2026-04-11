@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T12:06:10.359Z",
+  "generatedAt": "2026-04-11T16:49:31.458Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -338,6 +338,22 @@
       "recommendedCv": "CV 2",
       "outreach": "Submitted by Rusovich (LinkedIn internal contact)",
       "updatedAt": "2026-04-08T09:59:31.437Z"
+    },
+    {
+      "slug": "specific-group",
+      "name": "Specific-Group",
+      "status": "target",
+      "stage": "recruiter_outreach",
+      "process": "Recruiter reached out about Senior Test Automation Engineer role for Austrian bank client",
+      "requirements": "Senior Test Automation Engineer; fintech/banking domain; Playwright or Selenium; Postman/RestAssured; Gatling or k6; CI/CD integration; Agile; English; German plus; B2B; remote available",
+      "notes": "Outreach from Anastasia Markitan: https://www.linkedin.com/in/anastasia-markitan-8a6a109a/. Role looks like a strong fit on Playwright, Selenium, API testing, CI/CD, and banking/enterprise QA context. Fully remote available, Kraków office optional.",
+      "links": [
+        "https://specific-group.com/pl/"
+      ],
+      "fit": "8/10",
+      "recommendedCv": "CV 2",
+      "outreach": "Recruiter outreach from Anastasia Markitan (LinkedIn)",
+      "updatedAt": "2026-04-11T16:49:31.451Z"
     },
     {
       "slug": "strategicsiq",
