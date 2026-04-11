@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T17:20:26.107Z",
+  "generatedAt": "2026-04-11T17:22:10.161Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -28,18 +28,18 @@
       "stage": "rejected",
       "process": "Rejected after intro/interview process",
       "requirements": "Role: QA Engineer; Stack: JS/TS, Playwright/Cypress, API; Salary: 13-20k PLN net",
-      "notes": "Rejected after outreach and intro/interview process with AirHelp. Contacts involved: Giorgi Beburishvili and Tanya Akulich on LinkedIn.",
+      "notes": "Rejected after process. AirHelp moved forward with candidates whose backgrounds more closely match the needs of the position. They said they would be happy to keep the user on their radar for future opportunities / talent pool. Contacts involved: Giorgi Beburishvili and Tanya Akulich on LinkedIn.",
       "links": [
         "https://careers.airhelp.com"
       ],
-      "updatedAt": "2026-04-11T17:20:26.101Z",
+      "updatedAt": "2026-04-11T17:22:10.155Z",
       "role": "QA Engineer",
       "salary": "13-20k PLN net",
       "stack": "JS/TS, Playwright/Cypress, API",
       "fit": "8/10",
       "cv": "qa-devops-cv.pdf",
       "recommendedCv": "CV 2",
-      "outreach": "Rejected after process with Giorgi Beburishvili and Tanya Akulich (LinkedIn)"
+      "outreach": "Rejected after process; talent pool / future opportunities mentioned by AirHelp"
     },
     {
       "slug": "alior-bank",
