@@ -5,7 +5,7 @@ This is the canonical human-readable list of interview companies.
 | Company | Status | Stage | Fit | Recommended CV | Outreach | Last update |
 |---|---|---|---|---|---|---|
 | Ailleron | applied | cv_sent | 7/10 | CV 2 | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
-| AirHelp | interview_scheduled | intro_call | 8/10 | CV 2 | Replied by Giorgi Beburishvili and Tanya Akulich (LinkedIn); call booked for 2026-04-07 13:00-13:30 GMT+02:00 | 2026-04-03T11:41:09.276Z |
+| AirHelp | rejected | rejected | 8/10 | CV 2 | Rejected after process with Giorgi Beburishvili and Tanya Akulich (LinkedIn) | 2026-04-11T17:20:26.101Z |
 | Alior Bank | target | cv_to_send | 5/10 |  |  | 2026-04-02T22:38:53.974750+00:00 |
 | Antal | applied | application_sent | 6/10 | CV 2 | Applied via JustJoinIt | 2026-04-08T10:35:05.105Z |
 | Aristocrat | target | cv_to_send | 5/10 |  |  | 2026-04-02T22:38:53.974766+00:00 |

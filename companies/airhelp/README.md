@@ -1,19 +1,19 @@
 # AirHelp
 
-- Status: interview_scheduled
-- Stage: intro_call
+- Status: rejected
+- Stage: rejected
 - Fit: 8/10
 - Recommended CV: CV 2
-- Outreach: Replied by Giorgi Beburishvili and Tanya Akulich (LinkedIn); call booked for 2026-04-07 13:00-13:30 GMT+02:00
+- Outreach: Rejected after process with Giorgi Beburishvili and Tanya Akulich (LinkedIn)
 
 ## Process
-LinkedIn outreach replied, intro call scheduled
+Rejected after intro/interview process
 
 ## Requirements
 Role: QA Engineer; Stack: JS/TS, Playwright/Cypress, API; Salary: 13-20k PLN net
 
 ## Notes
-Giorgi Beburishvili and Tanya Akulich replied on LinkedIn. Intro call scheduled for Tuesday 2026-04-07 13:00-13:30 GMT+02:00.
+Rejected after outreach and intro/interview process with AirHelp. Contacts involved: Giorgi Beburishvili and Tanya Akulich on LinkedIn.
 
 ## Links
 - https://careers.airhelp.com
