@@ -10,6 +10,7 @@ This is the canonical human-readable list of interview companies.
 | Antal | applied | application_sent | 6/10 | CV 2 | Applied via JustJoinIt | 2026-04-08T10:35:05.105Z |
 | Aristocrat | target | cv_to_send | 5/10 |  |  | 2026-04-02T22:38:53.974766+00:00 |
 | Avenga | applied | outreach_sent | 9/10 | CV 2 | Applied via site; sent to Karolina Zamysłowska (LinkedIn) | 2026-04-03T21:47:49.503Z |
+| Capco | applied | application_sent | 4.65/5 | CV 2 | Applied | 2026-04-12T15:27:10.727Z |
 | Coherent Solutions | applying | message_prep | 7/10 | CV 2 | Preparing application | 2026-04-07T13:33:45.994Z |
 | DataArt | applied | application_sent | 8/10 | CV 2 | Applied via JustJoinIt | 2026-04-07T15:07:46.018Z |
 | EffectiveSoft | rejected | rejected | low | CV 2 |  | 2026-04-02T13:53:34.608Z |

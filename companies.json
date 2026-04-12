@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T15:02:52.154Z",
+  "generatedAt": "2026-04-12T15:27:10.733Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -116,6 +116,22 @@
       "cv": "qa-devops-cv.pdf",
       "recommendedCv": "CV 2",
       "outreach": "Applied via site; sent to Karolina Zamysłowska (LinkedIn)"
+    },
+    {
+      "slug": "capco",
+      "name": "Capco",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied for QA Engineer (Playwright, Python) role",
+      "requirements": "QA Engineer; Playwright; Python; active opening",
+      "notes": "Applied. Internal score/note provided by user: 4.65/5, evaluated, active opening.",
+      "links": [
+        "https://job-boards.greenhouse.io/capco/jobs/7783707"
+      ],
+      "fit": "4.65/5",
+      "recommendedCv": "CV 2",
+      "outreach": "Applied",
+      "updatedAt": "2026-04-12T15:27:10.727Z"
     },
     {
       "slug": "coherent-solutions",
