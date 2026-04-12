@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T14:08:33.515Z",
+  "generatedAt": "2026-04-12T14:20:59.416Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -343,14 +343,16 @@
       "name": "Remote People",
       "status": "applied",
       "stage": "application_sent",
-      "process": "Applied for role via company/recruitment site",
-      "requirements": "TBD",
-      "notes": "Applied. User did not provide full vacancy details yet.",
-      "links": [],
-      "fit": true,
+      "process": "Applied for QA Automation Engineer role on Horizons SaaS platform",
+      "requirements": "QA Automation Engineer; 5+ years QA/Software Development; Playwright must-have; API testing and automation; Jira; Git; manual testing plans; test case management; SaaS/product; agile frequent releases; DevOps awareness; CI/CD",
+      "notes": "Applied. Good fit on Playwright, API automation, SaaS/product QA, agile releases, manual+automation balance, and DevOps-aware QA infrastructure mindset.",
+      "links": [
+        "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4796152101"
+      ],
+      "fit": "8/10",
       "recommendedCv": "CV 2",
-      "outreach": "Applied",
-      "updatedAt": "2026-04-12T14:08:33.509Z"
+      "outreach": "Applied via Greenhouse",
+      "updatedAt": "2026-04-12T14:20:59.410Z"
     },
     {
       "slug": "softswiss",

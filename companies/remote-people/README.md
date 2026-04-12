@@ -2,18 +2,18 @@
 
 - Status: applied
 - Stage: application_sent
-- Fit: true
+- Fit: 8/10
 - Recommended CV: CV 2
-- Outreach: Applied
+- Outreach: Applied via Greenhouse
 
 ## Process
-Applied for role via company/recruitment site
+Applied for QA Automation Engineer role on Horizons SaaS platform
 
 ## Requirements
-TBD
+QA Automation Engineer; 5+ years QA/Software Development; Playwright must-have; API testing and automation; Jira; Git; manual testing plans; test case management; SaaS/product; agile frequent releases; DevOps awareness; CI/CD
 
 ## Notes
-Applied. User did not provide full vacancy details yet.
+Applied. Good fit on Playwright, API automation, SaaS/product QA, agile releases, manual+automation balance, and DevOps-aware QA infrastructure mindset.
 
 ## Links
-
+- https://job-boards.eu.greenhouse.io/remotepeople/jobs/4796152101

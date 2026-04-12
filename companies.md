@@ -23,7 +23,7 @@ This is the canonical human-readable list of interview companies.
 | Mitrix Technology | rejected | rejected | low | CV 2 |  | 2026-04-02T13:53:34.666Z |
 | Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  | 2026-04-03T09:08:47.467Z |
 | People More | target | cv_to_send | 3/10 |  |  | 2026-04-02T22:38:53.974758+00:00 |
-| Remote People | applied | application_sent | true | CV 2 | Applied | 2026-04-12T14:08:33.509Z |
+| Remote People | applied | application_sent | 8/10 | CV 2 | Applied via Greenhouse | 2026-04-12T14:20:59.410Z |
 | SOFTSWISS | applied | referred | 5/10 | CV 2 | Submitted by Rusovich (LinkedIn internal contact) | 2026-04-08T09:59:31.437Z |
 | Specific-Group | target | recruiter_outreach | 8/10 | CV 2 | Recruiter outreach from Anastasia Markitan (LinkedIn) | 2026-04-11T16:49:31.451Z |
 | Strategicsiq | target | cv_to_send | 5/10 |  |  | 2026-04-02T22:38:53.974740+00:00 |
