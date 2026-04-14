@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T13:59:03.365Z",
+  "generatedAt": "2026-04-14T07:16:40.950Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -120,18 +120,18 @@
     {
       "slug": "capco",
       "name": "Capco",
-      "status": "applied",
-      "stage": "application_sent",
-      "process": "Applied for QA Engineer (Playwright, Python) role",
+      "status": "rejected",
+      "stage": "rejected",
+      "process": "Rejected after application review",
       "requirements": "QA Engineer; Playwright; Python; active opening",
-      "notes": "Applied. Internal score/note provided by user: 4.65/5, evaluated, active opening.",
+      "notes": "Rejected after application review. Capco said they received many qualified applicants and moved forward with another candidate who was a better match for this particular position.",
       "links": [
         "https://job-boards.greenhouse.io/capco/jobs/7783707"
       ],
       "fit": "4.65/5",
       "recommendedCv": "CV 2",
-      "outreach": "Applied",
-      "updatedAt": "2026-04-12T15:27:10.727Z"
+      "outreach": "Rejected after application review",
+      "updatedAt": "2026-04-14T07:16:40.944Z"
     },
     {
       "slug": "coherent-solutions",
