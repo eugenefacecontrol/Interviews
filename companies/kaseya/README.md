@@ -1,19 +1,19 @@
 # Kaseya
 
-- Status: interview_invited
-- Stage: phone_screen_to_schedule
+- Status: rejected
+- Stage: rejected
 - Fit: 3/10
 - Recommended CV: CV 2
-- Outreach: Recruiter replied; scheduling phone screen
+- Outreach: Rejected by Kaseya after prior recruiter response / scheduling stage
 
 ## Process
-Application reviewed positively; invited to schedule next interview (phone call)
+Rejected after application / scheduling stage
 
 ## Requirements
 QA Automation Engineer (Python); Python 3+ years must-have; PyTest 2+ years; Cucumber/Gherkin; CI/CD integration; Linux; Bash scripting; automation frameworks; hybrid 3 days/week in Kraków
 
 ## Notes
-Recruiter replied positively and invited to schedule next interview by phone. Mandatory hybrid mode: 3 days office + 2 remote per week in Kraków.
+Rejected by Kaseya for QA Automation Engineer (Python). Standard rejection note: not proceeding with candidacy for this particular application.
 
 ## Links
 - https://www.linkedin.com/jobs/view/4376417311
