@@ -26,7 +26,7 @@ This is the canonical human-readable list of interview companies.
 | Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  | 2026-04-03T09:08:47.467Z |
 | People More | target | cv_to_send | 3/10 |  |  | 2026-04-02T22:38:53.974758+00:00 |
 | Remote People | applied | application_sent | 8/10 | CV 2 | Applied via Greenhouse | 2026-04-12T14:20:59.410Z |
-| SOFTSWISS | applied | referred | 5/10 | CV 2 | Submitted by Rusovich (LinkedIn internal contact) | 2026-04-08T09:59:31.437Z |
+| SOFTSWISS | closed | position_closed | 5/10 | CV 2 | Position closed after referral by Rusovich | 2026-04-15T17:56:20.371Z |
 | Specific-Group | target | recruiter_outreach | 8/10 | CV 2 | Recruiter outreach from Anastasia Markitan (LinkedIn) | 2026-04-11T16:49:31.451Z |
 | SquareOne | applied | application_sent | 8/10 | CV 2 | Applied via No Fluff Jobs | 2026-04-12T15:02:52.135Z |
 | Strategicsiq | target | cv_to_send | 5/10 |  |  | 2026-04-02T22:38:53.974740+00:00 |
