@@ -20,6 +20,7 @@ This is the canonical human-readable list of interview companies.
 | Inuits | target | cv_to_send | 7/10 |  |  | 2026-04-02T22:38:53.974771+00:00 |
 | Jacobs | applied | application_sent | 8/10 | CV 2 | Applied via company site | 2026-04-11T17:14:08.450Z |
 | Kaseya | rejected | rejected | 3/10 | CV 2 | Rejected by Kaseya after prior recruiter response / scheduling stage | 2026-04-14T08:59:07.401Z |
+| Keepit | applied | application_sent | 7/10 | CV 2 | Applied via company site | 2026-04-15T17:55:29.230Z |
 | Miquido | applied | application_sent | 7/10 | CV 2 | Applied via company site | 2026-04-08T10:29:36.348Z |
 | Mitrix Technology | rejected | rejected | low | CV 2 |  | 2026-04-02T13:53:34.666Z |
 | Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  | 2026-04-03T09:08:47.467Z |

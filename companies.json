@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T08:59:07.406Z",
+  "generatedAt": "2026-04-15T17:55:29.236Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -288,6 +288,22 @@
       "recommendedCv": "CV 2",
       "outreach": "Rejected by Kaseya after prior recruiter response / scheduling stage",
       "updatedAt": "2026-04-14T08:59:07.401Z"
+    },
+    {
+      "slug": "keepit",
+      "name": "Keepit",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied for Middle Automation QA Engineer role",
+      "requirements": "Middle Automation QA Engineer; large-scale data protection product; reliability; complex integrations; likely automation/quality engineering with Java/Selenide-oriented stack",
+      "notes": "Applied. Product mission around protecting critical business data was a strong motivation. Good match on QA automation, API/UI testing, CI/CD, and quality engineering mindset, though likely not a perfect stack match.",
+      "links": [
+        "https://careers.keepit.com/jobs/7266729-middle-automation-qa-engineer"
+      ],
+      "fit": "7/10",
+      "recommendedCv": "CV 2",
+      "outreach": "Applied via company site",
+      "updatedAt": "2026-04-15T17:55:29.230Z"
     },
     {
       "slug": "miquido",
