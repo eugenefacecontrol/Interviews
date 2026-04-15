@@ -31,3 +31,4 @@ This is the canonical human-readable list of interview companies.
 | SquareOne | applied | application_sent | 8/10 | CV 2 | Applied via No Fluff Jobs | 2026-04-12T15:02:52.135Z |
 | Strategicsiq | target | cv_to_send | 5/10 |  |  | 2026-04-02T22:38:53.974740+00:00 |
 | Svitla Systems | rejected | screening | medium | CV 2 |  | 2026-04-02T13:53:34.725Z |
+| Ubiquiti | rejected | rejected | 6.5/10 | CV 2 | Rejected after application review | 2026-04-15T17:57:24.204Z |
