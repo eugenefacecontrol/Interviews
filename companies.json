@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:48.777Z",
+  "generatedAt": "2026-04-16T10:25:48.837Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -834,6 +834,22 @@
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
       "updatedAt": "2026-04-16T10:25:48.587Z"
+    },
+    {
+      "slug": "xebia",
+      "name": "Xebia",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "👉 QA Automation - Kraków; Stack: Java, Selenium, REST, API, CI/CD, Jenkins",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: 👉 QA Automation - Kraków.",
+      "links": [
+        "https://justjoin.it/job-offer/xebia--qa-automation---krakow-krakow-testing"
+      ],
+      "fit": "68/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:48.831Z"
     }
   ]
 }
