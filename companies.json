@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T08:38:34.380Z",
+  "generatedAt": "2026-04-16T10:25:47.565Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -130,6 +130,22 @@
       "cv": "qa-devops-cv.pdf",
       "recommendedCv": "CV 2",
       "outreach": "Applied via site; sent to Karolina Zamysłowska (LinkedIn)"
+    },
+    {
+      "slug": "b2bnetwork",
+      "name": "B2Bnetwork",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "Test Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, CI/CD",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Test Automation Engineer.",
+      "links": [
+        "https://justjoin.it/job-offer/b2bnetwork-test-automation-engineer-warszawa-testing-38476f93"
+      ],
+      "fit": "100/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:47.559Z"
     },
     {
       "slug": "capco",
