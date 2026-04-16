@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:47.681Z",
+  "generatedAt": "2026-04-16T10:25:47.740Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -318,6 +318,22 @@
       "stack": "Playwright, AI, C#/.NET",
       "fit": "7/10",
       "cv": "qa-devops-cv.pdf"
+    },
+    {
+      "slug": "itds",
+      "name": "ITDS",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "Senior Test Automation; Stack: Playwright, Java, REST, API, CI/CD, Jenkins",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Senior Test Automation.",
+      "links": [
+        "https://justjoin.it/job-offer/itds-senior-test-automation-krakow-testing-a48927cf"
+      ],
+      "fit": "100/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:47.735Z"
     },
     {
       "slug": "jacobs",

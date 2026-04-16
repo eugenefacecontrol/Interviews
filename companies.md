@@ -22,6 +22,7 @@ This is the canonical human-readable list of interview companies.
 | Euroclear | target | cv_to_send | 4/10 |  |  | 2026-04-02T22:38:53.974755+00:00 |
 | Grape Up | rejected | application_review | 9/10 | CV 2 | Rejected after applying to talent pool opening | 2026-04-13T14:00:13.289707+00:00 |
 | Inuits | target | cv_to_send | 7/10 |  |  | 2026-04-02T22:38:53.974771+00:00 |
+| ITDS | target | cv_to_send | 100/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:47.735Z |
 | Jacobs | rejected | rejected | 8/10 | CV 2 | Rejected after application review | 2026-04-16T08:38:34.374Z |
 | Kaseya | rejected | rejected | 3/10 | CV 2 | Rejected by Kaseya after prior recruiter response / scheduling stage | 2026-04-14T08:59:07.401Z |
 | Keepit | applied | application_sent | 7/10 | CV 2 | Applied via company site | 2026-04-15T17:55:29.230Z |
