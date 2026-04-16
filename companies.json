@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:48.469Z",
+  "generatedAt": "2026-04-16T10:25:48.530Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -558,6 +558,22 @@
       "fit": "8/10",
       "recommendedCv": "CV 2",
       "updatedAt": "2026-04-03T09:08:47.467Z"
+    },
+    {
+      "slug": "onwelo-sp-z-o-o",
+      "name": "Onwelo Sp. z o.o.",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "Test Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, TypeScript",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Test Automation Engineer.",
+      "links": [
+        "https://justjoin.it/job-offer/onwelo-sp-z-o-o--test-automation-engineer-warszawa-testing-59b052e4"
+      ],
+      "fit": "81/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:48.524Z"
     },
     {
       "slug": "people-more",
