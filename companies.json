@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:47.740Z",
+  "generatedAt": "2026-04-16T10:25:47.801Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -382,6 +382,22 @@
       "recommendedCv": "CV 2",
       "outreach": "Applied via company site",
       "updatedAt": "2026-04-15T17:55:29.230Z"
+    },
+    {
+      "slug": "link-group",
+      "name": "Link Group",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "Senior QA Java; Stack: Java, REST, API, CI/CD, Docker",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Java.",
+      "links": [
+        "https://justjoin.it/job-offer/link-group-senior-qa-java-warszawa-testing"
+      ],
+      "fit": "100/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:47.795Z"
     },
     {
       "slug": "miquido",
