@@ -1,19 +1,19 @@
 # DCV Technologies
 
-- Status: target
-- Stage: cv_to_send
+- Status: applied
+- Stage: application_sent
 - Fit: 100/100
 - Recommended CV: CV 2
-- Outreach: Shortlisted from CSV
+- Outreach: Applied via JustJoinIt
 
 ## Process
-Imported from JustJoinIt shortlist
+Applied for Automation Tester (Java or Python) role
 
 ## Requirements
-Automation QA Engineer (AQA – Java) Hybrid (Krakow) PL; Stack: Java, Selenium, CI/CD
+Automation Tester; Java or Python; Selenium; REST; CI/CD; Performance
 
 ## Notes
-Imported from ranked shortlist CSV. Vacancy: Automation QA Engineer (AQA – Java) Hybrid (Krakow) PL.
+Applied for DCV Technologies Automation Tester (Java or Python) role from JustJoinIt shortlist.
 
 ## Links
-- https://justjoin.it/job-offer/dcv-technologies-automation-qa-engineer-aqa---java-hybrid-krakow-pl-krakow-testing
+- https://justjoin.it/job-offer/dcv-technologies-automation-tester-java-or-python--krakow-testing

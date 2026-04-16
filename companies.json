@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:49.201Z",
+  "generatedAt": "2026-04-16T15:21:42.910Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -282,18 +282,18 @@
     {
       "slug": "dcv-technologies",
       "name": "DCV Technologies",
-      "status": "target",
-      "stage": "cv_to_send",
-      "process": "Imported from JustJoinIt shortlist",
-      "requirements": "Automation QA Engineer (AQA – Java) Hybrid (Krakow) PL; Stack: Java, Selenium, CI/CD",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Automation QA Engineer (AQA – Java) Hybrid (Krakow) PL.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied for Automation Tester (Java or Python) role",
+      "requirements": "Automation Tester; Java or Python; Selenium; REST; CI/CD; Performance",
+      "notes": "Applied for DCV Technologies Automation Tester (Java or Python) role from JustJoinIt shortlist.",
       "links": [
-        "https://justjoin.it/job-offer/dcv-technologies-automation-qa-engineer-aqa---java-hybrid-krakow-pl-krakow-testing"
+        "https://justjoin.it/job-offer/dcv-technologies-automation-tester-java-or-python--krakow-testing"
       ],
       "fit": "100/100",
       "recommendedCv": "CV 2",
-      "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:47.676Z"
+      "outreach": "Applied via JustJoinIt",
+      "updatedAt": "2026-04-16T15:21:42.904Z"
     },
     {
       "slug": "edge-one-solutions-sp-z-o-o",
