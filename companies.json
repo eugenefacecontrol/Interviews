@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:47.921Z",
+  "generatedAt": "2026-04-16T10:25:47.979Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -561,6 +561,22 @@
       "recommendedCv": "CV 2",
       "outreach": "Applied via No Fluff Jobs",
       "updatedAt": "2026-04-12T15:02:52.135Z"
+    },
+    {
+      "slug": "stonex-poland",
+      "name": "StoneX Poland",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "QA Automation Lead; Stack: Playwright, Java, Selenium, API, CI/CD, Python",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Lead.",
+      "links": [
+        "https://justjoin.it/job-offer/stonex-poland-qa-automation-lead-krakow-testing"
+      ],
+      "fit": "100/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:47.973Z"
     },
     {
       "slug": "strategicsiq",
