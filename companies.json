@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:49.020Z",
+  "generatedAt": "2026-04-16T10:25:49.080Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -226,6 +226,22 @@
       "recommendedCv": "CV 2",
       "outreach": "Rejected after application review",
       "updatedAt": "2026-04-14T07:16:40.944Z"
+    },
+    {
+      "slug": "clearcourse-dev",
+      "name": "ClearCourse Dev",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "QA Automation Engineer; Stack: Playwright, REST, API, CI/CD, Docker, TypeScript",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer.",
+      "links": [
+        "https://justjoin.it/job-offer/clearcourse-dev-qa-automation-engineer-krakow-testing-f0d4f3ae"
+      ],
+      "fit": "46/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:49.074Z"
     },
     {
       "slug": "coherent-solutions",
