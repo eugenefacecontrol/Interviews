@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:48.593Z",
+  "generatedAt": "2026-04-16T10:25:48.656Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -558,6 +558,22 @@
       "fit": "8/10",
       "recommendedCv": "CV 2",
       "updatedAt": "2026-04-03T09:08:47.467Z"
+    },
+    {
+      "slug": "n-ix",
+      "name": "N-iX",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "Middle AQA (C#) Engineer; Stack: Selenium, REST, API, Performance",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Middle AQA (C#) Engineer.",
+      "links": [
+        "https://justjoin.it/job-offer/n-ix-middle-aqa-c-engineer-krakow-testing-019c2410"
+      ],
+      "fit": "76/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:48.650Z"
     },
     {
       "slug": "onwelo-sp-z-o-o",
