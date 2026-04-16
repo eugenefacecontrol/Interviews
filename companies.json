@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:48.214Z",
+  "generatedAt": "2026-04-16T10:25:48.278Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -311,6 +311,22 @@
       "stack": "Test strategy, Jira",
       "fit": "4/10",
       "cv": "qa-devops-cv.pdf"
+    },
+    {
+      "slug": "experis-manpower-group",
+      "name": "Experis Manpower Group",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "Software Development Engineer in Test; Stack: REST, API, CI/CD, Docker, Python, Performance",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Software Development Engineer in Test.",
+      "links": [
+        "https://justjoin.it/job-offer/experis-manpower-group-software-development-engineer-in-test-krakow-testing"
+      ],
+      "fit": "88/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:48.272Z"
     },
     {
       "slug": "grape-up",
