@@ -60,3 +60,4 @@ This is the canonical human-readable list of interview companies.
 | Ubiquiti | rejected | rejected | 6.5/10 | CV 2 | Rejected after application review | 2026-04-15T17:57:24.204Z |
 | Upvanta sp. z o.o. | target | cv_to_send | 78/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:48.587Z |
 | Xebia | target | cv_to_send | 68/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:48.831Z |
+| YourITeams | target | cv_to_send | 0/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:49.195Z |
