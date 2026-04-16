@@ -36,6 +36,7 @@ This is the canonical human-readable list of interview companies.
 | Pwrteams | target | cv_to_send | 100/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:47.853Z |
 | Remote People | applied | application_sent | 8/10 | CV 2 | Applied via Greenhouse | 2026-04-12T14:20:59.410Z |
 | SCALO | target | cv_to_send | 100/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:47.915Z |
+| Sii | target | cv_to_send | 91/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:48.150Z |
 | SOFTSWISS | closed | position_closed | 5/10 | CV 2 | Position closed after referral by Rusovich | 2026-04-15T17:56:20.371Z |
 | Specific-Group | target | recruiter_outreach | 8/10 | CV 2 | Recruiter outreach from Anastasia Markitan (LinkedIn) | 2026-04-11T16:49:31.451Z |
 | SquareOne | applied | application_sent | 8/10 | CV 2 | Applied via No Fluff Jobs | 2026-04-12T15:02:52.135Z |
