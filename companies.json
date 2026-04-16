@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:48.899Z",
+  "generatedAt": "2026-04-16T10:25:48.960Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -396,6 +396,22 @@
       "recommendedCv": "CV 2",
       "outreach": "Rejected after applying to talent pool opening",
       "rejectionReason": "Rejected after application review; moved forward with candidates who match current requirements more closely."
+    },
+    {
+      "slug": "green-hive-technology",
+      "name": "Green Hive Technology",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "QA Automation Engineer (she/he/they); Stack: Java, REST, API, CI/CD, Docker",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (she/he/they).",
+      "links": [
+        "https://justjoin.it/job-offer/green-hive-technology-qa-automation-engineer-she-he-they--poznan-testing-c36220f1"
+      ],
+      "fit": "51/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:48.954Z"
     },
     {
       "slug": "infogain",
