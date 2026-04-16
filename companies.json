@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:48.156Z",
+  "generatedAt": "2026-04-16T10:25:48.214Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -110,6 +110,22 @@
       "stack": "C#, API, BDD",
       "fit": "5/10",
       "cv": "qa-devops-cv.pdf"
+    },
+    {
+      "slug": "asseco-poland-s-a",
+      "name": "Asseco Poland S.A.",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "Tester Automatyzujący (m/k/os.); Stack: Playwright, Java, Selenium, REST, API, CI/CD",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Tester Automatyzujący (m/k/os.).",
+      "links": [
+        "https://justjoin.it/job-offer/asseco-poland-s-a--tester-automatyzujacy-m-k-os--krakow-testing"
+      ],
+      "fit": "89/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:48.208Z"
     },
     {
       "slug": "avenga",
