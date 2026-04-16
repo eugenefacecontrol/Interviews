@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:48.716Z",
+  "generatedAt": "2026-04-16T10:25:48.777Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -396,6 +396,22 @@
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
       "updatedAt": "2026-04-16T10:25:48.335Z"
+    },
+    {
+      "slug": "intellias",
+      "name": "Intellias",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "Lead Software Developer in Test; Stack: Playwright, Java, API, CI/CD, TypeScript",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Lead Software Developer in Test.",
+      "links": [
+        "https://justjoin.it/job-offer/intellias-lead-software-developer-in-test-poland-remote--testing"
+      ],
+      "fit": "69/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:48.771Z"
     },
     {
       "slug": "inuits",
