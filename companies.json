@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:47.979Z",
+  "generatedAt": "2026-04-16T10:25:48.039Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -334,6 +334,22 @@
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
       "updatedAt": "2026-04-16T10:25:47.735Z"
+    },
+    {
+      "slug": "iteamly",
+      "name": "iTeamly",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "Senior QA Engineer (Robot Framework); Stack: Playwright, API, CI/CD, Python, Performance",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Engineer (Robot Framework).",
+      "links": [
+        "https://justjoin.it/job-offer/iteamly-senior-qa-engineer-robot-framework--krakow-testing"
+      ],
+      "fit": "98/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:48.033Z"
     },
     {
       "slug": "jacobs",
