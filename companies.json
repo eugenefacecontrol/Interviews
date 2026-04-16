@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:48.656Z",
+  "generatedAt": "2026-04-16T10:25:48.716Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -721,6 +721,22 @@
       "recommendedCv": "CV 2",
       "outreach": "Applied via No Fluff Jobs",
       "updatedAt": "2026-04-12T15:02:52.135Z"
+    },
+    {
+      "slug": "state-street",
+      "name": "State Street",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "Senior QA Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, CI/CD",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.",
+      "links": [
+        "https://justjoin.it/job-offer/state-street-senior-qa-automation-engineer-krakow-testing-940ba980"
+      ],
+      "fit": "72/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:48.710Z"
     },
     {
       "slug": "stonex-poland",

@@ -47,6 +47,7 @@ This is the canonical human-readable list of interview companies.
 | SOFTSWISS | closed | position_closed | 5/10 | CV 2 | Position closed after referral by Rusovich | 2026-04-15T17:56:20.371Z |
 | Specific-Group | target | recruiter_outreach | 8/10 | CV 2 | Recruiter outreach from Anastasia Markitan (LinkedIn) | 2026-04-11T16:49:31.451Z |
 | SquareOne | applied | application_sent | 8/10 | CV 2 | Applied via No Fluff Jobs | 2026-04-12T15:02:52.135Z |
+| State Street | target | cv_to_send | 72/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:48.710Z |
 | StoneX Poland | target | cv_to_send | 100/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:47.973Z |
 | Strategicsiq | target | cv_to_send | 5/10 |  |  | 2026-04-02T22:38:53.974740+00:00 |
 | Svitla Systems | rejected | screening | medium | CV 2 |  | 2026-04-02T13:53:34.725Z |
