@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:25:48.405Z",
+  "generatedAt": "2026-04-16T10:25:48.469Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -291,6 +291,22 @@
       "fit": "low",
       "recommendedCv": "CV 2",
       "updatedAt": "2026-04-02T13:53:34.608Z"
+    },
+    {
+      "slug": "epam-systems",
+      "name": "EPAM Systems",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "Senior QA Automation & Performance Test Engineer; Stack: Java, Selenium, CI/CD, Performance",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Automation & Performance Test Engineer.",
+      "links": [
+        "https://justjoin.it/job-offer/epam-systems-senior-qa-automation-performance-test-engineer-krakow-testing-33bd3619"
+      ],
+      "fit": "82/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:48.463Z"
     },
     {
       "slug": "eset",
