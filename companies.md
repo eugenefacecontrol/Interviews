@@ -44,6 +44,7 @@ This is the canonical human-readable list of interview companies.
 | Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  | 2026-04-03T09:08:47.467Z |
 | N-iX | target | cv_to_send | 76/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:48.650Z |
 | Onwelo Sp. z o.o. | target | cv_to_send | 81/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:48.524Z |
+| Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
 | People More | target | cv_to_send | 3/10 |  |  | 2026-04-02T22:38:53.974758+00:00 |
 | Pwrteams | target | cv_to_send | 100/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:47.853Z |
 | Remodevs | target | cv_to_send | 51/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:49.014Z |
