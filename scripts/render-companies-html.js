@@ -20,6 +20,7 @@ const rows = data.companies.length
         <td data-column="stack">${escapeHtml(c.stack || '')}</td>
         <td data-column="fit">${escapeHtml(c.fit || '')}</td>
         <td data-column="cv">${escapeHtml(c.recommendedCv || c.cv || '')}</td>
+        <td data-column="salaryAsk">${escapeHtml(c.salaryAsk || '')}</td>
         <td data-column="outreach">${escapeHtml(c.outreach || '')}</td>
         <td data-column="status">${escapeHtml(c.status || '')}</td>
         <td data-column="stage">${escapeHtml(c.stage || '')}</td>
@@ -27,7 +28,7 @@ const rows = data.companies.length
         <td data-column="updatedAt">${escapeHtml(c.updatedAt || '')}</td>
       </tr>`;
     }).join('\n')
-  : '<tr><td colspan="11">No companies yet.</td></tr>';
+  : '<tr><td colspan="12">No companies yet.</td></tr>';
 
 const html = `<!doctype html>
 <html lang="en">
@@ -71,6 +72,9 @@ const html = `<!doctype html>
     <label>CV
       <select id="cvFilter"><option value="">All</option></select>
     </label>
+    <label>Salary Ask
+      <select id="salaryAskFilter"><option value="">All</option></select>
+    </label>
   </div>
   <div class="summary" id="summary"></div>
   <table id="companiesTable">
@@ -82,6 +86,7 @@ const html = `<!doctype html>
         <th data-column="stack">Stack</th>
         <th data-column="fit">Fit</th>
         <th data-column="cv">CV</th>
+        <th data-column="salaryAsk">Salary Ask</th>
         <th data-column="outreach">Outreach</th>
         <th data-column="status">Status</th>
         <th data-column="stage">Stage</th>
@@ -102,6 +107,7 @@ const html = `<!doctype html>
     const stageFilter = document.getElementById('stageFilter');
     const outreachFilter = document.getElementById('outreachFilter');
     const cvFilter = document.getElementById('cvFilter');
+    const salaryAskFilter = document.getElementById('salaryAskFilter');
     const summary = document.getElementById('summary');
     const headers = Array.from(table.querySelectorAll('th[data-column]'));
 
@@ -112,6 +118,7 @@ const html = `<!doctype html>
     initSelect(stageFilter, 'stage');
     initSelect(outreachFilter, 'outreach');
     initSelect(cvFilter, 'cv');
+    initSelect(salaryAskFilter, 'salaryAsk');
     restoreStateFromUrl();
 
     searchInput.addEventListener('input', render);
@@ -119,6 +126,7 @@ const html = `<!doctype html>
     stageFilter.addEventListener('change', render);
     outreachFilter.addEventListener('change', render);
     cvFilter.addEventListener('change', render);
+    salaryAskFilter.addEventListener('change', render);
 
     headers.forEach(header => {
       header.addEventListener('click', () => {
@@ -155,7 +163,8 @@ const html = `<!doctype html>
         status: statusFilter.value,
         stage: stageFilter.value,
         outreach: outreachFilter.value,
-        cv: cvFilter.value
+        cv: cvFilter.value,
+        salaryAsk: salaryAskFilter.value
       };
 
       updateUrlState(query, filters);
@@ -191,6 +200,7 @@ const html = `<!doctype html>
       const stage = params.get('stage') || '';
       const outreach = params.get('outreach') || '';
       const cv = params.get('cv') || '';
+      const salaryAsk = params.get('salaryAsk') || '';
       const sort = params.get('sort') || 'updatedAt';
       const dir = params.get('dir') || 'desc';
 
@@ -199,6 +209,7 @@ const html = `<!doctype html>
       if ([...stageFilter.options].some(o => o.value === stage)) stageFilter.value = stage;
       if ([...outreachFilter.options].some(o => o.value === outreach)) outreachFilter.value = outreach;
       if ([...cvFilter.options].some(o => o.value === cv)) cvFilter.value = cv;
+      if ([...salaryAskFilter.options].some(o => o.value === salaryAsk)) salaryAskFilter.value = salaryAsk;
       if (headers.some(h => h.dataset.column === sort)) sortColumn = sort;
       if (dir === 'asc' || dir === 'desc') sortDir = dir;
     }
@@ -210,6 +221,7 @@ const html = `<!doctype html>
       if (filters.stage) params.set('stage', filters.stage); else params.delete('stage');
       if (filters.outreach) params.set('outreach', filters.outreach); else params.delete('outreach');
       if (filters.cv) params.set('cv', filters.cv); else params.delete('cv');
+      if (filters.salaryAsk) params.set('salaryAsk', filters.salaryAsk); else params.delete('salaryAsk');
       if (sortColumn && sortColumn !== 'updatedAt') params.set('sort', sortColumn); else params.delete('sort');
       if (sortDir && sortDir !== 'desc') params.set('dir', sortDir); else params.delete('dir');
       const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');

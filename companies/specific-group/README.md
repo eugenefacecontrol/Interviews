@@ -4,6 +4,7 @@
 - Stage: recruiter_outreach
 - Fit: 8/10
 - Recommended CV: CV 2
+- Salary Ask: 150 PLN/h
 - Outreach: Recruiter outreach from Anastasia Markitan (LinkedIn)
 
 ## Process

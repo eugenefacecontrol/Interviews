@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T07:02:15.393Z",
+  "generatedAt": "2026-04-19T14:27:15.551Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -819,7 +819,8 @@
       "fit": "8/10",
       "recommendedCv": "CV 2",
       "outreach": "Recruiter outreach from Anastasia Markitan (LinkedIn)",
-      "updatedAt": "2026-04-11T16:49:31.451Z"
+      "updatedAt": "2026-04-19T14:27:15.545Z",
+      "salaryAsk": "150 PLN/h"
     },
     {
       "slug": "squareone",

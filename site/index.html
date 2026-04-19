@@ -23,7 +23,7 @@
 </head>
 <body>
   <h1>Interview Companies</h1>
-  <p class="muted">Generated from <code>companies.json</code> at 2026-04-19T07:02:15.393Z.</p>
+  <p class="muted">Generated from <code>companies.json</code> at 2026-04-19T14:27:15.551Z.</p>
   <div class="controls">
     <label>Search
       <input id="searchInput" type="search" placeholder="Search any column">
@@ -40,6 +40,9 @@
     <label>CV
       <select id="cvFilter"><option value="">All</option></select>
     </label>
+    <label>Salary Ask
+      <select id="salaryAskFilter"><option value="">All</option></select>
+    </label>
   </div>
   <div class="summary" id="summary"></div>
   <table id="companiesTable">
@@ -51,6 +54,7 @@
         <th data-column="stack">Stack</th>
         <th data-column="fit">Fit</th>
         <th data-column="cv">CV</th>
+        <th data-column="salaryAsk">Salary Ask</th>
         <th data-column="outreach">Outreach</th>
         <th data-column="status">Status</th>
         <th data-column="stage">Stage</th>
@@ -66,6 +70,7 @@
         <td data-column="stack">Playwright, Appium, AI tools</td>
         <td data-column="fit">7/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Sent to Tanya Akulich (LinkedIn)</td>
         <td data-column="status">applied</td>
         <td data-column="stage">cv_sent</td>
@@ -79,6 +84,7 @@
         <td data-column="stack">JS/TS, Playwright/Cypress, API</td>
         <td data-column="fit">8/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected after process; talent pool / future opportunities mentioned by AirHelp</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
@@ -92,6 +98,7 @@
         <td data-column="stack">C#, Selenium, Jenkins</td>
         <td data-column="fit">5/10</td>
         <td data-column="cv">qa-devops-cv.pdf</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -105,6 +112,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">7/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Recruiter outreach from Yana Budulatii (LinkedIn)</td>
         <td data-column="status">target</td>
         <td data-column="stage">recruiter_outreach</td>
@@ -118,6 +126,7 @@
         <td data-column="stack">Java/Python/TypeScript, IAM</td>
         <td data-column="fit">6/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via JustJoinIt</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
@@ -131,6 +140,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">83/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -144,6 +154,7 @@
         <td data-column="stack">C#, API, BDD</td>
         <td data-column="fit">5/10</td>
         <td data-column="cv">qa-devops-cv.pdf</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -157,6 +168,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">89/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -170,6 +182,7 @@
         <td data-column="stack">JS/TS, Playwright, Azure DevOps</td>
         <td data-column="fit">9/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via site; sent to Karolina Zamysłowska (LinkedIn)</td>
         <td data-column="status">applied</td>
         <td data-column="stage">outreach_sent</td>
@@ -183,6 +196,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">100/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -196,6 +210,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">100/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -209,6 +224,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">56/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -222,6 +238,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">4.65/5</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected after application review</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
@@ -235,6 +252,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">46/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -248,6 +266,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">7/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Preparing application</td>
         <td data-column="status">applying</td>
         <td data-column="stage">message_prep</td>
@@ -261,6 +280,7 @@
         <td data-column="stack">TypeScript, Playwright, AI, CI/CD</td>
         <td data-column="fit">8/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via JustJoinIt</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
@@ -274,6 +294,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">100/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via JustJoinIt</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
@@ -287,6 +308,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">96/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -300,6 +322,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">low</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected after recruiter clarification from Olga Simonova (LinkedIn)</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
@@ -313,6 +336,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">82/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -326,6 +350,7 @@
         <td data-column="stack">Python, testing, CI/CD</td>
         <td data-column="fit">6/10</td>
         <td data-column="cv">qa-devops-cv.pdf</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -339,6 +364,7 @@
         <td data-column="stack">Test strategy, Jira</td>
         <td data-column="fit">4/10</td>
         <td data-column="cv">qa-devops-cv.pdf</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -352,6 +378,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">88/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -365,6 +392,7 @@
         <td data-column="stack">Playwright, TS, AWS</td>
         <td data-column="fit">9/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected after applying to talent pool opening</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">application_review</td>
@@ -378,6 +406,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">51/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -391,6 +420,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">41/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -404,6 +434,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">88/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -417,6 +448,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">69/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -430,6 +462,7 @@
         <td data-column="stack">Playwright, AI, C#/.NET</td>
         <td data-column="fit">7/10</td>
         <td data-column="cv">qa-devops-cv.pdf</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -443,6 +476,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">100/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -456,6 +490,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">98/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -469,6 +504,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">8/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected after application review</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
@@ -482,6 +518,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">3/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected by Kaseya after prior recruiter response / scheduling stage</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
@@ -495,6 +532,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">7/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via company site</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
@@ -508,6 +546,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">100/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -521,6 +560,7 @@
         <td data-column="stack">Docker, REST, JS/Java</td>
         <td data-column="fit">7/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via company site</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
@@ -534,6 +574,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">low</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
@@ -547,6 +588,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">8/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
@@ -560,6 +602,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">76/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -573,6 +616,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">81/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -586,6 +630,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">8/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via LinkedIn</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
@@ -599,6 +644,7 @@
         <td data-column="stack">Manual API testing</td>
         <td data-column="fit">3/10</td>
         <td data-column="cv">qa-devops-cv.pdf</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -612,6 +658,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">100/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -625,6 +672,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">51/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -638,6 +686,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">8/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via Greenhouse</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
@@ -651,6 +700,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">100/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -664,6 +714,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">91/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -677,6 +728,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">5/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Position closed after referral by Rusovich</td>
         <td data-column="status">closed</td>
         <td data-column="stage">position_closed</td>
@@ -690,11 +742,12 @@
         <td data-column="stack"></td>
         <td data-column="fit">8/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk">150 PLN/h</td>
         <td data-column="outreach">Recruiter outreach from Anastasia Markitan (LinkedIn)</td>
         <td data-column="status">target</td>
         <td data-column="stage">recruiter_outreach</td>
         <td data-column="link"><a href="https://specific-group.com/pl/" target="_blank" rel="noopener noreferrer">Apply</a></td>
-        <td data-column="updatedAt">2026-04-11T16:49:31.451Z</td>
+        <td data-column="updatedAt">2026-04-19T14:27:15.545Z</td>
       </tr>
 <tr>
         <td data-column="company">SquareOne</td>
@@ -703,6 +756,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">8/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via No Fluff Jobs</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
@@ -716,6 +770,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">72/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -729,6 +784,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">100/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -742,6 +798,7 @@
         <td data-column="stack">Java, Selenium, CI/CD</td>
         <td data-column="fit">5/10</td>
         <td data-column="cv">qa-devops-cv.pdf</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -755,6 +812,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">medium</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
         <td data-column="status">rejected</td>
         <td data-column="stage">screening</td>
@@ -768,6 +826,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">6.5/10</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected after application review</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
@@ -781,6 +840,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">78/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -794,6 +854,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">68/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -807,6 +868,7 @@
         <td data-column="stack"></td>
         <td data-column="fit">0/100</td>
         <td data-column="cv">CV 2</td>
+        <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
@@ -824,6 +886,7 @@
     const stageFilter = document.getElementById('stageFilter');
     const outreachFilter = document.getElementById('outreachFilter');
     const cvFilter = document.getElementById('cvFilter');
+    const salaryAskFilter = document.getElementById('salaryAskFilter');
     const summary = document.getElementById('summary');
     const headers = Array.from(table.querySelectorAll('th[data-column]'));
 
@@ -834,6 +897,7 @@
     initSelect(stageFilter, 'stage');
     initSelect(outreachFilter, 'outreach');
     initSelect(cvFilter, 'cv');
+    initSelect(salaryAskFilter, 'salaryAsk');
     restoreStateFromUrl();
 
     searchInput.addEventListener('input', render);
@@ -841,6 +905,7 @@
     stageFilter.addEventListener('change', render);
     outreachFilter.addEventListener('change', render);
     cvFilter.addEventListener('change', render);
+    salaryAskFilter.addEventListener('change', render);
 
     headers.forEach(header => {
       header.addEventListener('click', () => {
@@ -877,7 +942,8 @@
         status: statusFilter.value,
         stage: stageFilter.value,
         outreach: outreachFilter.value,
-        cv: cvFilter.value
+        cv: cvFilter.value,
+        salaryAsk: salaryAskFilter.value
       };
 
       updateUrlState(query, filters);
@@ -913,6 +979,7 @@
       const stage = params.get('stage') || '';
       const outreach = params.get('outreach') || '';
       const cv = params.get('cv') || '';
+      const salaryAsk = params.get('salaryAsk') || '';
       const sort = params.get('sort') || 'updatedAt';
       const dir = params.get('dir') || 'desc';
 
@@ -921,6 +988,7 @@
       if ([...stageFilter.options].some(o => o.value === stage)) stageFilter.value = stage;
       if ([...outreachFilter.options].some(o => o.value === outreach)) outreachFilter.value = outreach;
       if ([...cvFilter.options].some(o => o.value === cv)) cvFilter.value = cv;
+      if ([...salaryAskFilter.options].some(o => o.value === salaryAsk)) salaryAskFilter.value = salaryAsk;
       if (headers.some(h => h.dataset.column === sort)) sortColumn = sort;
       if (dir === 'asc' || dir === 'desc') sortDir = dir;
     }
@@ -932,6 +1000,7 @@
       if (filters.stage) params.set('stage', filters.stage); else params.delete('stage');
       if (filters.outreach) params.set('outreach', filters.outreach); else params.delete('outreach');
       if (filters.cv) params.set('cv', filters.cv); else params.delete('cv');
+      if (filters.salaryAsk) params.set('salaryAsk', filters.salaryAsk); else params.delete('salaryAsk');
       if (sortColumn && sortColumn !== 'updatedAt') params.set('sort', sortColumn); else params.delete('sort');
       if (sortDir && sortDir !== 'desc') params.set('dir', sortDir); else params.delete('dir');
       const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
