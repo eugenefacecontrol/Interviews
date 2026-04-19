@@ -22,7 +22,7 @@ This is the canonical human-readable list of interview companies.
 | DataArt | applied | application_sent | 8/10 | CV 2 | Applied via JustJoinIt | 2026-04-07T15:07:46.018Z |
 | DCV Technologies | applied | application_sent | 100/100 | CV 2 | Applied via JustJoinIt | 2026-04-16T15:21:42.904Z |
 | Edge One Solutions Sp. z o.o | target | cv_to_send | 96/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:48.092Z |
-| EffectiveSoft | rejected | rejected | low | CV 2 |  | 2026-04-02T13:53:34.608Z |
+| EffectiveSoft | rejected | rejected | low | CV 2 | Rejected after recruiter clarification from Olga Simonova (LinkedIn) | 2026-04-19T05:34:49.451Z |
 | EPAM Systems | target | cv_to_send | 82/100 | CV 2 | Shortlisted from CSV | 2026-04-16T10:25:48.463Z |
 | ESET | target | cv_to_send | 6/10 |  |  | 2026-04-02T22:38:53.974753+00:00 |
 | Euroclear | target | cv_to_send | 4/10 |  |  | 2026-04-02T22:38:53.974755+00:00 |

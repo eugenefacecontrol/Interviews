@@ -3,11 +3,12 @@
   "name": "EffectiveSoft",
   "status": "rejected",
   "stage": "rejected",
-  "process": "Rejected after review",
+  "process": "Rejected after recruiter clarification",
   "requirements": "Senior Automation QA Engineer; Remote; Full-time; automation-first QA; Cypress; JavaScript/TypeScript; API testing; CI/CD; GitHub workflows; 5+ years QA Automation; English B2+",
-  "notes": "Отказ: нужен Cypress. JD received 2026-04-02 for Senior Automation QA Engineer.",
+  "notes": "Recruiter Olga Simonova clarified that the hiring manager specifically requires Cypress experience. LinkedIn contact: https://www.linkedin.com/in/olga-simonova-359392225/.",
   "links": [],
   "fit": "low",
   "recommendedCv": "CV 2",
-  "updatedAt": "2026-04-02T13:53:34.608Z"
+  "outreach": "Rejected after recruiter clarification from Olga Simonova (LinkedIn)",
+  "updatedAt": "2026-04-19T05:34:49.451Z"
 }

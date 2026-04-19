@@ -1,20 +1,19 @@
 # EffectiveSoft
 
-- Role: 
 - Status: rejected
 - Stage: rejected
-- Salary: 
 - Fit: low
-- CV: 
+- Recommended CV: CV 2
+- Outreach: Rejected after recruiter clarification from Olga Simonova (LinkedIn)
 
 ## Process
-Rejected after review
+Rejected after recruiter clarification
 
 ## Requirements
 Senior Automation QA Engineer; Remote; Full-time; automation-first QA; Cypress; JavaScript/TypeScript; API testing; CI/CD; GitHub workflows; 5+ years QA Automation; English B2+
 
 ## Notes
-Отказ: нужен Cypress. JD received 2026-04-02 for Senior Automation QA Engineer.
+Recruiter Olga Simonova clarified that the hiring manager specifically requires Cypress experience. LinkedIn contact: https://www.linkedin.com/in/olga-simonova-359392225/.
 
 ## Links
 
