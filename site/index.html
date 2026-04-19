@@ -821,6 +821,7 @@
     initSelect(stageFilter, 'stage');
     initSelect(outreachFilter, 'outreach');
     initSelect(cvFilter, 'cv');
+    restoreStateFromUrl();
 
     searchInput.addEventListener('input', render);
     statusFilter.addEventListener('change', render);
@@ -866,6 +867,8 @@
         cv: cvFilter.value
       };
 
+      updateUrlState(query, filters);
+
       const filtered = allRows.filter(row => {
         const rowText = row.textContent.toLowerCase();
         if (query && !rowText.includes(query)) return false;
@@ -888,6 +891,38 @@
       const bv = getCellText(b, column);
       const result = av.localeCompare(bv, undefined, { numeric: true, sensitivity: 'base' });
       return dir === 'asc' ? result : -result;
+    }
+
+    function restoreStateFromUrl() {
+      const params = new URLSearchParams(window.location.search);
+      const search = params.get('q') || '';
+      const status = params.get('status') || '';
+      const stage = params.get('stage') || '';
+      const outreach = params.get('outreach') || '';
+      const cv = params.get('cv') || '';
+      const sort = params.get('sort') || 'updatedAt';
+      const dir = params.get('dir') || 'desc';
+
+      searchInput.value = search;
+      if ([...statusFilter.options].some(o => o.value === status)) statusFilter.value = status;
+      if ([...stageFilter.options].some(o => o.value === stage)) stageFilter.value = stage;
+      if ([...outreachFilter.options].some(o => o.value === outreach)) outreachFilter.value = outreach;
+      if ([...cvFilter.options].some(o => o.value === cv)) cvFilter.value = cv;
+      if (headers.some(h => h.dataset.column === sort)) sortColumn = sort;
+      if (dir === 'asc' || dir === 'desc') sortDir = dir;
+    }
+
+    function updateUrlState(query, filters) {
+      const params = new URLSearchParams(window.location.search);
+      if (query) params.set('q', query); else params.delete('q');
+      if (filters.status) params.set('status', filters.status); else params.delete('status');
+      if (filters.stage) params.set('stage', filters.stage); else params.delete('stage');
+      if (filters.outreach) params.set('outreach', filters.outreach); else params.delete('outreach');
+      if (filters.cv) params.set('cv', filters.cv); else params.delete('cv');
+      if (sortColumn && sortColumn !== 'updatedAt') params.set('sort', sortColumn); else params.delete('sort');
+      if (sortDir && sortDir !== 'desc') params.set('dir', sortDir); else params.delete('dir');
+      const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
+      window.history.replaceState({}, '', newUrl);
     }
   </script>
 </body>
