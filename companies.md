@@ -60,6 +60,7 @@ This is the canonical human-readable list of interview companies.
 | Svitla Systems | rejected | screening | medium | CV 2 |  |  | 2026-04-02T13:53:34.725Z |
 | Ubiquiti | rejected | rejected | 6.5/10 | CV 2 |  | Rejected after application review | 2026-04-15T17:57:24.204Z |
 | Unknown Telegram Vacancy via @andrey_kokhan | contacted | outreach_sent | true | CV 2 |  | Contacted @andrey_kokhan via Telegram | 2026-04-22T10:39:10.363Z |
+| Unknown Telegram Vacancy via @regina_ihr3 | contacted | cv_sent | true | CV 2 |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:57:24.802Z |
 | Upvanta sp. z o.o. | target | cv_to_send | 78/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.587Z |
 | Xebia | target | cv_to_send | 68/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.831Z |
 | YourITeams | target | cv_to_send | 0/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.195Z |

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T10:39:10.369Z",
+  "generatedAt": "2026-04-22T13:57:24.808Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -935,6 +935,23 @@
       "salaryAsk": "",
       "outreach": "Contacted @andrey_kokhan via Telegram",
       "updatedAt": "2026-04-22T10:39:10.363Z"
+    },
+    {
+      "slug": "unknown-telegram-vacancy-via-regina-ihr3",
+      "name": "Unknown Telegram Vacancy via @regina_ihr3",
+      "status": "contacted",
+      "stage": "cv_sent",
+      "process": "Sent CV regarding Telegram vacancy post",
+      "requirements": "TBD from Telegram vacancy post",
+      "notes": "CV sent to @regina_ihr3 regarding vacancy from Telegram post: https://t.me/YotolabQA/3231.",
+      "links": [
+        "https://t.me/YotolabQA/3231"
+      ],
+      "fit": true,
+      "recommendedCv": "CV 2",
+      "salaryAsk": "",
+      "outreach": "CV sent to @regina_ihr3 via Telegram",
+      "updatedAt": "2026-04-22T13:57:24.802Z"
     },
     {
       "slug": "upvanta-sp-z-o-o",
