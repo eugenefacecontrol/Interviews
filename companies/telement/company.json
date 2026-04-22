@@ -1,0 +1,17 @@
+{
+  "slug": "telement",
+  "name": "Telement",
+  "status": "contacted",
+  "stage": "cv_sent",
+  "process": "Sent CV for QA Engineer (Manual + Automation) role",
+  "requirements": "QA Engineer (Manual + Automation); web/desktop Electron/mobile; REST API via Postman/Swagger; regression and functional testing; gradual automation in Python or JS/TS with Playwright/Cypress; GitLab CI; SQL basics; logs/terminal; real-time or messenger systems a plus",
+  "notes": "CV sent to @regina_ihr3. Telement is a startup building a secure corporate messenger based on Matrix. Salary range in posting: 1800-4300 USDT, fully remote, full-time, flexible schedule aligned to MSK, paid test task.",
+  "links": [
+    "https://t.me/YotolabQA/3231"
+  ],
+  "fit": "8/10",
+  "recommendedCv": "CV 2",
+  "salaryAsk": "",
+  "outreach": "CV sent to @regina_ihr3 via Telegram",
+  "updatedAt": "2026-04-22T13:58:41.364Z"
+}
