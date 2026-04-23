@@ -2,16 +2,16 @@
   "slug": "stonex-group-inc",
   "name": "StoneX Group Inc.",
   "status": "applying",
-  "stage": "message_prep",
-  "process": "Preparing application for Senior QA Automation Engineer with Agentic Dev role",
+  "stage": "outreach_sent",
+  "process": "Preparing application and LinkedIn outreach for Senior QA Automation Engineer with Agentic Dev role",
   "requirements": "Senior QA Automation Engineer with Agentic Dev; Playwright/Cypress; UI/API/performance/security testing; CI/CD with Azure DevOps/GitHub Actions; AI-assisted testing workflows; UAT ownership; secure/risk-based testing; financial services/payments domain; hybrid 4 days office",
-  "notes": "Fit re-evaluated after full JD review. Strong overlap on automation, Playwright, CI/CD, and AI-assisted quality engineering, but weaker match on financial operations domain, UAT ownership, secure testing depth, and 4-days-office hybrid requirement.",
+  "notes": "LinkedIn outreach planned/sent to Marina Yanusheuskaya: https://www.linkedin.com/in/marina-yanusheuskaya-100207185/ regarding vacancy https://www.linkedin.com/jobs/view/4399998338.",
   "links": [
     "https://www.linkedin.com/jobs/view/4399998338"
   ],
   "fit": "66/100",
   "recommendedCv": "CV 2",
   "salaryAsk": "",
-  "outreach": "Preparing application",
-  "updatedAt": "2026-04-23T11:20:31.307Z"
+  "outreach": "LinkedIn outreach to Marina Yanusheuskaya",
+  "updatedAt": "2026-04-23T11:25:51.309Z"
 }

@@ -56,7 +56,7 @@ This is the canonical human-readable list of interview companies.
 | Specific-Group | target | recruiter_outreach | 8/10 | CV 2 | 150 PLN/h | Recruiter outreach from Anastasia Markitan (LinkedIn) | 2026-04-19T14:27:15.545Z |
 | SquareOne | applied | application_sent | 8/10 | CV 2 |  | Applied via No Fluff Jobs | 2026-04-12T15:02:52.135Z |
 | State Street | target | cv_to_send | 72/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.710Z |
-| StoneX Group Inc. | applying | message_prep | 66/100 | CV 2 |  | Preparing application | 2026-04-23T11:20:31.307Z |
+| StoneX Group Inc. | applying | outreach_sent | 66/100 | CV 2 |  | LinkedIn outreach to Marina Yanusheuskaya | 2026-04-23T11:25:51.309Z |
 | StoneX Poland | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.973Z |
 | Strategicsiq | target | cv_to_send | 5/10 |  |  |  | 2026-04-02T22:38:53.974740+00:00 |
 | Svitla Systems | rejected | screening | medium | CV 2 |  |  | 2026-04-02T13:53:34.725Z |
