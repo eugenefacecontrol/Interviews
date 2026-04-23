@@ -13,6 +13,11 @@ const rows = data.companies.length
       const applyCell = primaryLink
         ? `<a href="${escapeAttribute(primaryLink)}" target="_blank" rel="noopener noreferrer">Apply</a>`
         : '';
+      const outreachUrl = c.outreachUrl || extractFirstUrl(c.notes || '');
+      const outreachLabel = c.outreach || '';
+      const outreachCell = outreachUrl && outreachLabel
+        ? `<a href="${escapeAttribute(outreachUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(outreachLabel)}</a>`
+        : escapeHtml(outreachLabel);
       return `<tr>
         <td data-column="company">${escapeHtml(c.name || '')}</td>
         <td data-column="role">${escapeHtml(c.role || '')}</td>
@@ -21,7 +26,7 @@ const rows = data.companies.length
         <td data-column="fit">${escapeHtml(c.fit || '')}</td>
         <td data-column="cv">${escapeHtml(c.recommendedCv || c.cv || '')}</td>
         <td data-column="salaryAsk">${escapeHtml(c.salaryAsk || '')}</td>
-        <td data-column="outreach">${escapeHtml(c.outreach || '')}</td>
+        <td data-column="outreach">${outreachCell}</td>
         <td data-column="status">${escapeHtml(c.status || '')}</td>
         <td data-column="stage">${escapeHtml(c.stage || '')}</td>
         <td data-column="link">${applyCell}</td>
@@ -246,4 +251,9 @@ function escapeHtml(value) {
 
 function escapeAttribute(value) {
   return escapeHtml(value);
+}
+
+function extractFirstUrl(text) {
+  const match = String(text || '').match(/https?:\/\/[^\s)]+/);
+  return match ? match[0] : '';
 }

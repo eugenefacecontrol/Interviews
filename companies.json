@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T11:25:51.315Z",
+  "generatedAt": "2026-04-23T11:33:38.005Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -884,9 +884,9 @@
       ],
       "fit": "66/100",
       "recommendedCv": "CV 2",
-      "salaryAsk": "",
-      "outreach": "LinkedIn outreach to Marina Yanusheuskaya",
-      "updatedAt": "2026-04-23T11:25:51.309Z"
+      "salaryAsk": true,
+      "outreach": "Marina Yanusheuskaya",
+      "updatedAt": "2026-04-23T11:33:37.999Z"
     },
     {
       "slug": "stonex-poland",

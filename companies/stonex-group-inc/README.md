@@ -4,8 +4,8 @@
 - Stage: outreach_sent
 - Fit: 66/100
 - Recommended CV: CV 2
-- Salary Ask: —
-- Outreach: LinkedIn outreach to Marina Yanusheuskaya
+- Salary Ask: true
+- Outreach: Marina Yanusheuskaya
 
 ## Process
 Preparing application and LinkedIn outreach for Senior QA Automation Engineer with Agentic Dev role
