@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T13:58:41.370Z",
+  "generatedAt": "2026-04-23T07:05:02.491Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -296,6 +296,23 @@
       "recommendedCv": "CV 2",
       "outreach": "Applied via JustJoinIt",
       "updatedAt": "2026-04-16T15:21:42.904Z"
+    },
+    {
+      "slug": "debridge",
+      "name": "deBridge",
+      "status": "contacted",
+      "stage": "cv_sent",
+      "process": "Sent application / outreach for QA Backend Engineer role",
+      "requirements": "QA Backend Engineer; backend testing; order events/analytics/data; REST API; strong SQL; backend autotests in JavaScript/TypeScript; data flow understanding; Russian required; load/performance a plus",
+      "notes": "Applied via Telegram contact @leo_lomaev for deBridge QA Backend Engineer role. Remote, salary range in posting: 3000-4000 USD net.",
+      "links": [
+        "https://t.me/leo_lomaev"
+      ],
+      "fit": "8/10",
+      "recommendedCv": "CV 2",
+      "salaryAsk": "",
+      "outreach": "Applied via Telegram to @leo_lomaev",
+      "updatedAt": "2026-04-23T07:05:02.485Z"
     },
     {
       "slug": "edge-one-solutions-sp-z-o-o",

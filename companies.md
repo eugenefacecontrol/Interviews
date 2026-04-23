@@ -21,6 +21,7 @@ This is the canonical human-readable list of interview companies.
 | Coherent Solutions | applying | message_prep | 7/10 | CV 2 |  | Preparing application | 2026-04-07T13:33:45.994Z |
 | DataArt | applied | application_sent | 8/10 | CV 2 |  | Applied via JustJoinIt | 2026-04-07T15:07:46.018Z |
 | DCV Technologies | applied | application_sent | 100/100 | CV 2 |  | Applied via JustJoinIt | 2026-04-16T15:21:42.904Z |
+| deBridge | contacted | cv_sent | 8/10 | CV 2 |  | Applied via Telegram to @leo_lomaev | 2026-04-23T07:05:02.485Z |
 | Edge One Solutions Sp. z o.o | target | cv_to_send | 96/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.092Z |
 | EffectiveSoft | rejected | rejected | low | CV 2 |  | Rejected after recruiter clarification from Olga Simonova (LinkedIn) | 2026-04-19T05:34:49.451Z |
 | EPAM Systems | target | cv_to_send | 82/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.463Z |
