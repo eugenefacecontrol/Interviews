@@ -17,4 +17,4 @@ Senior QA Automation Engineer with Agentic Dev; Playwright/Cypress; UI/API/perfo
 Fit re-evaluated after full JD review. Strong overlap on automation, Playwright, CI/CD, and AI-assisted quality engineering, but weaker match on financial operations domain, UAT ownership, secure testing depth, and 4-days-office hybrid requirement.
 
 ## Links
-- https://www.linkedin.com/jobs/view/stonex-group-inc-senior-qa-automation-engineer-with-agentic-dev
+- https://www.linkedin.com/jobs/view/4399998338
