@@ -1,19 +1,20 @@
 # Onwelo Sp. z o.o.
 
-- Status: target
-- Stage: cv_to_send
+- Status: applied
+- Stage: application_sent
 - Fit: 81/100
 - Recommended CV: CV 2
-- Outreach: Shortlisted from CSV
+- Salary Ask: —
+- Outreach: Applied via Monika Kulisz
 
 ## Process
-Imported from JustJoinIt shortlist
+Applied for Test Automation Engineer role
 
 ## Requirements
-Test Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, TypeScript
+Test Automation Engineer; likely Playwright, Java, Selenium, REST, API, TypeScript
 
 ## Notes
-Imported from ranked shortlist CSV. Vacancy: Test Automation Engineer.
+Applied. Contact person: Monika Kulisz https://www.linkedin.com/in/monika-kulisz-641aa3b7/.
 
 ## Links
-- https://justjoin.it/job-offer/onwelo-sp-z-o-o--test-automation-engineer-warszawa-testing-59b052e4
+- https://www.linkedin.com/jobs/view/4341964143

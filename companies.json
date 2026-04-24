@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T10:29:46.213Z",
+  "generatedAt": "2026-04-24T11:12:58.768Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -680,18 +680,19 @@
     {
       "slug": "onwelo-sp-z-o-o",
       "name": "Onwelo Sp. z o.o.",
-      "status": "target",
-      "stage": "cv_to_send",
-      "process": "Imported from JustJoinIt shortlist",
-      "requirements": "Test Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, TypeScript",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Test Automation Engineer.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied for Test Automation Engineer role",
+      "requirements": "Test Automation Engineer; likely Playwright, Java, Selenium, REST, API, TypeScript",
+      "notes": "Applied. Contact person: Monika Kulisz https://www.linkedin.com/in/monika-kulisz-641aa3b7/.",
       "links": [
-        "https://justjoin.it/job-offer/onwelo-sp-z-o-o--test-automation-engineer-warszawa-testing-59b052e4"
+        "https://www.linkedin.com/jobs/view/4341964143"
       ],
       "fit": "81/100",
       "recommendedCv": "CV 2",
-      "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.524Z"
+      "outreach": "Applied via Monika Kulisz",
+      "updatedAt": "2026-04-24T11:12:58.763Z",
+      "salaryAsk": ""
     },
     {
       "slug": "pacaya-hr-experts",
