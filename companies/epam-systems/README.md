@@ -1,19 +1,21 @@
 # EPAM Systems
 
-- Status: target
-- Stage: cv_to_send
-- Fit: 82/100
+- Status: applied
+- Stage: application_sent
+- Fit: 84/100
 - Recommended CV: CV 2
-- Outreach: Shortlisted from CSV
+- Salary Ask: —
+- Outreach: Applied via Tatsiana Zubkova and EPAM careers
 
 ## Process
-Imported from JustJoinIt shortlist
+Applied for Senior Automation Tester in Java / Test Automation Engineer (Java) role
 
 ## Requirements
-Senior QA Automation & Performance Test Engineer; Stack: Java, Selenium, CI/CD, Performance
+Senior Automation Tester in Java / Test Automation Engineer (Java); Java; automation testing; exact stack per LinkedIn/EPAM career pages
 
 ## Notes
-Imported from ranked shortlist CSV. Vacancy: Senior QA Automation & Performance Test Engineer.
+Applied via LinkedIn and EPAM careers page. Contact person: Tatsiana Zubkova https://www.linkedin.com/in/tatsianazubkova/. Additional application link: https://careers.epam.com/en/vacancy/test-automation-engineer-java-bltwi6i1orra3ufguyz_en
 
 ## Links
-- https://justjoin.it/job-offer/epam-systems-senior-qa-automation-performance-test-engineer-krakow-testing-33bd3619
+- https://www.linkedin.com/jobs/view/4392631385
+- https://careers.epam.com/en/vacancy/test-automation-engineer-java-bltwi6i1orra3ufguyz_en
