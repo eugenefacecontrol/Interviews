@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T07:53:03.334Z",
+  "generatedAt": "2026-04-24T09:51:52.896Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -730,18 +730,19 @@
     {
       "slug": "pwrteams",
       "name": "Pwrteams",
-      "status": "target",
-      "stage": "cv_to_send",
-      "process": "Imported from JustJoinIt shortlist",
-      "requirements": "Senior Quality Engineer; Stack: Playwright, Java, REST, API, CI/CD, TypeScript",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Senior Quality Engineer.",
+      "status": "closed",
+      "stage": "position_closed",
+      "process": "Position no longer active",
+      "requirements": "Senior Quality Engineer; Playwright, Java, REST, API, CI/CD, TypeScript",
+      "notes": "Position is no longer active.",
       "links": [
         "https://justjoin.it/job-offer/pwrteams-senior-quality-engineer-warszawa-testing"
       ],
       "fit": "100/100",
       "recommendedCv": "CV 2",
-      "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:47.853Z"
+      "outreach": "Position closed / inactive",
+      "updatedAt": "2026-04-24T09:51:52.890Z",
+      "salaryAsk": ""
     },
     {
       "slug": "remodevs",

@@ -1,19 +1,20 @@
 # Pwrteams
 
-- Status: target
-- Stage: cv_to_send
+- Status: closed
+- Stage: position_closed
 - Fit: 100/100
 - Recommended CV: CV 2
-- Outreach: Shortlisted from CSV
+- Salary Ask: —
+- Outreach: Position closed / inactive
 
 ## Process
-Imported from JustJoinIt shortlist
+Position no longer active
 
 ## Requirements
-Senior Quality Engineer; Stack: Playwright, Java, REST, API, CI/CD, TypeScript
+Senior Quality Engineer; Playwright, Java, REST, API, CI/CD, TypeScript
 
 ## Notes
-Imported from ranked shortlist CSV. Vacancy: Senior Quality Engineer.
+Position is no longer active.
 
 ## Links
 - https://justjoin.it/job-offer/pwrteams-senior-quality-engineer-warszawa-testing
