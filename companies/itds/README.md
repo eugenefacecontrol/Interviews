@@ -1,19 +1,20 @@
 # ITDS
 
-- Status: target
-- Stage: cv_to_send
+- Status: applied
+- Stage: application_sent
 - Fit: 100/100
 - Recommended CV: CV 2
-- Outreach: Shortlisted from CSV
+- Salary Ask: —
+- Outreach: Applied via Patrycja Bochnia (LinkedIn) and company form
 
 ## Process
-Imported from JustJoinIt shortlist
+Applied for Senior QA Automation Engineer – FinTech and SaaS industry role
 
 ## Requirements
-Senior Test Automation; Stack: Playwright, Java, REST, API, CI/CD, Jenkins
+Senior QA Automation Engineer; fintech and SaaS; likely Playwright/API/CI/CD-oriented role with automation focus
 
 ## Notes
-Imported from ranked shortlist CSV. Vacancy: Senior Test Automation.
+Applied through recruiter Patrycja Bochnia: https://www.linkedin.com/in/patrycja-bochnia/ and via company form.
 
 ## Links
-- https://justjoin.it/job-offer/itds-senior-test-automation-krakow-testing-a48927cf
+- https://itds.pl/it-jobs/senior-qa-automation-engineer-fintech-and-saas-industry/

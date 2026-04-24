@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T06:44:50.448Z",
+  "generatedAt": "2026-04-24T07:53:03.334Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -519,18 +519,19 @@
     {
       "slug": "itds",
       "name": "ITDS",
-      "status": "target",
-      "stage": "cv_to_send",
-      "process": "Imported from JustJoinIt shortlist",
-      "requirements": "Senior Test Automation; Stack: Playwright, Java, REST, API, CI/CD, Jenkins",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Senior Test Automation.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied for Senior QA Automation Engineer – FinTech and SaaS industry role",
+      "requirements": "Senior QA Automation Engineer; fintech and SaaS; likely Playwright/API/CI/CD-oriented role with automation focus",
+      "notes": "Applied through recruiter Patrycja Bochnia: https://www.linkedin.com/in/patrycja-bochnia/ and via company form.",
       "links": [
-        "https://justjoin.it/job-offer/itds-senior-test-automation-krakow-testing-a48927cf"
+        "https://itds.pl/it-jobs/senior-qa-automation-engineer-fintech-and-saas-industry/"
       ],
       "fit": "100/100",
       "recommendedCv": "CV 2",
-      "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:47.735Z"
+      "outreach": "Applied via Patrycja Bochnia (LinkedIn) and company form",
+      "updatedAt": "2026-04-24T07:53:03.328Z",
+      "salaryAsk": ""
     },
     {
       "slug": "iteamly",

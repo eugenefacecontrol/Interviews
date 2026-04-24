@@ -34,7 +34,7 @@ This is the canonical human-readable list of interview companies.
 | Infogain | target | cv_to_send | 88/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.335Z |
 | Intellias | target | cv_to_send | 69/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.771Z |
 | Inuits | target | cv_to_send | 7/10 |  |  |  | 2026-04-02T22:38:53.974771+00:00 |
-| ITDS | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.735Z |
+| ITDS | applied | application_sent | 100/100 | CV 2 |  | Applied via Patrycja Bochnia (LinkedIn) and company form | 2026-04-24T07:53:03.328Z |
 | iTeamly | target | cv_to_send | 98/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.033Z |
 | Jacobs | rejected | rejected | 8/10 | CV 2 |  | Rejected after application review | 2026-04-16T08:38:34.374Z |
 | Kaseya | rejected | rejected | 3/10 | CV 2 |  | Rejected by Kaseya after prior recruiter response / scheduling stage | 2026-04-14T08:59:07.401Z |
