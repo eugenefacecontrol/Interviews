@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T09:51:52.896Z",
+  "generatedAt": "2026-04-24T10:01:23.530Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -956,6 +956,23 @@
       "salaryAsk": "",
       "outreach": "CV sent to @regina_ihr3 via Telegram",
       "updatedAt": "2026-04-22T13:58:41.364Z"
+    },
+    {
+      "slug": "tenarai-europe",
+      "name": "Tenarai Europe",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied for Senior Software QA / SDET role",
+      "requirements": "Senior Software QA / SDET; exact stack TBD from LinkedIn posting",
+      "notes": "Applied. Contact person: Wiktoria Banaś-Gałecka https://www.linkedin.com/in/wiktoria-bana%C5%9B-ga%C5%82ecka-902b5a23a/.",
+      "links": [
+        "https://www.linkedin.com/jobs/view/4398467927"
+      ],
+      "fit": true,
+      "recommendedCv": "CV 2",
+      "salaryAsk": "",
+      "outreach": "Applied via Wiktoria Banaś-Gałecka",
+      "updatedAt": "2026-04-24T10:01:23.524Z"
     },
     {
       "slug": "twinslash",
