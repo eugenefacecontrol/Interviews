@@ -43,7 +43,7 @@ This is the canonical human-readable list of interview companies.
 | Miquido | applied | application_sent | 7/10 | CV 2 |  | Applied via company site | 2026-04-08T10:29:36.348Z |
 | Mitrix Technology | rejected | rejected | low | CV 2 |  |  | 2026-04-02T13:53:34.666Z |
 | Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  |  | 2026-04-03T09:08:47.467Z |
-| N-iX | target | cv_to_send | 76/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.650Z |
+| N-iX | applied | application_sent | 76/100 | CV 2 |  | Applied via Olga Dmytryshyn | 2026-04-24T17:32:02.889Z |
 | Onwelo Sp. z o.o. | applied | application_sent | 81/100 | CV 2 |  | Applied via Monika Kulisz | 2026-04-24T11:12:58.763Z |
 | Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 |  | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
 | People More | target | cv_to_send | 3/10 |  |  |  | 2026-04-02T22:38:53.974758+00:00 |

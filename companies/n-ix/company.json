@@ -1,16 +1,17 @@
 {
   "slug": "n-ix",
   "name": "N-iX",
-  "status": "target",
-  "stage": "cv_to_send",
-  "process": "Imported from JustJoinIt shortlist",
-  "requirements": "Middle AQA (C#) Engineer; Stack: Selenium, REST, API, Performance",
-  "notes": "Imported from ranked shortlist CSV. Vacancy: Middle AQA (C#) Engineer.",
+  "status": "applied",
+  "stage": "application_sent",
+  "process": "Applied for Senior Automation QA Engineer role",
+  "requirements": "Senior Automation QA Engineer; exact stack TBD from LinkedIn posting",
+  "notes": "Applied. Contact person: Olga Dmytryshyn https://www.linkedin.com/in/olga-dmytryshyn-46a9b7161/.",
   "links": [
-    "https://justjoin.it/job-offer/n-ix-middle-aqa-c-engineer-krakow-testing-019c2410"
+    "https://www.linkedin.com/jobs/view/4336629239"
   ],
   "fit": "76/100",
   "recommendedCv": "CV 2",
-  "outreach": "Shortlisted from CSV",
-  "updatedAt": "2026-04-16T10:25:48.650Z"
+  "salaryAsk": "",
+  "outreach": "Applied via Olga Dmytryshyn",
+  "updatedAt": "2026-04-24T17:32:02.889Z"
 }

@@ -1,19 +1,20 @@
 # N-iX
 
-- Status: target
-- Stage: cv_to_send
+- Status: applied
+- Stage: application_sent
 - Fit: 76/100
 - Recommended CV: CV 2
-- Outreach: Shortlisted from CSV
+- Salary Ask: —
+- Outreach: Applied via Olga Dmytryshyn
 
 ## Process
-Imported from JustJoinIt shortlist
+Applied for Senior Automation QA Engineer role
 
 ## Requirements
-Middle AQA (C#) Engineer; Stack: Selenium, REST, API, Performance
+Senior Automation QA Engineer; exact stack TBD from LinkedIn posting
 
 ## Notes
-Imported from ranked shortlist CSV. Vacancy: Middle AQA (C#) Engineer.
+Applied. Contact person: Olga Dmytryshyn https://www.linkedin.com/in/olga-dmytryshyn-46a9b7161/.
 
 ## Links
-- https://justjoin.it/job-offer/n-ix-middle-aqa-c-engineer-krakow-testing-019c2410
+- https://www.linkedin.com/jobs/view/4336629239
