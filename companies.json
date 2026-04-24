@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T11:33:38.005Z",
+  "generatedAt": "2026-04-24T06:44:50.448Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -168,18 +168,19 @@
     {
       "slug": "b2bnetwork",
       "name": "B2Bnetwork",
-      "status": "target",
-      "stage": "cv_to_send",
-      "process": "Imported from JustJoinIt shortlist",
-      "requirements": "Test Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, CI/CD",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Test Automation Engineer.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied for Tester Automatyzujący Senior role",
+      "requirements": "Senior QA / Test Automation role with strong banking context; manual testing of web and mobile; banking/investment products knowledge; Jira/Confluence; scenarios/documentation/bug reporting; accessibility/WCAG/NVDA as plus; Polish likely important",
+      "notes": "Applied. Re-evaluated fit downward because the role appears to require stronger Polish and stronger banking/manual domain fit than initially assumed from CSV keyword matching.",
       "links": [
-        "https://justjoin.it/job-offer/b2bnetwork-test-automation-engineer-warszawa-testing-38476f93"
+        "https://www.linkedin.com/jobs/view/4328771638"
       ],
-      "fit": "100/100",
+      "fit": "62/100",
       "recommendedCv": "CV 2",
-      "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:47.559Z"
+      "outreach": "Applied via LinkedIn",
+      "updatedAt": "2026-04-24T06:44:50.442Z",
+      "salaryAsk": ""
     },
     {
       "slug": "be-in-it",

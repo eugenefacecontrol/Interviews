@@ -1,19 +1,20 @@
 # B2Bnetwork
 
-- Status: target
-- Stage: cv_to_send
-- Fit: 100/100
+- Status: applied
+- Stage: application_sent
+- Fit: 62/100
 - Recommended CV: CV 2
-- Outreach: Shortlisted from CSV
+- Salary Ask: —
+- Outreach: Applied via LinkedIn
 
 ## Process
-Imported from JustJoinIt shortlist
+Applied for Tester Automatyzujący Senior role
 
 ## Requirements
-Test Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, CI/CD
+Senior QA / Test Automation role with strong banking context; manual testing of web and mobile; banking/investment products knowledge; Jira/Confluence; scenarios/documentation/bug reporting; accessibility/WCAG/NVDA as plus; Polish likely important
 
 ## Notes
-Imported from ranked shortlist CSV. Vacancy: Test Automation Engineer.
+Applied. Re-evaluated fit downward because the role appears to require stronger Polish and stronger banking/manual domain fit than initially assumed from CSV keyword matching.
 
 ## Links
-- https://justjoin.it/job-offer/b2bnetwork-test-automation-engineer-warszawa-testing-38476f93
+- https://www.linkedin.com/jobs/view/4328771638
