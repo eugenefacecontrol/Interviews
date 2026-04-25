@@ -1,17 +1,17 @@
 {
   "slug": "pwrteams",
   "name": "Pwrteams",
-  "status": "closed",
-  "stage": "position_closed",
-  "process": "Position no longer active",
+  "status": "applied",
+  "stage": "application_sent",
+  "process": "Applied for Senior Quality Engineer role",
   "requirements": "Senior Quality Engineer; Playwright, Java, REST, API, CI/CD, TypeScript",
-  "notes": "Position is no longer active.",
+  "notes": "Applied. Contact person: Anastasiia Kravchuk https://www.linkedin.com/in/anastasiabrazhnikova/.",
   "links": [
-    "https://justjoin.it/job-offer/pwrteams-senior-quality-engineer-warszawa-testing"
+    "https://www.linkedin.com/jobs/view/4314130729"
   ],
   "fit": "100/100",
   "recommendedCv": "CV 2",
   "salaryAsk": "",
-  "outreach": "Position closed / inactive",
-  "updatedAt": "2026-04-24T09:51:52.890Z"
+  "outreach": "Applied via Anastasiia Kravchuk",
+  "updatedAt": "2026-04-25T19:51:31.638Z"
 }

@@ -47,7 +47,7 @@ This is the canonical human-readable list of interview companies.
 | Onwelo Sp. z o.o. | applied | application_sent | 81/100 | CV 2 |  | Applied via Monika Kulisz | 2026-04-24T11:12:58.763Z |
 | Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 |  | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
 | People More | target | cv_to_send | 3/10 |  |  |  | 2026-04-02T22:38:53.974758+00:00 |
-| Pwrteams | closed | position_closed | 100/100 | CV 2 |  | Position closed / inactive | 2026-04-24T09:51:52.890Z |
+| Pwrteams | applied | application_sent | 100/100 | CV 2 |  | Applied via Anastasiia Kravchuk | 2026-04-25T19:51:31.638Z |
 | Remodevs | target | cv_to_send | 51/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.014Z |
 | Remote People | applied | application_sent | 8/10 | CV 2 |  | Applied via Greenhouse | 2026-04-12T14:20:59.410Z |
 | SCALO | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.915Z |
