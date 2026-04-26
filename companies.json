@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T19:51:31.644Z",
+  "generatedAt": "2026-04-26T07:40:52.395Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -185,18 +185,19 @@
     {
       "slug": "be-in-it",
       "name": "Be in IT",
-      "status": "target",
-      "stage": "cv_to_send",
-      "process": "Imported from JustJoinIt shortlist",
-      "requirements": "Senior Selenium Automation Tester; Stack: Playwright, Java, Selenium, REST, API, CI/CD",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Senior Selenium Automation Tester.",
+      "status": "closed",
+      "stage": "position_closed",
+      "process": "Position no longer active",
+      "requirements": "Senior Selenium Automation Tester; Playwright, Java, Selenium, REST, API, CI/CD",
+      "notes": "Position appears expired / no longer active.",
       "links": [
         "https://justjoin.it/job-offer/be-in-it-senior-selenium-automation-tester-krakow-testing"
       ],
       "fit": "100/100",
       "recommendedCv": "CV 2",
-      "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:47.617Z"
+      "outreach": "Position closed / expired",
+      "updatedAt": "2026-04-26T07:40:52.389Z",
+      "salaryAsk": ""
     },
     {
       "slug": "britenet",

@@ -14,7 +14,7 @@ This is the canonical human-readable list of interview companies.
 | Asseco Poland S.A. | target | cv_to_send | 89/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.208Z |
 | Avenga | applied | outreach_sent | 9/10 | CV 2 |  | Applied via site; sent to Karolina Zamysłowska (LinkedIn) | 2026-04-03T21:47:49.503Z |
 | B2Bnetwork | applied | application_sent | 62/100 | CV 2 |  | Applied via LinkedIn | 2026-04-24T06:44:50.442Z |
-| Be in IT | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.617Z |
+| Be in IT | closed | position_closed | 100/100 | CV 2 |  | Position closed / expired | 2026-04-26T07:40:52.389Z |
 | Britenet | target | cv_to_send | 56/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.893Z |
 | Capco | rejected | rejected | 4.65/5 | CV 2 |  | Rejected after application review | 2026-04-14T07:16:40.944Z |
 | ClearCourse Dev | target | cv_to_send | 46/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.074Z |
