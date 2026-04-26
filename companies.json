@@ -180,7 +180,9 @@
       "recommendedCv": "CV 2",
       "outreach": "Applied via LinkedIn",
       "updatedAt": "2026-04-24T06:44:50.442Z",
-      "salaryAsk": ""
+      "salaryAsk": "",
+      "role": "Tester Automatyzujący Senior",
+      "stack": "Banking domain, web/mobile testing, Jira/Confluence, accessibility/WCAG/NVDA, manual + automation"
     },
     {
       "slug": "be-in-it",
@@ -297,7 +299,9 @@
       "fit": "100/100",
       "recommendedCv": "CV 2",
       "outreach": "Applied via JustJoinIt",
-      "updatedAt": "2026-04-16T15:21:42.904Z"
+      "updatedAt": "2026-04-16T15:21:42.904Z",
+      "role": "Automation Tester",
+      "stack": "Java or Python, Selenium, REST, CI/CD, Performance"
     },
     {
       "slug": "debridge",
@@ -314,7 +318,9 @@
       "recommendedCv": "CV 2",
       "salaryAsk": "",
       "outreach": "Applied via Telegram to @leo_lomaev",
-      "updatedAt": "2026-04-23T07:05:02.485Z"
+      "updatedAt": "2026-04-23T07:05:02.485Z",
+      "role": "QA Backend Engineer",
+      "stack": "Backend testing, REST API, SQL, JavaScript/TypeScript, data flows, load/performance"
     },
     {
       "slug": "edge-one-solutions-sp-z-o-o",
@@ -362,7 +368,9 @@
       "recommendedCv": "CV 2",
       "outreach": "Applied via Tatsiana Zubkova and EPAM careers",
       "updatedAt": "2026-04-24T20:59:54.172Z",
-      "salaryAsk": ""
+      "salaryAsk": "",
+      "role": "Senior Automation Tester in Java / Test Automation Engineer (Java)",
+      "stack": "Java, automation testing"
     },
     {
       "slug": "eset",
@@ -534,7 +542,9 @@
       "recommendedCv": "CV 2",
       "outreach": "Applied via Patrycja Bochnia (LinkedIn) and company form",
       "updatedAt": "2026-04-24T07:53:03.328Z",
-      "salaryAsk": ""
+      "salaryAsk": "",
+      "role": "Senior QA Automation Engineer",
+      "stack": "Fintech/SaaS, Playwright, API, CI/CD"
     },
     {
       "slug": "iteamly",
@@ -598,7 +608,9 @@
       "fit": "7/10",
       "recommendedCv": "CV 2",
       "outreach": "Applied via company site",
-      "updatedAt": "2026-04-15T17:55:29.230Z"
+      "updatedAt": "2026-04-15T17:55:29.230Z",
+      "role": "Middle Automation QA Engineer",
+      "stack": "Automation/quality engineering, Java/Selenide-oriented, complex integrations"
     },
     {
       "slug": "link-group",
@@ -683,7 +695,9 @@
       "recommendedCv": "CV 2",
       "outreach": "Applied via Olga Dmytryshyn",
       "updatedAt": "2026-04-24T17:32:02.889Z",
-      "salaryAsk": ""
+      "salaryAsk": "",
+      "role": "Senior Automation QA Engineer",
+      "stack": "Playwright, API automation, CI integration, TypeScript/JavaScript"
     },
     {
       "slug": "onwelo-sp-z-o-o",
@@ -700,7 +714,9 @@
       "recommendedCv": "CV 2",
       "outreach": "Applied via Monika Kulisz",
       "updatedAt": "2026-04-24T11:12:58.763Z",
-      "salaryAsk": ""
+      "salaryAsk": "",
+      "role": "Test Automation Engineer",
+      "stack": "Playwright, Java, Selenium, REST, API, TypeScript"
     },
     {
       "slug": "pacaya-hr-experts",
@@ -716,7 +732,9 @@
       "fit": "8/10",
       "recommendedCv": "CV 2",
       "outreach": "Applied via LinkedIn",
-      "updatedAt": "2026-04-19T07:02:15.387Z"
+      "updatedAt": "2026-04-19T07:02:15.387Z",
+      "role": "QA / Test Automation role",
+      "stack": "Playwright, API testing, exploratory testing, CI/CD, QA metrics, AI/product environment"
     },
     {
       "slug": "people-more",
@@ -751,7 +769,9 @@
       "recommendedCv": "CV 2",
       "outreach": "Applied via Anastasiia Kravchuk",
       "updatedAt": "2026-04-25T19:51:31.638Z",
-      "salaryAsk": ""
+      "salaryAsk": "",
+      "role": "Senior Quality Engineer",
+      "stack": "Playwright, Java, REST, API, CI/CD, TypeScript"
     },
     {
       "slug": "remodevs",
@@ -783,7 +803,9 @@
       "fit": "8/10",
       "recommendedCv": "CV 2",
       "outreach": "Applied via Greenhouse",
-      "updatedAt": "2026-04-12T14:20:59.410Z"
+      "updatedAt": "2026-04-12T14:20:59.410Z",
+      "role": "QA Automation Engineer",
+      "stack": "Playwright, API testing, Jira, Git, SaaS/product QA, DevOps awareness, CI/CD"
     },
     {
       "slug": "scalo",
@@ -847,7 +869,9 @@
       "recommendedCv": "CV 2",
       "salaryAsk": "",
       "outreach": "Applied via company form",
-      "updatedAt": "2026-04-25T08:13:05.550Z"
+      "updatedAt": "2026-04-25T08:13:05.550Z",
+      "role": "QA Automation Engineer",
+      "stack": "Playwright, API/UI testing, CI/CD"
     },
     {
       "slug": "specific-group",
@@ -880,7 +904,9 @@
       "fit": "8/10",
       "recommendedCv": "CV 2",
       "outreach": "Applied via No Fluff Jobs",
-      "updatedAt": "2026-04-12T15:02:52.135Z"
+      "updatedAt": "2026-04-12T15:02:52.135Z",
+      "role": "Senior QA Automation Engineer (Playwright)",
+      "stack": "Playwright, remote"
     },
     {
       "slug": "state-street",
@@ -913,7 +939,9 @@
       "recommendedCv": "CV 2",
       "salaryAsk": true,
       "outreach": "Marina Yanusheuskaya",
-      "updatedAt": "2026-04-23T11:33:37.999Z"
+      "updatedAt": "2026-04-23T11:33:37.999Z",
+      "role": "Senior QA Automation Engineer with Agentic Dev",
+      "stack": "Playwright/Cypress, UI/API/performance/security testing, Azure DevOps, GitHub Actions, AI-assisted testing"
     },
     {
       "slug": "stonex-poland",
@@ -979,7 +1007,9 @@
       "recommendedCv": "CV 2",
       "salaryAsk": "",
       "outreach": "CV sent to @regina_ihr3 via Telegram",
-      "updatedAt": "2026-04-22T13:58:41.364Z"
+      "updatedAt": "2026-04-22T13:58:41.364Z",
+      "role": "QA Engineer (Manual + Automation)",
+      "stack": "Postman/Swagger, Playwright/Cypress, Python or JS/TS, GitLab CI, SQL"
     },
     {
       "slug": "tenarai-europe",
@@ -1013,7 +1043,9 @@
       "recommendedCv": "CV 2",
       "salaryAsk": "",
       "outreach": "CV sent via Telegram to @It_recruiter_tech",
-      "updatedAt": "2026-04-23T07:11:56.821Z"
+      "updatedAt": "2026-04-23T07:11:56.821Z",
+      "role": "Senior QA Automation Engineer",
+      "stack": "Pytest, Playwright, Selenium, REST API, AI platform context"
     },
     {
       "slug": "ubiquiti",
@@ -1046,7 +1078,9 @@
       "recommendedCv": "CV 2",
       "salaryAsk": "",
       "outreach": "Contacted @andrey_kokhan via Telegram",
-      "updatedAt": "2026-04-22T10:39:10.363Z"
+      "updatedAt": "2026-04-22T10:39:10.363Z",
+      "role": "Telegram vacancy outreach",
+      "stack": "TBD"
     },
     {
       "slug": "unknown-telegram-vacancy-via-regina-ihr3",
@@ -1063,7 +1097,9 @@
       "recommendedCv": "CV 2",
       "salaryAsk": "",
       "outreach": "CV sent to @regina_ihr3 via Telegram",
-      "updatedAt": "2026-04-22T13:57:24.802Z"
+      "updatedAt": "2026-04-22T13:57:24.802Z",
+      "role": "Telegram vacancy with CV sent",
+      "stack": "TBD"
     },
     {
       "slug": "upvanta-sp-z-o-o",
