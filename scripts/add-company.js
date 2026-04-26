@@ -67,7 +67,7 @@ function saveMarkdown(data) {
 function main() {
   const args = parseArgs(process.argv);
   if (!args.name) {
-    console.error('Usage: interviews-add --name "Company" [--status ...] [--stage ...] [--process ...] [--requirements ...] [--notes ...] [--links ...] [--fit ...] [--recommended-cv ...] [--salary-ask ...] [--outreach ...]');
+    console.error('Usage: interviews-add --name "Company" [--role ...] [--stack ...] [--status ...] [--stage ...] [--process ...] [--requirements ...] [--notes ...] [--links ...] [--fit ...] [--recommended-cv ...] [--salary-ask ...] [--outreach ...] [--outreach-url ...]');
     process.exit(1);
   }
 
@@ -81,6 +81,8 @@ function main() {
   const entry = {
     slug,
     name: args.name,
+    role: args.role || '',
+    stack: args.stack || '',
     status: args.status || 'new',
     stage: args.stage || '',
     process: args.process || '',
@@ -91,6 +93,7 @@ function main() {
     recommendedCv: args['recommended-cv'] || '',
     salaryAsk: args['salary-ask'] || '',
     outreach: args.outreach || '',
+    outreachUrl: args['outreach-url'] || '',
     updatedAt: now
   };
 
@@ -109,6 +112,8 @@ function main() {
   const readme = [
     `# ${entry.name}`,
     '',
+    `- Role: ${entry.role || '—'}`,
+    `- Stack: ${entry.stack || '—'}`,
     `- Status: ${entry.status}`,
     `- Stage: ${entry.stage}`,
     `- Fit: ${entry.fit || '—'}`,

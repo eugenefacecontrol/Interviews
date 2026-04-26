@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T07:40:52.395Z",
+  "generatedAt": "2026-04-26T18:07:13.808Z",
   "companies": [
     {
       "slug": "ailleron",
@@ -604,17 +604,21 @@
       "slug": "link-group",
       "name": "Link Group",
       "status": "target",
-      "stage": "cv_to_send",
-      "process": "Imported from JustJoinIt shortlist",
-      "requirements": "Senior QA Java; Stack: Java, REST, API, CI/CD, Docker",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Java.",
+      "stage": "recruiter_outreach",
+      "process": "Tracked from job listing / recruiter contact",
+      "requirements": "Senior QA Java; Java, REST, API, CI/CD, Docker",
+      "notes": "Contact person: Przemysław Lorek https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
       "links": [
         "https://justjoin.it/job-offer/link-group-senior-qa-java-warszawa-testing"
       ],
-      "fit": "100/100",
+      "fit": "58/100",
       "recommendedCv": "CV 2",
-      "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:47.795Z"
+      "outreach": "Przemysław Lorek",
+      "updatedAt": "2026-04-26T18:07:13.801Z",
+      "role": "Senior QA Java",
+      "stack": "Java, REST, API, CI/CD, Docker",
+      "salaryAsk": "",
+      "outreachUrl": "https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
     },
     {
       "slug": "miquido",

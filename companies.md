@@ -39,7 +39,7 @@ This is the canonical human-readable list of interview companies.
 | Jacobs | rejected | rejected | 8/10 | CV 2 |  | Rejected after application review | 2026-04-16T08:38:34.374Z |
 | Kaseya | rejected | rejected | 3/10 | CV 2 |  | Rejected by Kaseya after prior recruiter response / scheduling stage | 2026-04-14T08:59:07.401Z |
 | Keepit | applied | application_sent | 7/10 | CV 2 |  | Applied via company site | 2026-04-15T17:55:29.230Z |
-| Link Group | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.795Z |
+| Link Group | target | recruiter_outreach | 58/100 | CV 2 |  | Przemysław Lorek | 2026-04-26T18:07:13.801Z |
 | Miquido | applied | application_sent | 7/10 | CV 2 |  | Applied via company site | 2026-04-08T10:29:36.348Z |
 | Mitrix Technology | rejected | rejected | low | CV 2 |  |  | 2026-04-02T13:53:34.666Z |
 | Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  |  | 2026-04-03T09:08:47.467Z |
