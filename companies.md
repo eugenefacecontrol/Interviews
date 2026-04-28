@@ -53,7 +53,7 @@ This is the canonical human-readable list of interview companies.
 | SCALO | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.915Z |
 | Sii | target | cv_to_send | 91/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.150Z |
 | SOFTSWISS | closed | position_closed | 5/10 | CV 2 |  | Position closed after referral by Rusovich | 2026-04-15T17:56:20.371Z |
-| Software Mansion S.A. | applied | application_sent | true | CV 2 |  | Applied via company form | 2026-04-25T08:13:05.550Z |
+| Software Mansion S.A. | rejected | rejected | true | CV 2 |  | Rejected by Dominika Mytych due to Polish language requirement | 2026-04-28T07:35:33.190Z |
 | Specific-Group | target | recruiter_outreach | 8/10 | CV 2 | 150 PLN/h | Recruiter outreach from Anastasia Markitan (LinkedIn) | 2026-04-19T14:27:15.545Z |
 | SquareOne | applied | application_sent | 8/10 | CV 2 |  | Applied via No Fluff Jobs | 2026-04-12T15:02:52.135Z |
 | State Street | target | cv_to_send | 72/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.710Z |

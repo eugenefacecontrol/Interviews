@@ -1,15 +1,18 @@
 {
   "slug": "software-mansion-s-a",
   "name": "Software Mansion S.A.",
-  "status": "applied",
-  "stage": "application_sent",
-  "process": "Applied despite position appearing closed",
+  "role": "",
+  "stack": "",
+  "status": "rejected",
+  "stage": "rejected",
+  "process": "Rejected after application review",
   "requirements": "QA Automation Engineer; Playwright; API/UI testing; CI/CD; engineering-driven environment",
-  "notes": "Applied even though the position appeared closed/expired at the time of submission.",
+  "notes": "Rejected after application review. Reason given by Dominika Mytych: they are recruiting candidates who can communicate in Polish quite freely (at least B2 level), as internal communication is conducted in Polish.",
   "links": [],
   "fit": true,
   "recommendedCv": "CV 2",
   "salaryAsk": "",
-  "outreach": "Applied via company form",
-  "updatedAt": "2026-04-25T08:13:05.550Z"
+  "outreach": "Rejected by Dominika Mytych due to Polish language requirement",
+  "outreachUrl": "",
+  "updatedAt": "2026-04-28T07:35:33.190Z"
 }

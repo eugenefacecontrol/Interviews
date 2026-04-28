@@ -1,20 +1,22 @@
 # Software Mansion S.A.
 
-- Status: applied
-- Stage: application_sent
+- Role: —
+- Stack: —
+- Status: rejected
+- Stage: rejected
 - Fit: true
 - Recommended CV: CV 2
 - Salary Ask: —
-- Outreach: Applied via company form
+- Outreach: Rejected by Dominika Mytych due to Polish language requirement
 
 ## Process
-Applied despite position appearing closed
+Rejected after application review
 
 ## Requirements
 QA Automation Engineer; Playwright; API/UI testing; CI/CD; engineering-driven environment
 
 ## Notes
-Applied even though the position appeared closed/expired at the time of submission.
+Rejected after application review. Reason given by Dominika Mytych: they are recruiting candidates who can communicate in Polish quite freely (at least B2 level), as internal communication is conducted in Polish.
 
 ## Links
 
