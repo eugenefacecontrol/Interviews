@@ -1,19 +1,22 @@
 # DataArt
 
-- Status: applied
-- Stage: application_sent
-- Fit: 8/10
+- Role: AQA Engineer with Playwright
+- Stack: Playwright, JavaScript/TypeScript, API testing, GitHub Actions, CI/CD, Git, defect tracking, AI-assisted QA
+- Status: contacted
+- Stage: recruiter_outreach
+- Fit: 92/100
 - Recommended CV: CV 2
-- Outreach: Applied via JustJoinIt
+- Salary Ask: —
+- Outreach: Kseniya Bazhenova
 
 ## Process
-Applied for Test Automation Engineer role
+LinkedIn outreach sent regarding AQA Engineer with Playwright opening
 
 ## Requirements
-Test Automation Engineer; 3+ years; two programming languages; two automation tools; API and UI automation; Git/Bitbucket; REST; reusable test frameworks; QAA process from scratch; Agile
+Strong Playwright; UI and API automation; CI/CD integration; Git; test plans, regression suites, defect tracking; AI tooling nice to have
 
 ## Notes
-Applied via JustJoinIt for DataArt Test Automation Engineer role. Strong fit on Playwright, UI/API automation, CI/CD, reusable frameworks, and DevOps-aligned QA background.
+User sent message to Kseniya Bazhenova via LinkedIn regarding vacancy https://www.dataart.team/vacancies/QAA00190
 
 ## Links
-- https://justjoin.it/job-offer/dataart-test-automation-engineer-it-services-krakow-testing
+- https://www.dataart.team/vacancies/QAA00190
