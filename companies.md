@@ -25,6 +25,7 @@ This is the canonical human-readable list of interview companies.
 | Edge One Solutions Sp. z o.o | target | cv_to_send | 96/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.092Z |
 | EffectiveSoft | rejected | rejected | low | CV 2 |  | Rejected after recruiter clarification from Olga Simonova (LinkedIn) | 2026-04-19T05:34:49.451Z |
 | EPAM Systems | applied | application_sent | 84/100 | CV 2 |  | Applied via Tatsiana Zubkova and EPAM careers | 2026-04-24T20:59:54.172Z |
+| ERP Works | rejected | rejected | 90/100 | CV 2 |  | Sam / ERP Works | 2026-05-05T13:28:29.455Z |
 | ESET | target | cv_to_send | 6/10 |  |  |  | 2026-04-02T22:38:53.974753+00:00 |
 | Euroclear | target | cv_to_send | 4/10 |  |  |  | 2026-04-02T22:38:53.974755+00:00 |
 | Experis Manpower Group | target | cv_to_send | 88/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.272Z |
