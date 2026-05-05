@@ -7,14 +7,14 @@
   "stage": "recruiter_outreach",
   "process": "LinkedIn outreach sent regarding AQA Engineer with Playwright opening",
   "requirements": "Strong Playwright; UI and API automation; CI/CD integration; Git; test plans, regression suites, defect tracking; AI tooling nice to have",
-  "notes": "User sent message to Kseniya Bazhenova via LinkedIn regarding vacancy https://www.dataart.team/vacancies/QAA00190",
+  "notes": "User sent message to Kseniya Bazhenova via LinkedIn regarding vacancy https://www.dataart.team/vacancies/QAA00190\nUser also sent outreach to Yuliia Shkotina via LinkedIn: https://www.linkedin.com/in/yuliia-shkotina-b32050a2/",
   "links": [
     "https://www.dataart.team/vacancies/QAA00190"
   ],
   "fit": "92/100",
   "recommendedCv": "CV 2",
   "salaryAsk": "",
-  "outreach": "Kseniya Bazhenova",
+  "outreach": "Kseniya Bazhenova; Yuliia Shkotina",
   "outreachUrl": "https://www.linkedin.com/in/kseniya-bazhenova-095871aa/",
   "updatedAt": "2026-05-05T16:54:26.360Z"
 }
