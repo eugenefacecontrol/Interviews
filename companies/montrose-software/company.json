@@ -1,0 +1,20 @@
+{
+  "slug": "montrose-software",
+  "name": "Montrose Software",
+  "role": "QA Automation Engineer",
+  "stack": "Playwright, Selenium, Python/JavaScript/TypeScript, SQL, Agile/Scrum, Jira",
+  "status": "target",
+  "stage": "cv_prepared",
+  "process": "CV prepared for JustJoinIt application",
+  "requirements": "Automation in manual-heavy project, framework building, coverage/reliability, strong QA fundamentals",
+  "notes": "Location: Kraków / Poland (remote option). Format: B2B or Permanent. Risks: not Python-first profile; healthcare domain is not core background. Recommended CV: tailored-cv/montrose-software-qa-automation-engineer.md",
+  "links": [
+    "https://justjoin.it/job-offer/montrose-software-qa-automation-engineer-krakow-testing"
+  ],
+  "fit": "80/100",
+  "recommendedCv": "tailored-cv/montrose-software-qa-automation-engineer.md",
+  "salaryAsk": "",
+  "outreach": "CV prepared",
+  "outreachUrl": "",
+  "updatedAt": "2026-05-06T18:00:20.505Z"
+}
