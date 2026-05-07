@@ -2,17 +2,19 @@
   "slug": "aristocrat",
   "name": "Aristocrat",
   "status": "target",
-  "stage": "cv_to_send",
-  "process": "Initial outreach / CV submission planned",
-  "requirements": "Role: QA Automation; Stack: C#, API, BDD; Salary: 100-130 PLN/h",
-  "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
+  "stage": "cv_prepared",
+  "process": "Preparing application for QA Automation Engineer (C#, Middle Level) position",
+  "requirements": "Role: QA Automation Engineer (C#, Middle Level); Stack: C#, Java, API, Selenium, SpecFlow, BDD; English B2; Salary: not specified",
+  "notes": "Updated with detailed job description from justjoin.it. Position requires at least 2 years of experience as a Test Automation Engineer, demonstrated expertise in JAVA and C# programming language, API automation testing, SpecFlow Framework or other BDD frameworks. Good fit for profile with C# and Java experience.",
   "links": [
-    "https://nofluffjobs.com"
+    "https://justjoin.it/job-offer/aristocrat-qa-automation-engineer-c-middle-level--krakow-testing"
   ],
-  "updatedAt": "2026-04-02T22:38:53.974766+00:00",
-  "role": "QA Automation",
-  "salary": "100-130 PLN/h",
-  "stack": "C#, API, BDD",
-  "fit": "5/10",
-  "cv": "qa-devops-cv.pdf"
+  "updatedAt": "2026-05-07T12:00:00.000Z",
+  "role": "QA Automation Engineer (C#, Middle Level)",
+  "stack": "C#, Java, API, Selenium, SpecFlow, BDD",
+  "fit": "8/10",
+  "cv": "qa-devops-cv.pdf",
+  "recommendedCv": "CV 2",
+  "salary": "Not specified",
+  "outreach": "Preparing application"
 }
