@@ -65,6 +65,7 @@ This is the canonical human-readable list of interview companies.
 | StoneX Poland | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.973Z |
 | Strategicsiq | target | cv_to_send | 5/10 |  |  |  | 2026-04-02T22:38:53.974740+00:00 |
 | Svitla Systems | rejected | screening | medium | CV 2 |  |  | 2026-04-02T13:53:34.725Z |
+| Scalable Solutions | rejected | rejected | 5/10 | CV 2 |  | Maryia Klimianok — rejected, Python stack mismatch | 2026-05-08T14:00:00.000Z |
 | Telement | contacted | cv_sent | 8/10 | CV 2 |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:58:41.364Z |
 | Tenarai Europe | closed | position_closed | true | CV 2 |  | Applied via Wiktoria Banaś-Gałecka | 2026-04-24T10:29:46.207Z |
 | Twinslash | contacted | cv_sent | 6.5/10 | CV 2 |  | CV sent via Telegram to @It_recruiter_tech | 2026-04-23T07:11:56.821Z |

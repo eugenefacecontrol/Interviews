@@ -1076,6 +1076,26 @@
       "updatedAt": "2026-04-02T13:53:34.725Z"
     },
     {
+      "slug": "scalable-solutions",
+      "name": "Scalable Solutions",
+      "role": "QA Automation Engineer (Python, Backend)",
+      "stack": "Python, API testing, CI/CD, Linux, SQL, model-based testing, exchange/trading systems",
+      "status": "rejected",
+      "stage": "rejected",
+      "process": "Rejected by Maryia Klimianok — team requires 2+ years of continuous Python experience as their entire automation framework is built on Python",
+      "requirements": "5+ years testing experience; 3+ years Python; fintech knowledge; trading/exchange experience a plus; API and backend automation in Python; CI/CD; Linux shell; SQL; ability to read C++ code",
+      "notes": "Maryia Klimianok said they cannot proceed — Python is critical for their team, requiring 2+ years of continuous experience as their main automation framework is built on Python. She acknowledged strong C# and JS/TS automation background and banking systems experience. She offered to get back in touch when positions with a more suitable stack open up.",
+      "links": [
+        "https://www.linkedin.com/in/maryiaklimianok/"
+      ],
+      "fit": "5/10",
+      "recommendedCv": "CV 2",
+      "salary": "Competitive (discussed during interview)",
+      "outreach": "Maryia Klimianok — rejected, Python stack mismatch",
+      "outreachUrl": "https://www.linkedin.com/in/maryiaklimianok/",
+      "updatedAt": "2026-05-08T14:00:00.000Z"
+    },
+    {
       "slug": "telement",
       "name": "Telement",
       "status": "contacted",
