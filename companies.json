@@ -275,16 +275,17 @@
       "name": "Coherent Solutions",
       "status": "applying",
       "stage": "message_prep",
-      "process": "Preparing application for QA Automation Engineer in travel and transportation sphere",
-      "requirements": "QA Automation Engineer; travel/transportation; microservices; API/E2E/contract/performance testing; Python; SQL; Postman; Datadog; Robot Framework; Playwright; REST; Pub/Sub; Kafka; Kubernetes; GCP; CI/CD; Agile",
-      "notes": "Preparing to apply. Strong fit on API, Playwright, CI/CD, microservices mindset; weaker on Python depth, Robot Framework, and GCP-specific experience.",
+      "process": "Preparing message to Gleb Gusev (LinkedIn) for QA Automation Engineer (Digital Engineering) position",
+      "requirements": "QA Automation Engineer; insurance/financial domain; Python; Azure; SQL; Databricks; data pipelines; automation frameworks; manual testing; 3+ years QA; B2 English",
+      "notes": "Gleb Gusev reached out on LinkedIn. Client is a leading life insurance company. Project focuses on quality and reliability of financial systems, data processing validation. Strong fit on API testing, SQL, CI/CD, Azure, automation frameworks; weaker on Python depth and Databricks-specific experience. Fit: 7/10.",
       "links": [
-        "https://www.coherentsolutions.com/careers/qa-automation-engineer-travel-and-transportation-sphere"
+        "https://www.linkedin.com/jobs/view/4402421763"
       ],
       "fit": "7/10",
       "recommendedCv": "CV 2",
-      "outreach": "Preparing application",
-      "updatedAt": "2026-04-07T13:33:45.994Z"
+      "outreach": "Gleb Gusev (LinkedIn) — preparing message",
+      "outreachUrl": "https://www.linkedin.com/in/gleb-gusev-4aaa40a1/",
+      "updatedAt": "2026-05-08T15:00:00.000Z"
     },
     {
       "slug": "dataart",
