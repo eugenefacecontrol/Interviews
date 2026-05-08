@@ -10,7 +10,7 @@ This is the canonical human-readable list of interview companies.
 | Andersen | target | recruiter_outreach | 7/10 | CV 2 |  | Recruiter outreach from Yana Budulatii (LinkedIn) | 2026-04-17T11:44:37.677Z |
 | Antal | applied | application_sent | 6/10 | CV 2 |  | Applied via JustJoinIt | 2026-04-08T10:35:05.105Z |
 | Antal Sp. z o.o. | target | cv_to_send | 83/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.399Z |
-| Aristocrat | target | cv_to_send | 5/10 |  |  |  | 2026-04-02T22:38:53.974766+00:00 |
+| Aristocrat | target | cv_prepared | 8/10 | CV 2 |  | Preparing application | 2026-05-07T12:00:00.000Z |
 | Asseco Poland S.A. | target | cv_to_send | 89/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.208Z |
 | Avenga | applied | outreach_sent | 9/10 | CV 2 |  | Applied via site; sent to Karolina Zamysłowska (LinkedIn) | 2026-04-03T21:47:49.503Z |
 | B2Bnetwork | applied | application_sent | 62/100 | CV 2 |  | Applied via LinkedIn | 2026-04-24T06:44:50.442Z |
