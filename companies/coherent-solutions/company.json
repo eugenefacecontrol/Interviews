@@ -1,9 +1,9 @@
 {
   "slug": "coherent-solutions",
   "name": "Coherent Solutions",
-  "status": "applying",
-  "stage": "message_prep",
-  "process": "Preparing message to Gleb Gusev (LinkedIn) for QA Automation Engineer (Digital Engineering) position",
+  "status": "contacted",
+  "stage": "message_sent",
+  "process": "Sent LinkedIn connection request + accompanying message to Gleb Gusev for QA Automation Engineer (Digital Engineering) position",
   "requirements": "QA Automation Engineer; insurance/financial domain; Python; Azure; SQL; Databricks; data pipelines; automation frameworks; manual testing; 3+ years QA; B2 English",
   "notes": "Gleb Gusev reached out on LinkedIn. Client is a leading life insurance company. Project focuses on quality and reliability of financial systems, data processing validation. Strong fit on API testing, SQL, CI/CD, Azure, automation frameworks; weaker on Python depth and Databricks-specific experience. Fit: 7/10.",
   "links": [
@@ -11,7 +11,7 @@
   ],
   "fit": "7/10",
   "recommendedCv": "CV 2",
-  "outreach": "Gleb Gusev (LinkedIn) — preparing message",
+  "outreach": "Gleb Gusev — connection + message sent",
   "outreachUrl": "https://www.linkedin.com/in/gleb-gusev-4aaa40a1/",
   "updatedAt": "2026-05-08T15:00:00.000Z"
 }
