@@ -114,20 +114,21 @@
     {
       "slug": "aristocrat",
       "name": "Aristocrat",
-      "status": "target",
-      "stage": "cv_prepared",
-      "process": "Preparing application for QA Automation Engineer (C#, Middle Level) position",
-      "requirements": "Role: QA Automation Engineer (C#, Middle Level); Stack: C#, Java, API, Selenium, SpecFlow, BDD; English B2; Salary: not specified",
-      "notes": "Updated with detailed job description from justjoin.it. Position requires at least 2 years of experience as a Test Automation Engineer, demonstrated expertise in JAVA and C# programming language, API automation testing, SpecFlow Framework, B2 English level.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied via JustJoinIt for QA Automation Engineer (C#, Middle Level) position",
+      "requirements": "Role: QA Automation Engineer (C#, Middle Level); Stack: C#, Java, API, Selenium, SpecFlow, BDD; English B2",
+      "notes": "Applied via JustJoinIt. Position requires at least 2 years of experience as a Test Automation Engineer, demonstrated expertise in JAVA and C# programming, API automation testing, SpecFlow Framework, B2 English level.",
       "links": [
         "https://justjoin.it/job-offer/aristocrat-qa-automation-engineer-c-middle-level--krakow-testing"
       ],
-      "updatedAt": "2026-05-07T12:00:00.000Z",
+      "updatedAt": "2026-05-08T09:00:00.000Z",
       "role": "QA Automation Engineer (C#, Middle Level)",
       "stack": "C#, Java, API, Selenium, SpecFlow, BDD",
       "fit": "8/10",
+      "recommendedCv": "CV 2",
       "salary": "Not specified",
-      "outreach": "Preparing application"
+      "outreach": "Applied via JustJoinIt"
     },
     {
       "slug": "asseco-poland-s-a",
@@ -571,17 +572,18 @@
       "slug": "itds",
       "name": "ITDS",
       "status": "applied",
-      "stage": "application_sent",
-      "process": "Applied for Senior QA Automation Engineer – FinTech and SaaS industry role",
+      "stage": "interview_in_progress",
+      "process": "Applied for Senior QA Automation Engineer – FinTech and SaaS industry role. Patrycja Bochnia (ITSD) informed they are in the middle of interviews and waiting for client feedback. Not sending new candidates for now.",
       "requirements": "Senior QA Automation Engineer; fintech and SaaS; likely Playwright/API/CI/CD-oriented role with automation focus",
-      "notes": "Applied through recruiter Patrycja Bochnia: https://www.linkedin.com/in/patrycja-bochnia/ and via company form.",
+      "notes": "Patrycja Bochnia (ITSD) said they are in the middle of interviews and waiting for client feedback. They are not sending new candidates for now. If something changes or similar roles open, she will reach out. Applied via Patrycja Bochnia: https://www.linkedin.com/in/patrycja-bochnia/ and via company form.",
       "links": [
         "https://itds.pl/it-jobs/senior-qa-automation-engineer-fintech-and-saas-industry/"
       ],
       "fit": "100/100",
       "recommendedCv": "CV 2",
-      "outreach": "Applied via Patrycja Bochnia (LinkedIn) and company form",
-      "updatedAt": "2026-04-24T07:53:03.328Z",
+      "outreach": "Patrycja Bochnia — waiting for client feedback",
+      "outreachUrl": "https://www.linkedin.com/in/patrycja-bochnia/",
+      "updatedAt": "2026-05-08T09:00:00.000Z",
       "salaryAsk": "",
       "role": "Senior QA Automation Engineer",
       "stack": "Fintech/SaaS, Playwright, API, CI/CD"

@@ -1,15 +1,15 @@
 # Aristocrat
 
 - Role: QA Automation Engineer (C#, Middle Level)
-- Status: target
-- Stage: cv_prepared
+- Status: applied
+- Stage: application_sent
 - Fit: 8/10
 - Recommended CV: CV 2
 - Salary: Not specified
-- Outreach: Preparing application
+- Outreach: Applied via JustJoinIt
 
 ## Process
-Preparing application for QA Automation Engineer (C#, Middle Level) position
+Applied via JustJoinIt for QA Automation Engineer (C#, Middle Level) position
 
 ## Requirements
 At least 2 years of experience as Test Automation Engineer; JAVA and C# programming; API automation testing; SpecFlow Framework; B2 English level

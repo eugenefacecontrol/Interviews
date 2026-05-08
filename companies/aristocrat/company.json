@@ -1,9 +1,9 @@
 {
   "slug": "aristocrat",
   "name": "Aristocrat",
-  "status": "target",
-  "stage": "cv_prepared",
-  "process": "Preparing application for QA Automation Engineer (C#, Middle Level) position",
+  "status": "applied",
+  "stage": "application_sent",
+  "process": "Applied via JustJoinIt for QA Automation Engineer (C#, Middle Level) position",
   "requirements": "Role: QA Automation Engineer (C#, Middle Level); Stack: C#, Java, API, Selenium, SpecFlow, BDD; English B2; Salary: not specified",
   "notes": "Updated with detailed job description from justjoin.it. Position requires at least 2 years of experience as a Test Automation Engineer, demonstrated expertise in JAVA and C# programming language, API automation testing, SpecFlow Framework or other BDD frameworks. Good fit for profile with C# and Java experience.",
   "links": [
