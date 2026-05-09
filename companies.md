@@ -31,7 +31,7 @@ This is the canonical human-readable list of interview companies.
 | Euroclear | target | cv_to_send | 4/10 |  |  |  | 2026-04-02T22:38:53.974755+00:00 |
 | Experis Manpower Group | target | cv_to_send | 88/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.272Z |
 | Grape Up | rejected | application_review | 9/10 | CV 2 |  | Rejected after applying to talent pool opening | 2026-04-13T14:00:13.289707+00:00 |
-| Fundraise Up | contacted | message_sent | 7/10 | CV 2 |  | Olga Radzievskaia — connection + message sent | 2026-05-09T12:00:00.000Z |
+| Fundraise Up | applied | application_sent | 7/10 | CV 2 |  | Olga Radzievskaia — applied via website + LinkedIn | 2026-05-09T12:00:00.000Z |
 | Green Hive Technology | target | cv_to_send | 51/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.954Z |
 | Happy Team | target | cv_to_send | 41/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.134Z |
 | Infogain | target | cv_to_send | 88/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.335Z |
