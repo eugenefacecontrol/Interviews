@@ -1,0 +1,17 @@
+{
+  "slug": "fundraise-up",
+  "name": "Fundraise Up",
+  "status": "applying",
+  "stage": "message_prep",
+  "process": "Preparing message to Olga Radzievskaia (LinkedIn) for Senior QA Engineer (Automation / Fullstack) position",
+  "requirements": "7+ years testing web apps; 3+ years test automation; JavaScript/TypeScript; React; Node.js/NestJS; CI/CD (Jenkins); Docker; test framework development; quality enablement; cross-team role",
+  "notes": "Quality Enablement role — focuses on testing strategies, reviewing tests, quality metrics, mentoring teams, not writing product tests daily. Stack: Node.js, NestJS, Vue.js, React, TypeScript, MongoDB, Kafka, ClickHouse, Elasticsearch. Remote, CET hours. Salary: €4,400-€5,500 + stock options. Russian-speaking team. Fit: 7/10 — strong on TS, CI/CD, Docker, frameworks; role is more enablement/process-focused, Node.js/React not primary stack.",
+  "links": [
+    "https://www.linkedin.com/jobs/view/4396322752"
+  ],
+  "fit": "7/10",
+  "recommendedCv": "CV 2",
+  "outreach": "Olga Radzievskaia — preparing message",
+  "outreachUrl": "https://www.linkedin.com/in/olga-radzievskaia/",
+  "updatedAt": "2026-05-09T12:00:00.000Z"
+}
