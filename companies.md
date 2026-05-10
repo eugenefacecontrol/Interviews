@@ -5,7 +5,7 @@ This is the canonical human-readable list of interview companies.
 | Company | Status | Stage | Fit | Recommended CV | Salary Ask | Outreach | Last update |
 |---|---|---|---|---|---|---|---|
 | Ailleron | applied | cv_sent | 7/10 | CV 2 |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
-| Acronis | applied | application_sent | 7/10 | CV 2 |  | Applied via Workday | 2026-05-10T22:30:00.000Z |
+| Acronis | applied | application_sent | 7/10 | CV 2 |  | Mihaela Contescu — LinkedIn message sent | 2026-05-10T22:30:00.000Z |
 | AirHelp | rejected | rejected | 8/10 | CV 2 |  | Rejected after process; talent pool / future opportunities mentioned by AirHelp | 2026-04-11T17:22:10.155Z |
 | Alior Bank | target | cv_to_send | 5/10 |  |  |  | 2026-04-02T22:38:53.974750+00:00 |
 | Andersen | target | recruiter_outreach | 7/10 | CV 2 |  | Recruiter outreach from Yana Budulatii (LinkedIn) | 2026-04-17T11:44:37.677Z |
