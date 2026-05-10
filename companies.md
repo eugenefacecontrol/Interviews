@@ -13,6 +13,7 @@ This is the canonical human-readable list of interview companies.
 | Antal Sp. z o.o. | target | cv_to_send | 83/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.399Z |
 | Aristocrat | applied | application_sent | 8/10 | CV 2 |  | Applied via JustJoinIt | 2026-05-08T09:00:00.000Z |
 | Asseco Poland S.A. | target | cv_to_send | 89/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.208Z |
+| Autodesk | applied | application_sent | 8/10 | CV 2 |  | Applied via Workday | 2026-05-11T12:00:00.000Z |
 | Avenga | applied | outreach_sent | 9/10 | CV 2 |  | Applied via site; sent to Karolina Zamysłowska (LinkedIn) | 2026-04-03T21:47:49.503Z |
 | B2Bnetwork | applied | application_sent | 62/100 | CV 2 |  | Applied via LinkedIn | 2026-04-24T06:44:50.442Z |
 | Be in IT | closed | position_closed | 100/100 | CV 2 |  | Position closed / expired | 2026-04-26T07:40:52.389Z |
