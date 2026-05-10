@@ -27,13 +27,14 @@ const rows = data.companies.length
         <td data-column="cv">${escapeHtml(c.recommendedCv || c.cv || '')}</td>
         <td data-column="salaryAsk">${escapeHtml(c.salaryAsk || '')}</td>
         <td data-column="outreach">${outreachCell}</td>
+        <td data-column="notes">${escapeHtml(c.notes || '')}</td>
         <td data-column="status">${escapeHtml(c.status || '')}</td>
         <td data-column="stage">${escapeHtml(c.stage || '')}</td>
         <td data-column="link">${applyCell}</td>
         <td data-column="updatedAt">${escapeHtml(c.updatedAt || '')}</td>
       </tr>`;
     }).join('\n')
-  : '<tr><td colspan="12">No companies yet.</td></tr>';
+  : '<tr><td colspan="13">No companies yet.</td></tr>';
 
 const html = `<!doctype html>
 <html lang="en">
@@ -80,6 +81,9 @@ const html = `<!doctype html>
     <label>Salary Ask
       <select id="salaryAskFilter"><option value="">All</option></select>
     </label>
+    <label>Notes
+      <select id="notesFilter"><option value="">All</option></select>
+    </label>
   </div>
   <div class="summary" id="summary"></div>
   <table id="companiesTable">
@@ -93,6 +97,7 @@ const html = `<!doctype html>
         <th data-column="cv">CV</th>
         <th data-column="salaryAsk">Salary Ask</th>
         <th data-column="outreach">Outreach</th>
+        <th data-column="notes">Notes</th>
         <th data-column="status">Status</th>
         <th data-column="stage">Stage</th>
         <th data-column="link">Apply Link</th>
@@ -113,6 +118,7 @@ const html = `<!doctype html>
     const outreachFilter = document.getElementById('outreachFilter');
     const cvFilter = document.getElementById('cvFilter');
     const salaryAskFilter = document.getElementById('salaryAskFilter');
+    const notesFilter = document.getElementById('notesFilter');
     const summary = document.getElementById('summary');
     const headers = Array.from(table.querySelectorAll('th[data-column]'));
 
@@ -124,6 +130,7 @@ const html = `<!doctype html>
     initSelect(outreachFilter, 'outreach');
     initSelect(cvFilter, 'cv');
     initSelect(salaryAskFilter, 'salaryAsk');
+    initSelect(notesFilter, 'notes');
     restoreStateFromUrl();
 
     searchInput.addEventListener('input', render);
@@ -132,6 +139,7 @@ const html = `<!doctype html>
     outreachFilter.addEventListener('change', render);
     cvFilter.addEventListener('change', render);
     salaryAskFilter.addEventListener('change', render);
+    notesFilter.addEventListener('change', render);
 
     headers.forEach(header => {
       header.addEventListener('click', () => {
@@ -169,7 +177,8 @@ const html = `<!doctype html>
         stage: stageFilter.value,
         outreach: outreachFilter.value,
         cv: cvFilter.value,
-        salaryAsk: salaryAskFilter.value
+        salaryAsk: salaryAskFilter.value,
+        notes: notesFilter.value
       };
 
       updateUrlState(query, filters);
@@ -206,6 +215,7 @@ const html = `<!doctype html>
       const outreach = params.get('outreach') || '';
       const cv = params.get('cv') || '';
       const salaryAsk = params.get('salaryAsk') || '';
+      const notes = params.get('notes') || '';
       const sort = params.get('sort') || 'updatedAt';
       const dir = params.get('dir') || 'desc';
 
@@ -215,6 +225,7 @@ const html = `<!doctype html>
       if ([...outreachFilter.options].some(o => o.value === outreach)) outreachFilter.value = outreach;
       if ([...cvFilter.options].some(o => o.value === cv)) cvFilter.value = cv;
       if ([...salaryAskFilter.options].some(o => o.value === salaryAsk)) salaryAskFilter.value = salaryAsk;
+      if ([...notesFilter.options].some(o => o.value === notes)) notesFilter.value = notes;
       if (headers.some(h => h.dataset.column === sort)) sortColumn = sort;
       if (dir === 'asc' || dir === 'desc') sortDir = dir;
     }
@@ -227,6 +238,7 @@ const html = `<!doctype html>
       if (filters.outreach) params.set('outreach', filters.outreach); else params.delete('outreach');
       if (filters.cv) params.set('cv', filters.cv); else params.delete('cv');
       if (filters.salaryAsk) params.set('salaryAsk', filters.salaryAsk); else params.delete('salaryAsk');
+      if (filters.notes) params.set('notes', filters.notes); else params.delete('notes');
       if (sortColumn && sortColumn !== 'updatedAt') params.set('sort', sortColumn); else params.delete('sort');
       if (sortDir && sortDir !== 'desc') params.set('dir', sortDir); else params.delete('dir');
       const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');

@@ -43,6 +43,9 @@
     <label>Salary Ask
       <select id="salaryAskFilter"><option value="">All</option></select>
     </label>
+    <label>Notes
+      <select id="notesFilter"><option value="">All</option></select>
+    </label>
   </div>
   <div class="summary" id="summary"></div>
   <table id="companiesTable">
@@ -56,6 +59,7 @@
         <th data-column="cv">CV</th>
         <th data-column="salaryAsk">Salary Ask</th>
         <th data-column="outreach">Outreach</th>
+        <th data-column="notes">Notes</th>
         <th data-column="status">Status</th>
         <th data-column="stage">Stage</th>
         <th data-column="link">Apply Link</th>
@@ -72,6 +76,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/tanya-akulich." target="_blank" rel="noopener noreferrer">Sent to Tanya Akulich (LinkedIn)</a></td>
+        <td data-column="notes">CV sent. Note: communication/job context is in Polish, so there may be a language-fit risk. Outreach sent to Tanya Akulich via LinkedIn: https://www.linkedin.com/in/tanya-akulich.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">cv_sent</td>
         <td data-column="link"><a href="https://www.ailleron.com/career" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -86,6 +91,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via Workday</td>
+        <td data-column="notes">Cyber protection company, all-in-one platform. Cloud-to-Cloud Backup team. E2E, Component, Acceptance, Regression UI auto tests. Global R&amp;D teams. Stack: Python + Playwright + API + Jenkins + Docker — strong fit on Playwright, API, CI/CD, Docker; weaker on Python depth. Fit: 7/10. Note: strict no-AI policy during interviews.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://acronis.wd502.myworkdayjobs.com/en-US/acronis_careers/job/Senior-Automation-QA-Engineer_R-101106" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -100,6 +106,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected after process; talent pool / future opportunities mentioned by AirHelp</td>
+        <td data-column="notes">Rejected after process. AirHelp moved forward with candidates whose backgrounds more closely match the needs of the position. They said they would be happy to keep the user on their radar for future opportunities / talent pool. Contacts involved: Giorgi Beburishvili and Tanya Akulich on LinkedIn.</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
         <td data-column="link"><a href="https://careers.airhelp.com" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -114,6 +121,7 @@
         <td data-column="cv">qa-devops-cv.pdf</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
+        <td data-column="notes">Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://www.aliorbank.pl/kariera" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -128,6 +136,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/yana-budulatii-560a81387/." target="_blank" rel="noopener noreferrer">Recruiter outreach from Yana Budulatii (LinkedIn)</a></td>
+        <td data-column="notes">First recorded contact with Andersen. Recruiter outreach highlighted growth in C# automation, Playwright, API testing, CI/CD, and influence on quality/framework design. Recruiter contact: https://www.linkedin.com/in/yana-budulatii-560a81387/.</td>
         <td data-column="status">target</td>
         <td data-column="stage">recruiter_outreach</td>
         <td data-column="link"><a href="https://people.andersenlab.com/vacancy/2509334?utm_source=FullStack&amp;utm_campaign=recruiter" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -142,6 +151,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via JustJoinIt</td>
+        <td data-column="notes">Applied for Antal role via updated JustJoinIt link.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/antal-sp-z-o-o--senior-test-automation-engineer-warszawa-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -156,6 +166,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Test Automation Engineer Lead (Cybersecurity).</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/antal-sp-z-o-o--test-automation-engineer-lead-cybersecurity--krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -170,6 +181,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via JustJoinIt</td>
+        <td data-column="notes">Applied via JustJoinIt. Position requires at least 2 years of experience as a Test Automation Engineer, demonstrated expertise in JAVA and C# programming, API automation testing, SpecFlow Framework, B2 English level.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/aristocrat-qa-automation-engineer-c-middle-level--krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -184,6 +196,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Tester Automatyzujący (m/k/os.).</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/asseco-poland-s-a--tester-automatyzujacy-m-k-os--krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -198,6 +211,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/karolina-zamysłowska/." target="_blank" rel="noopener noreferrer">Applied via site; sent to Karolina Zamysłowska (LinkedIn)</a></td>
+        <td data-column="notes">Applied via site. LinkedIn message sent to Karolina Zamysłowska: https://www.linkedin.com/in/karolina-zamysłowska/.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">outreach_sent</td>
         <td data-column="link"><a href="https://nofluffjobs.com" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -212,6 +226,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via LinkedIn</td>
+        <td data-column="notes">Applied. Re-evaluated fit downward because the role appears to require stronger Polish and stronger banking/manual domain fit than initially assumed from CSV keyword matching.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://www.linkedin.com/jobs/view/4328771638" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -226,6 +241,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Position closed / expired</td>
+        <td data-column="notes">Position appears expired / no longer active.</td>
         <td data-column="status">closed</td>
         <td data-column="stage">position_closed</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/be-in-it-senior-selenium-automation-tester-krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -240,6 +256,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/katarzyna-zasada-101792211/?locale=en-US" target="_blank" rel="noopener noreferrer">Katarzyna Zasada</a></td>
+        <td data-column="notes">User sent message to Katarzyna Zasada via LinkedIn regarding the Billennium Senior Test Automation Engineer opening. Job link: https://www.linkedin.com/jobs/view/4410564070</td>
         <td data-column="status">contacted</td>
         <td data-column="stage">recruiter_outreach</td>
         <td data-column="link"><a href="https://www.linkedin.com/jobs/view/4410564070" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -254,6 +271,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (Low-Code Platform).</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/britenet-qa-automation-engineer-low-code-platform--krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -268,6 +286,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected after application review</td>
+        <td data-column="notes">Rejected after application review. Capco said they received many qualified applicants and moved forward with another candidate who was a better match for this particular position.</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
         <td data-column="link"><a href="https://job-boards.greenhouse.io/capco/jobs/7783707" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -282,6 +301,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer.</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/clearcourse-dev-qa-automation-engineer-krakow-testing-f0d4f3ae" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -296,6 +316,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/gleb-gusev-4aaa40a1/" target="_blank" rel="noopener noreferrer">Gleb Gusev — applied via link + LinkedIn message</a></td>
+        <td data-column="notes">Gleb Gusev reached out on LinkedIn. Client is a leading life insurance company. Project focuses on quality and reliability of financial systems, data processing validation. Strong fit on API testing, SQL, CI/CD, Azure, automation frameworks; weaker on Python depth and Databricks-specific experience. Fit: 7/10.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://www.linkedin.com/jobs/view/4402421763" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -310,6 +331,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/kseniya-bazhenova-095871aa/" target="_blank" rel="noopener noreferrer">Kseniya Bazhenova</a></td>
+        <td data-column="notes">User sent message to Kseniya Bazhenova via LinkedIn regarding vacancy https://www.dataart.team/vacancies/QAA00190</td>
         <td data-column="status">contacted</td>
         <td data-column="stage">recruiter_outreach</td>
         <td data-column="link"><a href="https://www.dataart.team/vacancies/QAA00190" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -324,6 +346,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via JustJoinIt</td>
+        <td data-column="notes">Applied for DCV Technologies Automation Tester (Java or Python) role from JustJoinIt shortlist.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/dcv-technologies-automation-tester-java-or-python--krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -338,6 +361,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via Telegram to @leo_lomaev</td>
+        <td data-column="notes">Applied via Telegram contact @leo_lomaev for deBridge QA Backend Engineer role. Remote, salary range in posting: 3000-4000 USD net.</td>
         <td data-column="status">contacted</td>
         <td data-column="stage">cv_sent</td>
         <td data-column="link"><a href="https://t.me/leo_lomaev" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -352,6 +376,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer with C# (Mid/Senior).</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/edge-one-solutions-sp-z-o-o-qa-automation-engineer-with-c-mid-senior--krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -366,6 +391,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/olga-simonova-359392225/." target="_blank" rel="noopener noreferrer">Rejected after recruiter clarification from Olga Simonova (LinkedIn)</a></td>
+        <td data-column="notes">Recruiter Olga Simonova clarified that the hiring manager specifically requires Cypress experience. LinkedIn contact: https://www.linkedin.com/in/olga-simonova-359392225/.</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
         <td data-column="link"></td>
@@ -380,6 +406,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/tatsianazubkova/." target="_blank" rel="noopener noreferrer">Applied via Tatsiana Zubkova and EPAM careers</a></td>
+        <td data-column="notes">Applied via LinkedIn and EPAM careers page. Contact person: Tatsiana Zubkova https://www.linkedin.com/in/tatsianazubkova/. Additional application link: https://careers.epam.com/en/vacancy/test-automation-engineer-java-bltwi6i1orra3ufguyz_en</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://www.linkedin.com/jobs/view/4392631385" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -394,6 +421,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Sam / ERP Works</td>
+        <td data-column="notes">Rejected after interview process. User had founder/practice-fit conversation focused on small-company setup, Leapwork, Dynamics, AI testing direction, and flexible engagement model. Sam later confirmed they would not be moving forward.</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
         <td data-column="link"></td>
@@ -408,6 +436,7 @@
         <td data-column="cv">qa-devops-cv.pdf</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
+        <td data-column="notes">Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://www.eset.com/pl/kariera" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -422,6 +451,7 @@
         <td data-column="cv">qa-devops-cv.pdf</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
+        <td data-column="notes">Imported from CSV shortlist. Fit: 4/10. CV file: qa-devops-cv.pdf</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://careers.euroclear.com" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -436,6 +466,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Software Development Engineer in Test.</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/experis-manpower-group-software-development-engineer-in-test-krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -450,6 +481,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected after applying to talent pool opening</td>
+        <td data-column="notes">Rejected after application review; moved forward with candidates who match current requirements more closely.</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">application_review</td>
         <td data-column="link"><a href="https://careers.grapeup.com/career/senior-qa-engineer-3/" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -464,6 +496,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/olga-radzievskaia-261687219/" target="_blank" rel="noopener noreferrer">Olga Radzievskaia — applied via website + LinkedIn</a></td>
+        <td data-column="notes">Quality Enablement role — focuses on testing strategies, reviewing tests, quality metrics, mentoring teams, not writing product tests daily. Stack: Node.js, NestJS, Vue.js, React, TypeScript, MongoDB, Kafka, ClickHouse, Elasticsearch. Remote, CET hours. Salary: €4,400-€5,500 + stock options. Russian-speaking team. Fit: 7/10.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://www.linkedin.com/jobs/view/4396322752" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -478,6 +511,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (she/he/they).</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/green-hive-technology-qa-automation-engineer-she-he-they--poznan-testing-c36220f1" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -492,6 +526,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Test Engineer.</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/happy-team-test-engineer-lodz-testing-a12ed4cc" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -506,6 +541,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/infogain-senior-qa-automation-engineer-krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -520,6 +556,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Lead Software Developer in Test.</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/intellias-lead-software-developer-in-test-poland-remote--testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -534,6 +571,7 @@
         <td data-column="cv">qa-devops-cv.pdf</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
+        <td data-column="notes">Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -548,6 +586,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/patrycja-bochnia/" target="_blank" rel="noopener noreferrer">Patrycja Bochnia — waiting for client feedback</a></td>
+        <td data-column="notes">Patrycja Bochnia (ITSD) said they are in the middle of interviews and waiting for client feedback. They are not sending new candidates for now. If something changes or similar roles open, she will reach out. Applied via Patrycja Bochnia: https://www.linkedin.com/in/patrycja-bochnia/ and via company form.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">interview_in_progress</td>
         <td data-column="link"><a href="https://itds.pl/it-jobs/senior-qa-automation-engineer-fintech-and-saas-industry/" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -562,6 +601,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Senior QA Engineer (Robot Framework).</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/iteamly-senior-qa-engineer-robot-framework--krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -576,6 +616,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected after application review</td>
+        <td data-column="notes">Rejected after application review for Senior QA Engineer role (36607). Jacobs said they had many strong applicants and would not be moving forward with this application.</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
         <td data-column="link"><a href="https://jacobs.taleo.net/" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -590,6 +631,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected by Kaseya after prior recruiter response / scheduling stage</td>
+        <td data-column="notes">Rejected by Kaseya for QA Automation Engineer (Python). Standard rejection note: not proceeding with candidacy for this particular application.</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
         <td data-column="link"><a href="https://www.linkedin.com/jobs/view/4376417311" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -604,6 +646,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via company site</td>
+        <td data-column="notes">Applied. Product mission around protecting critical business data was a strong motivation. Good match on QA automation, API/UI testing, CI/CD, and quality engineering mindset, though likely not a perfect stack match.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://careers.keepit.com/jobs/7266729-middle-automation-qa-engineer" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -618,6 +661,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_ios" target="_blank" rel="noopener noreferrer">Przemysław Lorek</a></td>
+        <td data-column="notes">Contact person: Przemysław Lorek https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_ios</td>
         <td data-column="status">target</td>
         <td data-column="stage">recruiter_outreach</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/link-group-senior-qa-java-warszawa-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -632,6 +676,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via company site</td>
+        <td data-column="notes">Applied. Performance/load testing answer positioned honestly: no direct commercial ownership of JMeter/Locust, but strong adjacent experience in CI/CD optimization, API testing, runtime improvements, and observability.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://careers.miquido.com" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -646,6 +691,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
+        <td data-column="notes">Rejection noted 2026-03-31: looking for a much more senior candidate (&quot;сеньористый сеньор&quot;).</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
         <td data-column="link"></td>
@@ -660,6 +706,7 @@
         <td data-column="cv">tailored-cv/montrose-software-qa-automation-engineer.md</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">CV prepared</td>
+        <td data-column="notes">Location: Kraków / Poland (remote option). Format: B2B or Permanent. Risks: not Python-first profile; healthcare domain is not core background. Recommended CV: tailored-cv/montrose-software-qa-automation-engineer.md</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_prepared</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/montrose-software-qa-automation-engineer-krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -674,6 +721,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
+        <td data-column="notes">Отказ. JD mentions Playwright + Java/JS/TS stack, API/DB/performance/security testing, Azure/AWS, CI/CD.</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
         <td data-column="link"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Quality-Assurance-Engineer--Java-JS-TS-and-Playwright-_R62226" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -688,6 +736,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/olga-dmytryshyn-46a9b7161/." target="_blank" rel="noopener noreferrer">Applied via Olga Dmytryshyn</a></td>
+        <td data-column="notes">Applied. Contact person: Olga Dmytryshyn https://www.linkedin.com/in/olga-dmytryshyn-46a9b7161/.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://www.linkedin.com/jobs/view/4336629239" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -702,6 +751,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/monika-kulisz-641aa3b7/." target="_blank" rel="noopener noreferrer">Applied via Monika Kulisz</a></td>
+        <td data-column="notes">Applied. Contact person: Monika Kulisz https://www.linkedin.com/in/monika-kulisz-641aa3b7/.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://www.linkedin.com/jobs/view/4341964143" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -716,6 +766,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via LinkedIn</td>
+        <td data-column="notes">Applied based on LinkedIn job listing shared by user. Prior quick assessment: good fit, especially on Playwright, API testing, exploratory testing, and CI/CD.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://www.linkedin.com/jobs/view/4403066637" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -730,6 +781,7 @@
         <td data-column="cv">qa-devops-cv.pdf</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
+        <td data-column="notes">Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -744,6 +796,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="mailto:selvet.uzun@smartskillz.ch" target="_blank" rel="noopener noreferrer">Selvet Uzun</a></td>
+        <td data-column="notes">Recruiter: Selvet Uzun, Smartskillz GmbH, selvet.uzun@smartskillz.ch, +41 77 921 9414. Location: Frankfurt am Main, maybe remote / hybrid. Article shared: https://www.private-banking-magazin.de/nachricht-28173/</td>
         <td data-column="status">contacted</td>
         <td data-column="stage">recruiter_outreach</td>
         <td data-column="link"><a href="https://www.private-banking-magazin.de/nachricht-28173/" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -758,6 +811,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/anastasiabrazhnikova/." target="_blank" rel="noopener noreferrer">Applied via Anastasiia Kravchuk</a></td>
+        <td data-column="notes">Applied. Contact person: Anastasiia Kravchuk https://www.linkedin.com/in/anastasiabrazhnikova/.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://www.linkedin.com/jobs/view/4314130729" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -772,6 +826,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Automation QA Engineer.</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/remodevs-automation-qa-engineer-wroclaw-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -786,6 +841,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via Greenhouse</td>
+        <td data-column="notes">Applied. Good fit on Playwright, API automation, SaaS/product QA, agile releases, manual+automation balance, and DevOps-aware QA infrastructure mindset.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://job-boards.eu.greenhouse.io/remotepeople/jobs/4796152101" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -800,6 +856,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Senior Automation Tester/QA (Java).</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/scalo-senior-automation-tester-qa-java--krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -814,6 +871,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Embedded QA Automation Engineer (f/m/x).</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/sii-embedded-qa-automation-engineer-f-m-x--warszawa-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -828,6 +886,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Position closed after referral by Rusovich</td>
+        <td data-column="notes">Position closed by company after referral/submission via Rusovich. Relevant links were QA Automation Engineer Senior and AQA Engineer Senior Boost Team.</td>
         <td data-column="status">closed</td>
         <td data-column="stage">position_closed</td>
         <td data-column="link"><a href="https://careers.softswiss.com/vacancies/qa-automation-engineer-senior/" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -842,6 +901,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected by Dominika Mytych due to Polish language requirement</td>
+        <td data-column="notes">Rejected after application review. Reason given by Dominika Mytych: they are recruiting candidates who can communicate in Polish quite freely (at least B2 level), as internal communication is conducted in Polish.</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
         <td data-column="link"></td>
@@ -856,6 +916,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk">150 PLN/h</td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/anastasia-markitan-8a6a109a/." target="_blank" rel="noopener noreferrer">Recruiter outreach from Anastasia Markitan (LinkedIn)</a></td>
+        <td data-column="notes">Outreach from Anastasia Markitan: https://www.linkedin.com/in/anastasia-markitan-8a6a109a/. Role looks like a strong fit on Playwright, Selenium, API testing, CI/CD, and banking/enterprise QA context. Fully remote available, Kraków office optional.</td>
         <td data-column="status">target</td>
         <td data-column="stage">recruiter_outreach</td>
         <td data-column="link"><a href="https://specific-group.com/pl/" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -870,6 +931,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Applied via No Fluff Jobs</td>
+        <td data-column="notes">Applied via No Fluff Jobs to SquareOne Senior QA Automation Engineer (Playwright) role. Title suggests a strong fit due to direct Playwright focus.</td>
         <td data-column="status">applied</td>
         <td data-column="stage">application_sent</td>
         <td data-column="link"><a href="https://nofluffjobs.com/pl/job/senior-qa-automation-engineer-playwright-k-m--squareone-remote" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -884,6 +946,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/state-street-senior-qa-automation-engineer-krakow-testing-940ba980" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -898,6 +961,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk">true</td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/marina-yanusheuskaya-100207185/" target="_blank" rel="noopener noreferrer">Marina Yanusheuskaya</a></td>
+        <td data-column="notes">LinkedIn outreach planned/sent to Marina Yanusheuskaya: https://www.linkedin.com/in/marina-yanusheuskaya-100207185/ regarding vacancy https://www.linkedin.com/jobs/view/4399998338.</td>
         <td data-column="status">applying</td>
         <td data-column="stage">outreach_sent</td>
         <td data-column="link"><a href="https://www.linkedin.com/jobs/view/4399998338" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -912,6 +976,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: QA Automation Lead.</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/stonex-poland-qa-automation-lead-krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -926,6 +991,7 @@
         <td data-column="cv">qa-devops-cv.pdf</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
+        <td data-column="notes">Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -940,6 +1006,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"></td>
+        <td data-column="notes">Отказ: не работают через инкубатор. Source: https://justjoin.it/job-offer/svitla-systems-senior-automation-qa-engineer-krakow-testing</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">screening</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/svitla-systems-senior-automation-qa-engineer-krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -954,6 +1021,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/maryiaklimianok/" target="_blank" rel="noopener noreferrer">Maryia Klimianok — rejected, Python stack mismatch</a></td>
+        <td data-column="notes">Maryia Klimianok said they cannot proceed — Python is critical for their team, requiring 2+ years of continuous experience as their main automation framework is built on Python. She acknowledged strong C# and JS/TS automation background and banking systems experience. She offered to get back in touch when positions with a more suitable stack open up.</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
         <td data-column="link"><a href="https://www.linkedin.com/in/maryiaklimianok/" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -968,6 +1036,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">CV sent to @regina_ihr3 via Telegram</td>
+        <td data-column="notes">CV sent to @regina_ihr3. Telement is a startup building a secure corporate messenger based on Matrix. Salary range in posting: 1800-4300 USDT, fully remote, full-time, flexible schedule aligned to MSK, paid test task.</td>
         <td data-column="status">contacted</td>
         <td data-column="stage">cv_sent</td>
         <td data-column="link"><a href="https://t.me/YotolabQA/3231" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -982,6 +1051,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://www.linkedin.com/in/wiktoria-bana%C5%9B-ga%C5%82ecka-902b5a23a/." target="_blank" rel="noopener noreferrer">Applied via Wiktoria Banaś-Gałecka</a></td>
+        <td data-column="notes">Applied earlier, but the vacancy page now returns 404 / appears expired. Contact person: Wiktoria Banaś-Gałecka https://www.linkedin.com/in/wiktoria-bana%C5%9B-ga%C5%82ecka-902b5a23a/.</td>
         <td data-column="status">closed</td>
         <td data-column="stage">position_closed</td>
         <td data-column="link"><a href="https://www.linkedin.com/jobs/view/4398467927" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -996,6 +1066,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">CV sent via Telegram to @It_recruiter_tech</td>
+        <td data-column="notes">CV sent to Natalia / @It_recruiter_tech for Twinslash Senior QA Automation Engineer role. Compatibility estimated at 6.5/10 due to strong match on API/Playwright/engineering mindset, but with gaps around Python-first stack and Polish B2.</td>
         <td data-column="status">contacted</td>
         <td data-column="stage">cv_sent</td>
         <td data-column="link"><a href="https://t.me/It_recruiter_tech" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -1010,6 +1081,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Rejected after application review</td>
+        <td data-column="notes">Rejected after application review for QA Automation Engineer - Python - Krakow role.</td>
         <td data-column="status">rejected</td>
         <td data-column="stage">rejected</td>
         <td data-column="link"><a href="https://job-boards.greenhouse.io/ubiquiti/jobs/4078002009" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -1024,6 +1096,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://t.me/rabota_testirovshchik/2593." target="_blank" rel="noopener noreferrer">Contacted @andrey_kokhan via Telegram</a></td>
+        <td data-column="notes">User wrote to @andrey_kokhan regarding vacancy from Telegram post: https://t.me/rabota_testirovshchik/2593.</td>
         <td data-column="status">contacted</td>
         <td data-column="stage">outreach_sent</td>
         <td data-column="link"><a href="https://t.me/rabota_testirovshchik/2593" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -1038,6 +1111,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach"><a href="https://t.me/YotolabQA/3231." target="_blank" rel="noopener noreferrer">CV sent to @regina_ihr3 via Telegram</a></td>
+        <td data-column="notes">CV sent to @regina_ihr3 regarding vacancy from Telegram post: https://t.me/YotolabQA/3231.</td>
         <td data-column="status">contacted</td>
         <td data-column="stage">cv_sent</td>
         <td data-column="link"><a href="https://t.me/YotolabQA/3231" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -1052,6 +1126,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Software QA Engineer (Java).</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/upvanta-sp-z-o-o--software-qa-engineer-java--krakow-testing-b2282acd" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -1066,6 +1141,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: 👉 QA Automation - Kraków.</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/xebia--qa-automation---krakow-krakow-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -1080,6 +1156,7 @@
         <td data-column="cv">CV 2</td>
         <td data-column="salaryAsk"></td>
         <td data-column="outreach">Shortlisted from CSV</td>
+        <td data-column="notes">Imported from ranked shortlist CSV. Vacancy: Salesforce Automation Tester with Copado.</td>
         <td data-column="status">target</td>
         <td data-column="stage">cv_to_send</td>
         <td data-column="link"><a href="https://justjoin.it/job-offer/youriteams-salesforce-automation-tester-with-copado-warszawa-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
@@ -1097,6 +1174,7 @@
     const outreachFilter = document.getElementById('outreachFilter');
     const cvFilter = document.getElementById('cvFilter');
     const salaryAskFilter = document.getElementById('salaryAskFilter');
+    const notesFilter = document.getElementById('notesFilter');
     const summary = document.getElementById('summary');
     const headers = Array.from(table.querySelectorAll('th[data-column]'));
 
@@ -1108,6 +1186,7 @@
     initSelect(outreachFilter, 'outreach');
     initSelect(cvFilter, 'cv');
     initSelect(salaryAskFilter, 'salaryAsk');
+    initSelect(notesFilter, 'notes');
     restoreStateFromUrl();
 
     searchInput.addEventListener('input', render);
@@ -1116,6 +1195,7 @@
     outreachFilter.addEventListener('change', render);
     cvFilter.addEventListener('change', render);
     salaryAskFilter.addEventListener('change', render);
+    notesFilter.addEventListener('change', render);
 
     headers.forEach(header => {
       header.addEventListener('click', () => {
@@ -1153,7 +1233,8 @@
         stage: stageFilter.value,
         outreach: outreachFilter.value,
         cv: cvFilter.value,
-        salaryAsk: salaryAskFilter.value
+        salaryAsk: salaryAskFilter.value,
+        notes: notesFilter.value
       };
 
       updateUrlState(query, filters);
@@ -1190,6 +1271,7 @@
       const outreach = params.get('outreach') || '';
       const cv = params.get('cv') || '';
       const salaryAsk = params.get('salaryAsk') || '';
+      const notes = params.get('notes') || '';
       const sort = params.get('sort') || 'updatedAt';
       const dir = params.get('dir') || 'desc';
 
@@ -1199,6 +1281,7 @@
       if ([...outreachFilter.options].some(o => o.value === outreach)) outreachFilter.value = outreach;
       if ([...cvFilter.options].some(o => o.value === cv)) cvFilter.value = cv;
       if ([...salaryAskFilter.options].some(o => o.value === salaryAsk)) salaryAskFilter.value = salaryAsk;
+      if ([...notesFilter.options].some(o => o.value === notes)) notesFilter.value = notes;
       if (headers.some(h => h.dataset.column === sort)) sortColumn = sort;
       if (dir === 'asc' || dir === 'desc') sortDir = dir;
     }
@@ -1211,6 +1294,7 @@
       if (filters.outreach) params.set('outreach', filters.outreach); else params.delete('outreach');
       if (filters.cv) params.set('cv', filters.cv); else params.delete('cv');
       if (filters.salaryAsk) params.set('salaryAsk', filters.salaryAsk); else params.delete('salaryAsk');
+      if (filters.notes) params.set('notes', filters.notes); else params.delete('notes');
       if (sortColumn && sortColumn !== 'updatedAt') params.set('sort', sortColumn); else params.delete('sort');
       if (sortDir && sortDir !== 'desc') params.set('dir', sortDir); else params.delete('dir');
       const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
