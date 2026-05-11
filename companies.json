@@ -41,22 +41,19 @@
     {
       "slug": "airhelp",
       "name": "AirHelp",
-      "status": "rejected",
-      "stage": "rejected",
-      "process": "Rejected after intro/interview process",
-      "requirements": "Role: QA Engineer; Stack: JS/TS, Playwright/Cypress, API; Salary: 13-20k PLN net",
-      "notes": "Rejected after process. AirHelp moved forward with candidates whose backgrounds more closely match the needs of the position. They said they would be happy to keep the user on their radar for future opportunities / talent pool. Contacts involved: Giorgi Beburishvili and Tanya Akulich on LinkedIn.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied via LinkedIn for Software Engineer in Test (Developer in Test) role",
+      "requirements": "3-5 years experience; strong coding in Ruby/Rails, Golang, Python, or Node.js; test automation frameworks (Cypress, Playwright, Selenium); REST API testing (Postman, Bruno); CI/CD (GitHub Actions); Git; English",
+      "notes": "Developer in Test role. Hybrid in Kraków, Gdańsk or Warsaw. Stack: Backend (Ruby/Rails, Golang, Python, Node.js), Frontend (React, JS, TS), DB (PostgreSQL), Infra (AWS, Docker, Kubernetes, Terraform), Monitoring (ELK/Grafana, Sentry, CI/CD). Strong fit on Playwright, TS, Python, CI/CD, Docker, K8s, API testing, Git. Fit: 8.5/10.",
       "links": [
-        "https://careers.airhelp.com"
+        "https://www.linkedin.com/jobs/view/4402966518"
       ],
-      "updatedAt": "2026-04-11T17:22:10.155Z",
-      "role": "QA Engineer",
-      "salary": "13-20k PLN net",
-      "stack": "JS/TS, Playwright/Cypress, API",
-      "fit": "8/10",
-      "cv": "qa-devops-cv.pdf",
+      "fit": "8.5/10",
       "recommendedCv": "CV 2",
-      "outreach": "Rejected after process; talent pool / future opportunities mentioned by AirHelp"
+      "outreach": "Michał Sabat — LinkedIn message sent",
+      "outreachUrl": "https://www.linkedin.com/in/michał-sabat-727649129/",
+      "updatedAt": "2026-05-11T15:30:00.000Z"
     },
     {
       "slug": "alior-bank",
