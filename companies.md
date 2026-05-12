@@ -5,6 +5,7 @@ This is the canonical human-readable list of interview companies.
 | Company | Status | Stage | Fit | Recommended CV | Salary Ask | Outreach | Last update |
 |---|---|---|---|---|---|---|---|
 | Ailleron | applied | cv_sent | 7/10 | CV 2 |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
+| Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
 | Acronis | applied | application_sent | 7/10 | CV 2 |  | Mihaela Contescu — LinkedIn message sent | 2026-05-10T22:30:00.000Z |
 | AirHelp | applied | application_sent | 8.5/10 | CV 2 |  | Michał Sabat — LinkedIn message sent | 2026-05-11T15:30:00.000Z |
 | Alior Bank | target | cv_to_send | 5/10 |  |  |  | 2026-04-02T22:38:53.974750+00:00 |

@@ -22,6 +22,23 @@
       "outreach": "Sent to Tanya Akulich (LinkedIn)"
     },
     {
+      "slug": "akamai",
+      "name": "Akamai Technologies",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Preparing CV for Firmware Quality Assurance Engineer role",
+      "requirements": "Linux-based firmware testing, Python programming, networking fundamentals (TCP/IP, DNS, DHCP, VLANs, Routing), API testing, Jira, network lab environments, CI/CD pipelines, firmware update processes, bootloaders, hardware-software interfaces",
+      "notes": "Server Hardware Engineering team. Responsible for Linux-based firmware quality in networking environments. Requires expertise in Linux OS, system configuration, log analysis, networking fundamentals, Python programming, API testing tools, firmware update processes, bootloaders, hardware-software interfaces. Flexible work options via FlexBase. Strong fit on Python, API testing, CI/CD, Docker, Kubernetes. Gaps in Linux kernel depth, firmware-specific knowledge, hardware networking. Fit: 5/10.",
+      "links": [
+        "https://www.linkedin.com/jobs/view/4407859341"
+      ],
+      "fit": "5/10",
+      "recommendedCv": "CV 2",
+      "outreach": "Marlena Misiarz — preparing outreach",
+      "outreachUrl": "https://www.linkedin.com/in/marlena-misiarz/",
+      "updatedAt": "2026-05-12T09:00:00.000Z"
+    },
+    {
       "slug": "acronis",
       "name": "Acronis",
       "status": "applied",
