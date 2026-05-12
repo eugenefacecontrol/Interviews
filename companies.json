@@ -1,6 +1,23 @@
 {
-  "generatedAt": "2026-05-06T18:00:20.511Z",
+  "generatedAt": "2026-05-12T12:20:27.181Z",
   "companies": [
+    {
+      "slug": "acronis",
+      "name": "Acronis",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied via Workday for Senior Automation QA Engineer (Cloud-to-Cloud Backup team)",
+      "requirements": "5+ years Automation QA Python; Python, API/UI testing, Playwright or similar; Jira, Git, Jenkins, Docker; QA theory; analytical mindset; Upper-Intermediate English",
+      "notes": "Cyber protection company, all-in-one platform. Cloud-to-Cloud Backup team. E2E, Component, Acceptance, Regression UI auto tests. Global R&D teams. Stack: Python + Playwright + API + Jenkins + Docker — strong fit on Playwright, API, CI/CD, Docker; weaker on Python depth. Fit: 7/10. Note: strict no-AI policy during interviews.",
+      "links": [
+        "https://acronis.wd502.myworkdayjobs.com/en-US/acronis_careers/job/Senior-Automation-QA-Engineer_R-101106"
+      ],
+      "fit": "7/10",
+      "recommendedCv": "CV 2",
+      "outreach": "Mihaela Contescu — LinkedIn message sent",
+      "outreachUrl": "https://www.linkedin.com/in/mihaela-contescu-048903111/",
+      "updatedAt": "2026-05-10T22:30:00.000Z"
+    },
     {
       "slug": "ailleron",
       "name": "Ailleron",
@@ -22,40 +39,6 @@
       "outreach": "Sent to Tanya Akulich (LinkedIn)"
     },
     {
-      "slug": "akamai",
-      "name": "Akamai Technologies",
-      "status": "target",
-      "stage": "cv_to_send",
-      "process": "Preparing CV for Firmware Quality Assurance Engineer role",
-      "requirements": "Linux-based firmware testing, Python programming, networking fundamentals (TCP/IP, DNS, DHCP, VLANs, Routing), API testing, Jira, network lab environments, CI/CD pipelines, firmware update processes, bootloaders, hardware-software interfaces",
-      "notes": "Server Hardware Engineering team. Responsible for Linux-based firmware quality in networking environments. Requires expertise in Linux OS, system configuration, log analysis, networking fundamentals, Python programming, API testing tools, firmware update processes, bootloaders, hardware-software interfaces. Flexible work options via FlexBase. Strong fit on Python, API testing, CI/CD, Docker, Kubernetes. Gaps in Linux kernel depth, firmware-specific knowledge, hardware networking. Fit: 5/10.",
-      "links": [
-        "https://www.linkedin.com/jobs/view/4407859341"
-      ],
-      "fit": "5/10",
-      "recommendedCv": "CV 2",
-      "outreach": "Marlena Misiarz — preparing outreach",
-      "outreachUrl": "https://www.linkedin.com/in/marlena-misiarz/",
-      "updatedAt": "2026-05-12T09:00:00.000Z"
-    },
-    {
-      "slug": "acronis",
-      "name": "Acronis",
-      "status": "applied",
-      "stage": "application_sent",
-      "process": "Applied via Workday for Senior Automation QA Engineer (Cloud-to-Cloud Backup team)",
-      "requirements": "5+ years Automation QA Python; Python, API/UI testing, Playwright or similar; Jira, Git, Jenkins, Docker; QA theory; analytical mindset; Upper-Intermediate English",
-      "notes": "Cyber protection company, all-in-one platform. Cloud-to-Cloud Backup team. E2E, Component, Acceptance, Regression UI auto tests. Global R&D teams. Stack: Python + Playwright + API + Jenkins + Docker — strong fit on Playwright, API, CI/CD, Docker; weaker on Python depth. Fit: 7/10. Note: strict no-AI policy during interviews.",
-      "links": [
-        "https://acronis.wd502.myworkdayjobs.com/en-US/acronis_careers/job/Senior-Automation-QA-Engineer_R-101106"
-      ],
-      "fit": "7/10",
-      "recommendedCv": "CV 2",
-      "outreach": "Mihaela Contescu — LinkedIn message sent",
-      "outreachUrl": "https://www.linkedin.com/in/mihaela-contescu-048903111/",
-      "updatedAt": "2026-05-10T22:30:00.000Z"
-    },
-    {
       "slug": "airhelp",
       "name": "AirHelp",
       "status": "applied",
@@ -71,6 +54,23 @@
       "outreach": "Michał Sabat — LinkedIn message sent",
       "outreachUrl": "https://www.linkedin.com/in/michał-sabat-727649129/",
       "updatedAt": "2026-05-11T15:30:00.000Z"
+    },
+    {
+      "slug": "akamai",
+      "name": "Akamai Technologies",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Preparing CV for Firmware Quality Assurance Engineer role",
+      "requirements": "Linux-based firmware testing, Python programming, networking fundamentals (TCP/IP, DNS, DHCP, VLANs, Routing), API testing, Jira, network lab environments, CI/CD pipelines, firmware update processes, bootloaders, hardware-software interfaces",
+      "notes": "Server Hardware Engineering team. Responsible for Linux-based firmware quality in networking environments. Requires expertise in Linux OS, system configuration, log analysis, networking fundamentals, Python programming, API testing tools, firmware update processes, bootloaders, hardware-software interfaces. Flexible work options via FlexBase. Strong fit on Python, API testing, CI/CD, Docker, Kubernetes. Gaps in Linux kernel depth, firmware-specific knowledge, hardware networking. Fit: 5/10.",
+      "links": [
+        "https://www.linkedin.com/jobs/view/4407859341"
+      ],
+      "fit": "5/10",
+      "recommendedCv": "CV 2",
+      "outreach": "Marlena Misiarz — preparing outreach",
+      "outreachUrl": "https://www.linkedin.com/in/marlena-misiarz/",
+      "updatedAt": "2026-05-12T09:00:00.000Z"
     },
     {
       "slug": "alior-bank",
@@ -514,6 +514,23 @@
       "updatedAt": "2026-04-16T10:25:48.272Z"
     },
     {
+      "slug": "fundraise-up",
+      "name": "Fundraise Up",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied via website + LinkedIn message to Olga Radzievskaia for Senior QA Engineer (Automation / Fullstack) position",
+      "requirements": "7+ years testing web apps; 3+ years test automation; JavaScript/TypeScript; React; Node.js/NestJS; CI/CD (Jenkins); Docker; test framework development; quality enablement; cross-team role",
+      "notes": "Quality Enablement role — focuses on testing strategies, reviewing tests, quality metrics, mentoring teams, not writing product tests daily. Stack: Node.js, NestJS, Vue.js, React, TypeScript, MongoDB, Kafka, ClickHouse, Elasticsearch. Remote, CET hours. Salary: €4,400-€5,500 + stock options. Russian-speaking team. Fit: 7/10.",
+      "links": [
+        "https://www.linkedin.com/jobs/view/4396322752"
+      ],
+      "fit": "7/10",
+      "recommendedCv": "CV 2",
+      "outreach": "Olga Radzievskaia — applied via website + LinkedIn",
+      "outreachUrl": "https://www.linkedin.com/in/olga-radzievskaia-261687219/",
+      "updatedAt": "2026-05-09T12:00:00.000Z"
+    },
+    {
       "slug": "grape-up",
       "name": "Grape Up",
       "status": "rejected",
@@ -533,23 +550,6 @@
       "recommendedCv": "CV 2",
       "outreach": "Rejected after applying to talent pool opening",
       "rejectionReason": "Rejected after application review; moved forward with candidates who match current requirements more closely."
-    },
-    {
-      "slug": "fundraise-up",
-      "name": "Fundraise Up",
-      "status": "applied",
-      "stage": "application_sent",
-      "process": "Applied via website + LinkedIn message to Olga Radzievskaia for Senior QA Engineer (Automation / Fullstack) position",
-      "requirements": "7+ years testing web apps; 3+ years test automation; JavaScript/TypeScript; React; Node.js/NestJS; CI/CD (Jenkins); Docker; test framework development; quality enablement; cross-team role",
-      "notes": "Quality Enablement role — focuses on testing strategies, reviewing tests, quality metrics, mentoring teams, not writing product tests daily. Stack: Node.js, NestJS, Vue.js, React, TypeScript, MongoDB, Kafka, ClickHouse, Elasticsearch. Remote, CET hours. Salary: €4,400-€5,500 + stock options. Russian-speaking team. Fit: 7/10.",
-      "links": [
-        "https://www.linkedin.com/jobs/view/4396322752"
-      ],
-      "fit": "7/10",
-      "recommendedCv": "CV 2",
-      "outreach": "Olga Radzievskaia — applied via website + LinkedIn",
-      "outreachUrl": "https://www.linkedin.com/in/olga-radzievskaia-261687219/",
-      "updatedAt": "2026-05-09T12:00:00.000Z"
     },
     {
       "slug": "green-hive-technology",
@@ -827,6 +827,26 @@
       "stack": "Playwright, API automation, CI integration, TypeScript/JavaScript"
     },
     {
+      "slug": "nord-security",
+      "name": "Nord Security",
+      "role": "Automation QA Engineer | Mid-Senior | Saily | Apps",
+      "stack": "",
+      "status": "applied",
+      "stage": "application submitted",
+      "process": "",
+      "requirements": "5+ years QA automation; Playwright/TypeScript; REST API; Git/Docker; exploratory+manual + automation",
+      "notes": "Applied on LinkedIn. Personalized CV created and used. Recruiter contacts added: Jurga Schulze, Anastasiia Mheladze.",
+      "links": [
+        "https://www.linkedin.com/jobs/view/4407827071/?alternateChannel=search&trk=d_flagship3_company&refId=NotAvailable"
+      ],
+      "fit": "high",
+      "recommendedCv": "cv-master-profile/tailored-cv/nord-security-automation-qa-engineer.cv.Yauheni.Sheima.pdf",
+      "salaryAsk": "",
+      "outreach": "Jurga Schulze; Anastasiia Mheladze",
+      "outreachUrl": "https://www.linkedin.com/in/jurga-schulze/, https://www.linkedin.com/in/anastasiia-mheladze/",
+      "updatedAt": "2026-05-12T12:20:27.171Z"
+    },
+    {
       "slug": "onwelo-sp-z-o-o",
       "name": "Onwelo Sp. z o.o.",
       "status": "applied",
@@ -970,6 +990,26 @@
       "updatedAt": "2026-04-12T14:20:59.410Z",
       "role": "QA Automation Engineer",
       "stack": "Playwright, API testing, Jira, Git, SaaS/product QA, DevOps awareness, CI/CD"
+    },
+    {
+      "slug": "scalable-solutions",
+      "name": "Scalable Solutions",
+      "role": "QA Automation Engineer (Python, Backend)",
+      "stack": "Python, API testing, CI/CD, Linux, SQL, model-based testing, exchange/trading systems",
+      "status": "rejected",
+      "stage": "rejected",
+      "process": "Rejected by Maryia Klimianok — team requires 2+ years of continuous Python experience as their entire automation framework is built on Python",
+      "requirements": "5+ years testing experience; 3+ years Python; fintech knowledge; trading/exchange experience a plus; API and backend automation in Python; CI/CD; Linux shell; SQL; ability to read C++ code",
+      "notes": "Maryia Klimianok said they cannot proceed — Python is critical for their team, requiring 2+ years of continuous experience as their main automation framework is built on Python. She acknowledged strong C# and JS/TS automation background and banking systems experience. She offered to get back in touch when positions with a more suitable stack open up.",
+      "links": [
+        "https://www.linkedin.com/in/maryiaklimianok/"
+      ],
+      "fit": "5/10",
+      "recommendedCv": "CV 2",
+      "salary": "Competitive (discussed during interview)",
+      "outreach": "Maryia Klimianok — rejected, Python stack mismatch",
+      "outreachUrl": "https://www.linkedin.com/in/maryiaklimianok/",
+      "updatedAt": "2026-05-08T14:00:00.000Z"
     },
     {
       "slug": "scalo",
@@ -1156,26 +1196,6 @@
       "fit": "medium",
       "recommendedCv": "CV 2",
       "updatedAt": "2026-04-02T13:53:34.725Z"
-    },
-    {
-      "slug": "scalable-solutions",
-      "name": "Scalable Solutions",
-      "role": "QA Automation Engineer (Python, Backend)",
-      "stack": "Python, API testing, CI/CD, Linux, SQL, model-based testing, exchange/trading systems",
-      "status": "rejected",
-      "stage": "rejected",
-      "process": "Rejected by Maryia Klimianok — team requires 2+ years of continuous Python experience as their entire automation framework is built on Python",
-      "requirements": "5+ years testing experience; 3+ years Python; fintech knowledge; trading/exchange experience a plus; API and backend automation in Python; CI/CD; Linux shell; SQL; ability to read C++ code",
-      "notes": "Maryia Klimianok said they cannot proceed — Python is critical for their team, requiring 2+ years of continuous experience as their main automation framework is built on Python. She acknowledged strong C# and JS/TS automation background and banking systems experience. She offered to get back in touch when positions with a more suitable stack open up.",
-      "links": [
-        "https://www.linkedin.com/in/maryiaklimianok/"
-      ],
-      "fit": "5/10",
-      "recommendedCv": "CV 2",
-      "salary": "Competitive (discussed during interview)",
-      "outreach": "Maryia Klimianok — rejected, Python stack mismatch",
-      "outreachUrl": "https://www.linkedin.com/in/maryiaklimianok/",
-      "updatedAt": "2026-05-08T14:00:00.000Z"
     },
     {
       "slug": "telement",

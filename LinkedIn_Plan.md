@@ -1,180 +1,198 @@
-Post 1 — Flaky tests killing your CI?
-  
-  Flaky tests are the silent killer of CI pipelines. I've been there — a 20% flake rate means your team stops trusting green builds.
+Post 1 — I run 5+ AI models daily in my QA workflow. Here's what actually works.
 
-  Here's my approach:
-  1. Identify flaky tests with retry analytics (track which tests fail intermittently)
-  2. Root-cause: race conditions, network timing, shared state — fix the cause, not the symptom
-  3. Quarantine flaky tests into a separate suite so they don't block merges
-  4. Add smart retries only as a safety net, not a crutch
+Everyone talks about AI in QA. Few engineers actually build workflows around it. Here's mine:
 
-  Result: CI trust goes up, developers stop ignoring failures, and release velocity increases.
+I'm constantly comparing AI models across providers — not because I have to, but because staying up to date is how I stay sharp. Here's my current stack:
 
-  #Playwright #CICD #QAAutomation
+**My setup:**
+- ChatGPT Pro ($20/mo) — my daily driver for complex reasoning
+- OpenRouter free tier (Qwen, Claude, Llama, Owl, Nemotron) — 20s response time, great for quick tasks
+- NVIDIA NIM free tier (Qwen, Kimi, Llama) — 10 min for the same task, but useful for comparison
+- GitHub Copilot — for boilerplate
 
-  ---
-  Post 2 — Cutting regression time from days to hours
-  
-  A global investment firm was running 3 days of manual regression per release. Here's how I'd approach cutting that to under 2 hours:
+**The speed difference is 30x.** That's not a typo. 20 seconds on OpenRouter vs 10 minutes on NVIDIA NIM for the same test generation task.
 
-  1. Map the critical user journeys — not every path needs E2E coverage
-  2. Build a Playwright E2E suite targeting the 20% of flows that catch 80% of bugs
-  3. Layer API tests underneath for speed — they run in seconds, not minutes
-  4. Integrate into GitHub Actions to run on every PR
-  5. Use sharding to parallelize across browsers
+I'm not loyal to any single model. I route tasks based on speed, quality, and cost. That skill — knowing which model fits which task — is more valuable than any single subscription.
 
-  The key insight: you don't need 100% automation. You need the right 40% automated well.
+**Where I use AI daily:**
+1. **Test generation** — paste acceptance criteria, get 80% of the test code
+2. **Flaky test debugging** — paste the error, get hypotheses ranked by likelihood
+3. **Framework scaffolding** — "Build me a Playwright page object for this DOM structure"
+4. **Code review prep** — "What edge cases am I missing in this test suite?"
+5. **SQL query writing** — for data validation in test pipelines
 
-  #Automation #Playwright #RegressionTesting
+**Where AI fails:**
+- Understanding business context (it doesn't know your domain)
+- Making judgment calls on test strategy
+- Replacing exploratory testing
 
-  ---
-  Post 3 — API testing: the unsexy backbone of quality
+**The real skill isn't prompting. It's knowing when NOT to trust the output.**
 
-  Everyone loves a flashy E2E suite. But API tests are where the real ROI lives.
+I treat AI like a junior engineer: it moves fast, but every output gets reviewed.
 
-  In my experience:
-  - API tests run 10-50x faster than UI tests
-  - They catch integration bugs before they reach the UI
-  - They're more stable (no browser rendering flakiness)
-  - They're easier to maintain as the product evolves
-  
-  My pattern: test the API contract first, then add UI tests only for critical user-facing flows. This gives you a fast, reliable foundation with targeted E2E on
-  top.
+**My rule: AI writes the first draft. I own the final quality.**
 
-  For a platform managing hundreds of billions — that foundation matters.
+#AIinQA #Playwright #QualityEngineering #Automation
 
-  #APITesting #QualityEngineering #Playwright
+---
+Post 2 — Cutting regression time from days to hours
 
-  ---
-  Post 4 — What to automate vs what to leave manual
+A global investment firm was running 3 days of manual regression per release. Here's how I'd approach cutting that to under 2 hours:
 
-  One of the most underrated QA skills is knowing what not to automate.
+1. Map the critical user journeys — not every path needs E2E coverage
+2. Build a Playwright E2E suite targeting the 20% of flows that catch 80% of bugs
+3. Layer API tests underneath for speed — they run in seconds, not minutes
+4. Integrate into GitHub Actions to run on every PR
+5. Use sharding to parallelize across browsers
 
-  My decision framework:
-  ✅ Automate: repetitive, stable flows with clear pass/fail criteria
-  ✅ Automate: cross-browser/device checks (boring for humans, perfect for machines)
-  ❌ Don't automate: exploratory testing, UX evaluation, one-off edge cases
-  ❌ Don't automate: features that change every sprint
+The key insight: you don't need 100% automation. You need the right 40% automated well.
 
-  The goal isn't 100% automation. It's maximizing the signal-to-noise ratio so your team trusts the results.
+#Automation #Playwright #RegressionTesting
 
-  #QA #TestAutomation #Strategy
+---
+Post 3 — API testing: the unsexy backbone of quality
 
-  ---
-  Post 5 — Cross-browser testing without losing your mind
-  
-  Supporting Chrome, Firefox, Safari, Edge — and their mobile variants — sounds like a nightmare. Here's how I keep it sane:
+Everyone loves a flashy E2E suite. But API tests are where the real ROI lives.
 
-  1. Use Playwright's built-in multi-browser support (one test, multiple browsers)
-  2. Run critical paths on all browsers, edge cases on Chrome only
-  3. Use sharding in CI to parallelize — 4 browsers × N shards = fast feedback
-  4. Track browser-specific failures separately to spot patterns
+In my experience:
+- API tests run 10-50x faster than UI tests
+- They catch integration bugs before they reach the UI
+- They're more stable (no browser rendering flakiness)
+- They're easier to maintain as the product evolves
 
-  The trick: be intentional about which tests run on which browsers. Blanket everything and your CI takes forever.
+My pattern: test the API contract first, then add UI tests only for critical user-facing flows. This gives you a fast, reliable foundation with targeted E2E on top.
 
-  #Playwright #CrossBrowser #CICD
+For a platform managing hundreds of billions — that foundation matters.
 
-  ---
-  Post 6 — AI-assisted QA: copilot, not autopilot
-  
-  I use AI tools (Claude, Copilot) daily in my QA workflow. But here's the thing — AI is a copilot, not autopilot.
+#APITesting #QualityEngineering #Playwright
 
-  Where AI shines:
-  - Generating boilerplate test code from acceptance criteria
-  - Suggesting edge cases you might miss
-  - Debugging flaky test failures (paste the error, get hypotheses)
-  - Writing test data builders and helpers
+---
+Post 4 — What to automate vs what to leave manual
 
-  Where it fails:
-  - Understanding business context and domain logic
-  - Making judgment calls on test strategy
-  - Replacing actual exploratory testing
+One of the most underrated QA skills is knowing what not to automate.
 
-  The best QA engineers I know use AI to go faster, not to think less.
+My decision framework:
+✅ Automate: repetitive, stable flows with clear pass/fail criteria
+✅ Automate: cross-browser/device checks (boring for humans, perfect for machines)
+❌ Don't automate: exploratory testing, UX evaluation, one-off edge cases
+❌ Don't automate: features that change every sprint
 
-  #AIAssistedQA #Playwright #QualityEngineering
+The goal isn't 100% automation. It's maximizing the signal-to-noise ratio so your team trusts the results.
 
-  ---
-  Post 7 — Test plans that actually get read
+#QA #TestAutomation #Strategy
 
-  Most test plans are written once and never opened again. I build test plans that living documents:
+---
+Post 5 — Cross-browser testing without losing your mind
 
-  1. Link every test case to a requirement (traceability)
-  2. Mark automation status: automated / manual / not covered
-  3. Include risk assessment — what breaks most often, what's business-critical
-  4. Keep it in the repo alongside code (Markdown in Git, not a stale Confluence page)
+Supporting Chrome, Firefox, Safari, Edge — and their mobile variants — sounds like a nightmare. Here's how I keep it sane:
 
-  When a production incident happens, the test plan becomes your first diagnostic tool: "Did we even test this scenario?"
+1. Use Playwright's built-in multi-browser support (one test, multiple browsers)
+2. Run critical paths on all browsers, edge cases on Chrome only
+3. Use sharding in CI to parallelize — 4 browsers × N shards = fast feedback
+4. Track browser-specific failures separately to spot patterns
 
-  #TestPlanning #QualityAssurance #Documentation
+The trick: be intentional about which tests run on which browsers. Blanket everything and your CI takes forever.
 
-  ---
-  Post 8 — Defect tracking: from noise to signal
-  
-  A bug tracker with 500 open tickets is a graveyard, not a tool. Here's how I keep defect tracking useful:
+#Playwright #CrossBrowser #CICD
 
-  1. Every bug gets a severity + impact label (not just "high/medium/low")
-  2. Link bugs to test cases — if a test exists and the bug slipped through, the test needs updating
-  3. Track defect escape rate: how many bugs are found in prod vs. pre-prod?
-  4. Run monthly bug triage — close duplicates, merge related issues, re-prioritize
+---
+Post 6 — AI-assisted QA: copilot, not autopilot
 
-  The metric that matters: are we finding bugs before users do? That's the real measure of QA effectiveness.
+I use AI tools (Claude, Copilot) daily in my QA workflow. But here's the thing — AI is a copilot, not autopilot.
 
-  #DefectTracking #QAMetrics #QualityEngineering
+Where AI shines:
+- Generating boilerplate test code from acceptance criteria
+- Suggesting edge cases you might miss
+- Debugging flaky test failures (paste the error, get hypotheses)
+- Writing test data builders and helpers
 
-  ---
-  Post 9 — CI/CD integration: tests that run on every commit
+Where it fails:
+- Understanding business context and domain logic
+- Making judgment calls on test strategy
+- Replacing actual exploratory testing
 
-  Integrating automated tests into CI/CD isn't just a technical task — it's a cultural one.
+The best QA engineers I know use AI to go faster, not to think less.
 
-  Technical side:
-  - Playwright tests in GitHub Actions with parallel shards
-  - Fail fast: run smoke tests first, full suite only if smoke passes
-  - Publish test reports as PR comments so reviewers see results instantly
+#AIAssistedQA #Playwright #QualityEngineering
 
-  Cultural side:
-  - A red build means stop — no exceptions
-  - Flaky tests get fixed within 24 hours, not "someday"
-  - Test failures are treated as first-class citizens, not ignored
-  
-  When CI is trusted, deployment frequency goes up and rollback frequency goes down.
+---
+Post 7 — Test plans that actually get read
 
-  #CICD #GitHubActions #Playwright #DevOps
+Most test plans are written once and never opened again. I build test plans that living documents:
 
-  ---
-  Post 10 — Building a test suite that scales across product streams
-  
-  One product stream? Easy. Five product streams with shared components? That's where architecture matters.
+1. Link every test case to a requirement (traceability)
+2. Mark automation status: automated / manual / not covered
+3. Include risk assessment — what breaks most often, what's business-critical
+4. Keep it in the repo alongside code (Markdown in Git, not a stale Confluence page)
 
-  My approach to scalable test automation:
-  1. Shared page objects and API clients in a common package
-  2. Stream-specific test suites that import shared infrastructure
-  3. Centralized test data management (fixtures, factories, not hardcoded values)
-  4. Independent test execution — one stream's failures don't block another
-  5. Unified reporting dashboard across all streams
-  
-  This way, adding a new product stream means writing new tests, not rebuilding infrastructure.
-  - Flaky tests get fixed within 24 hours, not "someday"
-  - Test failures are treated as first-class citizens, not ignored
+When a production incident happens, the test plan becomes your first diagnostic tool: "Did we even test this scenario?"
 
-  When CI is trusted, deployment frequency goes up and rollback frequency goes down.
+#TestPlanning #QualityAssurance #Documentation
 
-  #CICD #GitHubActions #Playwright #DevOps
+---
+Post 8 — Defect tracking: from noise to signal
 
-  ---
-  Post 10 — Building a test suite that scales across product streams
+A bug tracker with 500 open tickets is a graveyard, not a tool. Here's how I keep defect tracking useful:
 
-  One product stream? Easy. Five product streams with shared components? That's where architecture matters.
+1. Every bug gets a severity + impact label (not just "high/medium/low")
+2. Link bugs to test cases — if a test exists and the bug slipped through, the test needs updating
+3. Track defect escape rate: how many bugs are found in prod vs. pre-prod?
+4. Run monthly bug triage — close duplicates, merge related issues, re-prioritize
 
-  My approach to scalable test automation:
-  1. Shared page objects and API clients in a common package
-  2. Stream-specific test suites that import shared infrastructure
-  3. Centralized test data management (fixtures, factories, not hardcoded values)
-  4. Independent test execution — one stream's failures don't block another
-  5. Unified reporting dashboard across all streams
+The metric that matters: are we finding bugs before users do? That's the real measure of QA effectiveness.
 
-  This way, adding a new product stream means writing new tests, not rebuilding infrastructure.
+#DefectTracking #QAMetrics #QualityEngineering
 
-  For a platform with multiple product streams managing billions — scalability isn't optional.
+---
+Post 9 — CI/CD integration: tests that run on every commit
 
-  #TestAutomation #Playwright #Scalability #Architecture
+Integrating automated tests into CI/CD isn't just a technical task — it's a cultural one.
+
+Technical side:
+- Playwright tests in GitHub Actions with parallel shards
+- Fail fast: run smoke tests first, full suite only if smoke passes
+- Publish test reports as PR comments so reviewers see results instantly
+
+Cultural side:
+- A red build means stop — no exceptions
+- Flaky tests get fixed within 24 hours, not "someday"
+- Test failures are treated as first-class citizens, not ignored
+
+When CI is trusted, deployment frequency goes up and rollback frequency goes down.
+
+#CICD #GitHubActions #Playwright #DevOps
+
+---
+Post 10 — Building a test suite that scales across product streams
+
+One product stream? Easy. Five product streams with shared components? That's where architecture matters.
+
+My approach to scalable test automation:
+1. Shared page objects and API clients in a common package
+2. Stream-specific test suites that import shared infrastructure
+3. Centralized test data management (fixtures, factories, not hardcoded values)
+4. Independent test execution — one stream's failures don't block another
+5. Unified reporting dashboard across all streams
+
+This way, adding a new product stream means writing new tests, not rebuilding infrastructure.
+
+For a platform with multiple product streams managing billions — scalability isn't optional.
+
+#TestAutomation #Playwright #Scalability #Architecture
+
+---
+Post 11 — I use AI for everything in QA. Except the one thing it's brilliant at — making me laugh.
+
+I spend all day using AI for test generation, debugging, flaky test analysis... but sometimes the best prompt is the one that reminds you not to take tech so seriously.
+
+Tried this on a photo of my dogs:
+
+*"Turn this into a funny ugly doodle. Cheap marker, childlike style, bad perspective, awkward proportions. Looks like a lazy drawing, not polished. Meme-like, casual, internet style."*
+
+The result? Absolutely unhinged. My dogs looked like they were drawn by a 5-year-old on a sugar rush.
+
+[Photo: original dogs photo → AI-generated ugly doodle side by side]
+
+The point: AI isn't just a work tool. Sometimes the best use is the one that makes your team laugh on a Monday morning.
+
+#AIinQA #DogsOfLinkedIn #Playwright #QualityEngineering

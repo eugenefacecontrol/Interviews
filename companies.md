@@ -4,10 +4,10 @@ This is the canonical human-readable list of interview companies.
 
 | Company | Status | Stage | Fit | Recommended CV | Salary Ask | Outreach | Last update |
 |---|---|---|---|---|---|---|---|
-| Ailleron | applied | cv_sent | 7/10 | CV 2 |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
-| Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
 | Acronis | applied | application_sent | 7/10 | CV 2 |  | Mihaela Contescu — LinkedIn message sent | 2026-05-10T22:30:00.000Z |
+| Ailleron | applied | cv_sent | 7/10 | CV 2 |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
 | AirHelp | applied | application_sent | 8.5/10 | CV 2 |  | Michał Sabat — LinkedIn message sent | 2026-05-11T15:30:00.000Z |
+| Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
 | Alior Bank | target | cv_to_send | 5/10 |  |  |  | 2026-04-02T22:38:53.974750+00:00 |
 | Andersen | target | recruiter_outreach | 7/10 | CV 2 |  | Recruiter outreach from Yana Budulatii (LinkedIn) | 2026-04-17T11:44:37.677Z |
 | Antal | applied | application_sent | 6/10 | CV 2 |  | Applied via JustJoinIt | 2026-04-08T10:35:05.105Z |
@@ -22,7 +22,7 @@ This is the canonical human-readable list of interview companies.
 | Britenet | target | cv_to_send | 56/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.893Z |
 | Capco | rejected | rejected | 4.65/5 | CV 2 |  | Rejected after application review | 2026-04-14T07:16:40.944Z |
 | ClearCourse Dev | target | cv_to_send | 46/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.074Z |
-| Coherent Solutions | applied | application_sent | 7/10 | CV 2 |  | Gleb Gusev — applied via link + LinkedIn message | 2026-05-10T22:00:00.000Z |
+| Coherent Solutions | applied | application_sent | 7/10 | CV 2 |  | Gleb Gusev — applied via link + LinkedIn message | 2026-05-08T15:00:00.000Z |
 | DataArt | contacted | recruiter_outreach | 92/100 | CV 2 |  | Kseniya Bazhenova | 2026-05-05T16:54:26.360Z |
 | DCV Technologies | applied | application_sent | 100/100 | CV 2 |  | Applied via JustJoinIt | 2026-04-16T15:21:42.904Z |
 | deBridge | contacted | cv_sent | 8/10 | CV 2 |  | Applied via Telegram to @leo_lomaev | 2026-04-23T07:05:02.485Z |
@@ -33,8 +33,8 @@ This is the canonical human-readable list of interview companies.
 | ESET | target | cv_to_send | 6/10 |  |  |  | 2026-04-02T22:38:53.974753+00:00 |
 | Euroclear | target | cv_to_send | 4/10 |  |  |  | 2026-04-02T22:38:53.974755+00:00 |
 | Experis Manpower Group | target | cv_to_send | 88/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.272Z |
-| Grape Up | rejected | application_review | 9/10 | CV 2 |  | Rejected after applying to talent pool opening | 2026-04-13T14:00:13.289707+00:00 |
 | Fundraise Up | applied | application_sent | 7/10 | CV 2 |  | Olga Radzievskaia — applied via website + LinkedIn | 2026-05-09T12:00:00.000Z |
+| Grape Up | rejected | application_review | 9/10 | CV 2 |  | Rejected after applying to talent pool opening | 2026-04-13T14:00:13.289707+00:00 |
 | Green Hive Technology | target | cv_to_send | 51/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.954Z |
 | Happy Team | target | cv_to_send | 41/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.134Z |
 | Infogain | target | cv_to_send | 88/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.335Z |
@@ -51,6 +51,7 @@ This is the canonical human-readable list of interview companies.
 | Montrose Software | target | cv_prepared | 80/100 | tailored-cv/montrose-software-qa-automation-engineer.md |  | CV prepared | 2026-05-06T18:00:20.505Z |
 | Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  |  | 2026-04-03T09:08:47.467Z |
 | N-iX | applied | application_sent | 76/100 | CV 2 |  | Applied via Olga Dmytryshyn | 2026-04-24T17:32:02.889Z |
+| Nord Security | applied | application submitted | high | cv-master-profile/tailored-cv/nord-security-automation-qa-engineer.cv.Yauheni.Sheima.pdf |  | Jurga Schulze; Anastasiia Mheladze | 2026-05-12T12:20:27.171Z |
 | Onwelo Sp. z o.o. | applied | application_sent | 81/100 | CV 2 |  | Applied via Monika Kulisz | 2026-04-24T11:12:58.763Z |
 | Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 |  | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
 | People More | target | cv_to_send | 3/10 |  |  |  | 2026-04-02T22:38:53.974758+00:00 |
@@ -59,6 +60,7 @@ This is the canonical human-readable list of interview companies.
 | Pwrteams | applied | application_sent | 100/100 | CV 2 |  | Applied via Anastasiia Kravchuk | 2026-04-25T19:51:31.638Z |
 | Remodevs | target | cv_to_send | 51/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.014Z |
 | Remote People | applied | application_sent | 8/10 | CV 2 |  | Applied via Greenhouse | 2026-04-12T14:20:59.410Z |
+| Scalable Solutions | rejected | rejected | 5/10 | CV 2 |  | Maryia Klimianok — rejected, Python stack mismatch | 2026-05-08T14:00:00.000Z |
 | SCALO | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.915Z |
 | Sii | target | cv_to_send | 91/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.150Z |
 | SOFTSWISS | closed | position_closed | 5/10 | CV 2 |  | Position closed after referral by Rusovich | 2026-04-15T17:56:20.371Z |
@@ -70,7 +72,6 @@ This is the canonical human-readable list of interview companies.
 | StoneX Poland | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.973Z |
 | Strategicsiq | target | cv_to_send | 5/10 |  |  |  | 2026-04-02T22:38:53.974740+00:00 |
 | Svitla Systems | rejected | screening | medium | CV 2 |  |  | 2026-04-02T13:53:34.725Z |
-| Scalable Solutions | rejected | rejected | 5/10 | CV 2 |  | Maryia Klimianok — rejected, Python stack mismatch | 2026-05-08T14:00:00.000Z |
 | Telement | contacted | cv_sent | 8/10 | CV 2 |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:58:41.364Z |
 | Tenarai Europe | closed | position_closed | true | CV 2 |  | Applied via Wiktoria Banaś-Gałecka | 2026-04-24T10:29:46.207Z |
 | Twinslash | contacted | cv_sent | 6.5/10 | CV 2 |  | CV sent via Telegram to @It_recruiter_tech | 2026-04-23T07:11:56.821Z |

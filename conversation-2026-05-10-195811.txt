@@ -1,0 +1,1883 @@
+ ▐▛███▜▌   Claude Code v2.1.138
+▝▜█████▛▘  openrouter/owl-alpha · API Usage Billing
+  ▘▘ ▝▝    ~/Sources/Interviews
+
+❯ /model 
+  ⎿  Kept model as Opus 4.7 (1M context)
+
+❯ /usage 
+  ⎿  Status dialog dismissed
+
+❯ Ты помнишь прошлый разговор?                                                  
+
+⏺ Let me check my memory files to see if I have any records from previous
+  conversations.
+
+  Listed 1 directory (ctrl+o to expand)
+
+⏺ Директория памяти пуста — я не нахожу сохранённых записей от прошлых
+  разговоров. Скорее всего, либо предыдущая сессия была недавно и память ещё не
+  была записана, либо она была очищена.
+
+  Если ты расскажешь, о чём мы говорили в прошлый раз, я смогу это запомнить и
+  учитывать в будущих сессиях. Что ты хочешь, чтобы я запомнил?
+
+✻ Churned for 23s
+
+❯ pwd                                                                           
+
+⏺ Ты спрашиваешь текущую директорию? Она уже указана в контексте:
+
+  /Users/yauhenisheima/Sources/Interviews
+
+  Это твой рабочий каталог в текущей сессии. Если нужно что-то сделать в этой
+  директории — говори!
+
+✻ Worked for 12s
+
+❯ 2026-05-08-121213-check.txt Вот наш прошлый разговор, как сделать, чтобы ты   
+  не забывал, посоветую mcp                                                     
+
+⏺ Дай сначала прочитаю этот файл, чтобы восстановить контекст прошлого
+  разговора.
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Отлично, теперь я восстановил контекст прошлой сессии. Главное:
+
+  1. Ты присылаешь вакансии → я добавляю их в проект (company.json, README.md,
+  companies.json, companies.md)
+  2. Генерация HTML через node scripts/render-companies-html.js
+  3. Коммичу после каждого обновления
+  4. Помогаю с ответами рекрутерам
+
+  Ты советуешь мне использовать память (memory) чтобы не забывать. Давай я
+  сохраню контекст о проекте и правилах работы:
+
+  Wrote 1 memory (ctrl+o to expand)
+
+⏺ Теперь насчёт MCP — ты упоминал, что хочешь посоветовать MCP-сервер. Какой
+  именно ты имеешь в виду? Может быть:
+
+  - MCP-сервер для работы с файлами — для более удобного управления данными?
+  - MCP-для календаря/задач — чтобы отслеживать дедлайны?
+  - Что-то другое?
+
+  Расскажи, что ты имеешь в виду, и я помогу настроить.
+
+✻ Sautéed for 1m 2s
+
+※ recap: Я восстановил контекст прошлой сессии из файла: ты присылаешь вакансии, я добавляю их в `companies/`, обновляю `companies.json`, таблицу, генерирую HTML и коммичу. Сохранил это в память. Готов принимать новые вакансии и сообщения от рекрутеров — присылай! (disable recaps in /config)
+
+❯ Mcp для того, что ты не терял контекст для текущего проекта, или записывай    
+  все в файл, как будет удобнее                                                 
+
+⏺ Понял, ты предлагаешь два подхода:
+
+  1. MCP-сервер для контекста — например, подключить Notion или базу данных как
+  внешнюю память
+  2. Продолжать писать в memory-файлы — как я уже сделал выше
+
+  Честно говоря, для твоего проекта memory-файлы, которые я уже использую, — это
+   достаточно. Они автоматически загружаются в каждую новую сессию. Я:
+
+  - ✅ Уже сохранил обзор проекта в memory/project-overview.md
+  - ✅ Между сессиями буду читать и обновлять эти файлы
+  - ✅ Буду записывать важные решения и контекст
+
+  MCP (например, Notion) имел бы смысл, если бы ты хотел сам редактировать 
+  данные из UI или синхронизировать с внешней системой. Но если главная цель —
+  чтобы я не забывал контекст между сессиями, то memory-файлов достаточно.
+
+  Что я предлагаю:
+  - Продолжать использовать memory-файлы (уже настроено)
+  - При каждом важном обновлении — дописывать в память
+  - Файл 2026-05-08-121213-check.txt (лог прошлой сессии) можно удалить или
+  заархивировать, чтобы не засорял
+
+  Как тебе такой план?
+
+✻ Crunched for 26s
+
+❯ При каждом важном обновлении — дописывать в память норм                       
+
+⏺ Хорошо, договорились. Буду при каждом важном обновлении дописывать в
+  memory-файлы.
+
+  Давай я сразу сохраню ключевые факты из прошлой сессии, чтобы ничего не
+  потерялось:
+
+  Wrote 2 memories (ctrl+o to expand)
+
+⏺ Теперь добавлю индекс в MEMORY.md:
+
+  Wrote 1 memory (ctrl+o to expand)
+
+⏺ Готово. Теперь у меня есть:
+
+  - MEMORY.md — индекс всех воспоминаний (загружается автоматически в каждую
+  сессию)
+  - project-overview.md — как устроен проект и что делать
+  - user-profile.md — твой профиль и стек
+  - companies-activity.md — последние активности по компаниям
+
+  При каждом новом обновлении буду дописывать в эти файлы. В начале каждой
+  сессии они автоматически подгрузятся и я буду в контексте. Присылай вакансии —
+   работаем! 🚀
+
+✻ Crunched for 1m 25s
+
+※ recap: Помогаю Евгению с поиском работы: веду учёт вакансий, генерирую HTML, коммичу, помогаю с ответами рекрутерам. Настроил memory-файлы чтобы не терять контекст между сессиями. (disable recaps in /config)
+
+❯ Мне отказали в                                                                
+  QA Automation Engineer                                                        
+  Team                                                                          
+                                                                                
+  Quality Assurance                                                             
+                                                                                
+  Location                                                                      
+                                                                                
+  Remote/Full-time                                                              
+                                                                                
+  About Scalable Solutions                                                      
+  Since 2013, Scalable Solutions has been at the forefront of the blockchain    
+  and digital asset revolution, building secure, scalable, and compliant        
+  infrastructure for clients around the world.                                  
+                                                                                
+                                                                                
+  We aim to reshape the future of finance by bringing the most advanced         
+  technologies to traditional banks, fintechs, and other financial              
+  institutions. Our solutions — from trading platforms to digital asset custody 
+   infrastructure — are trusted by some of the largest and most respected       
+  players in the industry.                                                      
+                                                                                
+                                                                                
+  We believe that blockchain will fundamentally transform how people move       
+  money, buy, sell, and shop — and we're committed to enabling that             
+  transformation through cutting-edge products and deep technical expertise.    
+                                                                                
+                                                                                
+  We're looking for highly skilled individuals who share our passion for        
+  technology and want to help us build the future of finance — one powerful     
+  product at a time.                                                            
+                                                                                
+  About the role                                                                
+  We are looking for a backend QA Automation Engineer with strong Python skills 
+   and over 5 years of testing experience and 3+ years of Python experience.    
+  Knowledge in fintech is very important. Experience in trading or working with 
+   exchanges is a big plus.                                                     
+                                                                                
+  Job description                                                               
+  Analyze requirements carefully and thoughtfully — good analytical skills are  
+  essential                                                                     
+  Create test scenarios for both functional and non-functional testing          
+  Work with a model-based testing approach, meaning you need a strong           
+  understanding of model design and trading specifics                           
+  Test components of the exchange core and the overall system                   
+  Write automated tests for API and backend in Python (minimal manual testing)  
+  Maintain and develop the Python automation framework                          
+  Review automation code from your teammates                                    
+  Keep testing documentation up to date and assist with project documentation   
+  Qualifications                                                                
+  You have:                                                                     
+  Solid skills in test analysis and test design                                 
+  Strong experience in Python automation                                        
+  Highly preferred:                                                             
+  Good understanding of API testing                                             
+  Experience with non-functional testing                                        
+  Ability to work well in a team                                                
+  Confident working in the Linux shell (basic scripting, log analysis, managing 
+   services)                                                                    
+  Will be a plus:                                                               
+  Experience testing exchange cores or similar systems                          
+  Personal experience with trading                                              
+  Familiarity with CI/CD pipelines and version control systems                  
+  Ability to read C++ code                                                      
+  Basic SQL skills for checking developer queries and analyzing migrations      
+  What we offer                                                                 
+  remote                                                                        
+  Work from anywhere — you can work remotely from anywhere in the world or join 
+   us in our comfortable office in Tbilisi                                      
+                                                                                
+  salary                                                                        
+  Competitive salary — based on your skills, experience, and professional       
+  background                                                                    
+                                                                                
+  time                                                                          
+  Flexible time-off — take paid time off and holidays when you need them, with  
+  flexibility to suit your schedule                                             
+                                                                                
+  sport                                                                         
+  Partial sport compensation — we support a healthy lifestyle by covering part  
+  of your fitness or sports expenses                                            
+                                                                                
+  education                                                                     
+  Partial education compensation — we help cover the cost of courses,           
+  certifications, and other learning opportunities                              
+                                                                                
+  relocation                                                                    
+  Relocation support — we assist with your move to Tbilisi if you decide to     
+  relocate                                                                      
+                                                                                
+  breakfast                                                                     
+  Lunch compensation — we fully cover daily lunch expenses for our employees in 
+   Tbilisi                                                                      
+                                                                                
+  Compensation range                                                            
+  Compensation will be discussed during the interview process and determined    
+  based on the candidate's qualifications, skills, and previous experience.     
+  https://www.linkedin.com/in/maryiaklimianok/                                  
+                                                                                
+  Добрый день, Евгений!                                                         
+                                                                                
+  Спасибо за развернутый ответ!                                                 
+                                                                                
+  К сожалению, сейчас мы не сможем продолжить общение по нашим позициям. Для    
+  нашей команды критичен именно Python — необходим уверенный опыт от 2-х лет    
+  непрерывной работы, так как весь наш основной фреймворк автоматизации         
+  выстроен на нем, и писать на Python придется с первого дня.                   
+                                                                                
+  У вас очень сильный бэкграунд в автоматизации на C# и JS/TS, а также крутой   
+  опыт работы с банковскими системами. Давайте обязательно останемся на связи!  
+  Если у нас появятся позиции с более подходящим стеком, я с радостью к вам     
+  вернусь.                                                                      
+  Отметь это                                                                    
+
+⏺ Scalable Solutions уже есть в базе как rejected (Maryia Klimianok, отказ из-за
+   Python-стека). Это тот же самый отказ, который ты мне уже присылал в прошлой
+  сессии — я его тогда записал и закоммитил.
+
+  Ничего обновлять не нужно — статус уже rejected, всё на месте. Можешь просто
+  ответить Maryia (я уже давал тебе вариант ответа в прошлый раз).
+
+  Хочешь, чтобы я освежил ответ для неё, или просто отметить и двигаться дальше?
+
+✻ Crunched for 26s
+
+❯ Его нету в html, зааусти render-companies-html.js                             
+
+⏺ Дай посмотрю на скрипт генерации и проверю, почему Scalable Solutions не попал
+   в HTML.
+
+  Read 1 file (ctrl+o to expand)
+  ⎿  Interrupted · What should Claude do instead?
+
+※ recap: Помогаю Евгению с поиботой работы: веду учёт компаний в `companies.json`, генерирую HTML, отвечаю на сообщения рекрутеров. Присылай вакансии или апдейты. (disable recaps in /config)
+❯ Ой, я просто не запушил 🙂                                                    
+
+⏺ Понял — проблема не в скрипте, а в том что ты не запушил. Но давай проверю:
+  Scalable Solutions есть в companies.json, просто HTML не был пересгенерирован
+  после последнего коммита. Сейчас сгенерирую:
+
+⏺ Bash(node scripts/render-companies-html.js)
+  ⎿  Rendered /Users/yauhenisheima/Sources/Interviews/site/index.html
+
+⏺ HTML пересгенерирован. Проверю, что Scalable Solutions теперь на месте:
+
+  Searched for 2 patterns (ctrl+o to expand)
+
+⏺ Scalable Solutions теперь в HTML. Запушь когда будешь готов — site/index.html
+  обновлён. 👍
+
+✻ Brewed for 1m 44s
+
+※ recap: Scalable Solutions уже была добавлена как rejected в прошлой сессии. HTML пересгенерирован — Scalable Solutions теперь на месте. Запушь `site/index.html` когда будешь готов.
+
+❯ https://www.linkedin.com/in/lizaveta-r/                                       
+                                                                                
+  Верни сообщение для Елизаветы на русском, просто хочу добавить, 300 символов  
+  макс, вот мое cv: https://raw.githubusercontent.com/eugenefacecontrol/cv-mast 
+  er-profile/refs/heads/main/master-profile.md                                  
+
+⏺ Вот вариант ответа для Елизаветы:
+
+  ---
+  Добрый день, Елизавета! Спасибо что обратили внимание на мой профиль. Вот
+  ссылка на моё CV: https://raw.githubusercontent.com/eugenefacecontrol/cv-maste
+  r-profile/refs/heads/main/master-profile.md. Буду рад обсудить ваши вакансии,
+  если есть подходящие позиции. Хорошего дня! 😊
+
+  ---
+  ~190 символов, коротко и по делу. Хочешь что-то изменить?
+
+✻ Worked for 31s
+
+❯ Ахахахах, а ты можешь прочитать эту сслыку? Лучше выпиши мои главные силы,    
+  C#, PowerShell, QA, DevOps, Typescript                                        
+
+⏺ Дай прочитаю твоё CV:
+
+⏺ Fetch(https://raw.githubusercontent.com/eugenefacecontrol/cv-master-profile/re
+       fs/heads/main/master-profile.md)
+  ⎿  Received 13.3KB (200 OK)
+
+⏺ Окей, теперь вот переработанный ответ для Елизаветы:
+
+  ---
+  Добрый день, Елизавета! Спасибо за интерес к моему профилю. Вот моё CV:
+  https://raw.githubusercontent.com/eugenefacecontrol/cv-master-profile/refs/hea
+  ds/main/master-profile.md.
+
+  Если коротко о моих сильных сторонах: C# — автоматизация тестирования
+  (Playwright, Selenium, API), TypeScript/JavaScript — скрипты и фреймворки,
+  PowerShell — автоматизация и администрирование, DevOps — CI/CD (Azure DevOps,
+  YAML pipelines, Bicep, Docker, Kubernetes, Helm). Буду рад обсудить подходящие
+   позиции! 😊
+
+  ---
+  ~350 символов. Хочешь сократить до 300 или оставить так?
+
+✻ Cooked for 52s
+
+❯ Ссылку не надо                                                                
+
+⏺ ---
+  Добрый день, Елизавета! Спасибо за интерес к моему профилю. Если коротко о
+  сильных сторонах: C# — автоматизация тестирования (Playwright, Selenium, API),
+   TypeScript/JavaScript, PowerShell, DevOps — CI/CD, Azure DevOps, Docker,
+  Kubernetes. Буду рад обсудить подходящие позиции! 😊
+
+  ---
+  ~280 символов. Ок?
+
+✻ Baked for 27s
+
+❯ Я добавляю её в коннекшены, просто напиши: Вот мой стек, буду рад добавиться, 
+   '—' не используй, используй  точки с запятой, и запятые.                     
+                                                                                
+  Потому что сейчас длинное тире — оно не очень.                                
+
+⏺ Вот мой стек: C#, Playwright, Selenium, API автоматизация; TypeScript,
+  JavaScript; PowerShell; DevOps, CI/CD, Azure DevOps, Docker, Kubernetes. Буду
+  рад добавиться! 😊
+
+✻ Sautéed for 24s
+
+❯ А приветствие?                                                                
+
+⏺ Добрый день, Елизавета! Вот мой стек: C#, Playwright, Selenium, API
+  автоматизация; TypeScript, JavaScript; PowerShell; DevOps, CI/CD, Azure
+  DevOps, Docker, Kubernetes. Буду рад добавиться! 😊
+
+✻ Cogitated for 19s
+
+❯ npx skills add https://github.com/vercel-labs/skills.git --skill find-skills  
+
+⏺ Это команда для установки скилла из репозитория Vercel. Давай выполню:
+
+⏺ Bash(npx skills add https://github.com/vercel-labs/skills.git --skill
+      find-skills)
+  ⎿  npm warn exec The following package was not found and will be installe
+     d: skills@1.5.5
+     … +24 lines (ctrl+o to expand)
+
+⏺ Скилл скачан, но интерактивный выбор агентов завис — нет UI для выбора.
+  Попробую перезапустить с флагом --yes:
+
+⏺ Bash(npx skills add https://github.com/vercel-labs/skills.git --skill
+      find-skills --yes 2>&1)
+  ⎿  ███████╗██╗  ██╗██╗██╗     ██╗     ███████╗
+     ██╔════╝██║ ██╔╝██║██║     ██║     ██╔════╝
+     ███████╗█████╔╝ ██║██║     ██║     ███████╗
+     … +36 lines (ctrl+o to expand)
+
+⏺ Готово! Скилл find-skills установлен. Он доступен для Claude Code и других
+  агентов. Попробуй использовать его — он помогает находить нужные скиллы для
+  задач.
+
+✻ Churned for 1m 14s
+
+※ recap: Помогаю тебе с поиском работы: веду учёт компаний в проекте, генерирую HTML, пишу ответы рекрутерам. Сейчас установили скилл find-skills, ты прислал контакт Елизаветы — ответ для неё готов. Жду новые вакансии.
+
+❯ Давай сообщение более живое, чтобы было красиво                               
+
+⏺ Добрый день, Елизавета! Рада добавиться 🎉 Вот мой стек: C#, Playwright,
+  Selenium, API автоматизация; TypeScript, JavaScript; PowerShell; DevOps,
+  CI/CD, Azure DevOps, Docker, Kubernetes. Если будут интересные позиции — буду
+  рада обсудить! 😊
+
+  ---
+  Хочешь, чтобы я как-то иначе оформил?
+
+✻ Cooked for 33s
+❯ Hi Weronika, I'm Yauheni, QA Automation Engineer (7+ years). I work with      
+  Playwright/Python, API and SQL and can share relevant QA experience for your  
+  hiring needs. Open to connect?                                                
+                                                                                
+  Давай в таком стиле                                                           
+
+⏺ Привет, Елизавета! Я Евгений, QA Automation Engineer (7+ лет). Работаю с C#,
+  Playwright, Selenium, API автоматизацией, TypeScript, PowerShell, DevOps. Буду
+   рад добавиться и обсудить интересные позиции! 😊
+
+✻ Worked for 35s
+
+❯ Верни сообщение для https://www.linkedin.com/in/gleb-gusev-4aaa40a1/ на       
+  русском, запиши в таблицу и запушь                                            
+                                                                                
+  Company Name:                                                                 
+  Coherent Solutions                                                            
+  Job Link:                                                                     
+  https://www.linkedin.com/jobs/view/4402421763                                 
+  Job title:                                                                    
+  QA Automation Engineer (Digital Engineering)                                  
+  Description:                                                                  
+  Coherent Solutions is a digital product engineering company focused on        
+  empowering business success. Our global team of 1700+ talented professionals  
+  collaborate seamlessly to deliver innovative solutions that drive measurable  
+  business impact. Headquartered in Minneapolis, USA, the company’s core        
+  competencies across 10 locations worldwide include product software           
+  development, IT consulting, data and analytics, machine learning, mobile app  
+  development, DevOps, Salesforce, and more.                                    
+  We grow a team of advisors, not just order takers, and strive to make the     
+  company a place for career growth and opportunities. If you want to grow your 
+   core competencies, share your passion and be sure that every contribution is 
+   evaluated, we are on the same page.                                          
+  Company BackgroundOur client is a leading life insurance company, part of a   
+  global financial services group. The company provides a range of financial    
+  products, including annuities and life insurance, delivered through a large   
+  nationwide network of agents.                                                 
+  Project DescriptionThe project focuses on ensuring quality and reliability of 
+   systems within the financial domain, including validation of                 
+  business-critical workflows and data processing.                              
+  TechnologiesPythonAzureSQLAutomation frameworks                               
+  What You'll DoPerform manual testing of application features and              
+  workflows;Develop and maintain automation tests using Python;Work with        
+  existing automation frameworks and improve test coverage;Validate data and    
+  perform database checks using SQL;Collaborate with development and QA teams   
+  to ensure product quality;Identify, document, and track defects;              
+  Job Requirements3+ year of experience in QA;Experience with Databricks        
+  ecosystem;Experience working in Azure cloud environment;Good understanding of 
+   data pipelines and data platform architecture;Experience with Python for     
+  test automation;Understanding of automation frameworks;Experience working     
+  with SQL;Strong knowledge of manual QA practices;Attention to detail and      
+  analytical mindset;Ability to work in a team environment;English level:       
+  Upper-Intermediate (B2) or higher;                                            
+  What Do We OfferPrivate health insurance – Luxmed;Cafeteria platform          
+  (Cafeteria account + Multisport card);All global benefits practice such as    
+  referral bonus, additional paid days off depending on seniority,              
+  anniversaries;Welcome pack;Team building events;Team lunches, drinks, snacks  
+  and fruits available;Remote/hybrid work, office in the city                   
+  center;Opportunity for personal and professional development;Internal         
+  trainings and Udemy courses;And many other advantages which could be offered  
+  by fast-growing company.                                                      
+  If this opportunity excites you, send us your resume!Please, note, that we    
+  will consider all the applications with due respect, but only shortlisted     
+  candidates will be contacted.                                                 
+  Please take you time to see Coherent Solutions Privacy Policy for Job         
+  Applicants for details on how we process your personal data:                  
+  https://www.coherentsolutions.com/privacy-policy-for-job-applicants           
+
+⏺ Добавлю в таблицу и подготовлю сообщение.
+
+⏺ Bash(mkdir -p
+      /Users/yauhenisheima/Sources/Interviews/companies/coherent-solutions)
+  ⎿  Interrupted · What should Claude do instead?
+
+❯ Уже есть такая папка, вот пример хорошего текста:                             
+  Привет, Ксения! Увидел вакансию AQA Engineer with Playwright в DataArt. У     
+  меня сильный практический опыт с Playwright, API testing, CI/CD и AI-assisted 
+   QA workflows. Роль выглядит очень релевантной моему опыту, буду рад коротко  
+  рассказать о своём fit                                                        
+
+⏺ Понял, папка уже есть. Сначала посмотрю текущие файлы, потом обновлю.
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Вижу, что запись уже есть с другой вакансисй (travel/transportation). Это
+  новая позиция — Digital Engineering, клиент в insurance домене. Обновлю файлы
+  и добавлю рекрутера Gleb. Понял, папка уже есть. Сначала посмотрю текущие
+  файлы, потом обновлю.Вижу, что запись уже есть с другой вакансисй
+  (travel/transportation). Это новая позиция — Digital Engineering, клиент в
+  insurance домене. Обновлю файлы и добавлю рекрутера Gleb.
+
+✻ Crunched for 52s
+
+❯ Добавляй и верни сообщение                                                    
+
+⏺ Update(companies/coherent-solutions/company.json)
+  ⎿  Added 7 lines, removed 6 lines
+       3    "name": "Coherent Solutions",
+       4    "status": "applying",
+       5    "stage": "message_prep",
+       6 -  "process": "Preparing application for QA Automation Engineer 
+         -in travel and transportation sphere",                          
+       7 -  "requirements": "QA Automation Engineer; travel/transportatio
+         -n; microservices; API/E2E/contract/performance testing; Python;
+         - SQL; Postman; Datadog; Robot Framework; Playwright; REST; Pub/
+         -Sub; Kafka; Kubernetes; GCP; CI/CD; Agile",                    
+       8 -  "notes": "Preparing to apply. Strong fit on API, Playwright, 
+         -CI/CD, microservices mindset; weaker on Python depth, Robot Fra
+         -mework, and GCP-specific experience.",                         
+       6 +  "process": "Preparing message to Gleb Gusev (LinkedIn) for QA
+         + Automation Engineer (Digital Engineering) position",          
+       7 +  "requirements": "QA Automation Engineer; insurance/financial 
+         +domain; Python; Azure; SQL; Databricks; data pipelines; automat
+         +ion frameworks; manual testing; 3+ years QA; B2 English",      
+       8 +  "notes": "Gleb Gusev reached out on LinkedIn. Client is a lea
+         +ding life insurance company. Project focuses on quality and rel
+         +iability of financial systems, data processing validation. Stro
+         +ng fit on API testing, SQL, CI/CD, Azure, automation frameworks
+         +; weaker on Python depth and Databricks-specific experience. Fi
+         +t: 7/10.",                                                     
+       9    "links": [
+      10 -    "https://www.coherentsolutions.com/careers/qa-automation-en
+         -gineer-travel-and-transportation-sphere"                       
+      10 +    "https://www.linkedin.com/jobs/view/4402421763"            
+      11    ],
+      12    "fit": "7/10",
+      13    "recommendedCv": "CV 2",
+      14 -  "outreach": "Preparing application",                         
+      15 -  "updatedAt": "2026-04-07T13:33:45.994Z"                      
+      14 +  "outreach": "Gleb Gusev (LinkedIn) — preparing message",     
+      15 +  "outreachUrl": "https://www.linkedin.com/in/gleb-gusev-4aaa40
+         +a1/",                                                          
+      16 +  "updatedAt": "2026-05-08T15:00:00.000Z"                      
+      17  }
+
+⏺ Теперь обновлю companies.json — найду запись и обновлю:
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Найду точную позицию coherent-solutions:
+
+  Searched for 1 pattern, read 1 file (ctrl+o to expand)
+
+⏺ Update(companies.json)
+  ⎿  Added 7 lines, removed 6 lines
+      275        "name": "Coherent Solutions",
+      276        "status": "applying",
+      277        "stage": "message_prep",
+      278 -      "process": "Preparing application for QA Automation Engi
+          -neer in travel and transportation sphere",                    
+      279 -      "requirements": "QA Automation Engineer; travel/transpor
+          -tation; microservices; API/E2E/contract/performance testing; P
+          -ython; SQL; Postman; Datadog; Robot Framework; Playwright; RES
+          -T; Pub/Sub; Kafka; Kubernetes; GCP; CI/CD; Agile",            
+      280 -      "notes": "Preparing to apply. Strong fit on API, Playwri
+          -ght, CI/CD, microservices mindset; weaker on Python depth, Rob
+          -ot Framework, and GCP-specific experience.",                  
+      278 +      "process": "Preparing message to Gleb Gusev (LinkedIn) f
+          +or QA Automation Engineer (Digital Engineering) position",    
+      279 +      "requirements": "QA Automation Engineer; insurance/finan
+          +cial domain; Python; Azure; SQL; Databricks; data pipelines; a
+          +utomation frameworks; manual testing; 3+ years QA; B2 English"
+          +,                                                             
+      280 +      "notes": "Gleb Gusev reached out on LinkedIn. Client is 
+          +a leading life insurance company. Project focuses on quality a
+          +nd reliability of financial systems, data processing validatio
+          +n. Strong fit on API testing, SQL, CI/CD, Azure, automation fr
+          +ameworks; weaker on Python depth and Databricks-specific exper
+          +ience. Fit: 7/10.",                                           
+      281        "links": [
+      282 -        "https://www.coherentsolutions.com/careers/qa-automati
+          -on-engineer-travel-and-transportation-sphere"                 
+      282 +        "https://www.linkedin.com/jobs/view/4402421763"       
+      283        ],
+      284        "fit": "7/10",
+      285        "recommendedCv": "CV 2",
+      286 -      "outreach": "Preparing application",                    
+      287 -      "updatedAt": "2026-04-07T13:33:45.994Z"                 
+      286 +      "outreach": "Gleb Gusev (LinkedIn) — preparing message",
+      287 +      "outreachUrl": "https://www.linkedin.com/in/gleb-gusev-4
+          +aaa40a1/",                                                    
+      288 +      "updatedAt": "2026-05-08T15:00:00.000Z"                 
+      289      },
+      290      {
+      291        "slug": "dataart",
+
+⏺ Теперь обновлю companies.md:
+
+  Searched for 1 pattern (ctrl+o to expand)
+
+⏺ Update(companies.md)
+  ⎿  File must be read first
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Update(companies.md)
+  ⎿  Added 1 line, removed 1 line
+      19  | Britenet | target | cv_to_send | 56/100 | CV 2 |  | Shortlist
+          ed from CSV | 2026-04-16T10:25:48.893Z |
+      20  | Capco | rejected | rejected | 4.65/5 | CV 2 |  | Rejected aft
+          er application review | 2026-04-14T07:16:40.944Z |
+      21  | ClearCourse Dev | target | cv_to_send | 46/100 | CV 2 |  | Sh
+          ortlisted from CSV | 2026-04-16T10:25:49.074Z |
+      22 -| Coherent Solutions | applying | message_prep | 7/10 | CV 2 | 
+         - | Preparing application | 2026-04-07T13:33:45.994Z |          
+      22 +| Coherent Solutions | applying | message_prep | 7/10 | CV 2 | 
+         + | Gleb Gusev (LinkedIn) — preparing message | 2026-05-08T15:00
+         +:00.000Z |                                                     
+      23  | DataArt | contacted | recruiter_outreach | 92/100 | CV 2 |  |
+           Kseniya Bazhenova | 2026-05-05T16:54:26.360Z |
+      24  | DCV Technologies | applied | application_sent | 100/100 | CV 
+          2 |  | Applied via JustJoinIt | 2026-04-16T15:21:42.904Z |
+      25  | deBridge | contacted | cv_sent | 8/10 | CV 2 |  | Applied via
+           Telegram to @leo_lomaev | 2026-04-23T07:05:02.485Z |
+
+⏺ Теперь сгенерирую HTML и закоммичу:
+
+⏺ Bash(node scripts/render-companies-html.js)
+  ⎿  Rendered /Users/yauhenisheima/Sources/Interviews/site/index.html
+
+⏺ Bash(git add companies.json companies.md
+      companies/coherent-solutions/company.json site/index.html && git commit -m
+       "$(cat <<'EOF'
+      Update Coherent Solutions — new Di…)
+  ⎿  [master 1ff450d] Update Coherent Solutions — new Digital Engineering r
+     ole, Gleb Gusev outreach
+      4 files changed, 18 insertions(+), 16 deletions(-)
+
+⏺ Bash(git push)
+  ⎿  To github.com:eugenefacecontrol/Interviews.git
+        fd57fe3..1ff450d  master -> master
+
+⏺ Готово, запушил. Вот сообщение для Gleb:
+
+  ---
+  Привет, Глеб! Увидел вакансию QA Automation Engineer (Digital Engineering) в
+  Coherent Solutions. У меня сильный практический опыт с API автоматизацией,
+  SQL, CI/CD и Azure. Роль выглядит очень релевантной моему опыту, буду рад
+  коротко рассказать о своём fit. Открыт к обсуждению! 😊
+
+  ---
+  Хочешь что-то изменить?
+
+✻ Sautéed for 6m 29s
+
+❯ Привет, Глеб! Увидел вакансию QA Automation Engineer (Digital Engineering) в  
+  Coherent Solutions. У меня сильный практический опыт с API автоматизацией,    
+  SQL, CI/CD и Azure. Роль выглядит очень релевантной моему опыту. Буду рад     
+  добавиться! 😊                                                                
+                                                                                
+  Вот как исправил                                                              
+
+⏺ Отлично, выглядит хорошо! Коротко, живо, по делу. Отправляй! 🚀
+
+✻ Worked for 23s
+❯ Отправил, можешь поправить таблицу и запушить                                 
+
+⏺ Статус нужно обновить — ты отправил сообщение, значит статус меняется. Сейчас
+  поправлю:
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Статус applying / message_prep уже отражает что сообщение готовилось. Раз ты
+  отправил — можно перевести в contacted / message_sent. Но подожди — ты же
+  просто добавился в коннекшены к Gleb, или отправил именно сообщение по
+  вакансии?
+
+  Если отправил сообщение — обновлю на contacted / message_sent. Если просто
+  добавился в контакты — можно оставить как есть или поставить contacted /
+  connection_sent. Как правильнее?
+
+✻ Crunched for 44s
+
+❯ Я добавил и написал сопровождающее сообщение                                  
+
+⏺ Понял, тогда обновлю статус:
+
+⏺ Update(companies/coherent-solutions/company.json)
+  ⎿  Added 3 lines, removed 3 lines
+      1  {
+      2    "slug": "coherent-solutions",
+      3    "name": "Coherent Solutions",
+      4 -  "status": "applying",                                         
+      5 -  "stage": "message_prep",                                      
+      6 -  "process": "Preparing message to Gleb Gusev (LinkedIn) for QA 
+        -Automation Engineer (Digital Engineering) position",            
+      4 +  "status": "contacted",                                        
+      5 +  "stage": "message_sent",                                      
+      6 +  "process": "Sent LinkedIn connection request + accompanying me
+        +ssage to Gleb Gusev for QA Automation Engineer (Digital Engineer
+        +ing) position",                                                 
+      7    "requirements": "QA Automation Engineer; insurance/financial d
+         omain; Python; Azure; SQL; Databricks; data pipelines; automatio
+         n frameworks; manual testing; 3+ years QA; B2 English",
+      8    "notes": "Gleb Gusev reached out on LinkedIn. Client is a lead
+         ing life insurance company. Project focuses on quality and relia
+         bility of financial systems, data processing validation. Strong 
+         fit on API testing, SQL, CI/CD, Azure, automation frameworks; we
+         aker on Python depth and Databricks-specific experience. Fit: 7/
+         10.",
+      9    "links": [
+
+⏺ Update(companies/coherent-solutions/company.json)
+  ⎿  Added 1 line, removed 1 line
+      11    ],
+      12    "fit": "7/10",
+      13    "recommendedCv": "CV 2",
+      14 -  "outreach": "Gleb Gusev (LinkedIn) — preparing message",     
+      14 +  "outreach": "Gleb Gusev — connection + message sent",        
+      15    "outreachUrl": "https://www.linkedin.com/in/gleb-gusev-4aaa40
+          a1/",
+      16    "updatedAt": "2026-05-08T15:00:00.000Z"
+      17  }
+
+⏺ Теперь обновлю companies.json:
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Update(companies.json)
+  ⎿  Added 3 lines, removed 3 lines
+      273      {
+      274        "slug": "coherent-solutions",
+      275        "name": "Coherent Solutions",
+      276 -      "status": "applying",                                   
+      277 -      "stage": "message_prep",                                
+      278 -      "process": "Preparing message to Gleb Gusev (LinkedIn) f
+          -or QA Automation Engineer (Digital Engineering) position",    
+      276 +      "status": "contacted",                                  
+      277 +      "stage": "message_sent",                                
+      278 +      "process": "Sent LinkedIn connection request + accompany
+          +ing message to Gleb Gusev for QA Automation Engineer (Digital 
+          +Engineering) position",                                       
+      279        "requirements": "QA Automation Engineer; insurance/finan
+           cial domain; Python; Azure; SQL; Databricks; data pipelines; a
+           utomation frameworks; manual testing; 3+ years QA; B2 English"
+           ,
+      280        "notes": "Gleb Gusev reached out on LinkedIn. Client is 
+           a leading life insurance company. Project focuses on quality a
+           nd reliability of financial systems, data processing validatio
+           n. Strong fit on API testing, SQL, CI/CD, Azure, automation fr
+           ameworks; weaker on Python depth and Databricks-specific exper
+           ience. Fit: 7/10.",
+      281        "links": [
+
+⏺ Update(companies.json)
+  ⎿  Added 1 line, removed 1 line
+      283        ],
+      284        "fit": "7/10",
+      285        "recommendedCv": "CV 2",
+      286 -      "outreach": "Gleb Gusev (LinkedIn) — preparing message",
+      286 +      "outreach": "Gleb Gusev — connection + message sent",   
+      287        "outreachUrl": "https://www.linkedin.com/in/gleb-gusev-4
+           aaa40a1/",
+      288        "updatedAt": "2026-05-08T15:00:00.000Z"
+      289      },
+
+⏺ Теперь companies.md:
+
+⏺ Update(companies.md)
+  ⎿  Added 1 line, removed 1 line
+      19  | Britenet | target | cv_to_send | 56/100 | CV 2 |  | Shortlist
+          ed from CSV | 2026-04-16T10:25:48.893Z |
+      20  | Capco | rejected | rejected | 4.65/5 | CV 2 |  | Rejected aft
+          er application review | 2026-04-14T07:16:40.944Z |
+      21  | ClearCourse Dev | target | cv_to_send | 46/100 | CV 2 |  | Sh
+          ortlisted from CSV | 2026-04-16T10:25:49.074Z |
+      22 -| Coherent Solutions | applying | message_prep | 7/10 | CV 2 | 
+         - | Gleb Gusev (LinkedIn) — preparing message | 2026-05-08T15:00
+         -:00.000Z |                                                     
+      22 +| Coherent Solutions | contacted | message_sent | 7/10 | CV 2 |
+         +  | Gleb Gusev — connection + message sent | 2026-05-08T15:00:0
+         +0.000Z |                                                       
+      23  | DataArt | contacted | recruiter_outreach | 92/100 | CV 2 |  |
+           Kseniya Bazhenova | 2026-05-05T16:54:26.360Z |
+      24  | DCV Technologies | applied | application_sent | 100/100 | CV 
+          2 |  | Applied via JustJoinIt | 2026-04-16T15:21:42.904Z |
+      25  | deBridge | contacted | cv_sent | 8/10 | CV 2 |  | Applied via
+           Telegram to @leo_lomaev | 2026-04-23T07:05:02.485Z |
+
+⏺ HTML + коммит + пуш:
+
+⏺ Bash(node scripts/render-companies-html.js && git add companies.json
+      companies.md companies/coherent-solutions/company.json site/index.html &&
+      git commit -m "Update…)
+  ⎿  Rendered /Users/yauhenisheima/Sources/Interviews/site/index.html
+     [master 8edec18] Update Coherent Solutions — message sent to Gleb Guse
+     v
+     … +3 lines (ctrl+o to expand)
+
+⏺ Готово, запушил. Coherent Solutions теперь contacted / message_sent. Ждём
+  ответа от Gleba! 🤞
+
+✻ Brewed for 3m 46s
+
+※ recap: Помогаю Евгению с поиском работы QA Automation Engineer — добавляю вакансии, пишу сообщения рекрутерам, обновляю таблицу, генерирую HTML. Только что добавил Coherent Solutions (Gleb Gusev), запушил. Ждём ответа.
+
+❯                                                                               
+  Company Name:                                                                 
+  Exadel                                                                        
+  Job Link:                                                                     
+  https://www.linkedin.com/jobs/view/4404538694                                 
+  Job title:                                                                    
+  Senior Automation QA Engineer(Java)                                           
+  Description:                                                                  
+  Why Join ExadelExadel is an AI-first global tech company with 25+ years of    
+  engineering excellence, 2,000+ professionals, and 500+ active projects        
+  powering Fortune 500 clients, including HBO, Microsoft, Google, and           
+  Starbucks.From AI platforms to digital transformation, we partner with        
+  enterprise leaders to build what’s next.What powers it all? Our people —      
+  ambitious, collaborative, and constantly evolving.                            
+  About the ClientThe customer is one of the largest online gambling companies  
+  in the world, with over 26 million clients across all markets. The company    
+  was founded in 1997 and listed on Nasdaq Stockholm in 2004. They are          
+  committed to offering their clients the best possible deal and user           
+  experience, while ensuring a safe and fair gambling environment.              
+  Project Tech StackAI-Assisted IDEs (Cursor, GitHub Copilot), Java 21,         
+  TestContainers, Cypress, Gatling.io, Maven,                                   
+  PostgreSQL/Oracle/Couchbase/MySQL, REST APIs, Bitbucket, Jenkins/Argo CD,     
+  JFrog Artifactory, Docker, Kubernetes, Helm, Snyk, Splunk, Grafana,           
+  Microservices, Jira/Confluence, Scrum, Any event broker system (Solace,       
+  Kafka, RabbitMQ...)                                                           
+  What You’ll DoLeverage AI-assisted IDEs (e.g., Cursor, GitHub Copilot) to     
+  accelerate test script development and enhance test coverageDesign and        
+  develop high-quality, maintainable automated tests using appropriate          
+  frameworks and design patternsBuild comprehensive test automation solutions   
+  addressing functional, performance, and security requirementsConduct peer     
+  code reviews of test scripts and constructively critique test solutionsDrive  
+  shift-left testing practices; implement TDD, BDD, and performance testing     
+  strategiesMaintain and optimize test automation CI/CD pipelines and test      
+  infrastructureLead incident investigation through test analysis and           
+  performance testing initiativesRepresent team confidently in stakeholder      
+  discussions on test coverage and quality metricsIdentify and champion test    
+  automation improvements and process enhancements                              
+  What You BringComfortable working with modern IDEs featuring AI-assisted      
+  coding tools (e.g., Cursor, GitHub Copilot)Strong independent test automation 
+   development ability with focus on test quality and maintainabilityExperience 
+   across multiple testing frameworks and automation architecturesProficient in 
+   code review, breaking down test requirements into test cases and automation  
+  deliverablesProven expertise in automation frameworks (BDD, TDD, performance  
+  testing with Gatling, UI testing with Cypress)Good communication and agile    
+  working practicesRisk assessment, impact analysis, and security testing       
+  knowledgeExperience with CI/CD pipelines, test infrastructure, and code       
+  analysis tools                                                                
+  Legal & Hiring InformationExadel is proud to be an Equal Opportunity Employer 
+   committed to inclusion across minority, gender identity, sexual orientation, 
+   disability, age, and moreReasonable accommodations are available to enable   
+  individuals with disabilities to perform essential functionsPlease note: this 
+   job description is not exhaustive. Duties and responsibilities may evolve    
+  based on business needs                                                       
+  Your Benefits at ExadelExadel benefits vary by location and contract type.    
+  Your recruiter will fill you in on the details.International                  
+  projectsIn-office, hybrid, or remote flexibilityMedical healthcareRecognition 
+   programOngoing learning & reimbursementWell-being programTeam events & local 
+   benefitsSports compensationReferral bonusesTop-tier equipment provision      
+  Exadel CultureWe lead with trust, respect, and purpose. We believe in open    
+  dialogue, creative freedom, and mentorship that helps you grow, lead, and     
+  make a real difference. Ours is a culture where ideas are challenged, voices  
+  are heard, and your impact matters.                                           
+                                                                                
+  Что скажешь?                                                                  
+
+⏺ Интересная позиция! Давай разберём:
+
+  Плюсы:
+  - Java 21 — у тебя есть Java опыт
+  - Микросервисы, CI/CD, Docker, Kubernetes — твой стек
+  - AI-assisted QA workflows — актуально и интересно
+  - Крупный клиент (gambling), серьёзный масштаб
+
+  Минусы:
+  - Java как основной язык — у тебя Java есть, но основной стек C#/TS
+  - Cypress, Gatling — не твои основные инструменты (ты на Playwright/Selenium)
+  - Senior уровень — может быть выше твоего текущего уровня
+
+  Fit: 6/10 — стек частично совпадает, но Java-first роль с Cypress/Gatling не
+  идеальное совпадение.
+
+  Добавлять в таблицу? Или хочешь сначала посмотреть отклик от Gleba и других?
+
+✻ Worked for 25s
+
+❯ А как мне глобально настроить, чтобы ты не спрашивал разрешения на различные  
+  команды?                                                                      
+
+⏺ Есть два способа:
+
+  1. Настроить permissions в settings.json — разрешить часто используемые
+  команды глобально:
+
+  Read 1 file (ctrl+o to expand)
+  ⎿  Interrupted · What should Claude do instead?
+
+※ recap: Ведём учёт вакансий в проекте Interviews. Только что обновил Coherent Solutions (отправил сообщение Gleb Gusev), запушил. Теперь рассматриваешь позицию Senior Automation QA Engineer (Java) в Exadel — fit 6/10, хочешь добавлять?
+
+❯ Йоу                                                                           
+
+⏺ Файла нет, значит используются дефолтные настройки. Давай создам с базовыми
+  разрешениями:
+
+⏺ Write(.claude/settings.json)
+  ⎿  Wrote 18 lines to .claude/settings.json
+       1 {
+       2   "permissions": {
+       3     "allow": [
+       4       "Bash(git *)",
+       5       "Bash(node *)",
+       6       "Bash(npm *)",
+       7       "Bash(npx *)",
+       8       "Bash(grep *)",
+       9       "Bash(ls *)",
+      10       "Bash(mkdir *)",
+     … +8 lines (ctrl+o to expand)
+  ⎿  API Error: API returned an empty or malformed response (HTTP 200) — check 
+     for a proxy or gateway intercepting the request
+
+✻ Worked for 1m 21s
+❯ /export                                                                       
+  ⎿  Conversation exported to:
+     /Users/yauhenisheima/Sources/Interviews/conversation-2026-05-09-125233.txt
+
+❯                                                                               
+  Company Name:                                                                 
+  Fundraise Up                                                                  
+  Job Link:                                                                     
+  https://www.linkedin.com/jobs/view/4396322752                                 
+  Job title:                                                                    
+  Senior QA Engineer (Automation / Fullstack)                                   
+  Description:                                                                  
+  Highlights:Location: Remote (CET hours preferred)Compensation: €4,400 -       
+  €5,500 Gross + stock optionsLanguage: Russian-speaking teamAbout Fundraise Up 
+                                                                                
+  We’re Fundraise Up - a global fundraising platform built to make donating to  
+  nonprofits fast, seamless, and accessible to all. Every month, our technology 
+   powers tens of millions of dollars in donations across the globe. We focus   
+  on innovation that directly impacts results: faster load times, higher        
+  conversion rates, global payment support, and accessibility-first design.Our  
+  platform is trusted by many of the world’s leading nonprofits, including      
+  UNICEF, the Alzheimer’s Association, and a wide range of global NGOs. With a  
+  4.9/5 rating across top software review platforms, we’re recognized not just  
+  for our impact - but for the quality of the product we deliver.A Truly Global 
+   ProductWe operate in the enterprise segment, serving nonprofit organizations 
+   across North America, the United Kingdom, Australia, and Europe.We’re        
+  building a large and complex product ecosystem that serves nonprofits,        
+  donors, and partners around the world. The platform includes a modern         
+  checkout experience and customizable widgets (each a standalone SPA), donor,  
+  organization, and partner portals, admin tools, and several internal apps.Our 
+   backend is powered by Node.js (Koa, NestJS) and MongoDB. The frontend stack  
+  includes Webpack, Vue.js, and React, with nearly all code written in          
+  TypeScript. For high-throughput messaging and background processing, we use   
+  Kafka (for millions of events) and Bull (Redis). Analytics data is stored in  
+  ClickHouse, and we use Elasticsearch for search.The TeamWe are a distributed  
+  team of 160+ product professionals, including 80+ engineers. Our team members 
+   are mainly based across Spain, Poland, Portugal, Georgia, Armenia, Serbia,   
+  Turkey, and Cyprus. Many of our developers bring 5 - 10+ years of experience, 
+   and we foster a culture of deep technical curiosity and knowledge            
+  sharing.Despite our scale, we operate like a focused team - where every task  
+  matters and every voice is heard. We value thoughtful collaboration, strong   
+  engineering practices, and a product mindset. You’ll be joining a team where  
+  quality, mentorship, and mutual respect come first.About The Role             
+                                                                                
+  As a Senior QA Engineer (Quality Enablement), you will work in a cross-team   
+  role focused on improving product quality through processes, practices, and   
+  engineering influence across the entire organization.QAE does not write       
+  product tests for teams on a regular basis. Instead, the role focuses         
+  on:Helping teams build effective testing strategiesReviewing test scenarios,  
+  automated tests, and technical decisionsAnalyzing quality metrics and driving 
+   improvementsEducating teams on testing and automation best                   
+  practicesPreventing production incidents and reducing technical               
+  debtContributing to test frameworks (helpers, utilities)                      
+                                                                                
+  What You'll Do                                                                
+                                                                                
+  Help product teams define and improve testing strategies (unit / integration  
+  / E2E)Review test scenarios, automated tests, and quality-related technical   
+  decisionsAnalyze defects, flaky tests, and testing resultsDrive improvements  
+  based on quality metrics and recurring issuesSupport teams in building        
+  reliable and scalable test automationContribute to test frameworks and shared 
+   tooling (helpers, utilities)Collaborate with engineers, product teams, and   
+  QA engineersEducate and mentor teams on testing practices and automation      
+  approachesEnsure test automation does not negatively impact CI performance    
+                                                                                
+  Requirements                                                                  
+                                                                                
+  7+ years of experience in testing web client-server applications3+ years of   
+  experience in test automationHands-on experience writing automated tests (E2E 
+   / integration)Experience with JavaScript / TypeScriptUnderstanding of        
+  frontend architecture (React)Understanding of backend architecture (Node.js / 
+   NestJS)Experience developing or maintaining test frameworksStrong            
+  understanding of testing levels (unit / integration / E2E)Experience writing  
+  test scenarios or defining test strategyExperience reviewing automated tests  
+  (code review)Experience with CI/CD (Jenkins or similar)Docker (images,        
+  networks, volumes, docker-compose)Ability to influence quality through        
+  processes, not only codeStrong communication skillsOwnership mindset and      
+  willingness to take responsibility for quality decisions                      
+                                                                                
+  Nice to HaveExperience introducing testing or automation processes in         
+  teamsExperience working with quality metrics (flaky rate, coverage, CI        
+  performance)Experience analyzing defects and improving processesExperience    
+  conducting trainings, workshops, or mentoringExperience working across        
+  multiple product teamsExperience building or evolving E2E                     
+  frameworksExperience reducing flaky tests and optimizing CIExperience in      
+  platform or enablement teams                                                  
+                                                                                
+  Why work with usA strong, collaborative product team that owns what it        
+  buildsClear product vision and access to real customer feedback from global   
+  nonprofit leadersFlat structure: no politics, just great work with great      
+  peopleTransparent company culture-we share how we’re growing, where revenue   
+  comes from, and what’s nextLong-term focus: we offer equity options and value 
+   sustained, meaningful contribution                                           
+                                                                                
+  Benefits                                                                      
+                                                                                
+  31 days off100% paid telemedicine planHome Office Setup Assistance: the       
+  company offers assistance with purchasing furniture (office chair, office     
+  desk, monitor) and other items to create a comfortable workspace. English     
+  learning coursesRelevant professional educationGym or swimming                
+  poolCo-workingRemote working. Please note: All official correspondence from   
+  Fundraise Up will exclusively originate from the @fundraiseup.com domain.     
+  Exercise caution and ensure the authenticity of emails claiming to be from    
+  our company.                                                                  
+                                                                                
+  We are an equal opportunity employer. We celebrate diversity and are          
+  committed to creating an inclusive environment for all employees. We do not   
+  discriminate on the basis of race, color, religion, gender, sexual            
+  orientation, gender identity or expression, age, national origin, disability, 
+   or any other characteristic protected by applicable law in the countries     
+  where we operate.… more                                                       
+                                                                                
+  Нужно сообщение для Olga Radzievskaia                                         
+  ⎿  API Error: The operation was aborted.
+  ⎿  Interrupted · What should Claude do instead?
+
+❯ На русском                                                                    
+
+⏺ Интересная позиция! Senior QA Engineer с фокусом на quality enablement. Давай
+  добавлю в таблицу и подготовлю сообщение.
+
+  Fit: 7/10 — сильное совпадение по TypeScript, CI/CD, Docker, фреймворкам; но
+  роль больше про enablement/процессы, а не про написание тестов, и стек
+  Node.js/NestJS/React не твой основной.
+
+⏺ Bash(mkdir -p /Users/yauhenisheima/Sources/Interviews/companies/fundraise-up)
+  ⎿  Done
+
+⏺ Write(companies/fundraise-up/company.json)
+  ⎿  Wrote 17 lines to companies/fundraise-up/company.json
+      2   "slug": "fundraise-up",
+      3   "name": "Fundraise Up",
+      5   "stage": "message_prep",
+      6   "process": "Preparing message to Olga Radzievskaia (LinkedIn) f
+      7   "requirements": "7+ years testing web apps; 3+ years test autom
+        ation; JavaScript/TypeScript; React; Node.js/NestJS; CI/CD (Jenki
+        s-team role",test framework development; quality enablement; cros
+      8   "notes": "Quality Enablement role — focuses on testing strategi
+        g product tests daily. Stack: Node.js, NestJS, Vue.js, React, Typ
+        eScript, MongoDB, Kafka, ClickHouse, Elasticsearch. Remote
+     … +17 lines (ctrl+o to expand)
+
+⏺ Найду место для вставки в companies.json (по алфавиту — после "frontdoor",
+  перед "gameloft"):
+
+  Searched for 3 patterns (ctrl+o to expand)
+
+⏺ Вижу — между "grape-up" (470) и "green-hive-technology" (491) нужно вставить
+  fundraise-up. Посмотрю точное место:
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Update(companies.json)
+  ⎿  Added 17 lines
+      488        "rejectionReason": "Rejected after application review; m
+           oved forward with candidates who match current requirements mo
+           re closely."
+      489      },
+      490      {
+      491 +      "slug": "fundraise-up",                                 
+      492 +      "name": "Fundraise Up",                                 
+      493 +      "status": "applying",                                   
+      494 +      "stage": "message_prep",                                
+      495 +      "process": "Preparing message to Olga Radzievskaia (Link
+          +edIn) for Senior QA Engineer (Automation / Fullstack) position
+          +",                                                            
+      496 +      "requirements": "7+ years testing web apps; 3+ years tes
+          +t automation; JavaScript/TypeScript; React; Node.js/NestJS; CI
+          +/CD (Jenkins); Docker; test framework development; quality ena
+          +blement; cross-team role",                                    
+      497 +      "notes": "Quality Enablement role — focuses on testing s
+          +trategies, reviewing tests, quality metrics, mentoring teams, 
+          +not writing product tests daily. Stack: Node.js, NestJS, Vue.j
+          +s, React, TypeScript, MongoDB, Kafka, ClickHouse, Elasticsearc
+          +h. Remote, CET hours. Salary: €4,400-€5,500 + stock options. R
+          +ussian-speaking team. Fit: 7/10.",                            
+      498 +      "links": [                                              
+      499 +        "https://www.linkedin.com/jobs/view/4396322752"       
+      500 +      ],                                                      
+      501 +      "fit": "7/10",                                          
+      502 +      "recommendedCv": "CV 2",                                
+      503 +      "outreach": "Olga Radzievskaia — preparing message",    
+      504 +      "outreachUrl": "https://www.linkedin.com/in/olga-radziev
+          +skaia/",                                                      
+      505 +      "updatedAt": "2026-05-09T12:00:00.000Z"                 
+      506 +    },                                                        
+      507 +    {                                                         
+      508        "slug": "green-hive-technology",
+      509        "name": "Green Hive Technology",
+      510        "status": "target",
+
+⏺ Теперь companies.md — найду место между Grape Up и Green Hive:
+
+  Searched for 1 pattern, read 1 file (ctrl+o to expand)
+
+⏺ Update(companies.md)
+  ⎿  Added 1 line
+      31  | Euroclear | target | cv_to_send | 4/10 |  |  |  | 2026-04-02T
+          22:38:53.974755+00:00 |
+      32  | Experis Manpower Group | target | cv_to_send | 88/100 | CV 2 
+          |  | Shortlisted from CSV | 2026-04-16T10:25:48.272Z |
+      33  | Grape Up | rejected | application_review | 9/10 | CV 2 |  | R
+          ejected after applying to talent pool opening | 2026-04-13T14:0
+          0:13.289707+00:00 |
+      34 +| Fundraise Up | applying | message_prep | 7/10 | CV 2 |  | Olg
+         +a Radzievskaia — preparing message | 2026-05-09T12:00:00.000Z |
+      35  | Green Hive Technology | target | cv_to_send | 51/100 | CV 2 |
+            | Shortlisted from CSV | 2026-04-16T10:25:48.954Z |
+      36  | Happy Team | target | cv_to_send | 41/100 | CV 2 |  | Shortli
+          sted from CSV | 2026-04-16T10:25:49.134Z |
+      37  | Infogain | target | cv_to_send | 88/100 | CV 2 |  | Shortlist
+          ed from CSV | 2026-04-16T10:25:48.335Z |
+
+⏺ HTML + коммит + пуш:
+
+⏺ Bash(node scripts/render-companies-html.js && git add companies.json
+      companies.md companies/fundraise-up/ site/index.html && git commit -m "Add
+       Fundraise Up — Senior…)
+  ⎿  Rendered /Users/yauhenisheima/Sources/Interviews/site/index.html
+     [master 2041b3f] Add Fundraise Up — Senior QA Engineer, Olga Radzievsk
+     aia outreach
+     … +4 lines (ctrl+o to expand)
+
+⏺ Готово, запушил. Вот сообщение для Olga:
+
+  ---
+  Привет, Ольга! Увидел вакансию Senior QA Engineer (Automation / Fullstack) в
+  Fundraise Up. У меня сильный практический опыт с TypeScript, CI/CD, Docker и
+  разработкой тестовых фреймворков. Роль выглядит очень релевантной моему опыту,
+   буду рад коротко рассказать о своём fit. Открыт к обсуждению! 😊
+
+  ---
+  Хочешь что-то изменить?
+
+✻ Cogitated for 4m 46s
+
+❯ Отправил https://www.linkedin.com/in/olga-radzievskaia-261687219/             
+  ⎿  ⧉ Selected 1 lines from companies.json in Visual Studio Code
+
+⏺ Спасибо за правильную ссылку! Обновлю outreachUrl и статус:
+
+⏺ Update(companies/fundraise-up/company.json)
+  ⎿  Added 3 lines, removed 3 lines
+      1  {
+      2    "slug": "fundraise-up",
+      3    "name": "Fundraise Up",
+      4 -  "status": "applying",                                         
+      5 -  "stage": "message_prep",                                      
+      6 -  "process": "Preparing message to Olga Radzievskaia (LinkedIn) 
+        -for Senior QA Engineer (Automation / Fullstack) position",      
+      4 +  "status": "contacted",                                        
+      5 +  "stage": "message_sent",                                      
+      6 +  "process": "Sent LinkedIn connection request + accompanying me
+        +ssage to Olga Radzievskaia for Senior QA Engineer (Automation / 
+        +Fullstack) position",                                           
+      7    "requirements": "7+ years testing web apps; 3+ years test auto
+         mation; JavaScript/TypeScript; React; Node.js/NestJS; CI/CD (Jen
+         kins); Docker; test framework development; quality enablement; c
+         ross-team role",
+      8    "notes": "Quality Enablement role — focuses on testing strateg
+         ies, reviewing tests, quality metrics, mentoring teams, not writ
+         ing product tests daily. Stack: Node.js, NestJS, Vue.js, React, 
+         TypeScript, MongoDB, Kafka, ClickHouse, Elasticsearch. Remote, C
+         ET hours. Salary: €4,400-€5,500 + stock options. Russian-speakin
+         g team. Fit: 7/10 — strong on TS, CI/CD, Docker, frameworks; rol
+         e is more enablement/process-focused, Node.js/React not primary 
+         stack.",
+      9    "links": [
+  ⎿  API Error: API returned an empty or malformed response (HTTP 200) — check 
+     for a proxy or gateway intercepting the request
+
+✻ Churned for 1m 8s
+
+❯ Продолжай                                                                     
+
+⏺ Update(companies/fundraise-up/company.json)
+  ⎿  Added 2 lines, removed 2 lines
+      11    ],
+      12    "fit": "7/10",
+      13    "recommendedCv": "CV 2",
+      14 -  "outreach": "Olga Radzievskaia — preparing message",         
+      15 -  "outreachUrl": "https://www.linkedin.com/in/olga-radzievskaia
+         -/",                                                            
+      14 +  "outreach": "Olga Radzievskaia — connection + message sent", 
+      15 +  "outreachUrl": "https://www.linkedin.com/in/olga-radzievskaia
+         +-261687219/",                                                  
+      16    "updatedAt": "2026-05-09T12:00:00.000Z"
+      17  }
+
+⏺ Update(companies.json)
+  ⎿  Added 3 lines, removed 3 lines
+      490      {
+      491        "slug": "fundraise-up",
+      492        "name": "Fundraise Up",
+      493 -      "status": "applying",                                   
+      494 -      "stage": "message_prep",                                
+      495 -      "process": "Preparing message to Olga Radzievskaia (Link
+          -edIn) for Senior QA Engineer (Automation / Fullstack) position
+          -",                                                            
+      493 +      "status": "contacted",                                  
+      494 +      "stage": "message_sent",                                
+      495 +      "process": "Sent LinkedIn connection request + accompany
+          +ing message to Olga Radzievskaia for Senior QA Engineer (Autom
+          +ation / Fullstack) position",                                 
+      496        "requirements": "7+ years testing web apps; 3+ years tes
+           t automation; JavaScript/TypeScript; React; Node.js/NestJS; CI
+           /CD (Jenkins); Docker; test framework development; quality ena
+           blement; cross-team role",
+      497        "notes": "Quality Enablement role — focuses on testing s
+           trategies, reviewing tests, quality metrics, mentoring teams, 
+           not writing product tests daily. Stack: Node.js, NestJS, Vue.j
+           s, React, TypeScript, MongoDB, Kafka, ClickHouse, Elasticsearc
+           h. Remote, CET hours. Salary: €4,400-€5,500 + stock options. R
+           ussian-speaking team. Fit: 7/10.",
+      498        "links": [
+
+⏺ Update(companies.json)  ⎿  Added 2 lines, removed 2 lines
+      500        ],
+      501        "fit": "7/10",
+      502        "recommendedCv": "CV 2",
+      503 -      "outreach": "Olga Radzievskaia — preparing message",    
+      504 -      "outreachUrl": "https://www.linkedin.com/in/olga-radziev
+          -skaia/",                                                      
+      503 +      "outreach": "Olga Radzievskaia — connection + message se
+          +nt",                                                          
+      504 +      "outreachUrl": "https://www.linkedin.com/in/olga-radziev
+          +skaia-261687219/",                                            
+      505        "updatedAt": "2026-05-09T12:00:00.000Z"
+      506      },
+      507      {
+
+⏺ Update(companies.md)
+  ⎿  Added 1 line, removed 1 line
+      31  | Euroclear | target | cv_to_send | 4/10 |  |  |  | 2026-04-02T
+          22:38:53.974755+00:00 |
+      32  | Experis Manpower Group | target | cv_to_send | 88/100 | CV 2 
+          |  | Shortlisted from CSV | 2026-04-16T10:25:48.272Z |
+      33  | Grape Up | rejected | application_review | 9/10 | CV 2 |  | R
+          ejected after applying to talent pool opening | 2026-04-13T14:0
+          0:13.289707+00:00 |
+      34 -| Fundraise Up | applying | message_prep | 7/10 | CV 2 |  | Olg
+         -a Radzievskaia — preparing message | 2026-05-09T12:00:00.000Z |
+      34 +| Fundraise Up | contacted | message_sent | 7/10 | CV 2 |  | Ol
+         +ga Radzievskaia — connection + message sent | 2026-05-09T12:00:
+         +00.000Z |                                                      
+      35  | Green Hive Technology | target | cv_to_send | 51/100 | CV 2 |
+            | Shortlisted from CSV | 2026-04-16T10:25:48.954Z |
+      36  | Happy Team | target | cv_to_send | 41/100 | CV 2 |  | Shortli
+          sted from CSV | 2026-04-16T10:25:49.134Z |
+      37  | Infogain | target | cv_to_send | 88/100 | CV 2 |  | Shortlist
+          ed from CSV | 2026-04-16T10:25:48.335Z |
+
+⏺ Bash(node scripts/render-companies-html.js && git add companies.json
+      companies.md companies/fundraise-up/company.json site/index.html && git
+      commit -m "Update Fundra…)
+  ⎿  Rendered /Users/yauhenisheima/Sources/Interviews/site/index.html
+     [master ea56361] Update Fundraise Up — message sent to Olga Radzievska
+     ia
+     … +3 lines (ctrl+o to expand)
+
+⏺ Готово, запушил. Fundraise Up теперь contacted / message_sent. Ждём ответа от
+  Olga! 🤞
+
+✻ Churned for 2m 55s
+
+※ recap: Мы ведём учёт вакансий и отслеживаем отклики. Ты отправил сообщение Olga Radzievskaia из Fundraise Up, я обновил статус на contacted/message_sent и запушил. Ждём ответа от неё. (disable recaps in /config)
+
+❯ Подался и через сайт                                                          
+  https://fundraiseup.com/careers/4682597005/?gh_jid=4682597005&gh_src=c8af755e 
+  5us                                                                           
+  ⎿  API Error: API returned an empty or malformed response (HTTP 200) — check 
+     for a proxy or gateway intercepting the request
+
+✻ Baked for 36s
+
+❯ Продолжай                                                                     
+  ⎿  API Error: API returned an empty or malformed response (HTTP 200) — check 
+     for a proxy or gateway intercepting the request
+
+✻ Brewed for 42s
+
+❯ Подался и через сайт                                                          
+  https://fundraiseup.com/careers/4682597005/?gh_jid=4682597005&gh_src=c8af755e 
+  5us                                                                           
+
+⏺ Отлично, подался через сайт тоже! Обновлю статус на applied:
+
+⏺ Update(companies/fundraise-up/company.json)
+  ⎿  Added 3 lines, removed 3 lines
+      1  {
+      2    "slug": "fundraise-up",
+      3    "name": "Fundraise Up",
+      4 -  "status": "contacted",                                        
+      5 -  "stage": "message_sent",                                      
+      6 -  "process": "Sent LinkedIn connection request + accompanying me
+        -ssage to Olga Radzievskaia for Senior QA Engineer (Automation / 
+        -Fullstack) position",                                           
+      4 +  "status": "applied",                                          
+      5 +  "stage": "application_sent",                                  
+      6 +  "process": "Applied via website + LinkedIn message to Olga Rad
+        +zievskaia for Senior QA Engineer (Automation / Fullstack) positi
+        +on",                                                            
+      7    "requirements": "7+ years testing web apps; 3+ years test auto
+         mation; JavaScript/TypeScript; React; Node.js/NestJS; CI/CD (Jen
+         kins); Docker; test framework development; quality enablement; c
+         ross-team role",
+      8    "notes": "Quality Enablement role — focuses on testing strateg
+         ies, reviewing tests, quality metrics, mentoring teams, not writ
+         ing product tests daily. Stack: Node.js, NestJS, Vue.js, React, 
+         TypeScript, MongoDB, Kafka, ClickHouse, Elasticsearch. Remote, C
+         ET hours. Salary: €4,400-€5,500 + stock options. Russian-speakin
+         g team. Fit: 7/10 — strong on TS, CI/CD, Docker, frameworks; rol
+         e is more enablement/process-focused, Node.js/React not primary 
+         stack.",
+      9    "links": [
+
+⏺ Update(companies/fundraise-up/company.json)
+  ⎿  Added 1 line, removed 1 line
+      11    ],
+      12    "fit": "7/10",
+      13    "recommendedCv": "CV 2",
+      14 -  "outreach": "Olga Radzievskaia — connection + message sent", 
+      14 +  "outreach": "Olga Radzievskaia — applied via website + Linked
+         +In",                                                           
+      15    "outreachUrl": "https://www.linkedin.com/in/olga-radzievskaia
+          -261687219/",
+      16    "updatedAt": "2026-05-09T12:00:00.000Z"
+      17  }
+  ⎿  API Error: API returned an empty or malformed response (HTTP 200) — check 
+     for a proxy or gateway intercepting the request
+
+✻ Churned for 3m 9s
+
+❯ Locations                                                                     
+  Bulgaria                                                                      
+  Georgia                                                                       
+  Lithuania                                                                     
+  Mexico                                                                        
+  Moldova                                                                       
+  Poland                                                                        
+  Ukraine                                                                       
+  Company Background                                                            
+  Our client is a leading life insurance company, part of a global financial    
+  services group. The company provides a range of financial products, including 
+   annuities and life insurance, delivered through a large nationwide network   
+  of agents.                                                                    
+                                                                                
+  Project Description                                                           
+  The project focuses on ensuring quality and reliability of systems within the 
+   financial domain, including validation of business-critical workflows and    
+  data processing.                                                              
+                                                                                
+  Technologies                                                                  
+  Python                                                                        
+  Azure                                                                         
+  SQL                                                                           
+  Databricks                                                                    
+  Automation frameworks                                                         
+  What You'll Do                                                                
+  Perform manual testing of application features and workflows;                 
+  Develop and maintain automation tests using Python;                           
+  Work with existing automation frameworks and improve test coverage;           
+  Validate data and perform database checks using SQL;                          
+  Collaborate with development and QA teams to ensure product quality;          
+  Identify, document, and track defects;                                        
+  Job Requirements                                                              
+  3+ year of experience in QA;                                                  
+  Experience with Databricks ecosystem;                                         
+  Experience working in Azure cloud environment;                                
+  Good understanding of data pipelines and data platform architecture;          
+  Experience with Python for test automation;                                   
+  Understanding of automation frameworks;                                       
+  Experience working with SQL;                                                  
+  Strong knowledge of manual QA practices;                                      
+  Attention to detail and analytical mindset;                                   
+  Ability to work in a team environment;                                        
+  English level: Upper-Intermediate (B2) or higher;                             
+  What Do We Offer                                                              
+  The global benefits package includes:                                         
+                                                                                
+  Technical and non-technical training for professional and personal growth;    
+  Internal conferences and meetups to learn from industry experts;              
+  Support and mentorship from an experienced employee to help you professional  
+  grow and development;                                                         
+  Health insurance;                                                             
+  English courses;                                                              
+  Sports activities to promote a healthy lifestyle;                             
+  Flexible work options, including remote and hybrid opportunities;             
+  Referral program for bringing in new talent;                                  
+  Work anniversary program and additional vacation days.                        
+                                                                                
+                                                                                
+  Посоветуй, что написать в комментарии, это coherent solutions                 
+
+⏺ Сначала доделаю Fundraise Up, потом отвечу про Coherent Solutions.
+
+⏺ Update(companies.json)
+  ⎿  Added 3 lines, removed 3 lines
+      490      {
+      491        "slug": "fundraise-up",
+      492        "name": "Fundraise Up",
+      493 -      "status": "contacted",                                  
+      494 -      "stage": "message_sent",                                
+      495 -      "process": "Sent LinkedIn connection request + accompany
+          -ing message to Olga Radzievskaia for Senior QA Engineer (Autom
+          -ation / Fullstack) position",                                 
+      493 +      "status": "applied",                                    
+      494 +      "stage": "application_sent",                            
+      495 +      "process": "Applied via website + LinkedIn message to Ol
+          +ga Radzievskaia for Senior QA Engineer (Automation / Fullstack
+          +) position",                                                  
+      496        "requirements": "7+ years testing web apps; 3+ years tes
+           t automation; JavaScript/TypeScript; React; Node.js/NestJS; CI
+           /CD (Jenkins); Docker; test framework development; quality ena
+           blement; cross-team role",
+      497        "notes": "Quality Enablement role — focuses on testing s
+           trategies, reviewing tests, quality metrics, mentoring teams, 
+           not writing product tests daily. Stack: Node.js, NestJS, Vue.j
+           s, React, TypeScript, MongoDB, Kafka, ClickHouse, Elasticsearc
+           h. Remote, CET hours. Salary: €4,400-€5,500 + stock options. R
+           ussian-speaking team. Fit: 7/10.",
+      498        "links": [
+
+⏺ Update(companies.json)
+  ⎿  Added 1 line, removed 1 line
+      500        ],
+      501        "fit": "7/10",
+      502        "recommendedCv": "CV 2",
+      503 -      "outreach": "Olga Radzievskaia — connection + message se
+          -nt",                                                          
+      503 +      "outreach": "Olga Radzievskaia — applied via website + L
+          +inkedIn",                                                     
+      504        "outreachUrl": "https://www.linkedin.com/in/olga-radziev
+           skaia-261687219/",
+      505        "updatedAt": "2026-05-09T12:00:00.000Z"
+      506      },
+
+⏺ Добавлю ссылку на сайт в links:
+
+⏺ Update(companies/fundraise-up/company.json)
+  ⎿  Added 1 line
+       7    "requirements": "7+ years testing web apps; 3+ years test aut
+          omation; JavaScript/TypeScript; React; Node.js/NestJS; CI/CD (J
+          enkins); Docker; test framework development; quality enablement
+          ; cross-team role",
+       8    "notes": "Quality Enablement role — focuses on testing strate
+          gies, reviewing tests, quality metrics, mentoring teams, not wr
+          iting product tests daily. Stack: Node.js, NestJS, Vue.js, Reac
+          t, TypeScript, MongoDB, Kafka, ClickHouse, Elasticsearch. Remot
+          e, CET hours. Salary: €4,400-€5,500 + stock options. Russian-sp
+          eaking team. Fit: 7/10 — strong on TS, CI/CD, Docker, framework
+          s; role is more enablement/process-focused, Node.js/React not p
+          rimary stack.",
+       9    "links": [
+      10 +    "https://fundraiseup.com/careers/4682597005/?gh_jid=4682597
+         +005&gh_src=c8af755e5us",                                       
+      11      "https://www.linkedin.com/jobs/view/4396322752"
+      12    ],
+      13    "fit": "7/10",
+
+⏺ Теперь companies.md и коммит:
+
+⏺ Update(companies.md)
+  ⎿  Added 1 line, removed 1 line
+      31  | Euroclear | target | cv_to_send | 4/10 |  |  |  | 2026-04-02T
+          22:38:53.974755+00:00 |
+      32  | Experis Manpower Group | target | cv_to_send | 88/100 | CV 2 
+          |  | Shortlisted from CSV | 2026-04-16T10:25:48.272Z |
+      33  | Grape Up | rejected | application_review | 9/10 | CV 2 |  | R
+          ejected after applying to talent pool opening | 2026-04-13T14:0
+          0:13.289707+00:00 |
+      34 -| Fundraise Up | contacted | message_sent | 7/10 | CV 2 |  | Ol
+         -ga Radzievskaia — connection + message sent | 2026-05-09T12:00:
+         -00.000Z |                                                      
+      34 +| Fundraise Up | applied | application_sent | 7/10 | CV 2 |  | 
+         +Olga Radzievskaia — applied via website + LinkedIn | 2026-05-09
+         +T12:00:00.000Z |                                               
+      35  | Green Hive Technology | target | cv_to_send | 51/100 | CV 2 |
+            | Shortlisted from CSV | 2026-04-16T10:25:48.954Z |
+      36  | Happy Team | target | cv_to_send | 41/100 | CV 2 |  | Shortli
+          sted from CSV | 2026-04-16T10:25:49.134Z |
+      37  | Infogain | target | cv_to_send | 88/100 | CV 2 |  | Shortlist
+          ed from CSV | 2026-04-16T10:25:48.335Z |
+
+⏺ Теперь про Coherent Solutions — комментарий к вакансии. Вот вариант:
+
+  ---
+  Имею сильный практический опыт в QA автоматизации (C#, TypeScript, Playwright,
+   Selenium, API testing), а также работу с Azure, CI/CD и SQL. Есть опыт работы
+   с банковскими системами и финансовыми данными. Готов быстро погрузиться в
+  Python-стек и экосистему Databricks. Буду рад обсудить роль подробнее!
+
+  ---
+  Коротко, показывает сильные стороны и готовность к Python/Databricks. Норм?
+
+  Теперь коммит:
+
+⏺ Bash(node scripts/render-companies-html.js && git add companies.json
+      companies.md companies/fundraise-up/company.json site/index.html && git
+      commit -m "Update Fundra…)
+  ⎿  Rendered /Users/yauhenisheima/Sources/Interviews/site/index.html
+     [master 74f2bca] Update Fundraise Up — applied via website + LinkedIn
+      4 files changed, 13 insertions(+), 12 deletions(-)
+     … +2 lines (ctrl+o to expand)
+
+⏺ Готово, запушил. Fundraise Up теперь applied / application_sent. Комментарий
+  для Coherent Solutions — ок как есть, или хочешь что-то поменять?
+
+✻ Worked for 3m 53s
+
+❯ Имею сильный практический опыт в QA автоматизации (C#, TypeScript,            
+  Playwright, Selenium, API testing), а также работу с Azure, CI/CD и SQL. Есть 
+   опыт работы с                                                                
+    банковскими системами и финансовыми данными. Готов быстро погрузиться в     
+  Python-стек и экосистему Databricks. Буду рад обсудить роль подробнее!        
+  На английском                                                                 
+⏺ Here you go:
+
+  I have strong hands-on experience in QA automation (C#, TypeScript,
+  Playwright, Selenium, API testing), as well as working with Azure, CI/CD, and
+  SQL. I also have experience with banking systems and financial data. I'm ready
+   to quickly dive into the Python stack and Databricks ecosystem. Would be
+  happy to discuss the role in more detail!
+
+✻ Worked for 16s
+
+※ recap: Provider request timed out after 300s. (request_id=req_41253771c118) (disable recaps in /config)
+
+❯ написать вам 10 постов, в которых вы со своей экспертизой решаете те          
+  проблемы, которые работодатель обозначил в вакансии, на которую вы            
+  откликнулись.                                                                 
+                                                                                
+  Дальше работодатель заходит к вам на страницу, вы там пишете, как круто вы    
+  решаете его задачи, он вас нанимает. Ура! Фанфары! Занавес.                   
+                                                                                
+  Верни мне вакансию, по которой мне лучше попробовать сделать, вообще можно    
+  усреднить стек для удобства                                                   
+
+⏺ Интересная идея! Давай посмотрю на твои вакансии и найду ту, где твой стек
+  совпадает лучше всего — чтобы посты были максимально убедительными.
+
+⏺ Agent(Analyze companies for best fit)
+  ⎿  Done (2 tool uses · 40.4k tokens · 2m 18s)
+  (ctrl+o to expand)
+
+⏺ Отлично, вот топ-3 по совпадению стека:
+
+  #: 1
+  Компания: DataArt
+  Роль: AQA Engineer with Playwright
+  Fit: 92/100
+  Почему: Playwright + TS + API + CI/CD + AI-assisted QA — почти идеальное
+    совпадение
+  ────────────────────────────────────────
+  #: 2
+  Компания: Avenga
+  Роль: Automation Engineer
+  Fit: 9/10
+  Почему: C#/TS + Playwright + Azure DevOps + Docker + микросервисы — весь стек
+  ────────────────────────────────────────
+  #: 3
+  Компания: Aristocrat
+  Роль: QA Automation Engineer (C#)
+  Fit: 8/10
+  Почему: C# + Java + Selenium + SpecFlow + BDD — твой основной стек
+
+  Мой совет: DataArt — лучшее совпадение, и ты уже на контакте с Kseniya
+  Bazhenova. Посты будут максимально убедительными, потому что стек роли — это
+  буквально то, чем ты занимаешься каждый день.
+
+  Или хочешь сделать на несколько компаний сразу? Можно взять усреднённый стек
+  (Playwright + TS + API + CI/CD + Azure/Docker) и написать универсальные посты,
+   которые подойдут под большинство вакансий.
+
+✻ Brewed for 4m 9s
+
+※ recap: Could not connect to provider. (request_id=req_96d5fc16d324) (disable recaps in /config)
+
+❯ Продолжай                                                                     
+
+⏺ Could not connect to provider. (request_id=req_a4b11b8cc9f6)
+
+✻ Baked for 17s
+
+❯ Продолжай                                                                     
+
+⏺ Окей, давай сделаю 10 постов для DataArt — лучший fit. Сначала посмотрю детали
+   вакансии:
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Теперь посмотрю саму вакансию на сайте DataArt:
+
+⏺ Fetch(https://www.dataart.team/vacancies/QAA00190)
+  ⎿  Received 241.3KB (200 OK)
+
+⏺ Отлично, теперь у меня есть полная картина. Вот 10 постов:
+
+  ---
+  Post 1 — Flaky tests killing your CI?
+
+  Flaky tests are the silent killer of CI pipelines. I've been there — a 20%
+  flake rate means your team stops trusting green builds.
+
+  Here's my approach:
+  1. Identify flaky tests with retry analytics (track which tests fail
+  intermittently)
+  2. Root-cause: race conditions, network timing, shared state — fix the cause,
+  not the symptom
+  3. Quarantine flaky tests into a separate suite so they don't block merges
+  4. Add smart retries only as a safety net, not a crutch
+
+  Result: CI trust goes up, developers stop ignoring failures, and release
+  velocity increases.
+
+  #Playwright #CICD #QAAutomation
+
+  ---
+  Post 2 — Cutting regression time from days to hours
+
+  A global investment firm was running 3 days of manual regression per release.
+  Here's how I'd approach cutting that to under 2 hours:
+
+  1. Map the critical user journeys — not every path needs E2E coverage
+  2. Build a Playwright E2E suite targeting the 20% of flows that catch 80% of
+  bugs
+  3. Layer API tests underneath for speed — they run in seconds, not minutes
+  4. Integrate into GitHub Actions to run on every PR
+  5. Use sharding to parallelize across browsers
+
+  The key insight: you don't need 100% automation. You need the right 40%
+  automated well.
+
+  #Automation #Playwright #RegressionTesting
+
+  ---
+  Post 3 — API testing: the unsexy backbone of quality
+
+  Everyone loves a flashy E2E suite. But API tests are where the real ROI lives.
+
+  In my experience:
+  - API tests run 10-50x faster than UI tests
+  - They catch integration bugs before they reach the UI
+  - They're more stable (no browser rendering flakiness)
+  - They're easier to maintain as the product evolves
+
+  My pattern: test the API contract first, then add UI tests only for critical
+  user-facing flows. This gives you a fast, reliable foundation with targeted
+  E2E on top.
+
+  For a platform managing hundreds of billions — that foundation matters.
+
+  #APITesting #QualityEngineering #Playwright
+
+  ---
+  Post 4 — What to automate vs what to leave manual
+
+  One of the most underrated QA skills is knowing what not to automate.
+
+  My decision framework:
+  ✅ Automate: repetitive, stable flows with clear pass/fail criteria
+  ✅ Automate: cross-browser/device checks (boring for humans, perfect for
+  machines)
+  ❌ Don't automate: exploratory testing, UX evaluation, one-off edge cases
+  ❌ Don't automate: features that change every sprint
+
+  The goal isn't 100% automation. It's maximizing the signal-to-noise ratio so
+  your team trusts the results.
+
+  #QA #TestAutomation #Strategy
+
+  ---
+  Post 5 — Cross-browser testing without losing your mind
+
+  Supporting Chrome, Firefox, Safari, Edge — and their mobile variants — sounds
+  like a nightmare. Here's how I keep it sane:
+
+  1. Use Playwright's built-in multi-browser support (one test, multiple
+  browsers)
+  2. Run critical paths on all browsers, edge cases on Chrome only
+  3. Use sharding in CI to parallelize — 4 browsers × N shards = fast feedback
+  4. Track browser-specific failures separately to spot patterns
+
+  The trick: be intentional about which tests run on which browsers. Blanket
+  everything and your CI takes forever.
+
+  #Playwright #CrossBrowser #CICD
+
+  ---
+  Post 6 — AI-assisted QA: copilot, not autopilot
+
+  I use AI tools (Claude, Copilot) daily in my QA workflow. But here's the thing
+   — AI is a copilot, not autopilot.
+
+  Where AI shines:
+  - Generating boilerplate test code from acceptance criteria
+  - Suggesting edge cases you might miss
+  - Debugging flaky test failures (paste the error, get hypotheses)
+  - Writing test data builders and helpers
+
+  Where it fails:
+  - Understanding business context and domain logic
+  - Making judgment calls on test strategy
+  - Replacing actual exploratory testing
+
+  The best QA engineers I know use AI to go faster, not to think less.
+
+  #AIAssistedQA #Playwright #QualityEngineering
+
+  ---
+  Post 7 — Test plans that actually get read
+
+  Most test plans are written once and never opened again. I build test plans
+  that living documents:
+
+  1. Link every test case to a requirement (traceability)
+  2. Mark automation status: automated / manual / not covered
+  3. Include risk assessment — what breaks most often, what's business-critical
+  4. Keep it in the repo alongside code (Markdown in Git, not a stale Confluence
+   page)
+
+  When a production incident happens, the test plan becomes your first
+  diagnostic tool: "Did we even test this scenario?"
+
+  #TestPlanning #QualityAssurance #Documentation
+
+  ---
+  Post 8 — Defect tracking: from noise to signal
+
+  A bug tracker with 500 open tickets is a graveyard, not a tool. Here's how I
+  keep defect tracking useful:
+
+  1. Every bug gets a severity + impact label (not just "high/medium/low")
+  2. Link bugs to test cases — if a test exists and the bug slipped through, the
+   test needs updating
+  3. Track defect escape rate: how many bugs are found in prod vs. pre-prod?
+  4. Run monthly bug triage — close duplicates, merge related issues,
+  re-prioritize
+
+  The metric that matters: are we finding bugs before users do? That's the real
+  measure of QA effectiveness.
+
+  #DefectTracking #QAMetrics #QualityEngineering
+
+  ---
+  Post 9 — CI/CD integration: tests that run on every commit
+
+  Integrating automated tests into CI/CD isn't just a technical task — it's a
+  cultural one.
+
+  Technical side:
+  - Playwright tests in GitHub Actions with parallel shards
+  - Fail fast: run smoke tests first, full suite only if smoke passes
+  - Publish test reports as PR comments so reviewers see results instantly
+
+  Cultural side:
+  - A red build means stop — no exceptions
+  - Flaky tests get fixed within 24 hours, not "someday"
+  - Test failures are treated as first-class citizens, not ignored
+
+  When CI is trusted, deployment frequency goes up and rollback frequency goes
+  down.
+
+  #CICD #GitHubActions #Playwright #DevOps
+
+  ---
+  Post 10 — Building a test suite that scales across product streams
+
+  One product stream? Easy. Five product streams with shared components? That's
+  where architecture matters.
+
+  My approach to scalable test automation:
+  1. Shared page objects and API clients in a common package
+  2. Stream-specific test suites that import shared infrastructure
+  3. Centralized test data management (fixtures, factories, not hardcoded
+  values)
+  4. Independent test execution — one stream's failures don't block another
+  5. Unified reporting dashboard across all streams
+
+  This way, adding a new product stream means writing new tests, not rebuilding
+  infrastructure.
+
+  For a platform with multiple product streams managing billions — scalability
+  isn't optional.
+
+  #TestAutomation #Playwright #Scalability #Architecture
+
+  ---
+  10 постов, каждый закрывает конкретную проблему из вакансии DataArt. Хочешь,
+  чтобы я адаптировал под другую компанию или стиль?
+
+✻ Cooked for 3m 12s
+
+❯ [Image #1]                                                                    
+  Я зааплаился, подскажи, что ему написать и отметь это в таблице               
+  ⎿  [Image #1]
+
+⏺ Provider API request failed. (request_id=req_f438292f14f4)
+
+✻ Churned for 0s
+
+❯ Yauheni Sheima   10:36 PM                                                     
+  Привет, Глеб! Увидел вакансию QA Automation Engineer (Digital Engineering) в  
+  Coherent Solutions. У меня сильный практический опыт с API автоматизацией,    
+  SQL, CI/CD и Azure. Роль выглядит очень релевантной моему опыту. Буду рад     
+  добавиться! 😊                                                                
+                                                                                
+  Gleb Gusev sent the following messages at 10:42 PM                            
+  View Gleb’s profileGleb Gusev, #HIRING                                        
+  Gleb Gusev   10:42 PM                                                         
+  Добрый день. Тогда лучше всего будет заплаиться по ссылке в посте, чтобы      
+  рекрутеры могли рассмотреть вас и на другие потенциальные позиции. Для моей   
+  позиции python - это маст хэв                                                 
+                                                                                
+  Вот что было                                                                  
+
+⏺ Provider API request failed. (request_id=req_b55c8a4cbdd2)
+
+✻ Brewed for 0s
+
+❯ /model 
+  ⎿  Kept model as Opus 4.7 (1M context)
+
+❯ Продолжай                                                                     
+
+⏺ Provider API request failed. (request_id=req_6a9f9e9272de)
+
+✻ Churned for 0s
+
+❯ /model                                                                        
+  ⎿  Set model to Sonnet 4.6
+
+❯ Продолжай                                                                     
+
+⏺ Provider API request failed. (request_id=req_8014297888bb)
+
+✻ Cooked for 0s
+
+❯ /model                                                                        
+  ⎿  Set model to Opus 4.7 (1M context) (default)
+❯ Check                                                                         
+
+⏺ Provider API request failed. (request_id=req_4e4d0a7d9b19)
+
+✻ Sautéed for 0s
+
+❯ Chec                                                                          
+
+⏺ Provider API request failed. (request_id=req_75f4f02f3279)
+
+✻ Cooked for 0s
+
+※ recap: Provider API request failed. (request_id=req_33d58bddca7a) (disable recaps in /config)
+
+❯ Проверка                                                                      
+
+⏺ Provider API request failed. (request_id=req_9eb0892a3366)
+
+✻ Baked for 0s
+
+❯ /find-skills how to choose session                                            
+
+⏺ Provider API request failed. (request_id=req_c02f889e7524)
+
+✻ Baked for 0s
