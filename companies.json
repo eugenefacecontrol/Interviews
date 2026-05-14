@@ -1307,6 +1307,26 @@
       "stack": "TBD"
     },
     {
+      "slug": "wipro",
+      "name": "Wipro",
+      "status": "applied",
+      "stage": "interview_in_progress",
+      "process": "Recruiter Sri Latha (Infinity Quest) reached out for SDET-Cracow role. 6-month contract, 800 PLN/day, hybrid 3 days onsite in Kraków. CV confirmed and submitted to client. Immediate availability, EU Blue Card valid till 2027.",
+      "requirements": "SDET role in Kraków. Stack TBD (client-side Wipro requirements: Ansible, Python, Go, Kubernetes/OpenShift, CI/CD, Windows automation). 5-8 years experience.",
+      "notes": "Applied via Infinity Quest (recruiter Sri Latha). Role: SDET-Cracow, 6-month contract, 800 PLN/day. Hybrid: 3 days onsite in Kraków, 2 days remote. Immediate start. EU Blue Card valid till 2027. Has billing/umbrella company for payrolling. No prior Wipro experience. Fit: 6/10 — gaps in Ansible, Go, K8s depth; strong on QA automation, Python, CI/CD, API testing.",
+      "links": [
+        "https://www.linkedin.com/jobs/view/4405529286"
+      ],
+      "fit": "6/10",
+      "recommendedCv": "CV 2",
+      "outreach": "Sri Latha (Infinity Quest) — recruiter outreach",
+      "outreachUrl": "https://www.linkedin.com/in/sri-latha-g-115576281/",
+      "updatedAt": "2026-05-14T12:00:00.000Z",
+      "role": "SDET-Cracow",
+      "salary": "800 PLN/day",
+      "stack": "SDET, Python, CI/CD, automation"
+    },
+    {
       "slug": "upvanta-sp-z-o-o",
       "name": "Upvanta sp. z o.o.",
       "status": "target",

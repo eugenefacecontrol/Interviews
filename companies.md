@@ -4,7 +4,7 @@ This is the canonical human-readable list of interview companies.
 
 | Company | Status | Stage | Fit | Recommended CV | Salary Ask | Outreach | Last update |
 |---|---|---|---|---|---|---|---|
-| Acronis | applied | application_sent | 7/10 | CV 2 |  | Mihaela Contescu — LinkedIn message sent | 2026-05-10T22:30:00.000Z |
+| Acronis | rejected | rejected | 7/10 | CV 2 |  | Rejected by Acronis Talent Team | 2026-05-14T12:00:00.000Z |
 | Ailleron | applied | cv_sent | 7/10 | CV 2 |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
 | AirHelp | applied | application_sent | 8.5/10 | CV 2 |  | Michał Sabat — LinkedIn message sent | 2026-05-11T15:30:00.000Z |
 | Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
@@ -79,5 +79,6 @@ This is the canonical human-readable list of interview companies.
 | Unknown Telegram Vacancy via @andrey_kokhan | contacted | outreach_sent | true | CV 2 |  | Contacted @andrey_kokhan via Telegram | 2026-04-22T10:39:10.363Z |
 | Unknown Telegram Vacancy via @regina_ihr3 | contacted | cv_sent | true | CV 2 |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:57:24.802Z |
 | Upvanta sp. z o.o. | target | cv_to_send | 78/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.587Z |
+| Wipro | applied | interview_in_progress | 6/10 | CV 2 | 800 PLN/day | Sri Latha (Infinity Quest) — recruiter outreach | 2026-05-14T12:00:00.000Z |
 | Xebia | target | cv_to_send | 68/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.831Z |
 | YourITeams | target | cv_to_send | 0/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.195Z |

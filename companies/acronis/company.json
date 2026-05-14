@@ -1,9 +1,9 @@
 {
   "slug": "acronis",
   "name": "Acronis",
-  "status": "applied",
-  "stage": "application_sent",
-  "process": "Applied via Workday for Senior Automation QA Engineer (Cloud-to-Cloud Backup team)",
+  "status": "rejected",
+  "stage": "rejected",
+  "process": "Applied via Workday for Senior Automation QA Engineer (Cloud-to-Cloud Backup team). Rejected by Acronis Talent Team — not moving forward, but open to future opportunities.",
   "requirements": "5+ years Automation QA Python; Python, API/UI testing, Playwright or similar; Jira, Git, Jenkins, Docker; QA theory; analytical mindset; Upper-Intermediate English",
   "notes": "Cyber protection company, all-in-one platform. Cloud-to-Cloud Backup team. E2E, Component, Acceptance, Regression UI auto tests. Global R&D teams. Stack: Python + Playwright + API + Jenkins + Docker — strong fit on Playwright, API, CI/CD, Docker; weaker on Python depth. Fit: 7/10. Note: strict no-AI policy during interviews.",
   "links": [
@@ -11,7 +11,7 @@
   ],
   "fit": "7/10",
   "recommendedCv": "CV 2",
-  "outreach": "Mihaela Contescu — LinkedIn message sent",
+  "outreach": "Rejected by Acronis Talent Team",
   "outreachUrl": "https://www.linkedin.com/in/mihaela-contescu-048903111/",
   "updatedAt": "2026-05-10T22:30:00.000Z"
 }
