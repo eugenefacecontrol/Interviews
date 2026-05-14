@@ -51,7 +51,7 @@ This is the canonical human-readable list of interview companies.
 | Montrose Software | target | cv_prepared | 80/100 | tailored-cv/montrose-software-qa-automation-engineer.md |  | CV prepared | 2026-05-06T18:00:20.505Z |
 | Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  |  | 2026-04-03T09:08:47.467Z |
 | N-iX | applied | application_sent | 76/100 | CV 2 |  | Applied via Olga Dmytryshyn | 2026-04-24T17:32:02.889Z |
-| Nord Security | applied | application submitted | high | cv-master-profile/tailored-cv/nord-security-automation-qa-engineer.cv.Yauheni.Sheima.pdf |  | Jurga Schulze; Anastasiia Mheladze | 2026-05-12T12:20:27.171Z |
+| Nord Security | applied | application submitted | high | cv-master-profile/tailored-cv/nord-security-automation-qa-engineer.cv.Yauheni.Sheima.pdf |  | Jurga Schulze — directed to careers page | 2026-05-14T13:30:00.000Z |
 | Onwelo Sp. z o.o. | applied | application_sent | 81/100 | CV 2 |  | Applied via Monika Kulisz | 2026-04-24T11:12:58.763Z |
 | Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 |  | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
 | People More | target | cv_to_send | 3/10 |  |  |  | 2026-04-02T22:38:53.974758+00:00 |
