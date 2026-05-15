@@ -2,25 +2,26 @@
 
 - Status: contacted
 - Stage: recruiter_outreach
-- Fit: 7/10
+- Fit: 8/10
 - Recommended CV: CV 2
 - Salary: €50-55K gross/year
 - Outreach: Karen Satariano Banavage — LinkedIn recruiter outreach
 
 ## Process
-Recruiter Karen Satariano Banavage (internal recruiter at Cleverbit / InScope) reached out via LinkedIn for Senior QA Engineer (SDET) role. Awaiting more details on role and stack.
+Recruiter Karen Satariano Banavage reached out via LinkedIn for Senior QA Engineer (SDET) role. Received full JD: 1-year fixed-term remote contract, €50-55K gross/year, fully remote (EU only).
 
 ## Requirements
-Senior QA Engineer (SDET); stack TBD; 1 year exclusive fixed term contract; Malta (EU); fully remote or hybrid
+Senior QA Engineer (SDET); 4+ years experience; modern web app testing; Playwright (C# preferred); Git; BrowserStack/Sauce Labs; Postman API; Azure DevOps; ISTQB cert; fully remote (EU only); 1-year fixed term.
 
 ## Notes
 - Cleverbit is a software development company based in Malta (EU)
-- Salary bracket: €50-55K gross/year
-- 1 year exclusive fixed term contract
-- Choice of fully remote or hybrid
-- Also mentioned InScope as related company
-- Fit: 7/10 — good salary, remote-friendly, but stack and domain details unknown
-- Need to respond to Karen and request more info
+- Role is fully remote, must be legally eligible to work from EU
+- Salary: €50-55K gross/year
+- 1-year fixed-term contract with possibility of extension
+- Stack strongly emphasizes Playwright in C# environment, API testing, cloud tools (BrowserStack/Sauce Labs), Postman, Azure DevOps
+- Mandatory: ISTQB/ ISEB Foundation Level Certification
+- Fit: 8/10 — strong match on Playwright, API, Git, automation; need to confirm C# depth and ISTQB cert status
+- Exclusivity clause: full professional dedication required, no parallel client/project work
 
 ## Links
 - https://www.cleverbit.software

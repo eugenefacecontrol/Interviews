@@ -306,20 +306,20 @@
       "name": "Cleverbit",
       "status": "contacted",
       "stage": "recruiter_outreach",
-      "process": "Recruiter Karen Satariano Banavage reached out via LinkedIn for Senior QA Engineer (SDET) role. €50-55K gross/year, 1 year exclusive fixed term contract. Malta (EU), fully remote or hybrid. Awaiting more details on role and stack.",
-      "requirements": "Senior QA Engineer (SDET); stack TBD; 1 year fixed term; Malta (EU); remote/hybrid",
-      "notes": "Internal recruiter at Cleverbit (software development company, Malta). Salary bracket: €50-55K gross/year. 1 year exclusive fixed term contract. Choice of fully remote or hybrid. Also mentioned InScope. Fit: 7/10 — good salary, remote-friendly, but details on stack and domain unknown.",
+      "process": "Recruiter Karen Satariano Banavage reached out via LinkedIn for Senior QA Engineer (SDET) role. Full JD received: 1-year fixed-term remote contract, €50-55K gross/year, fully remote (EU only). Mandatory: 4+ years QA/testing, modern web apps, Playwright (ideally C#), Git, cloud testing platforms (BrowserStack/Sauce Labs), Postman API testing, Azure DevOps, ISTQB cert. Nice-to-have: Agile/CD, Appium, load/performance, AI tools, SaaS.",
+      "requirements": "Senior QA Engineer (SDET); 4+ years experience; modern web app testing; Playwright (C# preferred); Git; BrowserStack/Sauce Labs; Postman API; Azure DevOps; ISTQB cert; fully remote (EU only); 1-year fixed term.",
+      "notes": "JD received via LinkedIn attachment. Fully remote role, must be legally eligible to work from EU. Salary: €50-55K gross/year. Stack strongly emphasizes Playwright in C# environment, API testing, cloud tools. Fit: 8/10 — strong match on Playwright, API, Git, automation; need to confirm C# depth and ISTQB cert status. Salary and remote setup excellent.",
       "links": [
         "https://www.cleverbit.software"
       ],
-      "fit": "7/10",
+      "fit": "8/10",
       "recommendedCv": "CV 2",
       "outreach": "Karen Satariano Banavage — LinkedIn recruiter outreach",
       "outreachUrl": "https://www.linkedin.com/in/karen-satariano-banavage/",
-      "updatedAt": "2026-05-15T11:46:00.000Z",
+      "updatedAt": "2026-05-15T15:00:00.000Z",
       "role": "Senior QA Engineer (SDET)",
       "salary": "€50-55K gross/year",
-      "stack": "TBD"
+      "stack": "Playwright, C#, API testing, Git, Azure DevOps, cloud testing"
     },
     {
       "slug": "clearcourse-dev",
