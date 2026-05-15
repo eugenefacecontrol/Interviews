@@ -302,6 +302,26 @@
       "updatedAt": "2026-04-14T07:16:40.944Z"
     },
     {
+      "slug": "cleverbit",
+      "name": "Cleverbit",
+      "status": "contacted",
+      "stage": "recruiter_outreach",
+      "process": "Recruiter Karen Satariano Banavage reached out via LinkedIn for Senior QA Engineer (SDET) role. €50-55K gross/year, 1 year exclusive fixed term contract. Malta (EU), fully remote or hybrid. Awaiting more details on role and stack.",
+      "requirements": "Senior QA Engineer (SDET); stack TBD; 1 year fixed term; Malta (EU); remote/hybrid",
+      "notes": "Internal recruiter at Cleverbit (software development company, Malta). Salary bracket: €50-55K gross/year. 1 year exclusive fixed term contract. Choice of fully remote or hybrid. Also mentioned InScope. Fit: 7/10 — good salary, remote-friendly, but details on stack and domain unknown.",
+      "links": [
+        "https://www.cleverbit.software"
+      ],
+      "fit": "7/10",
+      "recommendedCv": "CV 2",
+      "outreach": "Karen Satariano Banavage — LinkedIn recruiter outreach",
+      "outreachUrl": "https://www.linkedin.com/in/karen-satariano-banavage/",
+      "updatedAt": "2026-05-15T11:46:00.000Z",
+      "role": "Senior QA Engineer (SDET)",
+      "salary": "€50-55K gross/year",
+      "stack": "TBD"
+    },
+    {
       "slug": "clearcourse-dev",
       "name": "ClearCourse Dev",
       "status": "target",

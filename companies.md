@@ -21,6 +21,7 @@ This is the canonical human-readable list of interview companies.
 | Billennium | contacted | recruiter_outreach | 78/100 | CV 2 |  | Katarzyna Zasada | 2026-05-05T16:10:47.458Z |
 | Britenet | target | cv_to_send | 56/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.893Z |
 | Capco | rejected | rejected | 4.65/5 | CV 2 |  | Rejected after application review | 2026-04-14T07:16:40.944Z |
+| Cleverbit | contacted | recruiter_outreach | 7/10 | CV 2 | €50-55K gross/year | Karen Satariano Banavage — LinkedIn recruiter outreach | 2026-05-15T11:46:00.000Z |
 | ClearCourse Dev | target | cv_to_send | 46/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.074Z |
 | Coherent Solutions | contacted | recruiter_outreach | 8/10 | CV 2 |  | Katerina Varaksa — LinkedIn message received | 2026-05-13T11:35:00.000Z |
 | DataArt | contacted | recruiter_outreach | 92/100 | CV 2 |  | Kseniya Bazhenova | 2026-05-05T16:54:26.360Z |
