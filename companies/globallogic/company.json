@@ -7,14 +7,15 @@
   "stage": "cv_to_send_outreach_to_send",
   "process": "Preparing CV and LinkedIn outreach for Senior Python Automation Test Engineer IRC292988 role.",
   "requirements": "Senior Python Automation Test Engineer IRC292988; healthcare solutions client; medical, dental, veterinary equipment; medication management systems; automated testing with Squish; Squish & COCO; embedded systems automation; write and maintain Software Test Specifications (STS); scripting languages commonly used with Squish; test automation frameworks and best practices; analytical/problem-solving skills; communication and documentation; develop, execute and maintain automated test scripts for embedded devices; analyze test results; identify issues; work with development team; update STS; optimize testing strategies; collaborate with software engineers, QA teams and stakeholders.",
-  "notes": "Fit is mixed. Strong on general QA automation, scripting mindset, test automation frameworks, analytical debugging, documentation, CI/CD/quality workflows, and collaboration. Gaps: Squish/COCO and embedded devices are not known core experience; Python should be positioned as practical scripting/automation-adjacent rather than strongest current stack. Healthcare/medical devices domain is new, but careful validation and documentation habits are relevant.",
+  "notes": "Fit is mixed but CV was tailored. Strong on general QA automation, scripting mindset, test automation frameworks, analytical debugging, documentation, CI/CD/quality workflows, and collaboration. Gaps: Squish/COCO and embedded devices are not known core experience; Python positioned as practical scripting/automation-adjacent rather than strongest current stack. Healthcare/medical devices domain is new, but careful validation and documentation habits are relevant. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf",
   "links": [
-    "https://www.linkedin.com/jobs/view/4398181212"
+    "https://www.linkedin.com/jobs/view/4398181212",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "62/100",
-  "recommendedCv": "general QA automation / Python-adjacent tailored CV needed",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf",
   "salaryAsk": "",
   "outreach": "Tetiana Rediuk — LinkedIn message drafted",
   "outreachUrl": "https://www.linkedin.com/in/tetianarediuk/",
-  "updatedAt": "2026-05-17T14:22:51.756Z"
+  "updatedAt": "2026-05-17T14:25:25.831Z"
 }
