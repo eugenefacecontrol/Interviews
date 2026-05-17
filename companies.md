@@ -4,7 +4,7 @@ This is the canonical human-readable list of interview companies.
 
 | Company | Status | Stage | Fit | Recommended CV | Salary Ask | Outreach | Last update |
 |---|---|---|---|---|---|---|---|
-| Acronis | rejected | rejected | 7/10 | CV 2 |  | Rejected by Acronis Talent Team | 2026-05-14T12:00:00.000Z |
+| Acronis | applied | application_sent | 7/10 | CV 2 |  | Mihaela Contescu — LinkedIn message sent | 2026-05-10T22:30:00.000Z |
 | Ailleron | applied | cv_sent | 7/10 | CV 2 |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
 | AirHelp | applied | application_sent | 8.5/10 | CV 2 |  | Michał Sabat — LinkedIn message sent | 2026-05-11T15:30:00.000Z |
 | Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
@@ -21,14 +21,15 @@ This is the canonical human-readable list of interview companies.
 | Billennium | contacted | recruiter_outreach | 78/100 | CV 2 |  | Katarzyna Zasada | 2026-05-05T16:10:47.458Z |
 | Britenet | target | cv_to_send | 56/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.893Z |
 | Capco | rejected | rejected | 4.65/5 | CV 2 |  | Rejected after application review | 2026-04-14T07:16:40.944Z |
-| Cleverbit | contacted | recruiter_outreach | 8/10 | CV 2 | €50-55K gross/year | Karen Satariano Banavage — LinkedIn recruiter outreach | 2026-05-15T15:00:00.000Z |
 | ClearCourse Dev | target | cv_to_send | 46/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.074Z |
+| Cleverbit | contacted | recruiter_outreach | 8/10 | CV 2 |  | Karen Satariano Banavage — LinkedIn recruiter outreach | 2026-05-15T15:00:00.000Z |
 | Coherent Solutions | contacted | recruiter_outreach | 8/10 | CV 2 |  | Katerina Varaksa — LinkedIn message received | 2026-05-13T11:35:00.000Z |
 | DataArt | contacted | recruiter_outreach | 92/100 | CV 2 |  | Kseniya Bazhenova | 2026-05-05T16:54:26.360Z |
 | DCV Technologies | applied | application_sent | 100/100 | CV 2 |  | Applied via JustJoinIt | 2026-04-16T15:21:42.904Z |
 | deBridge | contacted | cv_sent | 8/10 | CV 2 |  | Applied via Telegram to @leo_lomaev | 2026-04-23T07:05:02.485Z |
 | Edge One Solutions Sp. z o.o | target | cv_to_send | 96/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.092Z |
 | EffectiveSoft | rejected | rejected | low | CV 2 |  | Rejected after recruiter clarification from Olga Simonova (LinkedIn) | 2026-04-19T05:34:49.451Z |
+| emagine | applied | application_sent | 82/100 | emagine tailored PDF | up to 160 PLN/h B2B | Application submitted | 2026-05-17T11:50:17.268Z |
 | EPAM Systems | applied | application_sent | 84/100 | CV 2 |  | Applied via Tatsiana Zubkova and EPAM careers | 2026-04-24T20:59:54.172Z |
 | ERP Works | rejected | rejected | 90/100 | CV 2 |  | Sam / ERP Works | 2026-05-05T13:28:29.455Z |
 | ESET | target | cv_to_send | 6/10 |  |  |  | 2026-04-02T22:38:53.974753+00:00 |
@@ -52,7 +53,7 @@ This is the canonical human-readable list of interview companies.
 | Montrose Software | target | cv_prepared | 80/100 | tailored-cv/montrose-software-qa-automation-engineer.md |  | CV prepared | 2026-05-06T18:00:20.505Z |
 | Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  |  | 2026-04-03T09:08:47.467Z |
 | N-iX | applied | application_sent | 76/100 | CV 2 |  | Applied via Olga Dmytryshyn | 2026-04-24T17:32:02.889Z |
-| Nord Security | applied | application submitted | high | cv-master-profile/tailored-cv/nord-security-automation-qa-engineer.cv.Yauheni.Sheima.pdf |  | Jurga Schulze — directed to careers page | 2026-05-14T13:30:00.000Z |
+| Nord Security | applied | application submitted | high | cv-master-profile/tailored-cv/nord-security-automation-qa-engineer.cv.Yauheni.Sheima.pdf |  | Jurga Schulze; Anastasiia Mheladze | 2026-05-14T13:30:00.000Z |
 | Onwelo Sp. z o.o. | applied | application_sent | 81/100 | CV 2 |  | Applied via Monika Kulisz | 2026-04-24T11:12:58.763Z |
 | Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 |  | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
 | People More | target | cv_to_send | 3/10 |  |  |  | 2026-04-02T22:38:53.974758+00:00 |
@@ -73,14 +74,14 @@ This is the canonical human-readable list of interview companies.
 | StoneX Poland | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.973Z |
 | Strategicsiq | target | cv_to_send | 5/10 |  |  |  | 2026-04-02T22:38:53.974740+00:00 |
 | Svitla Systems | rejected | screening | medium | CV 2 |  |  | 2026-04-02T13:53:34.725Z |
-| Telement | contacted | cv_sent | 8/10 | CV 2 |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:58:41.364Z |
 | Talmatic | rejected | rejected | unknown | CV 2 |  | Rejected by Talmatic | 2026-05-14T14:00:00.000Z |
+| Telement | contacted | cv_sent | 8/10 | CV 2 |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:58:41.364Z |
 | Tenarai Europe | closed | position_closed | true | CV 2 |  | Applied via Wiktoria Banaś-Gałecka | 2026-04-24T10:29:46.207Z |
 | Twinslash | contacted | cv_sent | 6.5/10 | CV 2 |  | CV sent via Telegram to @It_recruiter_tech | 2026-04-23T07:11:56.821Z |
 | Ubiquiti | rejected | rejected | 6.5/10 | CV 2 |  | Rejected after application review | 2026-04-15T17:57:24.204Z |
 | Unknown Telegram Vacancy via @andrey_kokhan | contacted | outreach_sent | true | CV 2 |  | Contacted @andrey_kokhan via Telegram | 2026-04-22T10:39:10.363Z |
 | Unknown Telegram Vacancy via @regina_ihr3 | contacted | cv_sent | true | CV 2 |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:57:24.802Z |
 | Upvanta sp. z o.o. | target | cv_to_send | 78/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.587Z |
-| Wipro | applied | interview_in_progress | 6/10 | CV 2 | 800 PLN/day | Sri Latha (Infinity Quest) — recruiter outreach | 2026-05-14T12:00:00.000Z |
+| Wipro | applied | interview_in_progress | 6/10 | CV 2 |  | Sri Latha (Infinity Quest) — recruiter outreach | 2026-05-14T12:00:00.000Z |
 | Xebia | target | cv_to_send | 68/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.831Z |
 | YourITeams | target | cv_to_send | 0/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.195Z |

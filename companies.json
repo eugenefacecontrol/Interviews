@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T12:20:27.181Z",
+  "generatedAt": "2026-05-17T11:50:17.275Z",
   "companies": [
     {
       "slug": "acronis",
@@ -302,6 +302,22 @@
       "updatedAt": "2026-04-14T07:16:40.944Z"
     },
     {
+      "slug": "clearcourse-dev",
+      "name": "ClearCourse Dev",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "QA Automation Engineer; Stack: Playwright, REST, API, CI/CD, Docker, TypeScript",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer.",
+      "links": [
+        "https://justjoin.it/job-offer/clearcourse-dev-qa-automation-engineer-krakow-testing-f0d4f3ae"
+      ],
+      "fit": "46/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:49.074Z"
+    },
+    {
       "slug": "cleverbit",
       "name": "Cleverbit",
       "status": "contacted",
@@ -320,22 +336,6 @@
       "role": "Senior QA Engineer (SDET)",
       "salary": "€50-55K gross/year",
       "stack": "Playwright, C#, API testing, Git, Azure DevOps, cloud testing"
-    },
-    {
-      "slug": "clearcourse-dev",
-      "name": "ClearCourse Dev",
-      "status": "target",
-      "stage": "cv_to_send",
-      "process": "Imported from JustJoinIt shortlist",
-      "requirements": "QA Automation Engineer; Stack: Playwright, REST, API, CI/CD, Docker, TypeScript",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer.",
-      "links": [
-        "https://justjoin.it/job-offer/clearcourse-dev-qa-automation-engineer-krakow-testing-f0d4f3ae"
-      ],
-      "fit": "46/100",
-      "recommendedCv": "CV 2",
-      "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:49.074Z"
     },
     {
       "slug": "coherent-solutions",
@@ -442,6 +442,24 @@
       "recommendedCv": "CV 2",
       "updatedAt": "2026-04-19T05:34:49.451Z",
       "outreach": "Rejected after recruiter clarification from Olga Simonova (LinkedIn)"
+    },
+    {
+      "slug": "emagine",
+      "name": "emagine",
+      "role": "Senior QA Automation Specialist",
+      "stack": "Java, Selenium, Playwright, REST API, Postman, RestAssured, Jenkins, CI/CD, manual testing, agile",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied for Senior QA Automation Specialist B2B project; 100% remote, full-time, 6 months + prolongations, ASAP start.",
+      "requirements": "Senior QA Automation Specialist; debt collection industry; 100% remote; English; B2B; up to 160 PLN/h; 7+ years QA/test automation; Java-based frameworks such as Selenium or Playwright; manual testing for complex web applications; API testing with REST, Postman, RestAssured or similar; CI/CD pipelines with Jenkins; agile collaboration with developers; test plans, test cases, acceptance criteria ownership; nice to have performance testing and test framework creation.",
+      "notes": "Applied. Strong fit on 7+ years QA automation, web application testing, Selenium, Playwright, API testing, Postman, Jenkins/CI/CD, test framework improvement, manual+automation mix, agile collaboration. Main gap: Java is strongest as earlier Selenium/automation foundation, while recent primary stack is TypeScript/C#/PowerShell; positioned honestly as Java-based automation foundation plus strong transferable automation engineering. Debt collection domain is not direct, but enterprise workflow and banking-like/green-screen context can help.",
+      "links": [],
+      "fit": "82/100",
+      "recommendedCv": "emagine tailored PDF",
+      "salaryAsk": "up to 160 PLN/h B2B",
+      "outreach": "Application submitted",
+      "outreachUrl": "",
+      "updatedAt": "2026-05-17T11:50:17.268Z"
     },
     {
       "slug": "epam-systems",
@@ -1218,6 +1236,22 @@
       "updatedAt": "2026-04-02T13:53:34.725Z"
     },
     {
+      "slug": "talmatic",
+      "name": "Talmatic",
+      "status": "rejected",
+      "stage": "rejected",
+      "process": "Applied for Senior QA Automation Engineer role (Poland). Rejected — not moving forward.",
+      "requirements": "Senior QA Automation Engineer; Poland; stack TBD",
+      "notes": "Applied on May 11. Rejected by Talmatic — standard rejection, not moving forward with application.",
+      "links": [],
+      "fit": "unknown",
+      "recommendedCv": "CV 2",
+      "outreach": "Rejected by Talmatic",
+      "updatedAt": "2026-05-14T14:00:00.000Z",
+      "role": "Senior QA Automation Engineer",
+      "stack": "TBD"
+    },
+    {
       "slug": "telement",
       "name": "Telement",
       "status": "contacted",
@@ -1235,22 +1269,6 @@
       "updatedAt": "2026-04-22T13:58:41.364Z",
       "role": "QA Engineer (Manual + Automation)",
       "stack": "Postman/Swagger, Playwright/Cypress, Python or JS/TS, GitLab CI, SQL"
-    },
-    {
-      "slug": "talmatic",
-      "name": "Talmatic",
-      "status": "rejected",
-      "stage": "rejected",
-      "process": "Applied for Senior QA Automation Engineer role (Poland). Rejected — not moving forward.",
-      "requirements": "Senior QA Automation Engineer; Poland; stack TBD",
-      "notes": "Applied on May 11. Rejected by Talmatic — standard rejection, not moving forward with application.",
-      "links": [],
-      "fit": "unknown",
-      "recommendedCv": "CV 2",
-      "outreach": "Rejected by Talmatic",
-      "updatedAt": "2026-05-14T14:00:00.000Z",
-      "role": "Senior QA Automation Engineer",
-      "stack": "TBD"
     },
     {
       "slug": "tenarai-europe",
@@ -1343,6 +1361,22 @@
       "stack": "TBD"
     },
     {
+      "slug": "upvanta-sp-z-o-o",
+      "name": "Upvanta sp. z o.o.",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Imported from JustJoinIt shortlist",
+      "requirements": "Software QA Engineer (Java); Stack: Java, Selenium, Docker, SDET",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Software QA Engineer (Java).",
+      "links": [
+        "https://justjoin.it/job-offer/upvanta-sp-z-o-o--software-qa-engineer-java--krakow-testing-b2282acd"
+      ],
+      "fit": "78/100",
+      "recommendedCv": "CV 2",
+      "outreach": "Shortlisted from CSV",
+      "updatedAt": "2026-04-16T10:25:48.587Z"
+    },
+    {
       "slug": "wipro",
       "name": "Wipro",
       "status": "applied",
@@ -1361,22 +1395,6 @@
       "role": "SDET-Cracow",
       "salary": "800 PLN/day",
       "stack": "SDET, Python, CI/CD, automation"
-    },
-    {
-      "slug": "upvanta-sp-z-o-o",
-      "name": "Upvanta sp. z o.o.",
-      "status": "target",
-      "stage": "cv_to_send",
-      "process": "Imported from JustJoinIt shortlist",
-      "requirements": "Software QA Engineer (Java); Stack: Java, Selenium, Docker, SDET",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Software QA Engineer (Java).",
-      "links": [
-        "https://justjoin.it/job-offer/upvanta-sp-z-o-o--software-qa-engineer-java--krakow-testing-b2282acd"
-      ],
-      "fit": "78/100",
-      "recommendedCv": "CV 2",
-      "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.587Z"
     },
     {
       "slug": "xebia",
