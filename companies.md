@@ -9,6 +9,7 @@ This is the canonical human-readable list of interview companies.
 | AirHelp | applied | application_sent | 8.5/10 | CV 2 |  | Michał Sabat — LinkedIn message sent | 2026-05-11T15:30:00.000Z |
 | Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
 | Alior Bank | target | cv_to_send | 5/10 |  |  |  | 2026-04-02T22:38:53.974750+00:00 |
+| ALTEN Polska | target | cv_to_send | 73/100 | alten-polska tailored PDF |  | Context provided by Yauheni; CV being tailored | 2026-05-17T13:49:31.811Z |
 | Andersen | target | recruiter_outreach | 7/10 | CV 2 |  | Recruiter outreach from Yana Budulatii (LinkedIn) | 2026-04-17T11:44:37.677Z |
 | Antal | applied | application_sent | 6/10 | CV 2 |  | Applied via JustJoinIt | 2026-04-08T10:35:05.105Z |
 | Antal Sp. z o.o. | target | cv_to_send | 83/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.399Z |
@@ -48,6 +49,7 @@ This is the canonical human-readable list of interview companies.
 | Kaseya | rejected | rejected | 3/10 | CV 2 |  | Rejected by Kaseya after prior recruiter response / scheduling stage | 2026-04-14T08:59:07.401Z |
 | Keepit | applied | application_sent | 7/10 | CV 2 |  | Applied via company site | 2026-04-15T17:55:29.230Z |
 | Link Group | target | recruiter_outreach | 58/100 | CV 2 |  | Przemysław Lorek | 2026-04-26T18:07:13.801Z |
+| Luxoft Poland | applied | application_sent_outreach_sent | 80/100 | luxoft-poland tailored PDF |  | Natalia Ziaja — LinkedIn message sent | 2026-05-17T13:20:53.846Z |
 | Miquido | applied | application_sent | 7/10 | CV 2 |  | Applied via company site | 2026-04-08T10:29:36.348Z |
 | Mitrix Technology | rejected | rejected | low | CV 2 |  |  | 2026-04-02T13:53:34.666Z |
 | Montrose Software | target | cv_prepared | 80/100 | tailored-cv/montrose-software-qa-automation-engineer.md |  | CV prepared | 2026-05-06T18:00:20.505Z |
