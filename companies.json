@@ -1,22 +1,26 @@
 {
-  "generatedAt": "2026-05-17T14:52:59.595Z",
+  "generatedAt": "2026-05-17T15:10:24.175Z",
   "companies": [
     {
       "slug": "acronis",
       "name": "Acronis",
-      "status": "applied",
-      "stage": "application_sent",
-      "process": "Applied via Workday for Senior Automation QA Engineer (Cloud-to-Cloud Backup team)",
-      "requirements": "5+ years Automation QA Python; Python, API/UI testing, Playwright or similar; Jira, Git, Jenkins, Docker; QA theory; analytical mindset; Upper-Intermediate English",
-      "notes": "Cyber protection company, all-in-one platform. Cloud-to-Cloud Backup team. E2E, Component, Acceptance, Regression UI auto tests. Global R&D teams. Stack: Python + Playwright + API + Jenkins + Docker — strong fit on Playwright, API, CI/CD, Docker; weaker on Python depth. Fit: 7/10. Note: strict no-AI policy during interviews.",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Preparing CV for LinkedIn Senior Automation QA Engineer role in Acronis Cloud-to-Cloud Backup team.",
+      "requirements": "Senior Automation QA Engineer; Acronis Cloud-to-Cloud Backup team; develop and execute E2E, Component, Acceptance and Regression UI auto tests; collaborate with product managers, developers and global R&D teams; review product requirements; design test suites and test cases; develop automation tests for web UI; participate in automation code reviews; execute and maintain regression test suites; analyze test automation results; maintain documentation of test plans, test cases and test results; 5+ years Automation QA Python Engineer; QA theory; Python; API/UI testing; Playwright framework or similar; Jira; Git; Jenkins; Docker; analytical mindset; communication; Microsoft 365 or similar cloud-based systems is a plus; Upper-intermediate English; application in English; interviews without AI tools/external assistance.",
+      "notes": "New Acronis LinkedIn context replaces older rejected Workday role context. Strong fit on 7+ QA automation, Playwright, API/UI automation, E2E/regression testing, Jenkins/Git/Docker, test documentation, automation result analysis, QA theory and cloud-product context. Main gap: Python is practical scripting/automation-adjacent, while recent strongest stack is Playwright/TypeScript/C#/PowerShell; keep this honest. Important interview note: Acronis explicitly prohibits AI tools/external assistance during live interviews. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf",
       "links": [
-        "https://acronis.wd502.myworkdayjobs.com/en-US/acronis_careers/job/Senior-Automation-QA-Engineer_R-101106"
+        "https://www.linkedin.com/jobs/view/4409891066",
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf"
       ],
-      "fit": "7/10",
-      "recommendedCv": "CV 2",
-      "outreach": "Mihaela Contescu — LinkedIn message sent",
-      "outreachUrl": "https://www.linkedin.com/in/mihaela-contescu-048903111/",
-      "updatedAt": "2026-05-10T22:30:00.000Z"
+      "fit": "78/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf",
+      "outreach": "CV context prepared",
+      "outreachUrl": "",
+      "updatedAt": "2026-05-17T14:56:43.043Z",
+      "role": "Senior Automation QA Engineer",
+      "stack": "Python, Playwright, API/UI testing, E2E tests, Component tests, Acceptance tests, Regression UI auto tests, Jira, Git, Jenkins, Docker, QA theory, cloud-based systems",
+      "salaryAsk": ""
     },
     {
       "slug": "ailleron",
@@ -395,6 +399,27 @@
       "outreach": "Kseniya Bazhenova",
       "salaryAsk": "",
       "outreachUrl": "https://www.linkedin.com/in/kseniya-bazhenova-095871aa/"
+    },
+    {
+      "slug": "dcg",
+      "name": "DCG",
+      "role": "Automation Test Engineer – VMware Aria (vRO / vRA Service Broker)",
+      "stack": "VMware Aria Orchestrator vRO, VMware Aria Automation Service Broker, JavaScript, PowerShell, REST API, Postman, curl, JSON, Linux logs, Jira, Confluence, Git, CI/CD, functional testing, integration testing, workflow testing",
+      "status": "applied",
+      "stage": "application_sent_outreach_to_send",
+      "process": "Applied for Automation Test Engineer – VMware Aria role. LinkedIn outreach message to Karolina prepared.",
+      "requirements": "Automation Test Engineer – VMware Aria; execute end-to-end testing of VMware Aria Orchestrator vRO workflows including functionality, logic validation and error handling; validate automation processes through VMware Aria Automation Service Broker; verify service requests; analyze workflow runs; detailed defect reports; structured test documentation test cases test plans checklists; REST API integrations; workflow dependencies conditions input/output parameters execution paths; troubleshooting automation workflows and integrations; collaborate with automation engineers developers DevOps; continuous improvement. Requirements: 4+ years automation/integration/infrastructure automation testing; VMware Aria Orchestrator vRO workflows actions inventory/items; VMware Aria Automation Service Broker; JavaScript minor modifications in vRO workflows; custom vRO actions/workflows; vRO REST plugin, HTTP integrations, external APIs; Postman/curl; Jira Confluence; CI/CD concepts; Git basics; PowerShell scripts; JSON; Linux logs diagnostics command line; English. Nice: automation/integration platforms, enterprise infrastructure, logging/monitoring, MSSQL/PostgreSQL, CyberArk/Bitwarden, BMC Helix.",
+      "notes": "Applied. Strong fit on infrastructure-aware QA, REST API/integration testing, JavaScript/PowerShell, JSON, Linux/log diagnostics, CI/CD/Git concepts, structured documentation, troubleshooting, and enterprise automation workflows. Main gaps: VMware Aria/vRO/vRA Service Broker and custom vRO workflow/action development are ramp-up areas; position as adjacent infrastructure automation/testing experience, not direct ownership. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/dcg/dcg.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://www.linkedin.com/jobs/view/4413410980",
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/dcg/dcg.cv.Yauheni.Sheima.pdf"
+      ],
+      "fit": "76/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/dcg/dcg.cv.Yauheni.Sheima.pdf",
+      "salaryAsk": "",
+      "outreach": "Karolina Broja-Kloboda — LinkedIn message drafted",
+      "outreachUrl": "https://www.linkedin.com/in/karolinabrojakloboda/",
+      "updatedAt": "2026-05-17T15:10:24.168Z"
     },
     {
       "slug": "dcv-technologies",

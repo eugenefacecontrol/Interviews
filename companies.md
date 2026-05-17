@@ -4,7 +4,7 @@ This is the canonical human-readable list of interview companies.
 
 | Company | Status | Stage | Fit | Recommended CV | Salary Ask | Outreach | Last update |
 |---|---|---|---|---|---|---|---|
-| Acronis | applied | application_sent | 7/10 | CV 2 |  | Mihaela Contescu — LinkedIn message sent | 2026-05-10T22:30:00.000Z |
+| Acronis | target | cv_to_send | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf |  | CV context prepared | 2026-05-17T14:56:43.043Z |
 | Ailleron | applied | cv_sent | 7/10 | CV 2 |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
 | AirHelp | applied | application_sent | 8.5/10 | CV 2 |  | Michał Sabat — LinkedIn message sent | 2026-05-11T15:30:00.000Z |
 | Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
@@ -26,6 +26,7 @@ This is the canonical human-readable list of interview companies.
 | Cleverbit | contacted | recruiter_outreach | 8/10 | CV 2 |  | Karen Satariano Banavage — LinkedIn recruiter outreach | 2026-05-15T15:00:00.000Z |
 | Coherent Solutions | contacted | recruiter_outreach | 8/10 | CV 2 |  | Katerina Varaksa — LinkedIn message received | 2026-05-13T11:35:00.000Z |
 | DataArt | contacted | recruiter_outreach | 92/100 | CV 2 |  | Kseniya Bazhenova | 2026-05-05T16:54:26.360Z |
+| DCG | applied | application_sent_outreach_to_send | 76/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/dcg/dcg.cv.Yauheni.Sheima.pdf |  | Karolina Broja-Kloboda — LinkedIn message drafted | 2026-05-17T15:10:24.168Z |
 | DCV Technologies | applied | application_sent | 100/100 | CV 2 |  | Applied via JustJoinIt | 2026-04-16T15:21:42.904Z |
 | deBridge | contacted | cv_sent | 8/10 | CV 2 |  | Applied via Telegram to @leo_lomaev | 2026-04-23T07:05:02.485Z |
 | Edge One Solutions Sp. z o.o | target | cv_to_send | 96/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.092Z |
