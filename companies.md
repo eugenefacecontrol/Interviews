@@ -42,11 +42,11 @@ This is the canonical human-readable list of interview companies.
 | Green Hive Technology | target | cv_to_send | 51/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.954Z |
 | Happy Team | target | cv_to_send | 41/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.134Z |
 | Infogain | target | cv_to_send | 88/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.335Z |
-| Intellias | target | cv_to_send | 69/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.771Z |
+| Intellias | target | cv_to_send_outreach_sent | 84/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf |  | Daria Donets — LinkedIn message sent in Russian | 2026-05-17T14:52:59.588Z |
 | Inuits | target | cv_to_send | 7/10 |  |  |  | 2026-04-02T22:38:53.974771+00:00 |
 | ITDS | applied | interview_in_progress | 100/100 | CV 2 |  | Patrycja Bochnia — waiting for client feedback | 2026-05-08T09:00:00.000Z |
 | iTeamly | target | cv_to_send | 98/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.033Z |
-| Jacobs | rejected | rejected | 8/10 | CV 2 |  | Rejected after application review | 2026-04-16T08:38:34.374Z |
+| Jacobs | applied | application_sent_outreach_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/jacobs/jacobs.cv.Yauheni.Sheima.pdf |  | Mateusz Lis — LinkedIn message sent | 2026-05-17T14:43:35.715Z |
 | Kaseya | rejected | rejected | 3/10 | CV 2 |  | Rejected by Kaseya after prior recruiter response / scheduling stage | 2026-04-14T08:59:07.401Z |
 | Keepit | applied | application_sent | 7/10 | CV 2 |  | Applied via company site | 2026-04-15T17:55:29.230Z |
 | Link Group | target | recruiter_outreach | 58/100 | CV 2 |  | Przemysław Lorek | 2026-04-26T18:07:13.801Z |

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T14:25:25.838Z",
+  "generatedAt": "2026-05-17T14:52:59.595Z",
   "companies": [
     {
       "slug": "acronis",
@@ -682,17 +682,22 @@
       "slug": "intellias",
       "name": "Intellias",
       "status": "target",
-      "stage": "cv_to_send",
-      "process": "Imported from JustJoinIt shortlist",
-      "requirements": "Lead Software Developer in Test; Stack: Playwright, Java, API, CI/CD, TypeScript",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Lead Software Developer in Test.",
+      "stage": "cv_to_send_outreach_sent",
+      "process": "Preparing CV for Senior Automation QA Engineer with leadership experience role. LinkedIn outreach sent to Daria Donets.",
+      "requirements": "Senior Automation QA Engineer with leadership experience; Poland remote; full-time pure B2B; 7+ years hands-on QA Automation; strong leadership experience; strong Playwright; proven use of AI tools in daily automation tasks; build and maintain E2E tests; API testing and test data management; JavaScript/TypeScript; test runners Mocha/Jest or similar; UI test automation frameworks; CI/CD pipelines; Scrum; plus SQL/NoSQL, AWS/Azure/GCP, Docker/Kubernetes, test monitoring/reporting tools, Java/Python; responsibilities include testing strategy, framework and infrastructure from scratch, automated scripts, test reports, debugging, Shift Left, continuous improvement, platform tooling, mentoring and training team members.",
+      "notes": "LinkedIn outreach sent to Daria Donets. Strong fit on 7+ QA automation, Playwright, TypeScript/JavaScript, API testing, E2E, CI/CD, Scrum, framework improvement, AI-assisted workflow, test reporting, debugging, process improvement, and mentoring/onboarding. Leadership should be positioned as technical ownership/mentoring rather than formal people management. Cloud/Docker/Kubernetes are practical support/maintenance experience. Mocha/Jest not primary known stack but adjacent to Playwright/TypeScript ecosystem. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf",
       "links": [
-        "https://justjoin.it/job-offer/intellias-lead-software-developer-in-test-poland-remote--testing"
+        "https://www.linkedin.com/jobs/view/4410041132",
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf"
       ],
-      "fit": "69/100",
-      "recommendedCv": "CV 2",
-      "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.771Z"
+      "fit": "84/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf",
+      "outreach": "Daria Donets — LinkedIn message sent in Russian",
+      "updatedAt": "2026-05-17T14:52:59.588Z",
+      "role": "Senior Automation QA Engineer with leadership experience",
+      "stack": "Playwright, TypeScript, JavaScript, API testing, E2E tests, test automation frameworks, CI/CD, Scrum, AI tools, SQL/NoSQL, cloud, Docker, Kubernetes, monitoring/reporting, leadership",
+      "salaryAsk": "",
+      "outreachUrl": "https://www.linkedin.com/in/daria-donets-7b9a19177/"
     },
     {
       "slug": "inuits",
@@ -751,18 +756,23 @@
     {
       "slug": "jacobs",
       "name": "Jacobs",
-      "status": "rejected",
-      "stage": "rejected",
-      "process": "Rejected after application review",
-      "requirements": "Senior QA Engineer; Playwright; TypeScript; React E2E; Azure; Azure DevOps; API testing; 3D/digital twin environment; real-time systems; performance testing with k6; Azure SQL; GitHub; Jira/Azure DevOps",
-      "notes": "Rejected after application review for Senior QA Engineer role (36607). Jacobs said they had many strong applicants and would not be moving forward with this application.",
+      "status": "applied",
+      "stage": "application_sent_outreach_sent",
+      "process": "Applied for Senior QA Automation Engineer role in Digital & Data Hub / Health Data Platforms. LinkedIn outreach sent to Mateusz Lis.",
+      "requirements": "Senior QA Automation Engineer; Jacobs Krakow Digital & Data Hub; cloud-based Health Data Platforms; secure processing and delivery of clinical data for healthcare, regulatory and research stakeholders; develop and maintain automated tests for web applications API and UI; build and extend test automation frameworks using Python, JavaScript or TypeScript; create and execute BDD scenarios such as Cucumber; functional, regression, exploratory and manual testing; test planning, test design and QA lifecycle; integrate automated tests into CI/CD pipelines with GitHub Actions and Azure DevOps; use SQL to validate data in test environments; automate workflows using Shell/Bash scripting; collaborate with developers and product teams; QA best practices and continuous improvement; 4+ years QA/test automation; Playwright or similar; API and UI testing; CI/CD/version control; basic SQL; strong communication.",
+      "notes": "Applied and outreach sent to Mateusz Lis. New Jacobs context replaces older rejected Jacobs role. Strong fit on Playwright, API/UI testing, TypeScript/JavaScript, CI/CD/Azure DevOps, SQL, Bash/PowerShell scripting, manual/exploratory testing, test planning, QA lifecycle, and collaboration with developers/product teams. Python is adjacent scripting/automation capability rather than strongest current stack. Healthcare/clinical data platform domain is new, but enterprise workflows, data correctness, and careful validation experience are relevant. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/jacobs/jacobs.cv.Yauheni.Sheima.pdf",
       "links": [
-        "https://jacobs.taleo.net/"
+        "https://www.linkedin.com/jobs/view/4402911891",
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/jacobs/jacobs.cv.Yauheni.Sheima.pdf"
       ],
-      "fit": "8/10",
-      "recommendedCv": "CV 2",
-      "outreach": "Rejected after application review",
-      "updatedAt": "2026-04-16T08:38:34.374Z"
+      "fit": "78/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/jacobs/jacobs.cv.Yauheni.Sheima.pdf",
+      "outreach": "Mateusz Lis — LinkedIn message sent",
+      "updatedAt": "2026-05-17T14:43:35.715Z",
+      "role": "Senior QA Automation Engineer",
+      "stack": "Playwright, Python, JavaScript, TypeScript, API testing, UI testing, BDD/Cucumber, GitHub Actions, Azure DevOps, SQL, Shell/Bash, manual testing, exploratory testing",
+      "salaryAsk": "",
+      "outreachUrl": "https://www.linkedin.com/in/mateusz-lis-5157a0186/"
     },
     {
       "slug": "kaseya",

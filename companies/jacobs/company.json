@@ -1,16 +1,21 @@
 {
   "slug": "jacobs",
   "name": "Jacobs",
-  "status": "rejected",
-  "stage": "rejected",
-  "process": "Rejected after application review",
-  "requirements": "Senior QA Engineer; Playwright; TypeScript; React E2E; Azure; Azure DevOps; API testing; 3D/digital twin environment; real-time systems; performance testing with k6; Azure SQL; GitHub; Jira/Azure DevOps",
-  "notes": "Rejected after application review for Senior QA Engineer role (36607). Jacobs said they had many strong applicants and would not be moving forward with this application.",
+  "role": "Senior QA Automation Engineer",
+  "stack": "Playwright, Python, JavaScript, TypeScript, API testing, UI testing, BDD/Cucumber, GitHub Actions, Azure DevOps, SQL, Shell/Bash, manual testing, exploratory testing",
+  "status": "applied",
+  "stage": "application_sent_outreach_sent",
+  "process": "Applied for Senior QA Automation Engineer role in Digital & Data Hub / Health Data Platforms. LinkedIn outreach sent to Mateusz Lis.",
+  "requirements": "Senior QA Automation Engineer; Jacobs Krakow Digital & Data Hub; cloud-based Health Data Platforms; secure processing and delivery of clinical data for healthcare, regulatory and research stakeholders; develop and maintain automated tests for web applications API and UI; build and extend test automation frameworks using Python, JavaScript or TypeScript; create and execute BDD scenarios such as Cucumber; functional, regression, exploratory and manual testing; test planning, test design and QA lifecycle; integrate automated tests into CI/CD pipelines with GitHub Actions and Azure DevOps; use SQL to validate data in test environments; automate workflows using Shell/Bash scripting; collaborate with developers and product teams; QA best practices and continuous improvement; 4+ years QA/test automation; Playwright or similar; API and UI testing; CI/CD/version control; basic SQL; strong communication.",
+  "notes": "Applied and outreach sent to Mateusz Lis. New Jacobs context replaces older rejected Jacobs role. Strong fit on Playwright, API/UI testing, TypeScript/JavaScript, CI/CD/Azure DevOps, SQL, Bash/PowerShell scripting, manual/exploratory testing, test planning, QA lifecycle, and collaboration with developers/product teams. Python is adjacent scripting/automation capability rather than strongest current stack. Healthcare/clinical data platform domain is new, but enterprise workflows, data correctness, and careful validation experience are relevant. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/jacobs/jacobs.cv.Yauheni.Sheima.pdf",
   "links": [
-    "https://jacobs.taleo.net/"
+    "https://www.linkedin.com/jobs/view/4402911891",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/jacobs/jacobs.cv.Yauheni.Sheima.pdf"
   ],
-  "fit": "8/10",
-  "recommendedCv": "CV 2",
-  "outreach": "Rejected after application review",
-  "updatedAt": "2026-04-16T08:38:34.374Z"
+  "fit": "78/100",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/jacobs/jacobs.cv.Yauheni.Sheima.pdf",
+  "salaryAsk": "",
+  "outreach": "Mateusz Lis — LinkedIn message sent",
+  "outreachUrl": "https://www.linkedin.com/in/mateusz-lis-5157a0186/",
+  "updatedAt": "2026-05-17T14:43:35.715Z"
 }
