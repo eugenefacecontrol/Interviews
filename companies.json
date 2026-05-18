@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T11:38:47.156Z",
+  "generatedAt": "2026-05-18T14:01:54.578Z",
   "companies": [
     {
       "slug": "acronis",
@@ -45,11 +45,11 @@
     {
       "slug": "airhelp",
       "name": "AirHelp",
-      "status": "applied",
-      "stage": "application_sent",
-      "process": "Applied via LinkedIn for Software Engineer in Test (Developer in Test) role",
-      "requirements": "3-5 years experience; strong coding in Ruby/Rails, Golang, Python, or Node.js; test automation frameworks (Cypress, Playwright, Selenium); REST API testing (Postman, Bruno); CI/CD (GitHub Actions); Git; English",
-      "notes": "Developer in Test role. Hybrid in Kraków, Gdańsk or Warsaw. Stack: Backend (Ruby/Rails, Golang, Python, Node.js), Frontend (React, JS, TS), DB (PostgreSQL), Infra (AWS, Docker, Kubernetes, Terraform), Monitoring (ELK/Grafana, Sentry, CI/CD). Strong fit on Playwright, TS, Python, CI/CD, Docker, K8s, API testing, Git. Fit: 8.5/10.",
+      "status": "interview",
+      "stage": "hr_video_meeting_to_schedule",
+      "process": "Application moved to recruiter screen: AirHelp invited Yauheni to a 30-minute video meeting for the Software Engineer in Test role. Candidate should self-schedule via provided link. Recruiter notes they use an optional AI note-taking assistant; candidate may opt out. Preparation requested: key achievements with relevant data, individual contributions using I-statements, and STAR-format examples.",
+      "requirements": "3-5 years experience; strong coding in Ruby/Rails, Golang, Python, or Node.js; test automation frameworks such as Cypress, Playwright, Selenium; REST API testing with Postman/Bruno; CI/CD with GitHub Actions; Git; English.",
+      "notes": "Prepare STAR examples focused on individual measurable impact: Definely API framework coverage 117 to 199 tests without runtime increase; log volume reduction 1.5 GB to 11 MB per run; Leapwork process/workflow automation via PowerShell/JS/Tampermonkey; CI/CD/environment automation and delivery-quality improvements. Need confirm product metrics/business impact wording before interview.",
       "links": [
         "https://www.linkedin.com/jobs/view/4402966518"
       ],
@@ -57,7 +57,10 @@
       "recommendedCv": "CV 2",
       "outreach": "Michał Sabat — LinkedIn message sent",
       "outreachUrl": "https://www.linkedin.com/in/michał-sabat-727649129/",
-      "updatedAt": "2026-05-11T15:30:00.000Z"
+      "updatedAt": "2026-05-18T14:01:54.567Z",
+      "role": "Software Engineer in Test",
+      "stack": "Playwright, Selenium, Cypress, REST API testing, Postman/Bruno, CI/CD, GitHub Actions, TypeScript/JavaScript, Python/Node.js, Docker, Kubernetes, AWS, PostgreSQL",
+      "salaryAsk": ""
     },
     {
       "slug": "akamai",
