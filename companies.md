@@ -6,7 +6,7 @@ This is the canonical human-readable list of interview companies.
 |---|---|---|---|---|---|---|---|
 | Acronis | target | cv_to_send | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf |  | CV context prepared | 2026-05-17T14:56:43.043Z |
 | Ailleron | applied | cv_sent | 7/10 | CV 2 |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
-| AirHelp | interview | hr_video_meeting_to_schedule | 8.5/10 | CV 2 |  | Michał Sabat — LinkedIn message sent | 2026-05-18T14:01:54.567Z |
+| AirHelp | interview | hr_video_meeting_to_schedule | 8.5/10 | CV 2 |  | Michał Sabat — LinkedIn message sent | 2026-05-18T19:04:56.707Z |
 | Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
 | Alior Bank | target | cv_to_send | 5/10 |  |  |  | 2026-04-02T22:38:53.974750+00:00 |
 | ALTEN Polska | target | cv_to_send | 73/100 | alten-polska tailored PDF |  | Context provided by Yauheni; CV being tailored | 2026-05-17T13:49:31.811Z |

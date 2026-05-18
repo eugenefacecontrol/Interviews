@@ -16,7 +16,7 @@ Application moved to recruiter screen: AirHelp invited Yauheni to a 30-minute vi
 3-5 years experience; strong coding in Ruby/Rails, Golang, Python, or Node.js; test automation frameworks such as Cypress, Playwright, Selenium; REST API testing with Postman/Bruno; CI/CD with GitHub Actions; Git; English.
 
 ## Notes
-Prepare STAR examples focused on individual measurable impact: Definely API framework coverage 117 to 199 tests without runtime increase; log volume reduction 1.5 GB to 11 MB per run; Leapwork process/workflow automation via PowerShell/JS/Tampermonkey; CI/CD/environment automation and delivery-quality improvements. Need confirm product metrics/business impact wording before interview.
+Prepare STAR examples focused on individual measurable impact: Definely API framework coverage 117 to 199 tests without runtime increase; log volume reduction 1.5 GB to 11 MB per run; UI precondition optimization reduced setup for 3 documents with metadata from ~5 minutes via UI to ~1 minute via API while keeping one UI test for metadata validation; Leapwork process/workflow automation via PowerShell/JS/Tampermonkey; CI/CD/environment automation and delivery-quality improvements. Product/business impact wording still needs confirmation before interview.
 
 ## Links
 - https://www.linkedin.com/jobs/view/4402966518
