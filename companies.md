@@ -68,6 +68,7 @@ This is the canonical human-readable list of interview companies.
 | Remote People | applied | application_sent | 8/10 | CV 2 |  | Applied via Greenhouse | 2026-04-12T14:20:59.410Z |
 | Scalable Solutions | rejected | rejected | 5/10 | CV 2 |  | Maryia Klimianok — rejected, Python stack mismatch | 2026-05-08T14:00:00.000Z |
 | SCALO | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.915Z |
+| SHERPANY | target | cv_to_send | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sherpany/sherpany.cv.Yauheni.Sheima.pdf |  | CV context prepared | 2026-05-18T10:43:03.951Z |
 | Sii | target | cv_to_send | 91/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.150Z |
 | SOFTSWISS | closed | position_closed | 5/10 | CV 2 |  | Position closed after referral by Rusovich | 2026-04-15T17:56:20.371Z |
 | Software Mansion S.A. | rejected | rejected | true | CV 2 |  | Rejected by Dominika Mytych due to Polish language requirement | 2026-04-28T07:35:33.190Z |
