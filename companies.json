@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T19:04:56.717Z",
+  "generatedAt": "2026-05-19T06:41:38.769Z",
   "companies": [
     {
       "slug": "acronis",
@@ -1551,6 +1551,26 @@
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
       "updatedAt": "2026-04-16T10:25:48.831Z"
+    },
+    {
+      "slug": "xm",
+      "name": "XM",
+      "role": "Software Development Engineers in Test (Python)",
+      "stack": "Python, REST API testing, test automation framework development, CI/CD, Docker, Grafana, performance testing, Kafka, AWS",
+      "status": "target",
+      "stage": "cv_to_send",
+      "process": "Vacancy provided by Yauheni; tailored CV generated for XM SDET Python role.",
+      "requirements": "SDET Python role for Forex brokerage core. Responsibilities: translate business requirements to technical requirements, design test procedures/plans, develop functional and performance automation tests, design/implement automation framework and libraries, develop mobile testing emulators, build CI/CD pipelines and integrate automation scripts, resolve testing issues, share QA expertise, participate in SDLC/STLC. Requirements: CS/software degree or similar, 2+ years QA, 2+ years Python development, Python automated test design/development, REST API testing, Git, agile testing, English. Advantages: framework development, async/multithreading, WebSockets, Docker, Grafana, performance testing, Finance/Forex.",
+      "notes": "Fit: strong on 7+ years QA automation, API/framework improvement, CI/CD, Git, Docker/Kubernetes support context, Grafana/log troubleshooting, agile collaboration and test-system optimization. Main risk: Python is practical scripting/framework-support capability rather than strongest recent primary language; Kafka/AWS/WebSockets/Forex should be framed as adjacent/growth areas, not claimed as core production ownership. CV generated: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xm/xm.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://jobs.eu.lever.co/xm/209047d8-149c-43bd-97e5-10d872901d4a"
+      ],
+      "fit": "78/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xm/xm.cv.Yauheni.Sheima.pdf",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-05-19T06:41:38.759Z"
     },
     {
       "slug": "youriteams",
