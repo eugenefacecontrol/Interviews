@@ -2,94 +2,94 @@
 
 This is the canonical human-readable list of interview companies.
 
-| Company | Status | Stage | Fit | Recommended CV | Salary Ask | Outreach | Last update |
-|---|---|---|---|---|---|---|---|
-| Acronis | target | cv_to_send | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf |  | CV context prepared | 2026-05-17T14:56:43.043Z |
-| Ailleron | applied | cv_sent | 7/10 | CV 2 |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
-| AirHelp | interview | hr_video_meeting_to_schedule | 8.5/10 | CV 2 |  | Michał Sabat — LinkedIn message sent | 2026-05-18T19:04:56.707Z |
-| Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
-| Alior Bank | target | cv_to_send | 5/10 |  |  |  | 2026-04-02T22:38:53.974750+00:00 |
-| ALTEN Polska | target | cv_to_send | 73/100 | alten-polska tailored PDF |  | Context provided by Yauheni; CV being tailored | 2026-05-17T13:49:31.811Z |
-| Andersen | target | recruiter_outreach | 7/10 | CV 2 |  | Recruiter outreach from Yana Budulatii (LinkedIn) | 2026-04-17T11:44:37.677Z |
-| Antal | applied | application_sent | 6/10 | CV 2 |  | Applied via JustJoinIt | 2026-04-08T10:35:05.105Z |
-| Antal Sp. z o.o. | target | cv_to_send | 83/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.399Z |
-| Aristocrat | applied | application_sent | 8/10 | CV 2 |  | Applied via JustJoinIt | 2026-05-08T09:00:00.000Z |
-| Asseco Poland S.A. | target | cv_to_send | 89/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.208Z |
-| Autodesk | applied | application_sent | 8/10 | CV 2 |  | Applied via Workday | 2026-05-11T12:00:00.000Z |
-| Avenga | applied | outreach_sent | 9/10 | CV 2 |  | Applied via site; sent to Karolina Zamysłowska (LinkedIn) | 2026-04-03T21:47:49.503Z |
-| B2Bnetwork | applied | application_sent | 62/100 | CV 2 |  | Applied via LinkedIn | 2026-04-24T06:44:50.442Z |
-| Be in IT | closed | position_closed | 100/100 | CV 2 |  | Position closed / expired | 2026-04-26T07:40:52.389Z |
-| Billennium | contacted | recruiter_outreach | 78/100 | CV 2 |  | Katarzyna Zasada | 2026-05-05T16:10:47.458Z |
-| Britenet | target | cv_to_send | 56/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.893Z |
-| Capco | rejected | rejected | 4.65/5 | CV 2 |  | Rejected after application review | 2026-04-14T07:16:40.944Z |
-| Ciklum | target | cv_to_send_outreach_to_send | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/ciklum/ciklum.cv.Yauheni.Sheima.pdf |  | Referral: @maciekmaciak; HR leads found for outreach | 2026-05-20T12:05:18.671Z |
-| ClearCourse Dev | target | cv_to_send | 46/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.074Z |
-| Cleverbit | contacted | recruiter_outreach | 8/10 | CV 2 |  | Karen Satariano Banavage — LinkedIn recruiter outreach | 2026-05-15T15:00:00.000Z |
-| Coherent Solutions | contacted | recruiter_outreach | 8/10 | CV 2 |  | Katerina Varaksa — LinkedIn message received | 2026-05-13T11:35:00.000Z |
-| DataArt | contacted | recruiter_outreach | 92/100 | CV 2 |  | Kseniya Bazhenova | 2026-05-05T16:54:26.360Z |
-| DCG | applied | application_sent_outreach_to_send | 76/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/dcg/dcg.cv.Yauheni.Sheima.pdf |  | Karolina Broja-Kloboda — LinkedIn message drafted | 2026-05-17T15:10:24.168Z |
-| DCV Technologies | applied | application_sent | 100/100 | CV 2 |  | Applied via JustJoinIt | 2026-04-16T15:21:42.904Z |
-| deBridge | contacted | cv_sent | 8/10 | CV 2 |  | Applied via Telegram to @leo_lomaev | 2026-04-23T07:05:02.485Z |
-| Edge One Solutions Sp. z o.o | target | cv_to_send | 96/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.092Z |
-| EffectiveSoft | rejected | rejected | low | CV 2 |  | Rejected after recruiter clarification from Olga Simonova (LinkedIn) | 2026-04-19T05:34:49.451Z |
-| emagine | applied | application_sent | 82/100 | emagine tailored PDF | up to 160 PLN/h B2B | Application submitted | 2026-05-17T11:50:17.268Z |
-| EPAM Systems | applied | application_sent | 84/100 | CV 2 |  | Applied via Tatsiana Zubkova and EPAM careers | 2026-04-24T20:59:54.172Z |
-| ERP Works | rejected | rejected | 90/100 | CV 2 |  | Sam / ERP Works | 2026-05-05T13:28:29.455Z |
-| ESET | target | cv_to_send | 6/10 |  |  |  | 2026-04-02T22:38:53.974753+00:00 |
-| Euroclear | target | cv_to_send | 4/10 |  |  |  | 2026-04-02T22:38:53.974755+00:00 |
-| Experis Manpower Group | target | cv_to_send | 88/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.272Z |
-| Fundraise Up | applied | application_sent | 7/10 | CV 2 |  | Olga Radzievskaia — applied via website + LinkedIn | 2026-05-09T12:00:00.000Z |
-| GlobalLogic | target | cv_to_send_outreach_to_send | 62/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf |  | Tetiana Rediuk — LinkedIn message drafted | 2026-05-17T14:25:25.831Z |
-| Grape Up | rejected | application_review | 9/10 | CV 2 |  | Rejected after applying to talent pool opening | 2026-04-13T14:00:13.289707+00:00 |
-| Green Hive Technology | target | cv_to_send | 51/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.954Z |
-| Happy Team | target | cv_to_send | 41/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.134Z |
-| Infogain | target | cv_to_send | 88/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.335Z |
-| Intellias | target | cv_to_send_outreach_sent | 84/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf |  | Daria Donets — LinkedIn message sent in Russian | 2026-05-17T14:52:59.588Z |
-| Inuits | target | cv_to_send | 7/10 |  |  |  | 2026-04-02T22:38:53.974771+00:00 |
-| ITDS | applied | interview_in_progress | 100/100 | CV 2 |  | Patrycja Bochnia — waiting for client feedback | 2026-05-08T09:00:00.000Z |
-| iTeamly | target | cv_to_send | 98/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.033Z |
-| Jacobs | applied | application_sent_outreach_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/jacobs/jacobs.cv.Yauheni.Sheima.pdf |  | Mateusz Lis — LinkedIn message sent | 2026-05-17T14:43:35.715Z |
-| Kaseya | rejected | rejected | 3/10 | CV 2 |  | Rejected by Kaseya after prior recruiter response / scheduling stage | 2026-04-14T08:59:07.401Z |
-| Keepit | applied | application_sent | 7/10 | CV 2 |  | Applied via company site | 2026-04-15T17:55:29.230Z |
-| Link Group | target | recruiter_outreach | 58/100 | CV 2 |  | Przemysław Lorek | 2026-04-26T18:07:13.801Z |
-| Luxoft Poland | applied | application_sent_outreach_sent | 80/100 | luxoft-poland tailored PDF |  | Natalia Ziaja — LinkedIn message sent | 2026-05-17T13:20:53.846Z |
-| Miquido | applied | application_sent | 7/10 | CV 2 |  | Applied via company site | 2026-04-08T10:29:36.348Z |
-| Mitrix Technology | rejected | rejected | low | CV 2 |  |  | 2026-04-02T13:53:34.666Z |
-| Montrose Software | target | cv_prepared | 80/100 | tailored-cv/montrose-software-qa-automation-engineer.md |  | CV prepared | 2026-05-06T18:00:20.505Z |
-| Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  |  | 2026-04-03T09:08:47.467Z |
-| N-iX | applied | application_sent | 76/100 | CV 2 |  | Applied via Olga Dmytryshyn | 2026-04-24T17:32:02.889Z |
-| Nord Security | applied | application submitted | high | cv-master-profile/tailored-cv/nord-security-automation-qa-engineer.cv.Yauheni.Sheima.pdf |  | Jurga Schulze; Anastasiia Mheladze | 2026-05-14T13:30:00.000Z |
-| Omada | target | cv_to_send_outreach_to_send | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf | 20 500-22 500 PLN gross/month listed | Małgorzata — LinkedIn message drafted | 2026-05-18T11:38:47.146Z |
-| Onwelo Sp. z o.o. | applied | application_sent | 81/100 | CV 2 |  | Applied via Monika Kulisz | 2026-04-24T11:12:58.763Z |
-| Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 |  | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
-| People More | target | cv_to_send | 3/10 |  |  |  | 2026-04-02T22:38:53.974758+00:00 |
-| Precisely | contacted | message_sent | 6/10 | CV 2 |  | Zuzanna Biel — LinkedIn message sent | 2026-05-11T16:00:00.000Z |
-| Proxity GmbH / Blackstone | contacted | recruiter_outreach | 88/100 | CV 2 |  | Selvet Uzun | 2026-05-04T10:52:34.347Z |
-| Pwrteams | applied | application_sent | 100/100 | CV 2 |  | Applied via Anastasiia Kravchuk | 2026-04-25T19:51:31.638Z |
-| Remodevs | target | cv_to_send | 51/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.014Z |
-| Remote People | applied | application_sent | 8/10 | CV 2 |  | Applied via Greenhouse | 2026-04-12T14:20:59.410Z |
-| Scalable Solutions | rejected | rejected | 5/10 | CV 2 |  | Maryia Klimianok — rejected, Python stack mismatch | 2026-05-08T14:00:00.000Z |
-| SCALO | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.915Z |
-| SHERPANY | target | cv_to_send | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sherpany/sherpany.cv.Yauheni.Sheima.pdf |  | CV context prepared | 2026-05-18T10:43:03.951Z |
-| Sii | target | cv_to_send | 91/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.150Z |
-| SOFTSWISS | closed | position_closed | 5/10 | CV 2 |  | Position closed after referral by Rusovich | 2026-04-15T17:56:20.371Z |
-| Software Mansion S.A. | rejected | rejected | true | CV 2 |  | Rejected by Dominika Mytych due to Polish language requirement | 2026-04-28T07:35:33.190Z |
-| Specific-Group | target | recruiter_outreach | 8/10 | CV 2 | 150 PLN/h | Recruiter outreach from Anastasia Markitan (LinkedIn) | 2026-04-19T14:27:15.545Z |
-| SquareOne | applied | application_sent | 8/10 | CV 2 |  | Applied via No Fluff Jobs | 2026-04-12T15:02:52.135Z |
-| State Street | target | cv_to_send | 72/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.710Z |
-| StoneX Group Inc. | applying | outreach_sent | 66/100 | CV 2 | true | Marina Yanusheuskaya | 2026-04-23T11:33:37.999Z |
-| StoneX Poland | target | cv_to_send | 100/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:47.973Z |
-| Strategicsiq | target | cv_to_send | 5/10 |  |  |  | 2026-04-02T22:38:53.974740+00:00 |
-| Svitla Systems | rejected | screening | medium | CV 2 |  |  | 2026-04-02T13:53:34.725Z |
-| Talmatic | rejected | rejected | unknown | CV 2 |  | Rejected by Talmatic | 2026-05-14T14:00:00.000Z |
-| Telement | contacted | cv_sent | 8/10 | CV 2 |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:58:41.364Z |
-| Tenarai Europe | closed | position_closed | true | CV 2 |  | Applied via Wiktoria Banaś-Gałecka | 2026-04-24T10:29:46.207Z |
-| Twinslash | contacted | cv_sent | 6.5/10 | CV 2 |  | CV sent via Telegram to @It_recruiter_tech | 2026-04-23T07:11:56.821Z |
-| Ubiquiti | rejected | rejected | 6.5/10 | CV 2 |  | Rejected after application review | 2026-04-15T17:57:24.204Z |
-| Unknown Telegram Vacancy via @andrey_kokhan | contacted | outreach_sent | true | CV 2 |  | Contacted @andrey_kokhan via Telegram | 2026-04-22T10:39:10.363Z |
-| Unknown Telegram Vacancy via @regina_ihr3 | contacted | cv_sent | true | CV 2 |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:57:24.802Z |
-| Upvanta sp. z o.o. | target | cv_to_send | 78/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.587Z |
-| Wipro | applied | interview_in_progress | 6/10 | CV 2 |  | Sri Latha (Infinity Quest) — recruiter outreach | 2026-05-14T12:00:00.000Z |
-| Xebia | target | cv_to_send | 68/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:48.831Z |
-| XM | applied | application_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xm/xm.cv.Yauheni.Sheima.pdf | 56 500 EUR/year |  | 2026-05-19T07:00:02.416Z |
-| YourITeams | target | cv_to_send | 0/100 | CV 2 |  | Shortlisted from CSV | 2026-04-16T10:25:49.195Z |
+| Company | Status | Stage | Fit | Recommended CV | Cover Letter | Salary Ask | Outreach | Last update |
+|---|---|---|---|---|---|---|---|---|
+| Acronis | target | cv_to_send | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf |  |  | CV context prepared | 2026-05-17T14:56:43.043Z |
+| Ailleron | applied | cv_sent | 7/10 | CV 2 |  |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
+| AirHelp | interview | hr_video_meeting_to_schedule | 8.5/10 | CV 2 |  |  | Michał Sabat — LinkedIn message sent | 2026-05-18T19:04:56.707Z |
+| Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
+| Alior Bank | target | cv_to_send | 5/10 |  |  |  |  | 2026-04-02T22:38:53.974750+00:00 |
+| ALTEN Polska | target | cv_to_send | 73/100 | alten-polska tailored PDF |  |  | Context provided by Yauheni; CV being tailored | 2026-05-17T13:49:31.811Z |
+| Andersen | target | recruiter_outreach | 7/10 | CV 2 |  |  | Recruiter outreach from Yana Budulatii (LinkedIn) | 2026-04-17T11:44:37.677Z |
+| Antal | applied | application_sent | 6/10 | CV 2 |  |  | Applied via JustJoinIt | 2026-04-08T10:35:05.105Z |
+| Antal Sp. z o.o. | target | cv_to_send | 83/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.399Z |
+| Aristocrat | applied | application_sent | 8/10 | CV 2 |  |  | Applied via JustJoinIt | 2026-05-08T09:00:00.000Z |
+| Asseco Poland S.A. | target | cv_to_send | 89/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.208Z |
+| Autodesk | applied | application_sent | 8/10 | CV 2 |  |  | Applied via Workday | 2026-05-11T12:00:00.000Z |
+| Avenga | applied | outreach_sent | 9/10 | CV 2 |  |  | Applied via site; sent to Karolina Zamysłowska (LinkedIn) | 2026-04-03T21:47:49.503Z |
+| B2Bnetwork | applied | application_sent | 62/100 | CV 2 |  |  | Applied via LinkedIn | 2026-04-24T06:44:50.442Z |
+| Be in IT | closed | position_closed | 100/100 | CV 2 |  |  | Position closed / expired | 2026-04-26T07:40:52.389Z |
+| Billennium | contacted | recruiter_outreach | 78/100 | CV 2 |  |  | Katarzyna Zasada | 2026-05-05T16:10:47.458Z |
+| Britenet | target | cv_to_send | 56/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.893Z |
+| Capco | rejected | rejected | 4.65/5 | CV 2 |  |  | Rejected after application review | 2026-04-14T07:16:40.944Z |
+| Ciklum | target | cv_to_send_outreach_to_send | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/ciklum/ciklum.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/ciklum/cover-letter.md |  | Referral: @maciekmaciak; HR leads found for outreach | 2026-05-22T11:11:45.498Z |
+| ClearCourse Dev | target | cv_to_send | 46/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.074Z |
+| Cleverbit | contacted | recruiter_outreach | 8/10 | CV 2 |  |  | Karen Satariano Banavage — LinkedIn recruiter outreach | 2026-05-15T15:00:00.000Z |
+| Coherent Solutions | contacted | recruiter_outreach | 8/10 | CV 2 |  |  | Katerina Varaksa — LinkedIn message received | 2026-05-13T11:35:00.000Z |
+| DataArt | contacted | recruiter_outreach | 92/100 | CV 2 |  |  | Kseniya Bazhenova | 2026-05-05T16:54:26.360Z |
+| DCG | applied | application_sent_outreach_to_send | 76/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/dcg/dcg.cv.Yauheni.Sheima.pdf |  |  | Karolina Broja-Kloboda — LinkedIn message drafted | 2026-05-17T15:10:24.168Z |
+| DCV Technologies | applied | application_sent | 100/100 | CV 2 |  |  | Applied via JustJoinIt | 2026-04-16T15:21:42.904Z |
+| deBridge | contacted | cv_sent | 8/10 | CV 2 |  |  | Applied via Telegram to @leo_lomaev | 2026-04-23T07:05:02.485Z |
+| Edge One Solutions Sp. z o.o | target | cv_to_send | 96/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.092Z |
+| EffectiveSoft | rejected | rejected | low | CV 2 |  |  | Rejected after recruiter clarification from Olga Simonova (LinkedIn) | 2026-04-19T05:34:49.451Z |
+| emagine | applied | application_sent | 82/100 | emagine tailored PDF |  | up to 160 PLN/h B2B | Application submitted | 2026-05-17T11:50:17.268Z |
+| EPAM Systems | applied | application_sent | 84/100 | CV 2 |  |  | Applied via Tatsiana Zubkova and EPAM careers | 2026-04-24T20:59:54.172Z |
+| ERP Works | rejected | rejected | 90/100 | CV 2 |  |  | Sam / ERP Works | 2026-05-05T13:28:29.455Z |
+| ESET | target | cv_to_send | 6/10 |  |  |  |  | 2026-04-02T22:38:53.974753+00:00 |
+| Euroclear | target | cv_to_send | 4/10 |  |  |  |  | 2026-04-02T22:38:53.974755+00:00 |
+| Experis Manpower Group | target | cv_to_send | 88/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.272Z |
+| Fundraise Up | applied | application_sent | 7/10 | CV 2 |  |  | Olga Radzievskaia — applied via website + LinkedIn | 2026-05-09T12:00:00.000Z |
+| GlobalLogic | target | cv_to_send_outreach_to_send | 62/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf |  |  | Tetiana Rediuk — LinkedIn message drafted | 2026-05-17T14:25:25.831Z |
+| Grape Up | rejected | application_review | 9/10 | CV 2 |  |  | Rejected after applying to talent pool opening | 2026-04-13T14:00:13.289707+00:00 |
+| Green Hive Technology | target | cv_to_send | 51/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.954Z |
+| Happy Team | target | cv_to_send | 41/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.134Z |
+| Infogain | target | cv_to_send | 88/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.335Z |
+| Intellias | target | cv_to_send_outreach_sent | 84/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf |  |  | Daria Donets — LinkedIn message sent in Russian | 2026-05-17T14:52:59.588Z |
+| Inuits | target | cv_to_send | 7/10 |  |  |  |  | 2026-04-02T22:38:53.974771+00:00 |
+| ITDS | applied | interview_in_progress | 100/100 | CV 2 |  |  | Patrycja Bochnia — waiting for client feedback | 2026-05-08T09:00:00.000Z |
+| iTeamly | target | cv_to_send | 98/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.033Z |
+| Jacobs | applied | application_sent_outreach_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/jacobs/jacobs.cv.Yauheni.Sheima.pdf |  |  | Mateusz Lis — LinkedIn message sent | 2026-05-17T14:43:35.715Z |
+| Kaseya | rejected | rejected | 3/10 | CV 2 |  |  | Rejected by Kaseya after prior recruiter response / scheduling stage | 2026-04-14T08:59:07.401Z |
+| Keepit | applied | application_sent | 7/10 | CV 2 |  |  | Applied via company site | 2026-04-15T17:55:29.230Z |
+| Link Group | target | recruiter_outreach | 58/100 | CV 2 |  |  | Przemysław Lorek | 2026-04-26T18:07:13.801Z |
+| Luxoft Poland | applied | application_sent_outreach_sent | 80/100 | luxoft-poland tailored PDF |  |  | Natalia Ziaja — LinkedIn message sent | 2026-05-17T13:20:53.846Z |
+| Miquido | applied | application_sent | 7/10 | CV 2 |  |  | Applied via company site | 2026-04-08T10:29:36.348Z |
+| Mitrix Technology | rejected | rejected | low | CV 2 |  |  |  | 2026-04-02T13:53:34.666Z |
+| Montrose Software | target | cv_prepared | 80/100 | tailored-cv/montrose-software-qa-automation-engineer.md |  |  | CV prepared | 2026-05-06T18:00:20.505Z |
+| Motorola Solutions | rejected | rejected | 8/10 | CV 2 |  |  |  | 2026-04-03T09:08:47.467Z |
+| N-iX | applied | application_sent | 76/100 | CV 2 |  |  | Applied via Olga Dmytryshyn | 2026-04-24T17:32:02.889Z |
+| Nord Security | applied | application submitted | high | cv-master-profile/tailored-cv/nord-security-automation-qa-engineer.cv.Yauheni.Sheima.pdf |  |  | Jurga Schulze; Anastasiia Mheladze | 2026-05-14T13:30:00.000Z |
+| Omada | target | cv_to_send_outreach_to_send | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf |  | 20 500-22 500 PLN gross/month listed | Małgorzata — LinkedIn message drafted | 2026-05-18T11:38:47.146Z |
+| Onwelo Sp. z o.o. | applied | application_sent | 81/100 | CV 2 |  |  | Applied via Monika Kulisz | 2026-04-24T11:12:58.763Z |
+| Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 |  |  | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
+| People More | target | cv_to_send | 3/10 |  |  |  |  | 2026-04-02T22:38:53.974758+00:00 |
+| Precisely | contacted | message_sent | 6/10 | CV 2 |  |  | Zuzanna Biel — LinkedIn message sent | 2026-05-11T16:00:00.000Z |
+| Proxity GmbH / Blackstone | contacted | recruiter_outreach | 88/100 | CV 2 |  |  | Selvet Uzun | 2026-05-04T10:52:34.347Z |
+| Pwrteams | applied | application_sent | 100/100 | CV 2 |  |  | Applied via Anastasiia Kravchuk | 2026-04-25T19:51:31.638Z |
+| Remodevs | target | cv_to_send | 51/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.014Z |
+| Remote People | applied | application_sent | 8/10 | CV 2 |  |  | Applied via Greenhouse | 2026-04-12T14:20:59.410Z |
+| Scalable Solutions | rejected | rejected | 5/10 | CV 2 |  |  | Maryia Klimianok — rejected, Python stack mismatch | 2026-05-08T14:00:00.000Z |
+| SCALO | target | cv_to_send | 100/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:47.915Z |
+| SHERPANY | target | cv_to_send | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sherpany/sherpany.cv.Yauheni.Sheima.pdf |  |  | CV context prepared | 2026-05-18T10:43:03.951Z |
+| Sii | target | cv_to_send | 91/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.150Z |
+| SOFTSWISS | closed | position_closed | 5/10 | CV 2 |  |  | Position closed after referral by Rusovich | 2026-04-15T17:56:20.371Z |
+| Software Mansion S.A. | rejected | rejected | true | CV 2 |  |  | Rejected by Dominika Mytych due to Polish language requirement | 2026-04-28T07:35:33.190Z |
+| Specific-Group | target | recruiter_outreach | 8/10 | CV 2 |  | 150 PLN/h | Recruiter outreach from Anastasia Markitan (LinkedIn) | 2026-04-19T14:27:15.545Z |
+| SquareOne | applied | application_sent | 8/10 | CV 2 |  |  | Applied via No Fluff Jobs | 2026-04-12T15:02:52.135Z |
+| State Street | target | cv_to_send | 72/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.710Z |
+| StoneX Group Inc. | applying | outreach_sent | 66/100 | CV 2 |  | true | Marina Yanusheuskaya | 2026-04-23T11:33:37.999Z |
+| StoneX Poland | target | cv_to_send | 100/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:47.973Z |
+| Strategicsiq | target | cv_to_send | 5/10 |  |  |  |  | 2026-04-02T22:38:53.974740+00:00 |
+| Svitla Systems | rejected | screening | medium | CV 2 |  |  |  | 2026-04-02T13:53:34.725Z |
+| Talmatic | rejected | rejected | unknown | CV 2 |  |  | Rejected by Talmatic | 2026-05-14T14:00:00.000Z |
+| Telement | contacted | cv_sent | 8/10 | CV 2 |  |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:58:41.364Z |
+| Tenarai Europe | closed | position_closed | true | CV 2 |  |  | Applied via Wiktoria Banaś-Gałecka | 2026-04-24T10:29:46.207Z |
+| Twinslash | contacted | cv_sent | 6.5/10 | CV 2 |  |  | CV sent via Telegram to @It_recruiter_tech | 2026-04-23T07:11:56.821Z |
+| Ubiquiti | rejected | rejected | 6.5/10 | CV 2 |  |  | Rejected after application review | 2026-04-15T17:57:24.204Z |
+| Unknown Telegram Vacancy via @andrey_kokhan | contacted | outreach_sent | true | CV 2 |  |  | Contacted @andrey_kokhan via Telegram | 2026-04-22T10:39:10.363Z |
+| Unknown Telegram Vacancy via @regina_ihr3 | contacted | cv_sent | true | CV 2 |  |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:57:24.802Z |
+| Upvanta sp. z o.o. | target | cv_to_send | 78/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.587Z |
+| Wipro | applied | interview_in_progress | 6/10 | CV 2 |  |  | Sri Latha (Infinity Quest) — recruiter outreach | 2026-05-14T12:00:00.000Z |
+| Xebia | target | cv_to_send | 68/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.831Z |
+| XM | applied | application_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xm/xm.cv.Yauheni.Sheima.pdf |  | 56 500 EUR/year |  | 2026-05-19T07:00:02.416Z |
+| YourITeams | target | cv_to_send | 0/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.195Z |

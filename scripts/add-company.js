@@ -55,11 +55,11 @@ function saveMarkdown(data) {
     '',
     'This is the canonical human-readable list of interview companies.',
     '',
-    '| Company | Status | Stage | Fit | Recommended CV | Salary Ask | Outreach | Last update |',
-    '|---|---|---|---|---|---|---|---|'
+    '| Company | Status | Stage | Fit | Recommended CV | Cover Letter | Salary Ask | Outreach | Last update |',
+    '|---|---|---|---|---|---|---|---|---|'
   ];
   for (const c of data.companies) {
-    lines.push(`| ${c.name} | ${c.status || ''} | ${c.stage || ''} | ${c.fit || ''} | ${c.recommendedCv || ''} | ${c.salaryAsk || ''} | ${c.outreach || ''} | ${c.updatedAt || ''} |`);
+    lines.push(`| ${c.name} | ${c.status || ''} | ${c.stage || ''} | ${c.fit || ''} | ${c.recommendedCv || ''} | ${c.coverLetter || ''} | ${c.salaryAsk || ''} | ${c.outreach || ''} | ${c.updatedAt || ''} |`);
   }
   fs.writeFileSync(markdownPath, lines.join('\n') + '\n');
 }
@@ -67,7 +67,7 @@ function saveMarkdown(data) {
 function main() {
   const args = parseArgs(process.argv);
   if (!args.name) {
-    console.error('Usage: interviews-add --name "Company" [--role ...] [--stack ...] [--status ...] [--stage ...] [--process ...] [--requirements ...] [--notes ...] [--links ...] [--fit ...] [--recommended-cv ...] [--salary-ask ...] [--outreach ...] [--outreach-url ...]');
+    console.error('Usage: interviews-add --name "Company" [--role ...] [--stack ...] [--status ...] [--stage ...] [--process ...] [--requirements ...] [--notes ...] [--links ...] [--fit ...] [--recommended-cv ...] [--cover-letter ...] [--salary-ask ...] [--outreach ...] [--outreach-url ...]');
     process.exit(1);
   }
 
@@ -91,6 +91,7 @@ function main() {
     links: typeof args.links === 'string' ? args.links.split(',').map(s => s.trim()).filter(Boolean) : [],
     fit: args.fit || '',
     recommendedCv: args['recommended-cv'] || '',
+    coverLetter: args['cover-letter'] || '',
     salaryAsk: args['salary-ask'] || '',
     outreach: args.outreach || '',
     outreachUrl: args['outreach-url'] || '',
@@ -118,6 +119,7 @@ function main() {
     `- Stage: ${entry.stage}`,
     `- Fit: ${entry.fit || '—'}`,
     `- Recommended CV: ${entry.recommendedCv || '—'}`,
+    `- Cover Letter: ${entry.coverLetter || '—'}`,
     `- Salary Ask: ${entry.salaryAsk || '—'}`,
     `- Outreach: ${entry.outreach || '—'}`,
     '',

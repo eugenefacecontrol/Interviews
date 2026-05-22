@@ -25,6 +25,7 @@ const rows = data.companies.length
         <td data-column="stack">${escapeHtml(c.stack || '')}</td>
         <td data-column="fit">${escapeHtml(c.fit || '')}</td>
         <td data-column="cv">${escapeHtml(c.recommendedCv || c.cv || '')}</td>
+        <td data-column="coverLetter">${escapeHtml(c.coverLetter || '')}</td>
         <td data-column="salaryAsk">${escapeHtml(c.salaryAsk || '')}</td>
         <td data-column="outreach">${outreachCell}</td>
         <td data-column="notes">${escapeHtml(c.notes || '')}</td>
@@ -34,7 +35,7 @@ const rows = data.companies.length
         <td data-column="updatedAt">${escapeHtml(c.updatedAt || '')}</td>
       </tr>`;
     }).join('\n')
-  : '<tr><td colspan="13">No companies yet.</td></tr>';
+  : '<tr><td colspan="14">No companies yet.</td></tr>';
 
 const html = `<!doctype html>
 <html lang="en">
@@ -95,6 +96,7 @@ const html = `<!doctype html>
         <th data-column="stack">Stack</th>
         <th data-column="fit">Fit</th>
         <th data-column="cv">CV</th>
+        <th data-column="coverLetter">Cover Letter</th>
         <th data-column="salaryAsk">Salary Ask</th>
         <th data-column="outreach">Outreach</th>
         <th data-column="notes">Notes</th>

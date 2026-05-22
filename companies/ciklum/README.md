@@ -6,6 +6,7 @@
 - Stage: cv_to_send_outreach_to_send
 - Fit: 72/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/ciklum/ciklum.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/ciklum/cover-letter.md
 - Salary Ask: —
 - Outreach: Referral: @maciekmaciak; HR leads found for outreach
 
