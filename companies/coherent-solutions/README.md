@@ -1,19 +1,23 @@
 # Coherent Solutions
 
-- Status: applying
-- Stage: message_prep
-- Fit: 7/10
+- Role: QA Automation Engineer
+- Stack: Python, SQL, API testing, Azure, Databricks, containers, CI/CD
+- Status: contacted
+- Stage: position_paused
+- Fit: 8/10
 - Recommended CV: CV 2
-- Outreach: Preparing application
+- Cover Letter: —
+- Salary Ask: —
+- Outreach: Katerina Varaksa — LinkedIn process pause update received
 
 ## Process
-Preparing application for QA Automation Engineer in travel and transportation sphere
+Recruiter Katerina Varaksa reached out about QA Automation Engineer role (backend-heavy, data-oriented systems). Details: Python, SQL, APIs, Azure, Databricks, CI/CD, containers. Format: B2B/Umowa o Dzieło, fully remote, long-term. Responded with format and salary expectations (17k PLN target). 2026-05-22: Katerina said the position was put on pause and she was asked to stop the recruitment process for now; she would like to stay in touch in case it reopens.
 
 ## Requirements
-QA Automation Engineer; travel/transportation; microservices; API/E2E/contract/performance testing; Python; SQL; Postman; Datadog; Robot Framework; Playwright; REST; Pub/Sub; Kafka; Kubernetes; GCP; CI/CD; Agile
+Python, SQL/databases, API testing, Azure, containers, Databricks (including Genie), data engineering stack, CI/CD pipelines, scheduled regression testing
 
 ## Notes
-Preparing to apply. Strong fit on API, Playwright, CI/CD, microservices mindset; weaker on Python depth, Robot Framework, and GCP-specific experience.
+Large international financial services and insurance company. QA Automation on backend-heavy and data-oriented systems. Team handles support + new feature development in enterprise environment. Highly data-driven with cloud/data engineering integrations. Nice to have: Synapse, ADF. Fit: 8/10 — strong on Python, SQL, API, Azure, CI/CD; gap on Databricks depth. Recruitment pause is company-side, not a candidate rejection.
 
 ## Links
-- https://www.coherentsolutions.com/careers/qa-automation-engineer-travel-and-transportation-sphere
+- https://www.linkedin.com/jobs/view/4402421763

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T11:11:45.508Z",
+  "generatedAt": "2026-05-22T16:40:19.859Z",
   "companies": [
     {
       "slug": "acronis",
@@ -389,18 +389,22 @@
       "slug": "coherent-solutions",
       "name": "Coherent Solutions",
       "status": "contacted",
-      "stage": "recruiter_outreach",
-      "process": "Recruiter Katerina Varaksa reached out about QA Automation Engineer role (backend-heavy, data-oriented systems). Details: Python, SQL, APIs, Azure, Databricks, CI/CD, containers. Format: B2B/Umowa o Dzieło, fully remote, long-term. Responded with format and salary expectations (17k PLN target).",
+      "stage": "position_paused",
+      "process": "Recruiter Katerina Varaksa reached out about QA Automation Engineer role (backend-heavy, data-oriented systems). Details: Python, SQL, APIs, Azure, Databricks, CI/CD, containers. Format: B2B/Umowa o Dzieło, fully remote, long-term. Responded with format and salary expectations (17k PLN target). 2026-05-22: Katerina said the position was put on pause and she was asked to stop the recruitment process for now; she would like to stay in touch in case it reopens.",
       "requirements": "Python, SQL/databases, API testing, Azure, containers, Databricks (including Genie), data engineering stack, CI/CD pipelines, scheduled regression testing",
-      "notes": "Large international financial services and insurance company. QA Automation on backend-heavy and data-oriented systems. Team handles support + new feature development in enterprise environment. Highly data-driven with cloud/data engineering integrations. Nice to have: Synapse, ADF. Fit: 8/10 — strong on Python, SQL, API, Azure, CI/CD; gap on Databricks depth.",
+      "notes": "Large international financial services and insurance company. QA Automation on backend-heavy and data-oriented systems. Team handles support + new feature development in enterprise environment. Highly data-driven with cloud/data engineering integrations. Nice to have: Synapse, ADF. Fit: 8/10 — strong on Python, SQL, API, Azure, CI/CD; gap on Databricks depth. Recruitment pause is company-side, not a candidate rejection.",
       "links": [
         "https://www.linkedin.com/jobs/view/4402421763"
       ],
       "fit": "8/10",
       "recommendedCv": "CV 2",
-      "outreach": "Katerina Varaksa — LinkedIn message received",
+      "outreach": "Katerina Varaksa — LinkedIn process pause update received",
       "outreachUrl": "https://www.linkedin.com/in/katerinavaraksa/",
-      "updatedAt": "2026-05-13T11:35:00.000Z"
+      "updatedAt": "2026-05-22T16:40:19.849Z",
+      "role": "QA Automation Engineer",
+      "stack": "Python, SQL, API testing, Azure, Databricks, containers, CI/CD",
+      "coverLetter": "",
+      "salaryAsk": ""
     },
     {
       "slug": "dataart",

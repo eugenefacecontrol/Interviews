@@ -25,7 +25,7 @@ This is the canonical human-readable list of interview companies.
 | Ciklum | target | cv_to_send_outreach_to_send | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/ciklum/ciklum.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/ciklum/cover-letter.md |  | Referral: @maciekmaciak; HR leads found for outreach | 2026-05-22T11:11:45.498Z |
 | ClearCourse Dev | target | cv_to_send | 46/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.074Z |
 | Cleverbit | contacted | recruiter_outreach | 8/10 | CV 2 |  |  | Karen Satariano Banavage — LinkedIn recruiter outreach | 2026-05-15T15:00:00.000Z |
-| Coherent Solutions | contacted | recruiter_outreach | 8/10 | CV 2 |  |  | Katerina Varaksa — LinkedIn message received | 2026-05-13T11:35:00.000Z |
+| Coherent Solutions | contacted | position_paused | 8/10 | CV 2 |  |  | Katerina Varaksa — LinkedIn process pause update received | 2026-05-22T16:40:19.849Z |
 | DataArt | contacted | recruiter_outreach | 92/100 | CV 2 |  |  | Kseniya Bazhenova | 2026-05-05T16:54:26.360Z |
 | DCG | applied | application_sent_outreach_to_send | 76/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/dcg/dcg.cv.Yauheni.Sheima.pdf |  |  | Karolina Broja-Kloboda — LinkedIn message drafted | 2026-05-17T15:10:24.168Z |
 | DCV Technologies | applied | application_sent | 100/100 | CV 2 |  |  | Applied via JustJoinIt | 2026-04-16T15:21:42.904Z |
