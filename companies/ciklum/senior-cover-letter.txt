@@ -1,0 +1,15 @@
+Dear Ciklum Hiring Team,
+
+I am applying for the Senior Automation QA Engineer role in Poland. The position is a strong match for my background because it combines hands-on test automation, regression quality, close collaboration with product and engineering teams, and senior ownership of reliable delivery.
+
+I bring 7+ years of QA automation experience across UI and API testing, automation framework improvement, CI/CD-integrated quality, defect investigation, and release support. My background includes Selenium-based automation foundations in Java and C#/.NET, current work with modern web automation such as Playwright and TypeScript/JavaScript, and practical experience improving automated coverage and feedback quality for engineering teams.
+
+In recent roles, I have worked on making automation more useful in practice: extending API test coverage without increasing runtime, reducing noisy automation output so failures are easier to investigate, and supporting pipeline-driven regression workflows. I am comfortable working with developers, product stakeholders, and QA colleagues to turn requirements into test coverage, surface risks early, and keep defect feedback actionable.
+
+For Ciklum's ticketing and booking domain, I would bring a pragmatic senior QA approach: maintainable automated checks, clear regression signals, framework discipline, and careful collaboration around features that affect real customer flows. I can also support less experienced QA engineers through review, guidance, and sharing automation practices that keep tests readable and dependable.
+
+I would welcome the chance to discuss how my automation background can help Ciklum deliver reliable quality for this project.
+
+Kind regards,
+
+Yauheni Sheima
