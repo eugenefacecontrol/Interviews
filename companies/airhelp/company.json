@@ -3,18 +3,19 @@
   "name": "AirHelp",
   "role": "Software Engineer in Test",
   "stack": "Playwright, Selenium, Cypress, REST API testing, Postman/Bruno, CI/CD, GitHub Actions, TypeScript/JavaScript, Python/Node.js, Docker, Kubernetes, AWS, PostgreSQL",
-  "status": "interview",
-  "stage": "hr_video_meeting_to_schedule",
-  "process": "Application moved to recruiter screen: AirHelp invited Yauheni to a 30-minute video meeting for the Software Engineer in Test role. Candidate should self-schedule via provided link. Recruiter notes they use an optional AI note-taking assistant; candidate may opt out. Preparation requested: key achievements with relevant data, individual contributions using I-statements, and STAR-format examples.",
+  "status": "rejected",
+  "stage": "rejected_after_application_review",
+  "process": "Application moved to recruiter screen earlier for the Software Engineer in Test role. On 2026-05-25 AirHelp sent a rejection email: they reviewed the application and decided to move forward with someone who more closely fits current needs. They invited Yauheni to follow AirHelp on LinkedIn and join the talent pool for future roles.",
   "requirements": "3-5 years experience; strong coding in Ruby/Rails, Golang, Python, or Node.js; test automation frameworks such as Cypress, Playwright, Selenium; REST API testing with Postman/Bruno; CI/CD with GitHub Actions; Git; English.",
-  "notes": "Prepare STAR examples focused on individual measurable impact: Definely API framework coverage 117 to 199 tests without runtime increase; log volume reduction 1.5 GB to 11 MB per run; UI precondition optimization reduced setup for 3 documents with metadata from ~5 minutes via UI to ~1 minute via API while keeping one UI test for metadata validation; Leapwork process/workflow automation via PowerShell/JS/Tampermonkey; CI/CD/environment automation and delivery-quality improvements. Product/business impact wording still needs confirmation before interview.",
+  "notes": "Rejected by AirHelp Recruitment on 2026-05-25. Rejection reason given: another candidate more closely fits current needs. Previous prep notes: STAR examples around Definely API framework coverage 117 to 199 tests without runtime increase; log volume reduction 1.5 GB to 11 MB per run; API-based UI precondition optimization; Leapwork workflow automation via PowerShell/JS/Tampermonkey; CI/CD/environment automation and delivery-quality improvements.",
   "links": [
     "https://www.linkedin.com/jobs/view/4402966518"
   ],
   "fit": "8.5/10",
   "recommendedCv": "CV 2",
+  "coverLetter": "",
   "salaryAsk": "",
   "outreach": "Michał Sabat — LinkedIn message sent",
   "outreachUrl": "https://www.linkedin.com/in/michał-sabat-727649129/",
-  "updatedAt": "2026-05-18T19:04:56.707Z"
+  "updatedAt": "2026-05-25T09:15:26.073Z"
 }

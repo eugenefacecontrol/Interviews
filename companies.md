@@ -6,7 +6,7 @@ This is the canonical human-readable list of interview companies.
 |---|---|---|---|---|---|---|---|---|
 | Acronis | target | cv_to_send | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf |  |  | CV context prepared | 2026-05-17T14:56:43.043Z |
 | Ailleron | applied | cv_sent | 7/10 | CV 2 |  |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
-| AirHelp | interview | hr_video_meeting_to_schedule | 8.5/10 | CV 2 |  |  | Michał Sabat — LinkedIn message sent | 2026-05-18T19:04:56.707Z |
+| AirHelp | rejected | rejected_after_application_review | 8.5/10 | CV 2 |  |  | Michał Sabat — LinkedIn message sent | 2026-05-25T09:15:26.073Z |
 | Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
 | Alior Bank | target | cv_to_send | 5/10 |  |  |  |  | 2026-04-02T22:38:53.974750+00:00 |
 | ALTEN Polska | target | cv_to_send | 73/100 | alten-polska tailored PDF |  |  | Context provided by Yauheni; CV being tailored | 2026-05-17T13:49:31.811Z |
@@ -89,7 +89,7 @@ This is the canonical human-readable list of interview companies.
 | Unknown Telegram Vacancy via @andrey_kokhan | contacted | outreach_sent | true | CV 2 |  |  | Contacted @andrey_kokhan via Telegram | 2026-04-22T10:39:10.363Z |
 | Unknown Telegram Vacancy via @regina_ihr3 | contacted | cv_sent | true | CV 2 |  |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:57:24.802Z |
 | Upvanta sp. z o.o. | target | cv_to_send | 78/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.587Z |
-| Wipro | applied | interview_in_progress | 6/10 | CV 2 |  |  | Sri Latha (Infinity Quest) — recruiter outreach | 2026-05-14T12:00:00.000Z |
+| Wipro | applied | interview_in_progress | 6/10 | CV 2 |  |  | Sri Latha (Infinity Quest) — recruiter outreach | 2026-05-25T09:20:00.000Z |
 | Xebia | target | cv_to_send | 68/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.831Z |
 | XM | applied | application_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xm/xm.cv.Yauheni.Sheima.pdf |  | 56 500 EUR/year |  | 2026-05-19T07:00:02.416Z |
 | YourITeams | target | cv_to_send | 0/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.195Z |
