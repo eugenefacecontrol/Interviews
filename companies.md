@@ -84,7 +84,7 @@ This is the canonical human-readable list of interview companies.
 | Scalable Solutions | rejected | rejected | 5/10 | CV 2 |  |  | Maryia Klimianok — rejected, Python stack mismatch | 2026-05-08T14:00:00.000Z |
 | SCALO | target | cv_to_send | 100/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:47.915Z |
 | SHERPANY | target | cv_to_send | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sherpany/sherpany.cv.Yauheni.Sheima.pdf |  |  | CV context prepared | 2026-05-18T10:43:03.951Z |
-| Sii Poland | target | cv_ready_hr_to_contact | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sii-poland/sii-poland.cv.Yauheni.Sheima.pdf |  |  | Martyna Słotwińska — IT Recruitment Specialist at Sii Poland | 2026-05-25T17:37:24.644Z |
+| Sii Poland | contacted | cv_ready_outreach_sent | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sii-poland/sii-poland.cv.Yauheni.Sheima.pdf |  |  | Martyna Słotwińska — LinkedIn outreach sent | 2026-05-25T17:44:19.740Z |
 | SOFTSWISS | rejected | rejected_from_gmail_label | 5/10 | CV 2 |  |  | Position closed after referral by Rusovich | 2026-05-25T16:01:09.910Z |
 | Software Mansion S.A. | rejected | rejected_from_gmail_label |  | CV 2 |  |  | Rejected by Dominika Mytych due to Polish language requirement | 2026-05-25T16:01:24.801Z |
 | Specific-Group | target | recruiter_outreach | 8/10 | CV 2 |  | 150 PLN/h | Recruiter outreach from Anastasia Markitan (LinkedIn) | 2026-04-19T14:27:15.545Z |
