@@ -4,8 +4,8 @@
   "status": "applied",
   "stage": "interview_in_progress",
   "process": "Recruiter Sri Latha (Infinity Quest) reached out for SDET-Cracow role. 6-month contract, 800 PLN/day, hybrid 3 days onsite in Kraków. CV confirmed and submitted to client. Immediate availability, EU Blue Card valid till 2027.",
-  "requirements": "SDET role in Kraków. Stack TBD (client-side Wipro requirements: Ansible, Python, Go, Kubernetes/OpenShift, CI/CD, Windows automation). 5-8 years experience.",
-  "notes": "Applied via Infinity Quest (recruiter Sri Latha). Role: SDET-Cracow, 6-month contract, 800 PLN/day. Hybrid: 3 days onsite in Kraków, 2 days remote. Immediate start. EU Blue Card valid till 2027. Has billing/umbrella company for payrolling. No prior Wipro experience. No other interviews/pipelines/offers in hand. LinkedIn job link references Automation Engineer role (Ansible/Python/Go/K8s) — may be related or different opening. Fit: 6/10 — gaps in Ansible, Go, K8s depth; strong on QA automation, Python, CI/CD, API testing.",
+  "requirements": "SDET contract role in Kraków, hybrid 3 days/week from office. Current JD asks for 6+ years automation-focused SDET experience with Rest Assured + Java, Selenium + Java, BDD Cucumber, CI/CD pipeline implementation, SQL/DB testing, Git, Maven/Ant, Jira/Rally, and test automation frameworks. Specific emphasis: API automation with Rest Assured Java 18+ months, Selenium Java UI automation 4+ years, BDD Cucumber 2+ years, DB testing 2+ years, Java comfort 7/10.",
+  "notes": "Applied via Infinity Quest (recruiter Sri Latha). Role: SDET-Cracow, 6-month contract, 800 PLN/day. Hybrid: 3 days onsite in Kraków, 2 days remote. Immediate start. EU Blue Card valid till 2027. Has billing/umbrella company for payrolling. No prior Wipro experience. Client feedback: wants CV to mention more Java and Selenium experience. Tailored CV prepared: cv-master-profile/tailored-cv/wipro.md; PDF expected under cv-master-profile/pdf/wipro/wipro.cv.Yauheni.Sheima.pdf. Fit: 6/10 — strong QA automation, API testing, CI/CD, SQL/database testing, Git/Jira, and earlier Java/Selenium foundation; gaps vs JD are long recent Selenium Java, Rest Assured ownership, and long-term Cucumber framework ownership.",
   "links": [
     "https://www.linkedin.com/jobs/view/4405529286"
   ],
@@ -13,8 +13,8 @@
   "recommendedCv": "CV 2",
   "outreach": "Sri Latha (Infinity Quest) — recruiter outreach",
   "outreachUrl": "https://www.linkedin.com/in/sri-latha-g-115576281/",
-  "updatedAt": "2026-05-14T12:00:00.000Z",
+  "updatedAt": "2026-05-25T09:20:00.000Z",
   "role": "SDET-Cracow",
   "salary": "800 PLN/day",
-  "stack": "SDET, Python, CI/CD, automation"
+  "stack": "SDET, Java, Selenium, REST API testing, CI/CD, SQL, BDD/Cucumber"
 }
