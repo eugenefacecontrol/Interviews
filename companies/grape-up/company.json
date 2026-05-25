@@ -1,21 +1,21 @@
 {
   "slug": "grape-up",
   "name": "Grape Up",
+  "role": "Senior QA Engineer",
+  "stack": "Playwright, TS, AWS",
   "status": "rejected",
-  "stage": "application_review",
-  "process": "Rejected after application / talent pool consideration",
+  "stage": "rejected_from_gmail_label",
+  "process": "Rejected after application / talent pool consideration Gmail label Job Search/Rejections: rejection recorded for Senior QA Engineer on 2026-04-13 (candidates matched current requirements more closely).",
   "requirements": "Senior QA Engineer; 5+ years QA; Playwright 3+ years; TypeScript; Page Object Pattern; Git; API testing; performance testing; Artillery.io or Grafana k6; GitHub Actions; JIRA/Xray; BDD; large-scale corporate projects; English B2+",
-  "notes": "Rejected after application review; moved forward with candidates who match current requirements more closely.",
+  "notes": "Rejected after application review; moved forward with candidates who match current requirements more closely. Historical rejection source: Gmail label Job Search/Rejections. Role/vacancy: Senior QA Engineer. Date: 2026-04-13. Reason: candidates matched current requirements more closely.",
   "links": [
     "https://careers.grapeup.com/career/senior-qa-engineer-3/"
   ],
-  "updatedAt": "2026-04-13T14:00:13.289707+00:00",
-  "role": "Senior QA Engineer",
-  "salary": "15-22k PLN net",
-  "stack": "Playwright, TS, AWS",
   "fit": "9/10",
-  "cv": "qa-devops-cv.pdf",
   "recommendedCv": "CV 2",
+  "coverLetter": "",
+  "salaryAsk": "",
   "outreach": "Rejected after applying to talent pool opening",
-  "rejectionReason": "Rejected after application review; moved forward with candidates who match current requirements more closely."
+  "outreachUrl": "",
+  "updatedAt": "2026-05-25T16:01:09.677Z"
 }

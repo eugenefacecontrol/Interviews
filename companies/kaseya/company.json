@@ -1,16 +1,21 @@
 {
   "slug": "kaseya",
   "name": "Kaseya",
+  "role": "QA Automation Engineer (Python); DevOps Engineer",
+  "stack": "",
   "status": "rejected",
-  "stage": "rejected",
-  "process": "Rejected after application / scheduling stage",
+  "stage": "rejected_from_gmail_label",
+  "process": "Rejected after application / scheduling stage Gmail label Job Search/Rejections: rejection recorded for QA Automation Engineer (Python); DevOps Engineer on 2026-04-14 / 2025-05-29 (decided not to proceed with candidacy).",
   "requirements": "QA Automation Engineer (Python); Python 3+ years must-have; PyTest 2+ years; Cucumber/Gherkin; CI/CD integration; Linux; Bash scripting; automation frameworks; hybrid 3 days/week in Kraków",
-  "notes": "Rejected by Kaseya for QA Automation Engineer (Python). Standard rejection note: not proceeding with candidacy for this particular application.",
+  "notes": "Rejected by Kaseya for QA Automation Engineer (Python). Standard rejection note: not proceeding with candidacy for this particular application. Historical rejection source: Gmail label Job Search/Rejections. Role/vacancy: QA Automation Engineer (Python); DevOps Engineer. Date: 2026-04-14 / 2025-05-29. Reason: decided not to proceed with candidacy.",
   "links": [
     "https://www.linkedin.com/jobs/view/4376417311"
   ],
   "fit": "3/10",
   "recommendedCv": "CV 2",
+  "coverLetter": "",
+  "salaryAsk": "",
   "outreach": "Rejected by Kaseya after prior recruiter response / scheduling stage",
-  "updatedAt": "2026-04-14T08:59:07.401Z"
+  "outreachUrl": "",
+  "updatedAt": "2026-05-25T16:01:09.480Z"
 }

@@ -1,16 +1,21 @@
 {
   "slug": "capco",
   "name": "Capco",
+  "role": "current opening",
+  "stack": "",
   "status": "rejected",
-  "stage": "rejected",
-  "process": "Rejected after application review",
+  "stage": "rejected_from_gmail_label",
+  "process": "Rejected after application review Gmail label Job Search/Rejections: rejection recorded for current opening on 2026-04-14 (moved ahead with another candidate considered a better match).",
   "requirements": "QA Engineer; Playwright; Python; active opening",
-  "notes": "Rejected after application review. Capco said they received many qualified applicants and moved forward with another candidate who was a better match for this particular position.",
+  "notes": "Rejected after application review. Capco said they received many qualified applicants and moved forward with another candidate who was a better match for this particular position. Historical rejection source: Gmail label Job Search/Rejections. Role/vacancy: current opening. Date: 2026-04-14. Reason: moved ahead with another candidate considered a better match.",
   "links": [
     "https://job-boards.greenhouse.io/capco/jobs/7783707"
   ],
   "fit": "4.65/5",
   "recommendedCv": "CV 2",
+  "coverLetter": "",
+  "salaryAsk": "",
   "outreach": "Rejected after application review",
-  "updatedAt": "2026-04-14T07:16:40.944Z"
+  "outreachUrl": "",
+  "updatedAt": "2026-05-25T16:01:09.577Z"
 }

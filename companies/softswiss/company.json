@@ -1,17 +1,22 @@
 {
   "slug": "softswiss",
   "name": "SOFTSWISS",
-  "status": "closed",
-  "stage": "position_closed",
-  "process": "Position closed by company",
+  "role": "QA Automation Engineer - Senior",
+  "stack": "",
+  "status": "rejected",
+  "stage": "rejected_from_gmail_label",
+  "process": "Position closed by company Gmail label Job Search/Rejections: rejection recorded for QA Automation Engineer - Senior on 2026-04-08 (team moved forward with candidates whose qualifications were better suited).",
   "requirements": "Senior QA Automation / AQA Engineer; Java-heavy automation roles with framework ownership, UI/API automation, CI/CD, SQL, Docker, Selenium/Selenide or adjacent stack",
-  "notes": "Position closed by company after referral/submission via Rusovich. Relevant links were QA Automation Engineer Senior and AQA Engineer Senior Boost Team.",
+  "notes": "Position closed by company after referral/submission via Rusovich. Relevant links were QA Automation Engineer Senior and AQA Engineer Senior Boost Team. Historical rejection source: Gmail label Job Search/Rejections. Role/vacancy: QA Automation Engineer - Senior. Date: 2026-04-08. Reason: team moved forward with candidates whose qualifications were better suited.",
   "links": [
     "https://careers.softswiss.com/vacancies/qa-automation-engineer-senior/",
     "https://careers.softswiss.com/vacancies/aqa-engineer-senior-boost-team/"
   ],
   "fit": "5/10",
   "recommendedCv": "CV 2",
+  "coverLetter": "",
+  "salaryAsk": "",
   "outreach": "Position closed after referral by Rusovich",
-  "updatedAt": "2026-04-15T17:56:20.371Z"
+  "outreachUrl": "",
+  "updatedAt": "2026-05-25T16:01:09.910Z"
 }

@@ -1,15 +1,21 @@
 {
   "slug": "svitla-systems",
   "name": "Svitla Systems",
+  "role": "Senior AQA Engineer",
+  "stack": "",
   "status": "rejected",
-  "stage": "screening",
-  "process": "Rejected before process start",
+  "stage": "rejected_from_gmail_label",
+  "process": "Rejected before process start Gmail label Job Search/Rejections: rejection recorded for Senior AQA Engineer on 2026-03-31 (cannot work through incubator / third-party arrangement).",
   "requirements": "Senior Automation QA Engineer; Automated Testing, AWS, Gatling; location: Kraków; salary undisclosed; apply: 1-click Apply; deadline hint: 5d left",
-  "notes": "Отказ: не работают через инкубатор. Source: https://justjoin.it/job-offer/svitla-systems-senior-automation-qa-engineer-krakow-testing",
+  "notes": "Отказ: не работают через инкубатор. Source: https://justjoin.it/job-offer/svitla-systems-senior-automation-qa-engineer-krakow-testing Historical rejection source: Gmail label Job Search/Rejections. Role/vacancy: Senior AQA Engineer. Date: 2026-03-31. Reason: cannot work through incubator / third-party arrangement.",
   "links": [
     "https://justjoin.it/job-offer/svitla-systems-senior-automation-qa-engineer-krakow-testing"
   ],
   "fit": "medium",
   "recommendedCv": "CV 2",
-  "updatedAt": "2026-04-02T13:53:34.725Z"
+  "coverLetter": "",
+  "salaryAsk": "",
+  "outreach": "",
+  "outreachUrl": "",
+  "updatedAt": "2026-05-25T16:01:10.114Z"
 }
