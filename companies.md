@@ -52,7 +52,7 @@ This is the canonical human-readable list of interview companies.
 | IBM | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.261Z |
 | Infogain | target | cv_to_send | 88/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.335Z |
 | InPost | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.161Z |
-| Intellias | target | cv_to_send_outreach_sent | 84/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf |  |  | Daria Donets — LinkedIn message sent in Russian | 2026-05-17T14:52:59.588Z |
+| Intellias | applied | application_sent_outreach_sent | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf |  |  | Daria Donets — LinkedIn message sent in Russian | 2026-05-27T11:32:36.173Z |
 | Inuits | target | cv_to_send | 7/10 |  |  |  |  | 2026-04-02T22:38:53.974771+00:00 |
 | IQVIA | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.662Z |
 | ITDS | applied | interview_in_progress | 100/100 | CV 2 |  |  | Patrycja Bochnia — waiting for client feedback | 2026-05-08T09:00:00.000Z |

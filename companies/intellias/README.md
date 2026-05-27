@@ -1,22 +1,23 @@
 # Intellias
 
-- Role: Senior Automation QA Engineer with leadership experience
-- Stack: Playwright, TypeScript, JavaScript, API testing, E2E tests, test automation frameworks, CI/CD, Scrum, AI tools, SQL/NoSQL, cloud, Docker, Kubernetes, monitoring/reporting, leadership
-- Status: target
-- Stage: cv_to_send_outreach_sent
-- Fit: 84/100
+- Role: Automated QA Engineer (Python) - Digital/e-commerce ecosystem
+- Stack: Python, pytest, requests, pandas, API testing, DB testing, REST services, GitLab pipelines, Azure, Allure, JavaScript, Adobe Campaign nice-to-have
+- Status: applied
+- Stage: application_sent_outreach_sent
+- Fit: 72/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf
+- Cover Letter: —
 - Salary Ask: —
 - Outreach: Daria Donets — LinkedIn message sent in Russian
 
 ## Process
-Preparing CV for Senior Automation QA Engineer with leadership experience role. LinkedIn outreach sent to Daria Donets.
+Applied through the Intellias application form on 2026-05-27 for the Python-focused Automated QA role in a retail/digital/e-commerce ecosystem. Prior LinkedIn outreach to Daria Donets is already recorded.
 
 ## Requirements
-Senior Automation QA Engineer with leadership experience; Poland remote; full-time pure B2B; 7+ years hands-on QA Automation; strong leadership experience; strong Playwright; proven use of AI tools in daily automation tasks; build and maintain E2E tests; API testing and test data management; JavaScript/TypeScript; test runners Mocha/Jest or similar; UI test automation frameworks; CI/CD pipelines; Scrum; plus SQL/NoSQL, AWS/Azure/GCP, Docker/Kubernetes, test monitoring/reporting tools, Java/Python; responsibilities include testing strategy, framework and infrastructure from scratch, automated scripts, test reports, debugging, Shift Left, continuous improvement, platform tooling, mentoring and training team members.
+2+ years AQA; strong Python with pytest, requests, pandas; API and DB testing; REST services; GitLab pipelines; Azure cloud services; Allure reporting; analytical/problem-solving skills; English B2. Nice to have: Adobe Campaign and JavaScript. Role focuses on automated QA with Python, test automation framework/infrastructure, automated scripts, test result analysis, debugging, reporting, continuous improvement, tooling/process improvements, and gradual path toward broader development responsibilities and MQA.
 
 ## Notes
-LinkedIn outreach sent to Daria Donets. Strong fit on 7+ QA automation, Playwright, TypeScript/JavaScript, API testing, E2E, CI/CD, Scrum, framework improvement, AI-assisted workflow, test reporting, debugging, process improvement, and mentoring/onboarding. Leadership should be positioned as technical ownership/mentoring rather than formal people management. Cloud/Docker/Kubernetes are practical support/maintenance experience. Mocha/Jest not primary known stack but adjacent to Playwright/TypeScript ecosystem. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf
+Applied via form after preparing an About Myself answer focused on 7+ years in QA automation, UI/API automation, framework improvement, CI/CD testing, debugging, reporting, REST API testing, SQL/test data work, Azure/DevOps-related workflows, and honest Python positioning. Fit is solid for QA automation, API/DB testing, CI/CD, reporting, Azure-adjacent work, analytical troubleshooting, and e-commerce/product-quality context. Main risk: Python/pytest/requests/pandas are positioned as practical automation/scripting and ramp-up areas rather than the strongest recent production stack; strongest recent stack remains Playwright/TypeScript and Selenium/C#/.NET. PDF on record: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf
 
 ## Links
 - https://www.linkedin.com/jobs/view/4410041132
