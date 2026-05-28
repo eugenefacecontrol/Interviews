@@ -105,7 +105,7 @@ This is the canonical human-readable list of interview companies.
 | Upvanta sp. z o.o. | target | cv_to_send | 78/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.587Z |
 | Vention | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.863Z |
 | Verisk | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.216Z |
-| Wipro | applied | interview_in_progress | 6/10 | CV 2 |  |  | Sri Latha (Infinity Quest) — recruiter outreach | 2026-05-25T09:20:00.000Z |
+| Wipro | rejected | rejected_after_application_review | 6/10 | CV 2 |  | 800 PLN/day | Sri Latha (Infinity Quest) - recruiter outreach | 2026-05-28T15:03:59.878Z |
 | Xebia | target | cv_to_send | 68/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.831Z |
 | XM | applied | application_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xm/xm.cv.Yauheni.Sheima.pdf |  | 56 500 EUR/year |  | 2026-05-19T07:00:02.416Z |
 | YourITeams | target | cv_to_send | 0/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.195Z |
