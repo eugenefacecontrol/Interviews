@@ -6,6 +6,7 @@
 - Stage: cv_to_send_outreach_to_send
 - Fit: 86/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/omada/cover-letter.txt
 - Salary Ask: 20 500-22 500 PLN gross/month listed
 - Outreach: Małgorzata — LinkedIn message drafted
 

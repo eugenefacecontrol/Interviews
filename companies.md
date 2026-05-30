@@ -9,7 +9,7 @@ This is the canonical human-readable list of interview companies.
 | AirHelp | rejected | rejected_from_gmail_label | 8.5/10 | CV 2 |  |  | Michał Sabat — LinkedIn message sent | 2026-05-25T16:01:09.773Z |
 | Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
 | Alior Bank | target | cv_to_send | 5/10 |  |  |  |  | 2026-04-02T22:38:53.974750+00:00 |
-| ALTEN Polska | target | cv_to_send | 73/100 | alten-polska tailored PDF |  |  | Context provided by Yauheni; CV being tailored | 2026-05-17T13:49:31.811Z |
+| ALTEN Polska | target | cv_ready_outreach_to_send | 82/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alten-polska/alten-polska.cv.Yauheni.Sheima.pdf |  | not listed | Fresh LinkedIn scan HR leads: Daniel Kukuryk; Julia Kaźmierczyk; Magdalena Jarek; Katarzyna Kierzkowska; Julia Awerianowa; Jakub Foster; Katarzyna Staszel | 2026-05-29T21:37:24.433Z |
 | Andersen | target | recruiter_outreach | 7/10 | CV 2 |  |  | Recruiter outreach from Yana Budulatii (LinkedIn) | 2026-04-17T11:44:37.677Z |
 | Antal | applied | application_sent | 6/10 | CV 2 |  |  | Applied via JustJoinIt | 2026-04-08T10:35:05.105Z |
 | Antal Sp. z o.o. | target | cv_to_send | 83/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.399Z |
@@ -43,7 +43,7 @@ This is the canonical human-readable list of interview companies.
 | Euroclear | target | cv_to_send | 4/10 |  |  |  |  | 2026-04-02T22:38:53.974755+00:00 |
 | Experis Manpower Group | target | cv_to_send | 88/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.272Z |
 | Fundraise Up | rejected | rejected_from_gmail_label | 7/10 | CV 2 |  |  | Olga Radzievskaia — applied via website + LinkedIn | 2026-05-25T16:01:09.279Z |
-| GlobalLogic | target | cv_to_send_outreach_to_send | 62/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf |  |  | Tetiana Rediuk — LinkedIn message drafted | 2026-05-17T14:25:25.831Z |
+| GlobalLogic | target | cv_to_send_outreach_to_send | 62/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf |  |  | Tetiana Rediuk — LinkedIn message drafted | 2026-05-30T17:56:35.634Z |
 | GR8 Tech | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.552Z |
 | Grape Up | rejected | rejected_from_gmail_label | 9/10 | CV 2 |  |  | Rejected after applying to talent pool opening | 2026-05-25T16:01:09.677Z |
 | Green Hive Technology | target | cv_to_send | 51/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.954Z |
@@ -70,7 +70,7 @@ This is the canonical human-readable list of interview companies.
 | Motorola Solutions | rejected | rejected_from_gmail_label | 8/10 | CV 2 |  |  |  | 2026-05-25T16:01:10.014Z |
 | N-iX | applied | application_sent | 76/100 | CV 2 |  |  | Applied via Olga Dmytryshyn | 2026-04-24T17:32:02.889Z |
 | Nord Security | applied | application submitted | high | cv-master-profile/tailored-cv/nord-security-automation-qa-engineer.cv.Yauheni.Sheima.pdf |  |  | Jurga Schulze; Anastasiia Mheladze | 2026-05-14T13:30:00.000Z |
-| Omada | target | cv_to_send_outreach_to_send | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf |  | 20 500-22 500 PLN gross/month listed | Małgorzata — LinkedIn message drafted | 2026-05-18T11:38:47.146Z |
+| Omada | target | cv_to_send_outreach_to_send | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/omada/cover-letter.txt | 20 500-22 500 PLN gross/month listed | Małgorzata — LinkedIn message drafted | 2026-05-29T15:17:44.738Z |
 | Onwelo Sp. z o.o. | applied | application_sent | 81/100 | CV 2 |  |  | Applied via Monika Kulisz | 2026-04-24T11:12:58.763Z |
 | Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 |  |  | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
 | People More | target | cv_to_send | 3/10 |  |  |  |  | 2026-04-02T22:38:53.974758+00:00 |

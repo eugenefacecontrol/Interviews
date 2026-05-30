@@ -1,0 +1,15 @@
+Dear Omada Hiring Team,
+
+I am applying for the Senior Test Automation Engineer role. The position is a strong match for my background because it combines senior QA automation ownership, C#/.NET automation foundations, Selenium and Playwright-based UI automation, API and integration testing, SQL-backed validation, and CI/CD collaboration in Azure DevOps.
+
+I bring 7+ years of QA automation experience across product teams, including test planning, regression coverage, framework improvement, defect investigation, and release-quality support. My early enterprise experience gave me a solid C#/.NET and Selenium foundation, while later roles expanded my work into API automation, Azure DevOps pipelines, scripting, test-output optimization, and modern automation practices with Playwright and TypeScript.
+
+In recent work, I have focused on making automation more useful for engineering teams, not just increasing test count. At Definely, I improved and extended an API automation framework, increased automated API coverage from around 117 to 199 tests without increasing runtime, and reduced test log volume from around 1.5 GB to 11 MB per run, making failures much easier to analyze and act on.
+
+Omada's identity and access management domain is interesting to me because product quality depends on reliable regression feedback, careful validation of user flows and data, and clear collaboration between QA, developers, and product stakeholders. I would bring a pragmatic senior QA approach: maintainable automated checks, clear quality signals in CI/CD, disciplined framework design, and honest risk communication.
+
+I would welcome the opportunity to discuss how my QA automation, CI/CD, API testing, and framework improvement experience can support Omada's engineering team.
+
+Kind regards,
+
+Yauheni Sheima
