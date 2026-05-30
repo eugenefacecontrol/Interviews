@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T19:41:22.053Z",
+  "generatedAt": "2026-05-30T19:55:50.487Z",
   "companies": [
     {
       "slug": "acronis",
@@ -555,6 +555,27 @@
       "updatedAt": "2026-05-30T19:41:22.040Z"
     },
     {
+      "slug": "duetto",
+      "name": "Duetto Research",
+      "role": "Quality Engineer",
+      "stack": "Playwright, TypeScript, CI quality gates, Pact, Testcontainers, DataDog, Selenium/Cypress migration, Claude Code, API contracts",
+      "status": "target",
+      "stage": "cv_ready",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
+      "requirements": "Strong Playwright E2E automation; page objects; CI sharding/quality gates; Selenium/Cypress migration; Pact contract testing; Testcontainers; dashboards and flaky test tracking; AI-assisted test migration/review.",
+      "notes": "Quality engineering function from scratch. Strong stretch: Playwright migration, CI quality gates and AI-assisted testing fit well; Pact/Testcontainers/DataDog are ramp-up areas. Location listed as Croatia/remote-friendly; verify Poland eligibility. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://job-boards.greenhouse.io/duettoresearch/jobs/7920633"
+      ],
+      "fit": "72/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-05-30T19:55:50.243Z"
+    },
+    {
       "slug": "edge-one-solutions-sp-z-o-o",
       "name": "Edge One Solutions Sp. z o.o",
       "status": "target",
@@ -859,6 +880,27 @@
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
       "updatedAt": "2026-04-16T10:25:48.954Z"
+    },
+    {
+      "slug": "growe",
+      "name": "GROWE",
+      "role": "Senior Automation QA Engineer",
+      "stack": "Playwright, JavaScript, TypeScript, REST API, SQL/NoSQL, CI/CD, Agile/Scrum, AI agents plus",
+      "status": "target",
+      "stage": "cv_ready",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
+      "requirements": "4+ years commercial test automation; JavaScript and TypeScript; Playwright; client-server architecture; REST API; SQL/NoSQL; CI/CD; automation frameworks from scratch; Python and AI agents are plus.",
+      "notes": "Anywhere. Very good stack match: Playwright, JS/TS, REST, DB, CI/CD, framework from scratch. Form asks Ukrainian proficiency; Yauheni can answer honestly if available. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://job-boards.eu.greenhouse.io/growe/jobs/4874623101"
+      ],
+      "fit": "78/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-05-30T19:55:49.464Z"
     },
     {
       "slug": "happy-team",
@@ -1183,6 +1225,27 @@
       "updatedAt": "2026-05-17T13:20:53.846Z"
     },
     {
+      "slug": "mesh-senior-qa",
+      "name": "Mesh",
+      "role": "Senior QA Automation Engineer",
+      "stack": "Playwright, Cypress, JavaScript, TypeScript, Python, CI/CD, API testing, AI-assisted tooling",
+      "status": "target",
+      "stage": "cv_ready",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
+      "requirements": "Senior QA automation with Playwright/Cypress; JavaScript/TypeScript and Python; E2E/API automation; CI/CD; framework ownership; AI-assisted development/testing; collaborative product engineering.",
+      "notes": "Europe remote. Good automation/tooling fit; Web3/crypto payments domain is a stretch but not a blocker if they value test infrastructure ownership. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://job-boards.greenhouse.io/mesh/jobs/5199203008"
+      ],
+      "fit": "73/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-05-30T19:55:50.062Z"
+    },
+    {
       "slug": "miquido",
       "name": "Miquido",
       "status": "applied",
@@ -1214,6 +1277,27 @@
       "fit": "low",
       "recommendedCv": "CV 2",
       "updatedAt": "2026-04-02T13:53:34.666Z"
+    },
+    {
+      "slug": "mlabs",
+      "name": "MLabs",
+      "role": "Senior Automation QA Engineer",
+      "stack": "Playwright, TypeScript, E2E/UI automation, risk-based regression, auth/permissions, Jira/Confluence, CI/CD, API/performance nice-to-have",
+      "status": "target",
+      "stage": "cv_ready",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
+      "requirements": "5+ years QA with automation focus; Playwright and TypeScript or similar; E2E/UI automation; manual/exploratory testing; risk-based testing; Jira/Confluence; Upper-Intermediate English; CI/CD, API and performance testing would be plus.",
+      "notes": "Remote Ukraine/Europe. Strong match for Playwright/TypeScript automation, risk-based testing, critical healthcare scheduling workflows, auth and permissions. ApplicantLocationRequirements metadata mentioned Germany, but page text says Ukraine/Europe; verify location in form. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mlabs/mlabs.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://jobs.workable.com/view/q4WQw2Gw4hNBJ5HWBk2Cnm/remote-senior-automation-qa-engineer-in-germany-at-mlabs"
+      ],
+      "fit": "80/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mlabs/mlabs.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-05-30T19:55:49.301Z"
     },
     {
       "slug": "montrose-software",
@@ -1394,6 +1478,27 @@
       "cv": "qa-devops-cv.pdf"
     },
     {
+      "slug": "plain-concepts",
+      "name": "Plain Concepts",
+      "role": "QA Automation Engineer (Python)",
+      "stack": "Python, Selenium, Pytest, API/Postman, Azure DevOps, Jira, Agile, UI testing, exploratory testing",
+      "status": "target",
+      "stage": "cv_ready",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
+      "requirements": "2+ years testing manual and automated; Python/Selenium/Pytest; API automation with Postman valued; UI web/mobile testing; exploratory, smoke, sanity and regression; Agile; Azure DevOps or Jira; English.",
+      "notes": "Remote optional. Good general QA automation fit, less Playwright-focused. Python/Pytest is a stretch but defensible through practical scripting plus automation background. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/plain-concepts/plain-concepts.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://dynamitejobs.com/company/plainconcepts/remote-job/qa-automation-engineer-python"
+      ],
+      "fit": "70/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/plain-concepts/plain-concepts.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-05-30T19:55:50.476Z"
+    },
+    {
       "slug": "precisely",
       "name": "Precisely",
       "status": "contacted",
@@ -1522,6 +1627,27 @@
       "updatedAt": "2026-05-25T16:01:10.963Z"
     },
     {
+      "slug": "sand-technologies",
+      "name": "Sand Technologies",
+      "role": "Senior Test Automation Engineer",
+      "stack": "Playwright, TypeScript, GraphQL API testing, GitHub Actions, manual test design, enterprise web testing, AI tools",
+      "status": "target",
+      "stage": "cv_ready",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
+      "requirements": "5+ years software quality engineering; TypeScript; Playwright UI automation; GraphQL API testing; manual test design; web technologies, DOM, CSS, DevTools; CI/CD with GitHub Actions; AI-assisted development plus.",
+      "notes": "Fully remote. Strong Playwright/TypeScript and manual-to-automation fit. GraphQL is a ramp-up area, but API automation background is relevant. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sand-technologies/sand-technologies.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://job-boards.eu.greenhouse.io/sandtechholdingslimited/jobs/4855710101"
+      ],
+      "fit": "75/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sand-technologies/sand-technologies.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-05-30T19:55:49.849Z"
+    },
+    {
       "slug": "scalable-solutions",
       "name": "Scalable Solutions",
       "role": "QA Automation Engineer (Python, Backend)",
@@ -1540,6 +1666,27 @@
       "outreach": "Maryia Klimianok — rejected, Python stack mismatch",
       "outreachUrl": "https://www.linkedin.com/in/maryiaklimianok/",
       "updatedAt": "2026-05-08T14:00:00.000Z"
+    },
+    {
+      "slug": "scaletech",
+      "name": "ScaleTech",
+      "role": "Senior QA Automation Engineer (Contract)",
+      "stack": "Playwright/Selenium, UI/browser testing, API testing, CI/CD, k6/JMeter, Agile, AI-assisted testing",
+      "status": "target",
+      "stage": "cv_ready",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
+      "requirements": "Strong UI/browser automation; Playwright or Selenium; API testing; CI/CD integration; performance/stress testing exposure with k6/JMeter; Agile/Scrum; quality-first release risk communication.",
+      "notes": "Fully remote freelance, 30-40 EUR/hour, long-term contract with Scandinavian cybersecurity/mobile security client. Strong QA ownership and UI/API fit; performance tooling is a ramp-up area. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scaletech/scaletech.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://jobs.lever.co/scale3c/a6062ff9-51c2-40a4-bc68-9986ce64a1a8"
+      ],
+      "fit": "78/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scaletech/scaletech.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-05-30T19:55:49.651Z"
     },
     {
       "slug": "scalo",

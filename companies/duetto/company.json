@@ -1,0 +1,21 @@
+{
+  "slug": "duetto",
+  "name": "Duetto Research",
+  "role": "Quality Engineer",
+  "stack": "Playwright, TypeScript, CI quality gates, Pact, Testcontainers, DataDog, Selenium/Cypress migration, Claude Code, API contracts",
+  "status": "target",
+  "stage": "cv_ready",
+  "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
+  "requirements": "Strong Playwright E2E automation; page objects; CI sharding/quality gates; Selenium/Cypress migration; Pact contract testing; Testcontainers; dashboards and flaky test tracking; AI-assisted test migration/review.",
+  "notes": "Quality engineering function from scratch. Strong stretch: Playwright migration, CI quality gates and AI-assisted testing fit well; Pact/Testcontainers/DataDog are ramp-up areas. Location listed as Croatia/remote-friendly; verify Poland eligibility. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf",
+  "links": [
+    "https://job-boards.greenhouse.io/duettoresearch/jobs/7920633"
+  ],
+  "fit": "72/100",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf",
+  "coverLetter": "",
+  "salaryAsk": "",
+  "outreach": "",
+  "outreachUrl": "",
+  "updatedAt": "2026-05-30T19:55:50.243Z"
+}

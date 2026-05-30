@@ -1,0 +1,23 @@
+# Mesh
+
+- Role: Senior QA Automation Engineer
+- Stack: Playwright, Cypress, JavaScript, TypeScript, Python, CI/CD, API testing, AI-assisted tooling
+- Status: target
+- Stage: cv_ready
+- Fit: 73/100
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf
+- Cover Letter: —
+- Salary Ask: —
+- Outreach: —
+
+## Process
+Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.
+
+## Requirements
+Senior QA automation with Playwright/Cypress; JavaScript/TypeScript and Python; E2E/API automation; CI/CD; framework ownership; AI-assisted development/testing; collaborative product engineering.
+
+## Notes
+Europe remote. Good automation/tooling fit; Web3/crypto payments domain is a stretch but not a blocker if they value test infrastructure ownership. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf
+
+## Links
+- https://job-boards.greenhouse.io/mesh/jobs/5199203008

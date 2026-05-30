@@ -33,6 +33,7 @@ This is the canonical human-readable list of interview companies.
 | deBridge | contacted | cv_sent | 8/10 | CV 2 |  |  | Applied via Telegram to @leo_lomaev | 2026-04-23T07:05:02.485Z |
 | Deloitte | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.761Z |
 | Devico | contacted | cv_sent_outreach_sent | 68/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/devico-sdet/devico-sdet.cv.Yauheni.Sheima.pdf |  |  | Katerina Zhukovskaya — application email sent with CV | 2026-05-30T19:41:22.040Z |
+| Duetto Research | target | cv_ready | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:50.243Z |
 | Edge One Solutions Sp. z o.o | target | cv_to_send | 96/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.092Z |
 | EffectiveSoft | rejected | rejected | low | CV 2 |  |  | Rejected after recruiter clarification from Olga Simonova (LinkedIn) | 2026-04-19T05:34:49.451Z |
 | emagine Polska | applied | application_sent | 80/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/emagine/emagine.cv.Yauheni.Sheima.pdf |  |  | Application submitted | 2026-05-30T19:26:14.295Z |
@@ -49,6 +50,7 @@ This is the canonical human-readable list of interview companies.
 | GR8 Tech | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.552Z |
 | Grape Up | rejected | rejected_from_gmail_label | 9/10 | CV 2 |  |  | Rejected after applying to talent pool opening | 2026-05-25T16:01:09.677Z |
 | Green Hive Technology | target | cv_to_send | 51/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.954Z |
+| GROWE | target | cv_ready | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:49.464Z |
 | Happy Team | target | cv_to_send | 41/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.134Z |
 | HEINEKEN | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.411Z |
 | IBM | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.261Z |
@@ -66,8 +68,10 @@ This is the canonical human-readable list of interview companies.
 | Keepit | applied | application_sent | 7/10 | CV 2 |  |  | Applied via company site | 2026-04-15T17:55:29.230Z |
 | Link Group | target | recruiter_outreach | 58/100 | CV 2 |  |  | Przemysław Lorek | 2026-04-26T18:07:13.801Z |
 | Luxoft Poland | applied | application_sent_outreach_sent | 80/100 | luxoft-poland tailored PDF |  |  | Natalia Ziaja — LinkedIn message sent | 2026-05-17T13:20:53.846Z |
+| Mesh | target | cv_ready | 73/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:50.062Z |
 | Miquido | applied | application_sent | 7/10 | CV 2 |  |  | Applied via company site | 2026-04-08T10:29:36.348Z |
 | Mitrix Technology | rejected | rejected | low | CV 2 |  |  |  | 2026-04-02T13:53:34.666Z |
+| MLabs | target | cv_ready | 80/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mlabs/mlabs.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:49.301Z |
 | Montrose Software | target | cv_prepared | 80/100 | tailored-cv/montrose-software-qa-automation-engineer.md |  |  | CV prepared | 2026-05-06T18:00:20.505Z |
 | Motorola Solutions | rejected | rejected_from_gmail_label | 8/10 | CV 2 |  |  |  | 2026-05-25T16:01:10.014Z |
 | N-iX | applied | application_sent | 76/100 | CV 2 |  |  | Applied via Olga Dmytryshyn | 2026-04-24T17:32:02.889Z |
@@ -77,6 +81,7 @@ This is the canonical human-readable list of interview companies.
 | Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 |  |  | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
 | PaySet | applied | application_sent | 74/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/payset/payset.cv.Yauheni.Sheima.pdf |  |  | Application submitted | 2026-05-30T19:26:14.413Z |
 | People More | target | cv_to_send | 3/10 |  |  |  |  | 2026-04-02T22:38:53.974758+00:00 |
+| Plain Concepts | target | cv_ready | 70/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/plain-concepts/plain-concepts.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:50.476Z |
 | Precisely | contacted | message_sent | 6/10 | CV 2 |  |  | Zuzanna Biel — LinkedIn message sent | 2026-05-11T16:00:00.000Z |
 | Proxity GmbH / Blackstone | contacted | recruiter_outreach | 88/100 | CV 2 |  |  | Selvet Uzun | 2026-05-04T10:52:34.347Z |
 | PwC | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.663Z |
@@ -84,7 +89,9 @@ This is the canonical human-readable list of interview companies.
 | Remodevs | target | cv_to_send | 51/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.014Z |
 | Remote People | applied | application_sent | 8/10 | CV 2 |  |  | Applied via Greenhouse | 2026-04-12T14:20:59.410Z |
 | rinf.tech | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.963Z |
+| Sand Technologies | target | cv_ready | 75/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sand-technologies/sand-technologies.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:49.849Z |
 | Scalable Solutions | rejected | rejected | 5/10 | CV 2 |  |  | Maryia Klimianok — rejected, Python stack mismatch | 2026-05-08T14:00:00.000Z |
+| ScaleTech | target | cv_ready | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scaletech/scaletech.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:49.651Z |
 | SCALO | target | cv_to_send | 100/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:47.915Z |
 | SHERPANY | contacted | cv_to_send_outreach_sent | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sherpany/sherpany.cv.Yauheni.Sheima.pdf |  |  | Nina Schneider and Roberto Lukas — LinkedIn messages sent | 2026-05-27T12:03:41.250Z |
 | Sii Poland | contacted | cv_ready_outreach_sent | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sii-poland/sii-poland.cv.Yauheni.Sheima.pdf |  |  | Martyna Słotwińska — LinkedIn outreach sent | 2026-05-25T17:44:19.740Z |
