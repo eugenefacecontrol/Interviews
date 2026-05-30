@@ -34,13 +34,14 @@ This is the canonical human-readable list of interview companies.
 | Deloitte | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.761Z |
 | Edge One Solutions Sp. z o.o | target | cv_to_send | 96/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.092Z |
 | EffectiveSoft | rejected | rejected | low | CV 2 |  |  | Rejected after recruiter clarification from Olga Simonova (LinkedIn) | 2026-04-19T05:34:49.451Z |
-| emagine | applied | application_sent | 82/100 | emagine tailored PDF |  | up to 160 PLN/h B2B | Application submitted | 2026-05-17T11:50:17.268Z |
+| emagine Polska | applied | application_sent | 80/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/emagine/emagine.cv.Yauheni.Sheima.pdf |  |  | Application submitted | 2026-05-30T19:26:14.295Z |
 | EPAM Systems | applied | application_sent | 84/100 | CV 2 |  |  | Applied via Tatsiana Zubkova and EPAM careers | 2026-05-25T16:01:12.071Z |
 | ERGO Technology & Services | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.860Z |
 | Ericsson | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.560Z |
 | ERP Works | rejected | rejected | 90/100 | CV 2 |  |  | Sam / ERP Works | 2026-05-05T13:28:29.455Z |
 | ESET | target | cv_to_send | 6/10 |  |  |  |  | 2026-04-02T22:38:53.974753+00:00 |
 | Euroclear | target | cv_to_send | 4/10 |  |  |  |  | 2026-04-02T22:38:53.974755+00:00 |
+| Exadel | applied | application_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/exadel/exadel.cv.Yauheni.Sheima.pdf |  |  | Application submitted | 2026-05-30T19:26:14.193Z |
 | Experis Manpower Group | target | cv_to_send | 88/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.272Z |
 | Fundraise Up | rejected | rejected_from_gmail_label | 7/10 | CV 2 |  |  | Olga Radzievskaia — applied via website + LinkedIn | 2026-05-25T16:01:09.279Z |
 | GlobalLogic | target | cv_to_send_outreach_to_send | 62/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf |  |  | Tetiana Rediuk — LinkedIn message drafted | 2026-05-30T17:56:35.634Z |
@@ -73,6 +74,7 @@ This is the canonical human-readable list of interview companies.
 | Omada | target | cv_to_send_outreach_to_send | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/omada/cover-letter.txt | 20 500-22 500 PLN gross/month listed | Małgorzata — LinkedIn message drafted | 2026-05-29T15:17:44.738Z |
 | Onwelo Sp. z o.o. | applied | application_sent | 81/100 | CV 2 |  |  | Applied via Monika Kulisz | 2026-04-24T11:12:58.763Z |
 | Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 |  |  | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
+| PaySet | applied | application_sent | 74/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/payset/payset.cv.Yauheni.Sheima.pdf |  |  | Application submitted | 2026-05-30T19:26:14.413Z |
 | People More | target | cv_to_send | 3/10 |  |  |  |  | 2026-04-02T22:38:53.974758+00:00 |
 | Precisely | contacted | message_sent | 6/10 | CV 2 |  |  | Zuzanna Biel — LinkedIn message sent | 2026-05-11T16:00:00.000Z |
 | Proxity GmbH / Blackstone | contacted | recruiter_outreach | 88/100 | CV 2 |  |  | Selvet Uzun | 2026-05-04T10:52:34.347Z |

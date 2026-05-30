@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:56:35.645Z",
+  "generatedAt": "2026-05-30T19:26:14.423Z",
   "companies": [
     {
       "slug": "acronis",
@@ -564,21 +564,25 @@
     },
     {
       "slug": "emagine",
-      "name": "emagine",
-      "role": "Senior QA Automation Specialist",
-      "stack": "Java, Selenium, Playwright, REST API, Postman, RestAssured, Jenkins, CI/CD, manual testing, agile",
+      "name": "emagine Polska",
+      "role": "Senior QA Automation Engineer",
+      "stack": "Playwright, AI-driven automation, SSO testing, API testing, CI/CD, GitHub/Azure DevOps, C#/Python/Java",
       "status": "applied",
       "stage": "application_sent",
-      "process": "Applied for Senior QA Automation Specialist B2B project; 100% remote, full-time, 6 months + prolongations, ASAP start.",
-      "requirements": "Senior QA Automation Specialist; debt collection industry; 100% remote; English; B2B; up to 160 PLN/h; 7+ years QA/test automation; Java-based frameworks such as Selenium or Playwright; manual testing for complex web applications; API testing with REST, Postman, RestAssured or similar; CI/CD pipelines with Jenkins; agile collaboration with developers; test plans, test cases, acceptance criteria ownership; nice to have performance testing and test framework creation.",
-      "notes": "Applied. Strong fit on 7+ years QA automation, web application testing, Selenium, Playwright, API testing, Postman, Jenkins/CI/CD, test framework improvement, manual+automation mix, agile collaboration. Main gap: Java is strongest as earlier Selenium/automation foundation, while recent primary stack is TypeScript/C#/PowerShell; positioned honestly as Java-based automation foundation plus strong transferable automation engineering. Debt collection domain is not direct, but enterprise workflow and banking-like/green-screen context can help.",
-      "links": [],
-      "fit": "82/100",
-      "recommendedCv": "emagine tailored PDF",
-      "salaryAsk": "up to 160 PLN/h B2B",
+      "process": "Applied on 2026-05-30 for Senior QA Automation Engineer; 100% remote, long-term B2B.",
+      "requirements": "5+ years QA automation; scalable automation frameworks; extensive Playwright; AI-driven automation/test generation/self-healing; functionality/performance/reliability tests; SSO/access scenarios; CI/CD with GitHub and/or Azure DevOps; one programming language C#, Python or Java; Agile/DevOps; English fluency; healthcare/clinical trial or identity/access management experience is a plus.",
+      "notes": "Applied. Strong fit on 7+ years QA automation, API/UI testing, framework improvement, CI/CD, Azure DevOps, C#/Java foundation, Playwright direction, debugging, and AI-assisted workflow. Gaps/positioning: SSO/clinical-trial domain is adjacent rather than direct; Playwright should be framed as recent practical direction rather than long-term primary stack. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/emagine/emagine.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://justjoin.it/job-offer/emagine-polska-senior-qa-automation-engineer-warsaw-testing-019236e1",
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/emagine/emagine.cv.Yauheni.Sheima.pdf"
+      ],
+      "fit": "80/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/emagine/emagine.cv.Yauheni.Sheima.pdf",
+      "salaryAsk": "",
       "outreach": "Application submitted",
       "outreachUrl": "",
-      "updatedAt": "2026-05-17T11:50:17.268Z"
+      "updatedAt": "2026-05-30T19:26:14.295Z",
+      "coverLetter": ""
     },
     {
       "slug": "epam-systems",
@@ -693,6 +697,28 @@
       "stack": "Test strategy, Jira",
       "fit": "4/10",
       "cv": "qa-devops-cv.pdf"
+    },
+    {
+      "slug": "exadel",
+      "name": "Exadel",
+      "role": "Senior Automation QA (Playwright, TypeScript)",
+      "stack": "Playwright, TypeScript, API testing, CI/CD, Git, Agile/Scrum, test plans, test cases, debugging",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied on 2026-05-30 for Senior Automation QA (Playwright, TypeScript).",
+      "requirements": "4+ years QA; strong automation testing; practical Playwright; strong TypeScript scripting; automation framework design/maintenance; functional testing concepts; test cases/test scripts; debugging and defect reporting; CI/CD integration; API testing; Git; cross-browser/E2E testing; Agile/Scrum; English Intermediate+.",
+      "notes": "Applied. Strong fit on QA automation, UI/API testing, CI/CD, debugging, defect reporting, Git, Agile, and practical Playwright/TypeScript direction. Position Playwright honestly as recent hands-on direction supported by 7+ years QA automation overall; strongest historical automation foundations are Selenium/C#/Java plus recent API framework improvement and CI/CD quality workflows. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/exadel/exadel.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://job-boards.greenhouse.io/externaljobboards/jobs/5992135004",
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/exadel/exadel.cv.Yauheni.Sheima.pdf"
+      ],
+      "fit": "78/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/exadel/exadel.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "Application submitted",
+      "outreachUrl": "",
+      "updatedAt": "2026-05-30T19:26:14.193Z"
     },
     {
       "slug": "experis-manpower-group",
@@ -1304,6 +1330,28 @@
       "updatedAt": "2026-04-19T07:02:15.387Z",
       "role": "QA / Test Automation role",
       "stack": "Playwright, API testing, exploratory testing, CI/CD, QA metrics, AI/product environment"
+    },
+    {
+      "slug": "payset",
+      "name": "PaySet",
+      "role": "QA Automation Engineer",
+      "stack": "Playwright, Jest, UI/API testing, manual/exploratory testing, fintech, CI/CD, REST API, release quality",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Applied on 2026-05-30 for QA Automation Engineer; fully remote from Europe.",
+      "requirements": "QA Automation Engineer for fintech payments platform; remote Europe; strong Playwright and Jest; manual/exploratory testing; E2E automation best practices; acceptance criteria; high-quality releases; fintech/product quality mindset; UI/UX defect detection; API and release validation.",
+      "notes": "Applied. Good fit on QA automation, UI/API testing, CI/CD-integrated quality, fintech/payments interest, exploratory/manual plus automation balance, framework improvement, debugging, and release confidence. Gap: Jest is not a primary named recent tool; position through JavaScript/TypeScript automation direction and transferable framework/testing experience. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/payset/payset.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://careers.payset.io/jobs/6423031-qa-automation-engineer",
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/payset/payset.cv.Yauheni.Sheima.pdf"
+      ],
+      "fit": "74/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/payset/payset.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "Application submitted",
+      "outreachUrl": "",
+      "updatedAt": "2026-05-30T19:26:14.413Z"
     },
     {
       "slug": "people-more",
