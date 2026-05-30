@@ -1,23 +1,24 @@
 # Svitla Systems
 
-- Role: Senior AQA Engineer
-- Stack: —
-- Status: rejected
-- Stage: rejected_from_gmail_label
-- Fit: medium
-- Recommended CV: CV 2
+- Role: Senior AQA Engineer with AI
+- Stack: AI-assisted testing, Playwright, REST API, backend/API testing, microservices, CI/CD, GitHub Actions, PostgreSQL, JavaScript, Java/Spring Boot context
+- Status: target
+- Stage: cv_to_send
+- Fit: 76/100
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/svitla-systems-ai/svitla-systems-ai.cv.Yauheni.Sheima.pdf
 - Cover Letter: —
 - Salary Ask: —
 - Outreach: —
 
 ## Process
-Rejected before process start Gmail label Job Search/Rejections: rejection recorded for Senior AQA Engineer on 2026-03-31 (cannot work through incubator / third-party arrangement).
+Preparing to apply for Senior AQA Engineer with AI role on JustJoinIT. Previous older Svitla process had a rejection due to incubator/third-party arrangement; this is a new vacancy/context.
 
 ## Requirements
-Senior Automation QA Engineer; Automated Testing, AWS, Gatling; location: Kraków; salary undisclosed; apply: 1-click Apply; deadline hint: 5d left
+Senior Automation QA Engineer with AI; Poland; office work expected 2-3 days/week in Krakow; CET hours; greenfield project for large food retailer; AI used across delivery and testing; API-driven distributed system; MFE/BFF/xAPI/Enterprise APIs; Java Spring Boot backend; JavaScript frontend; PostgreSQL; QA methodologies; frontend/backend/API testing; AI tools in testing and SDLC; microservices testing; HTTP/REST APIs; automation frameworks such as REST Assured and Playwright; CI/CD preferably GitHub Actions; service mocking and contract testing with WireMock/Pact nice to have; performance testing, test environments, Azure/AWS nice to have.
 
 ## Notes
-Отказ: не работают через инкубатор. Source: https://justjoin.it/job-offer/svitla-systems-senior-automation-qa-engineer-krakow-testing Historical rejection source: Gmail label Job Search/Rejections. Role/vacancy: Senior AQA Engineer. Date: 2026-03-31. Reason: cannot work through incubator / third-party arrangement.
+Fit is promising but not perfect. Strong on API/UI automation, CI/CD/YAML, backend validation, PostgreSQL/context, debugging, AI-assisted workflow, and automation mindset. Gaps: GitHub Actions, WireMock/Pact, microservices contract testing are ramp-up areas; Playwright is recent practical direction rather than long-term primary stack. Important risk: earlier Svitla rejection mentioned inability to work through incubator/third-party arrangement, so confirm contract path if needed. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/svitla-systems-ai/svitla-systems-ai.cv.Yauheni.Sheima.pdf
 
 ## Links
-- https://justjoin.it/job-offer/svitla-systems-senior-automation-qa-engineer-krakow-testing
+- https://justjoin.it/job-offer/svitla-systems-senior-aqa-engineer-with-ai-krakow-testing
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/svitla-systems-ai/svitla-systems-ai.cv.Yauheni.Sheima.pdf

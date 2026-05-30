@@ -95,7 +95,7 @@ This is the canonical human-readable list of interview companies.
 | StoneX Group Inc. | applying | outreach_sent | 66/100 | CV 2 |  | true | Marina Yanusheuskaya | 2026-04-23T11:33:37.999Z |
 | StoneX Poland | target | cv_to_send | 100/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:47.973Z |
 | Strategicsiq | target | cv_to_send | 5/10 |  |  |  |  | 2026-04-02T22:38:53.974740+00:00 |
-| Svitla Systems | rejected | rejected_from_gmail_label | medium | CV 2 |  |  |  | 2026-05-25T16:01:10.114Z |
+| Svitla Systems | target | cv_to_send | 76/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/svitla-systems-ai/svitla-systems-ai.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:27:58.798Z |
 | Talmatic | rejected | rejected | unknown | CV 2 |  |  | Rejected by Talmatic | 2026-05-14T14:00:00.000Z |
 | Telement | contacted | cv_sent | 8/10 | CV 2 |  |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:58:41.364Z |
 | Tenarai Europe | closed | position_closed | true | CV 2 |  |  | Applied via Wiktoria Banaś-Gałecka | 2026-04-24T10:29:46.207Z |
