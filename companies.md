@@ -32,6 +32,7 @@ This is the canonical human-readable list of interview companies.
 | DCV Technologies | applied | application_sent | 100/100 | CV 2 |  |  | Applied via JustJoinIt | 2026-04-16T15:21:42.904Z |
 | deBridge | contacted | cv_sent | 8/10 | CV 2 |  |  | Applied via Telegram to @leo_lomaev | 2026-04-23T07:05:02.485Z |
 | Deloitte | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.761Z |
+| Devico | contacted | cv_sent_outreach_sent | 68/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/devico-sdet/devico-sdet.cv.Yauheni.Sheima.pdf |  |  | Katerina Zhukovskaya — application email sent with CV | 2026-05-30T19:41:22.040Z |
 | Edge One Solutions Sp. z o.o | target | cv_to_send | 96/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.092Z |
 | EffectiveSoft | rejected | rejected | low | CV 2 |  |  | Rejected after recruiter clarification from Olga Simonova (LinkedIn) | 2026-04-19T05:34:49.451Z |
 | emagine Polska | applied | application_sent | 80/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/emagine/emagine.cv.Yauheni.Sheima.pdf |  |  | Application submitted | 2026-05-30T19:26:14.295Z |

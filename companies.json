@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T19:30:15.669Z",
+  "generatedAt": "2026-05-30T19:41:22.053Z",
   "companies": [
     {
       "slug": "acronis",
@@ -531,6 +531,28 @@
       "outreach": "",
       "outreachUrl": "",
       "updatedAt": "2026-05-25T16:01:11.761Z"
+    },
+    {
+      "slug": "devico",
+      "name": "Devico",
+      "role": "Senior Software Development Engineer in Test (SDET)",
+      "stack": "Playwright, TypeScript, Cypress, REST Assured/API testing, Kubernetes, Helm, Jenkins, Docker, Java/TypeScript, Agile",
+      "status": "contacted",
+      "stage": "cv_sent_outreach_sent",
+      "process": "Sent application email with tailored CV to Katerina Zhukovskaya on 2026-05-30.",
+      "requirements": "Remote Europe Senior SDET role for cloud-based data catalog platform; automate test cases; design frameworks with Playwright and TypeScript; create and maintain automated testing pipelines; Cypress, API REST Assured, Kubernetes, Helm; collaborate with development and operations in DevOps pipeline; define KPIs and metrics; 8+ years test automation; Java and/or TypeScript; DevOps, Gradle, Jenkins, Docker; Agile collaboration and stakeholder communication.",
+      "notes": "Contacted Katerina Zhukovskaya by Gmail with CV attached. Fit is stretch but relevant: strong QA automation, API/framework improvement, CI/CD, Jenkins/Azure DevOps/YAML, Docker/Kubernetes support scenarios, Playwright/TypeScript direction, and debugging. Gaps: 8+ test automation wording, Cypress/REST Assured/Kubernetes/Helm depth should be framed as adjacent/ramp-up. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/devico-sdet/devico-sdet.cv.Yauheni.Sheima.pdf",
+      "links": [
+        "https://devico.io/careers/senior-software-development-engineer-in-test",
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/devico-sdet/devico-sdet.cv.Yauheni.Sheima.pdf"
+      ],
+      "fit": "68/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/devico-sdet/devico-sdet.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "Katerina Zhukovskaya — application email sent with CV",
+      "outreachUrl": "mailto:katerina.zhukovskaya@devico.io",
+      "updatedAt": "2026-05-30T19:41:22.040Z"
     },
     {
       "slug": "edge-one-solutions-sp-z-o-o",
