@@ -79,7 +79,7 @@ This is the canonical human-readable list of interview companies.
 | Omada | target | cv_to_send_outreach_to_send | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/omada/cover-letter.txt | 20 500-22 500 PLN gross/month listed | Małgorzata — LinkedIn message drafted | 2026-05-29T15:17:44.738Z |
 | Onwelo Sp. z o.o. | applied | application_sent | 81/100 | CV 2 |  |  | Applied via Monika Kulisz | 2026-04-24T11:12:58.763Z |
 | Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 |  |  | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
-| PaySet | applied | application_sent | 74/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/payset/payset.cv.Yauheni.Sheima.pdf |  |  | Application submitted | 2026-05-30T19:26:14.413Z |
+| PaySet | rejected | rejected_after_application_review | 74/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/payset/payset.cv.Yauheni.Sheima.pdf |  |  | Natalie — rejection received | 2026-06-01T15:55:48.731Z |
 | People More | target | cv_to_send | 3/10 |  |  |  |  | 2026-04-02T22:38:53.974758+00:00 |
 | Plain Concepts | target | cv_ready | 70/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/plain-concepts/plain-concepts.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:50.476Z |
 | Precisely | contacted | message_sent | 6/10 | CV 2 |  |  | Zuzanna Biel — LinkedIn message sent | 2026-05-11T16:00:00.000Z |
