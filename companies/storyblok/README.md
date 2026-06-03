@@ -1,0 +1,24 @@
+# Storyblok
+
+- Role: Senior QA Engineer - Europe
+- Stack: Playwright, TypeScript, frontend/backend automated tests, QA strategy, test plans, exploratory testing, metrics, API-first CMS
+- Status: target
+- Stage: cv_ready_hr_text_ready
+- Fit: 84/100
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/storyblok/storyblok.cv.Yauheni.Sheima.pdf
+- Cover Letter: —
+- Salary Ask: 52,000-88,000 USD/year
+- Outreach: HR message drafted
+
+## Process
+Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Europe remote. Next step: apply/send outreach with tailored CV after confirming exact country eligibility.
+
+## Requirements
+Senior QA Engineer for Storyblok headless CMS. Responsibilities: own quality projects end-to-end; champion quality/coding standards; design, implement and maintain automated tests across frontend and backend using Playwright and TypeScript; improve test automation strategy and QA process/metrics; prepare and review test plans; perform manual and exploratory testing; work with product owners, designers and developers.
+
+## Notes
+Strong fit on product QA ownership, Playwright/TypeScript direction, frontend/backend testing, exploratory testing, CI/CD-quality thinking, documentation and stakeholder collaboration. Risk: confirm original apply page/country eligibility. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/storyblok/storyblok.cv.Yauheni.Sheima.pdf
+
+## Links
+- https://dynamitejobs.com/company/storyblok/remote-job/senior-qa-engineer-europe-m-w-d
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/storyblok/storyblok.cv.Yauheni.Sheima.pdf

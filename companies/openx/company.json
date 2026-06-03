@@ -1,0 +1,22 @@
+{
+  "slug": "openx",
+  "name": "OpenX",
+  "role": "Software Development Engineer in Test II",
+  "stack": "Python, automation framework maintenance, CI/CD, Jenkins/Spinnaker, data processing systems, GCP, Kubernetes, Docker, Polish and English",
+  "status": "target",
+  "stage": "cv_ready_hr_text_ready",
+  "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Poland remote. Next step: apply/send tailored CV if Polish requirement and Python framework ramp-up are acceptable.",
+  "requirements": "SDET II for OpenX Poland. Responsibilities: test large-scale data processing systems; participate from requirements through validation/deployment; improve efficiency/scalability/stability; develop and maintain automation suites/frameworks; oversee QA CI pipelines; root-cause analysis; collaborate with project teams and QA organization. Requirements: 2+ years test automation, Python framework codebase maintenance, willingness for Java/JavaScript, CI/CD such as Jenkins/Spinnaker, troubleshooting, Agile, Polish and English; GCP/Kubernetes/Docker plus.",
+  "notes": "Fit through framework maintenance, CI/CD, troubleshooting, backend/data investigation, Docker/Kubernetes support and Polish/English communication. Risk: Python framework depth and data processing are not strongest current areas; role may be less senior. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/openx/openx.cv.Yauheni.Sheima.pdf",
+  "links": [
+    "https://www.remotery.co/job/remote-software-development-engineer-in-test-ii-at-openx-in-poland-full-time-b6c35c",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/openx/openx.cv.Yauheni.Sheima.pdf"
+  ],
+  "fit": "74/100",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/openx/openx.cv.Yauheni.Sheima.pdf",
+  "coverLetter": "",
+  "salaryAsk": true,
+  "outreach": "HR message drafted",
+  "outreachUrl": "",
+  "updatedAt": "2026-06-03T10:41:01.791Z"
+}
