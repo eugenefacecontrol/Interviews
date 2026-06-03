@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T15:55:48.741Z",
+  "generatedAt": "2026-06-03T08:03:14.572Z",
   "companies": [
     {
       "slug": "acronis",
@@ -1709,11 +1709,11 @@
       "name": "SHERPANY",
       "role": "Senior QA Engineer (Europe, remote) - Sherpany",
       "stack": "UI testing, automated testing, performance testing, API testing, LLM testing, REST, Python, TypeScript, Playwright, Agile, Kubernetes, Docker, CI/CD, GitHub Actions, quality reporting",
-      "status": "contacted",
-      "stage": "cv_to_send_outreach_sent",
-      "process": "CV PDF refreshed for Senior QA Engineer remote role at Sherpany by Datasite. LinkedIn outreach sent to Nina Schneider and Roberto Lukas on 2026-05-27. Next step: apply/send CV or wait for referral/contact direction.",
+      "status": "rejected",
+      "stage": "application_rejected",
+      "process": "Applied for Datasite / Sherpany Senior QA Engineer (Europe, remote), business process R35843 / Job Application: Yauheni Sheima - R35843 Senior QA Engineer (Europe, remote) - Sherpany on 2026-05-18. Rejection received from Datasite Talent Acquisition on 2026-06-03 after application review; not selected to move forward.",
       "requirements": "Sherpany by Datasite meeting management platform for board, committee and executive meetings. Responsibilities: ensure product quality and customer satisfaction; maintain quality system for requirements; analyze quality data/KPIs; drive continuous development of quality; conduct application testing, identify deficiencies, manage quality planning strategy; create and maintain automated tests; create reports for management and establish quality awareness. Requirements: UI, automated, performance, API and LLM testing; REST, Python, TypeScript; Playwright as plus; agile methods; analytical, autonomous/proactive work style; Kubernetes, Docker, CI/CD/GitHub Actions as plus; strong English communication.",
-      "notes": "Strong fit on QA automation, Playwright/TypeScript, API testing, REST, CI/CD, Docker/Kubernetes support context, quality reporting, analytical mindset, autonomous/proactive work style, and product-quality ownership. Performance testing and LLM testing are adjacent/growth areas; Python is practical scripting/automation-adjacent rather than strongest current stack. ATS check after PDF refresh: 86% overall, stack 100%, no missing stack skills. Outreach sent to Nina Schneider and Roberto Lukas; Roberto message asked for referral/right contact if he is not the hiring contact. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sherpany/sherpany.cv.Yauheni.Sheima.pdf",
+      "notes": "Rejected after Datasite application review on 2026-06-03; not selected to move forward in the selection process. Previous fit notes: strong fit on QA automation, Playwright/TypeScript, API testing, REST, CI/CD, Docker/Kubernetes support context, quality reporting, analytical mindset, autonomous/proactive work style, and product-quality ownership. Performance testing and LLM testing are adjacent/growth areas; Python is practical scripting/automation-adjacent rather than strongest current stack. ATS check after PDF refresh: 86% overall, stack 100%, no missing stack skills. Outreach sent to Nina Schneider and Roberto Lukas; Roberto message asked for referral/right contact if he is not the hiring contact. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sherpany/sherpany.cv.Yauheni.Sheima.pdf",
       "links": [
         "https://www.linkedin.com/jobs/view/4411507771",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sherpany/sherpany.cv.Yauheni.Sheima.pdf",
@@ -1725,7 +1725,7 @@
       "salaryAsk": "",
       "outreach": "Nina Schneider and Roberto Lukas — LinkedIn messages sent",
       "outreachUrl": "https://www.linkedin.com/in/ninaschneider/",
-      "updatedAt": "2026-05-27T12:03:41.250Z",
+      "updatedAt": "2026-06-03T08:03:14.561Z",
       "coverLetter": ""
     },
     {
@@ -2156,21 +2156,22 @@
       "slug": "xm",
       "name": "XM",
       "role": "Software Development Engineers in Test (Python)",
-      "stack": "Python, REST API testing, test automation framework development, CI/CD, Docker, Grafana, performance testing, Kafka, AWS",
-      "status": "applied",
-      "stage": "application_sent",
-      "process": "Application submitted by Yauheni via Lever on 2026-05-19. Annual salary expectation entered: 56 500 EUR/year.",
-      "requirements": "SDET Python role for Forex brokerage core. Responsibilities: translate business requirements to technical requirements, design test procedures/plans, develop functional and performance automation tests, design/implement automation framework and libraries, develop mobile testing emulators, build CI/CD pipelines and integrate automation scripts, resolve testing issues, share QA expertise, participate in SDLC/STLC. Requirements: CS/software degree or similar, 2+ years QA, 2+ years Python development, Python automated test design/development, REST API testing, Git, agile testing, English. Advantages: framework development, async/multithreading, WebSockets, Docker, Grafana, performance testing, Finance/Forex.",
-      "notes": "Applied with salary expectation 56 500 EUR/year. Fit: strong on 7+ years QA automation, API/framework improvement, CI/CD, Git, Docker/Kubernetes support context, Grafana/log troubleshooting, agile collaboration and test-system optimization. Main risk: Python is practical scripting/framework-support capability rather than strongest recent primary language; Kafka/AWS/WebSockets/Forex should be framed as adjacent/growth areas, not claimed as core production ownership. CV generated: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xm/xm.cv.Yauheni.Sheima.pdf",
+      "stack": "Python, PyTest, Requests, REST API testing, Selenium, Playwright, test automation framework development, CI/CD, Docker, Grafana, performance testing, Kafka, AWS, WebSockets",
+      "status": "interviewing",
+      "stage": "hr_screen_completed_waiting_technical_feedback",
+      "process": "Application submitted by Yauheni via Lever on 2026-05-19. Annual salary expectation entered: 56 500 EUR/year. HR screen completed on 2026-06-02. Recruiter will submit notes to the technical team; feedback expected by end of week or early next week. If positive, next step is a ~2h technical interview with Python live coding, then final call with Head of QA, offer, and background check.",
+      "requirements": "SDET Python role for Forex/trading brokerage core. Python automation team in 100+ QA department; Java and Python automation teams are separate. Responsibilities include Python automation testing with frameworks/libraries such as PyTest, Requests, Selenium, Playwright; REST API testing; functional/performance automation; test framework and library work; CI/CD pipeline setup with DevOps collaboration; cross-functional scrum work with QAs, DevOps, PMs, BAs, product and other stakeholders. Advantages/risks: Kafka, AWS, WebSockets, performance testing, finance/trading domain.",
+      "notes": "HR screen notes saved in companies/xm/hr-screen-postmortem-2026-06-02.md. Contract: Poland has no entity; company requires direct B2B/freelancer setup and does not accept incubator/umbrella. 8h/day, 40h/week, Cyprus time zone and calendar. Benefits: 21 paid leave days, birthday leave, 5 paid sick leave days, 150 EUR/month food allowance on invoice, annual performance bonus eligibility after 1 year. Salary stated on call: 4,500 EUR/month. Fit remains strong for API/framework/CI/CD/logs/automation reliability; main weaknesses shown in call were Leapwork/no-code story, Python depth framing, and missing prepared technology list. Education gap in CV was fixed after the call and all personalized CV PDFs were regenerated.",
       "links": [
         "https://jobs.eu.lever.co/xm/209047d8-149c-43bd-97e5-10d872901d4a"
       ],
-      "fit": "78/100",
+      "fit": "70/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xm/xm.cv.Yauheni.Sheima.pdf",
-      "salaryAsk": "56 500 EUR/year",
+      "salaryAsk": "4,500 EUR/month B2B (application previously: 56,500 EUR/year)",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-05-19T07:00:02.416Z"
+      "updatedAt": "2026-06-02T09:05:06.004Z",
+      "coverLetter": ""
     },
     {
       "slug": "youriteams",

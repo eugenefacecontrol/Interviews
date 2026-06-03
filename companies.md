@@ -93,7 +93,7 @@ This is the canonical human-readable list of interview companies.
 | Scalable Solutions | rejected | rejected | 5/10 | CV 2 |  |  | Maryia Klimianok — rejected, Python stack mismatch | 2026-05-08T14:00:00.000Z |
 | ScaleTech | target | cv_ready | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scaletech/scaletech.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:49.651Z |
 | SCALO | target | cv_to_send | 100/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:47.915Z |
-| SHERPANY | contacted | cv_to_send_outreach_sent | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sherpany/sherpany.cv.Yauheni.Sheima.pdf |  |  | Nina Schneider and Roberto Lukas — LinkedIn messages sent | 2026-05-27T12:03:41.250Z |
+| SHERPANY | rejected | application_rejected | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sherpany/sherpany.cv.Yauheni.Sheima.pdf |  |  | Nina Schneider and Roberto Lukas — LinkedIn messages sent | 2026-06-03T08:03:14.561Z |
 | Sii Poland | contacted | cv_ready_outreach_sent | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sii-poland/sii-poland.cv.Yauheni.Sheima.pdf |  |  | Martyna Słotwińska — LinkedIn outreach sent | 2026-05-25T17:44:19.740Z |
 | SOFTSWISS | rejected | rejected_from_gmail_label | 5/10 | CV 2 |  |  | Position closed after referral by Rusovich | 2026-05-25T16:01:09.910Z |
 | Software Mansion S.A. | rejected | rejected_from_gmail_label |  | CV 2 |  |  | Rejected by Dominika Mytych due to Polish language requirement | 2026-05-25T16:01:24.801Z |
@@ -117,5 +117,5 @@ This is the canonical human-readable list of interview companies.
 | Verisk | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.216Z |
 | Wipro | rejected | rejected_after_application_review | 6/10 | CV 2 |  | 800 PLN/day | Sri Latha (Infinity Quest) - recruiter outreach | 2026-05-28T15:03:59.878Z |
 | Xebia | target | cv_to_send | 68/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.831Z |
-| XM | applied | application_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xm/xm.cv.Yauheni.Sheima.pdf |  | 56 500 EUR/year |  | 2026-05-19T07:00:02.416Z |
+| XM | interviewing | hr_screen_completed_waiting_technical_feedback | 70/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xm/xm.cv.Yauheni.Sheima.pdf |  | 4,500 EUR/month B2B (application previously: 56,500 EUR/year) |  | 2026-06-02T09:05:06.004Z |
 | YourITeams | target | cv_to_send | 0/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.195Z |
