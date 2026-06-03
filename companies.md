@@ -54,6 +54,7 @@ This is the canonical human-readable list of interview companies.
 | GROWE | target | cv_ready | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:49.464Z |
 | Happy Team | target | cv_to_send | 41/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.134Z |
 | HEINEKEN | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.411Z |
+| Hirify / Get IT | target | cv_ready_hr_text_ready | 82/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-get-it-qa-automation/hirify-get-it-qa-automation.cv.Yauheni.Sheima.pdf |  | 2,300-2,800 EUR/month | Veronika @V_recruiting — Telegram message drafted | 2026-06-03T12:27:56.360Z |
 | Hirify Global | target | cv_ready_hr_text_ready | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-typescript-playwright/hirify-typescript-playwright.cv.Yauheni.Sheima.pdf |  | true | HR message drafted | 2026-06-03T10:41:00.637Z |
 | IBM | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.261Z |
 | Infogain | target | cv_to_send | 88/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.335Z |
