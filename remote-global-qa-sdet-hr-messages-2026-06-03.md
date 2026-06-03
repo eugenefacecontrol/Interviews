@@ -4,61 +4,60 @@ All messages are under 300 characters and are written for generic HR/recruiter o
 
 ## Rimthan
 
-Hi! I noticed the Senior QA Engineer role at Rimthan. It matches my 7+ years in QA automation across UI/API testing, Selenium/Playwright, CI/CD, debugging and AI-assisted workflows. I’d be glad to discuss if my profile fits.
+Hi! I'm interested in Rimthan's Senior QA Engineer role. I bring 7+ years in QA automation across UI/API testing, Selenium/Playwright, CI/CD, debugging, and AI-assisted QA workflows.
 
-Character count: 224
+Character count: 182
 
 ## Hirify Global
 
-Hi! I noticed the Senior Automation QA Engineer role. My background matches Playwright/TypeScript direction, REST API testing, CI/CD, test strategy and 7+ years in QA automation. I’d be glad to discuss if my profile fits.
+Hi! I'm interested in the Senior Automation QA Engineer role. I bring 7+ years in QA automation, with Playwright/TypeScript direction, REST API testing, CI/CD, and test strategy ownership.
 
-Character count: 221
+Character count: 188
 
 ## Storyblok
 
-Hi! I noticed the Senior QA Engineer role at Storyblok. It matches my QA automation background across UI/API testing, Playwright/TypeScript direction, CI/CD, exploratory testing and product quality ownership. I’d be glad to discuss if my profile fits.
+Hi! I'm interested in Storyblok's Senior QA Engineer role. I bring 7+ years in QA automation across UI/API testing, Playwright/TypeScript direction, CI/CD, exploratory testing, and product QA ownership.
 
-Character count: 251
+Character count: 202
 
 ## N-iX Playwright + AI
 
-Hi! I noticed the Senior Automation Test Engineer/SDET role at N-iX. My background fits UI/API automation, Playwright/TypeScript direction, CI/CD, test design and AI-assisted QA workflows. I’d be glad to discuss if my profile fits.
+Hi! I'm interested in the Senior Automation Test Engineer/SDET role at N-iX. I bring UI/API automation, Playwright/TypeScript direction, CI/CD, test design, and AI-assisted QA workflow experience.
 
-Character count: 231
+Character count: 196
 
 ## Fulfillment IQ
 
-Hi! I noticed the QA Automation Engineer/SDET role at Fulfillment IQ. It matches my QA automation background across UI/API testing, Playwright direction, SQL/backend validation, Azure DevOps and CI/CD workflows. I’d be glad to discuss if my profile fits.
+Hi! I'm interested in the QA Automation Engineer/SDET role at Fulfillment IQ. I bring UI/API automation, Playwright direction, SQL/backend validation, Azure DevOps, and CI/CD testing experience.
 
-Character count: 254
+Character count: 194
 
 ## Remsoft
 
-Hi! I noticed the QA Automation Specialist role at Remsoft. It matches my 7+ years in QA automation across Selenium/Playwright direction, API testing, C#/Java foundation, CI/CD, SQL and exploratory testing. I’d be glad to discuss if my profile fits.
+Hi! I'm interested in Remsoft's QA Automation Specialist role. I bring 7+ years in QA automation across Selenium/Playwright direction, API testing, C#/Java foundation, CI/CD, SQL, and exploratory testing.
 
-Character count: 249
+Character count: 204
 
 ## Navro
 
-Hi! I noticed the Senior SDET role at Navro. My background fits QA automation, API/integration testing, Java automation foundation, CI/CD, troubleshooting and fintech/payments readiness. I’d be glad to discuss if my profile fits.
+Hi! I'm interested in Navro's Senior SDET role. I bring QA automation, API/integration testing, Java automation foundation, CI/CD, troubleshooting, and fintech/payments readiness.
 
-Character count: 229
+Character count: 179
 
 ## OpenX
 
-Hi! I noticed the SDET II role at OpenX. My background fits automation framework improvement, CI/CD, troubleshooting, backend validation, Docker/Kubernetes support context and practical scripting. I’d be glad to discuss if my profile fits.
+Hi! I'm interested in the SDET II role at OpenX. I bring automation framework improvement, CI/CD, troubleshooting, backend validation, Docker/Kubernetes support context, and practical scripting.
 
-Character count: 239
+Character count: 194
 
 ## Yonder Media Mobile
 
-Hi! I noticed the Senior QA Automation Engineer role at Yonder Media Mobile. My background fits web/API automation, Selenium/Playwright direction, CI/CD, troubleshooting, test strategy and AI-assisted QA workflows. I’d be glad to discuss if my profile fits.
+Hi! I'm interested in the Senior QA Automation Engineer role at Yonder Media Mobile. I bring web/API automation, Selenium/Playwright direction, CI/CD, troubleshooting, test strategy, and AI-assisted QA workflows.
 
-Character count: 257
+Character count: 212
 
 ## Plain Concepts
 
-Hi! I noticed the QA Automation Engineer role at Plain Concepts. It matches my QA automation background across Selenium, API/Postman testing, Azure DevOps/Jira, exploratory testing and practical Python scripting. I’d be glad to discuss if my profile fits.
+Hi! I'm interested in Plain Concepts' QA Automation Engineer role. I bring Selenium, API/Postman testing, Azure DevOps/Jira, exploratory testing, QA automation, and practical Python scripting.
 
-Character count: 255
-
+Character count: 192
