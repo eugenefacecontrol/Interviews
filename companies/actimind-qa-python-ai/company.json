@@ -1,0 +1,21 @@
+{
+  "slug": "actimind-qa-python-ai",
+  "name": "Actimind",
+  "role": "Middle QA Engineer (Python/AI)",
+  "stack": "Manual QA, web/mobile/API, Python, Pytest, Requests, Locust, Playwright, SQL, Docker, TeamCity, Grafana, AI tools",
+  "status": "target",
+  "stage": "cv_ready_hr_text_ready",
+  "process": "Hirify export 2026-06-03: selected as remote QA role with gradual Python/AI automation growth. CV and HR outreach text prepared.",
+  "requirements": "Commercial QA from 1 year; test analysis/design; web app architecture; programming basics and willingness to grow Python automation; English A2+; SQL/DevTools/REST/SPA/Linux/Docker/load/security as plus. Salary listed from 2,200 USD.",
+  "notes": "Lower grade but realistic fit if compensation and scope are acceptable. Strong angle: manual QA plus automation growth, API/backend, documentation, AI-assisted workflows.",
+  "links": [
+    "https://hirify.me/jobs/603784-middle-qa-engineer-pythonai"
+  ],
+  "fit": "77/100",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/actimind-qa-python-ai/actimind-qa-python-ai.cv.Yauheni.Sheima.pdf",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+  "salaryAsk": "120-140 PLN/h gross preferred; evaluate against listed from 2,200 USD/month",
+  "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
+  "outreachUrl": "",
+  "updatedAt": "2026-06-03T15:59:12.017Z"
+}

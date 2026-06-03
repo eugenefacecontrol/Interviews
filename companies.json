@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T12:27:56.374Z",
+  "generatedAt": "2026-06-03T15:59:12.392Z",
   "companies": [
     {
       "slug": "acronis",
@@ -22,6 +22,27 @@
       "stack": "Python, Playwright, API/UI testing, E2E tests, Component tests, Acceptance tests, Regression UI auto tests, Jira, Git, Jenkins, Docker, QA theory, cloud-based systems",
       "salaryAsk": "",
       "coverLetter": ""
+    },
+    {
+      "slug": "actimind-qa-python-ai",
+      "name": "Actimind",
+      "role": "Middle QA Engineer (Python/AI)",
+      "stack": "Manual QA, web/mobile/API, Python, Pytest, Requests, Locust, Playwright, SQL, Docker, TeamCity, Grafana, AI tools",
+      "status": "target",
+      "stage": "cv_ready_hr_text_ready",
+      "process": "Hirify export 2026-06-03: selected as remote QA role with gradual Python/AI automation growth. CV and HR outreach text prepared.",
+      "requirements": "Commercial QA from 1 year; test analysis/design; web app architecture; programming basics and willingness to grow Python automation; English A2+; SQL/DevTools/REST/SPA/Linux/Docker/load/security as plus. Salary listed from 2,200 USD.",
+      "notes": "Lower grade but realistic fit if compensation and scope are acceptable. Strong angle: manual QA plus automation growth, API/backend, documentation, AI-assisted workflows.",
+      "links": [
+        "https://hirify.me/jobs/603784-middle-qa-engineer-pythonai"
+      ],
+      "fit": "77/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/actimind-qa-python-ai/actimind-qa-python-ai.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+      "salaryAsk": "120-140 PLN/h gross preferred; evaluate against listed from 2,200 USD/month",
+      "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-03T15:59:12.017Z"
     },
     {
       "slug": "ailleron",
@@ -354,6 +375,27 @@
       "coverLetter": "",
       "salaryAsk": "",
       "outreachUrl": ""
+    },
+    {
+      "slug": "cat-digital-senior-qa-java",
+      "name": "CAT Digital / Caterpillar",
+      "role": "Senior QA Java Engineer",
+      "stack": "Java, AWS, JUnit 5, Karate, backend QA, SQL, PostgreSQL/MySQL, Azure DevOps, Linux, B2B",
+      "status": "target",
+      "stage": "cv_ready_hr_text_ready",
+      "process": "Hirify export 2026-06-03: selected as remote B2B Senior QA Java role for CAT Digital/Caterpillar. CV and HR outreach text prepared; ask recruiter for details before sending as post requests.",
+      "requirements": "Outside Russia/Belarus; degree required; 6+ years automation and manual testing; backend services issues investigation; Java automation, AWS/JUnit/Karate; SQL/PostgreSQL/MySQL; Linux; AZDO; Russian/English. Salary listed 5,600-6,400 USD gross.",
+      "notes": "Good senior QA/backend/API fit with Java foundation and strong compensation. Main risk is Java/AWS/Karate depth; position CV around Java foundation, API/backend diagnostics and automation framework work without overclaiming.",
+      "links": [
+        "https://hirify.me/jobs/555162-senior-qa-java-engineer-javaaws"
+      ],
+      "fit": "82/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/cat-digital-senior-qa-java/cat-digital-senior-qa-java.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+      "salaryAsk": "120-140 PLN/h gross or equivalent; role listed 5,600-6,400 USD gross/month",
+      "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-03T15:59:11.732Z"
     },
     {
       "slug": "ciklum",
@@ -780,6 +822,27 @@
       "updatedAt": "2026-04-16T10:25:48.272Z"
     },
     {
+      "slug": "hirify-fintech-ai-qa",
+      "name": "Fintech Platform via Hirify",
+      "role": "Mid-Level QA Engineer",
+      "stack": "Manual QA, Playwright/Cypress/Selenium, AI-assisted automation, API, SQL, Jira, CI/CD, fintech",
+      "status": "target",
+      "stage": "cv_ready_hr_text_ready",
+      "process": "Hirify export 2026-06-03: selected as Europe remote fintech QA role focused on manual testing plus co-building AI-assisted automation. CV and HR outreach text prepared.",
+      "requirements": "2-4 years hands-on QA manual + automation; Playwright/Cypress/Selenium; test plans/cases; Jira; AI-assisted automation framework from scratch; CI/CD; remote Europe timezone. Salary listed 3,000-3,750 USD/month.",
+      "notes": "Very usable positioning: honest manual+automation profile, AI-assisted QA workflows, API/SQL/CI/CD. Role title is mid-level, but scope and salary can still fit as pragmatic target.",
+      "links": [
+        "https://hirify.me/jobs/598042-middle-qa-engineer-fintech"
+      ],
+      "fit": "83/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-fintech-ai-qa/hirify-fintech-ai-qa.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+      "salaryAsk": "120-140 PLN/h gross preferred or monthly equivalent; negotiable by scope",
+      "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-03T15:59:11.628Z"
+    },
+    {
       "slug": "fulfillment-iq",
       "name": "Fulfillment IQ",
       "role": "QA Automation Engineer / SDET",
@@ -960,6 +1023,27 @@
       "updatedAt": "2026-05-25T16:01:10.411Z"
     },
     {
+      "slug": "hirify-lead-qa-csharp",
+      "name": "Hidden Company via Hirify",
+      "role": "Lead QA Engineer (C#)",
+      "stack": "C#, Playwright, API, high-load, messaging/telecom, PostgreSQL, GitHub Actions, monitoring, non-functional testing",
+      "status": "target",
+      "stage": "cv_ready_hr_text_ready",
+      "process": "Hirify export 2026-06-03: selected as high-upside Europe remote Lead QA C# role. CV and HR outreach text prepared; validate hard requirements before sending.",
+      "requirements": "8+ years QA; 6+ years C# automation; 3+ years Playwright or similar; high-load API/messaging/telecom; PostgreSQL; GitHub Actions; QA process definition; monitoring/observability; non-functional testing; 3+ years Python automation; English C1+. Salary listed 4,000-8,000 USD gross/month.",
+      "notes": "High salary and some relevant C#/.NET/API/CI/CD background, but several hard gaps: C1 English, Python 3+ years, deep C# automation, high-load messaging/telecom. Treat as stretch target only.",
+      "links": [
+        "https://hirify.me/jobs/488332-lead-qa-engineer-csharp"
+      ],
+      "fit": "74/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+      "salaryAsk": "120-140 PLN/h gross or equivalent; role listed 4,000-8,000 USD gross/month",
+      "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-03T15:59:12.156Z"
+    },
+    {
       "slug": "hirify-get-it-qa-automation",
       "name": "Hirify / Get IT",
       "role": "Middle/Senior QA Automation Engineer",
@@ -1056,6 +1140,27 @@
       "outreach": "",
       "outreachUrl": "",
       "updatedAt": "2026-05-25T16:01:11.161Z"
+    },
+    {
+      "slug": "inqud-qa-manual-automation",
+      "name": "INQUD",
+      "role": "QA Engineer (Manual + Automation)",
+      "stack": "Manual QA, automation, E2E, API, CI/CD, fintech, crypto, PostgreSQL/ClickHouse, Grafana/DataDog",
+      "status": "target",
+      "stage": "cv_ready_hr_text_ready",
+      "process": "Hirify export 2026-06-03: selected as remote worldwide fintech/crypto QA role. CV and HR outreach text prepared; verify contact and contract details before submission.",
+      "requirements": "5+ years QA manual + automation; API testing via Postman or code-based approach; Playwright/Cypress/Selenium; CI/CD; test strategy and risk-based testing; transactional systems; fintech/crypto and performance/security as plus. Salary listed 1,800-2,800 USD.",
+      "notes": "Good fit for manual+automation ownership, API/CI/CD, small-team QA process building and payment-flow positioning. Compensation may be lower than preferred range; verify expectations.",
+      "links": [
+        "https://hirify.me/jobs/449178-qa-engineer-manual-automation-fintechcrypto"
+      ],
+      "fit": "84/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/inqud-qa-manual-automation/inqud-qa-manual-automation.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+      "salaryAsk": "120-140 PLN/h gross preferred; open to discuss if scope/contract fit is strong",
+      "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-03T15:59:11.514Z"
     },
     {
       "slug": "intellias",
@@ -1490,6 +1595,27 @@
       "updatedAt": "2026-05-14T13:30:00.000Z"
     },
     {
+      "slug": "nova-team-qa-automation-python",
+      "name": "Nova Team",
+      "role": "QA Automation Engineer (Python, Fintech/Crypto)",
+      "stack": "Python, pytest, backend/API QA, fintech, crypto, logs, metrics, Kibana, Grafana, SQL, CI/CD",
+      "status": "target",
+      "stage": "cv_ready_hr_text_ready",
+      "process": "Hirify export 2026-06-03: selected as remote fintech/crypto QA automation role via Nova Team. CV and HR outreach text prepared; verify Python-depth expectations before applying.",
+      "requirements": "Middle+/Senior QA Automation; remote except Russia/Belarus or relocation to Georgia; backend/API automation on Python pytest; framework support; manual debugging/exploratory tasks; code review; logs and metrics. Salary listed from 3,000 USD.",
+      "notes": "Potentially useful but Python depth is the main risk. Use honest framing: strongest scripting history is PowerShell/JS/C#/Java with practical Python ramp-up and strong API/backend QA transfer.",
+      "links": [
+        "https://hirify.me/jobs/531457-qa-automation-engineer-python-fintechcrypto"
+      ],
+      "fit": "80/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/nova-team-qa-automation-python/nova-team-qa-automation-python.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+      "salaryAsk": "120-140 PLN/h gross preferred or monthly equivalent; role listed from 3,000 USD/month",
+      "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-03T15:59:11.841Z"
+    },
+    {
       "slug": "omada",
       "name": "Omada",
       "role": "Senior Test Automation Engineer",
@@ -1649,6 +1775,27 @@
       "updatedAt": "2026-05-11T16:00:00.000Z"
     },
     {
+      "slug": "prequel-automation-qa-java",
+      "name": "Prequel",
+      "role": "Middle Automation QA Engineer (Java)",
+      "stack": "Java, API, mobile E2E, web automation, Appium, Selenide, GitLab CI/CD, AI tools",
+      "status": "target",
+      "stage": "cv_ready_hr_text_ready",
+      "process": "Hirify export 2026-06-03: selected as remote Automation QA Java role. CV and HR outreach text prepared; verify compensation and seniority before prioritizing.",
+      "requirements": "Automation QA from 1 year; Java; Mobile/Web automation via Appium/Selenide; GitLab CI/CD; AI tools; API and Mobile E2E tests; framework support; flaky test analysis. Salary listed from 1,500 USD gross.",
+      "notes": "Technically adjacent but lower seniority/salary. Consider only if recruiter route is easy or as backup; do not over-index on Appium/Selenide depth.",
+      "links": [
+        "https://hirify.me/jobs/577734-automation-qa-engineer"
+      ],
+      "fit": "72/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/prequel-automation-qa-java/prequel-automation-qa-java.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+      "salaryAsk": "120-140 PLN/h gross preferred; role listed from 1,500 USD gross/month",
+      "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-03T15:59:12.380Z"
+    },
+    {
       "slug": "proxity-gmbh-blackstone",
       "name": "Proxity GmbH / Blackstone",
       "role": "QA & Test Manager (a)",
@@ -1802,6 +1949,27 @@
       "outreach": "",
       "outreachUrl": "",
       "updatedAt": "2026-05-25T16:01:10.963Z"
+    },
+    {
+      "slug": "rogii-fullstack-qa",
+      "name": "ROGII",
+      "role": "Fullstack QA Engineer",
+      "stack": "TypeScript, Playwright, Web QA, API, microservices, CI/CD, DevTools, Jira, AI tools",
+      "status": "target",
+      "stage": "cv_ready_hr_text_ready",
+      "process": "Hirify export 2026-06-03: selected from QA Automation vacancies as remote/hybrid feasible target. CV and HR outreach text prepared; verify final remote-from-Poland terms before submission.",
+      "requirements": "4+ years Web QA; TypeScript + Playwright; frontend and backend testing; API, microservices, CI/CD; DevTools, Jira; test design/process understanding; AI tools experience. Salary listed 2,000-2,700 USD.",
+      "notes": "Strong match for Playwright/TypeScript direction, API/backend validation, CI/CD and practical AI-assisted QA workflow. Main risk: company/location tagging says Kazakhstan/hybrid+remote, so confirm Poland remote eligibility.",
+      "links": [
+        "https://hirify.me/jobs/586012-fullstack-qa-engineer-typescriptplaywright"
+      ],
+      "fit": "86/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/rogii-fullstack-qa/rogii-fullstack-qa.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+      "salaryAsk": "120-140 PLN/h gross or equivalent, negotiable by contract/project scope",
+      "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-03T15:59:11.405Z"
     },
     {
       "slug": "sand-technologies",

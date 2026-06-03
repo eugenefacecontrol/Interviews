@@ -1,0 +1,21 @@
+{
+  "slug": "hirify-lead-qa-csharp",
+  "name": "Hidden Company via Hirify",
+  "role": "Lead QA Engineer (C#)",
+  "stack": "C#, Playwright, API, high-load, messaging/telecom, PostgreSQL, GitHub Actions, monitoring, non-functional testing",
+  "status": "target",
+  "stage": "cv_ready_hr_text_ready",
+  "process": "Hirify export 2026-06-03: selected as high-upside Europe remote Lead QA C# role. CV and HR outreach text prepared; validate hard requirements before sending.",
+  "requirements": "8+ years QA; 6+ years C# automation; 3+ years Playwright or similar; high-load API/messaging/telecom; PostgreSQL; GitHub Actions; QA process definition; monitoring/observability; non-functional testing; 3+ years Python automation; English C1+. Salary listed 4,000-8,000 USD gross/month.",
+  "notes": "High salary and some relevant C#/.NET/API/CI/CD background, but several hard gaps: C1 English, Python 3+ years, deep C# automation, high-load messaging/telecom. Treat as stretch target only.",
+  "links": [
+    "https://hirify.me/jobs/488332-lead-qa-engineer-csharp"
+  ],
+  "fit": "74/100",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+  "salaryAsk": "120-140 PLN/h gross or equivalent; role listed 4,000-8,000 USD gross/month",
+  "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
+  "outreachUrl": "",
+  "updatedAt": "2026-06-03T15:59:12.156Z"
+}

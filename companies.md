@@ -5,6 +5,7 @@ This is the canonical human-readable list of interview companies.
 | Company | Status | Stage | Fit | Recommended CV | Cover Letter | Salary Ask | Outreach | Last update |
 |---|---|---|---|---|---|---|---|---|
 | Acronis | target | cv_to_send | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf |  |  | CV context prepared | 2026-05-25T16:01:09.179Z |
+| Actimind | target | cv_ready_hr_text_ready | 77/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/actimind-qa-python-ai/actimind-qa-python-ai.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md | 120-140 PLN/h gross preferred; evaluate against listed from 2,200 USD/month | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-03T15:59:12.017Z |
 | Ailleron | applied | cv_sent | 7/10 | CV 2 |  |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
 | AirHelp | rejected | rejected_from_gmail_label | 8.5/10 | CV 2 |  |  | Michał Sabat — LinkedIn message sent | 2026-05-25T16:01:09.773Z |
 | Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
@@ -23,6 +24,7 @@ This is the canonical human-readable list of interview companies.
 | Billennium | contacted | recruiter_outreach | 78/100 | CV 2 |  |  | Katarzyna Zasada | 2026-05-05T16:10:47.458Z |
 | Britenet | target | cv_to_send | 56/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.893Z |
 | Capco | rejected | rejected_from_gmail_label | 4.65/5 | CV 2 |  |  | Rejected after application review | 2026-05-25T16:01:09.577Z |
+| CAT Digital / Caterpillar | target | cv_ready_hr_text_ready | 82/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/cat-digital-senior-qa-java/cat-digital-senior-qa-java.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md | 120-140 PLN/h gross or equivalent; role listed 5,600-6,400 USD gross/month | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-03T15:59:11.732Z |
 | Ciklum | target | cv_to_send_outreach_to_send | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/ciklum/ciklum.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/ciklum/cover-letter.md |  | Referral: @maciekmaciak; HR leads found for outreach | 2026-05-22T11:11:45.498Z |
 | ClearCourse Dev | target | cv_to_send | 46/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.074Z |
 | Cleverbit | contacted | recruiter_outreach | 8/10 | CV 2 |  |  | Karen Satariano Banavage — LinkedIn recruiter outreach | 2026-05-15T15:00:00.000Z |
@@ -45,6 +47,7 @@ This is the canonical human-readable list of interview companies.
 | Euroclear | target | cv_to_send | 4/10 |  |  |  |  | 2026-04-02T22:38:53.974755+00:00 |
 | Exadel | applied | application_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/exadel/exadel.cv.Yauheni.Sheima.pdf |  |  | Application submitted | 2026-05-30T19:26:14.193Z |
 | Experis Manpower Group | target | cv_to_send | 88/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.272Z |
+| Fintech Platform via Hirify | target | cv_ready_hr_text_ready | 83/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-fintech-ai-qa/hirify-fintech-ai-qa.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md | 120-140 PLN/h gross preferred or monthly equivalent; negotiable by scope | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-03T15:59:11.628Z |
 | Fulfillment IQ | target | cv_ready_hr_text_ready | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/fulfillment-iq/fulfillment-iq.cv.Yauheni.Sheima.pdf |  | true | HR message drafted | 2026-06-03T10:41:01.255Z |
 | Fundraise Up | rejected | rejected_from_gmail_label | 7/10 | CV 2 |  |  | Olga Radzievskaia — applied via website + LinkedIn | 2026-05-25T16:01:09.279Z |
 | GlobalLogic | target | cv_to_send_outreach_to_send | 62/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf |  |  | Tetiana Rediuk — LinkedIn message drafted | 2026-05-30T17:56:35.634Z |
@@ -54,11 +57,13 @@ This is the canonical human-readable list of interview companies.
 | GROWE | target | cv_ready | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:49.464Z |
 | Happy Team | target | cv_to_send | 41/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.134Z |
 | HEINEKEN | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.411Z |
+| Hidden Company via Hirify | target | cv_ready_hr_text_ready | 74/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md | 120-140 PLN/h gross or equivalent; role listed 4,000-8,000 USD gross/month | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-03T15:59:12.156Z |
 | Hirify / Get IT | target | cv_ready_hr_text_ready | 82/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-get-it-qa-automation/hirify-get-it-qa-automation.cv.Yauheni.Sheima.pdf |  | 2,300-2,800 EUR/month | Veronika @V_recruiting — Telegram message drafted | 2026-06-03T12:27:56.360Z |
 | Hirify Global | target | cv_ready_hr_text_ready | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-typescript-playwright/hirify-typescript-playwright.cv.Yauheni.Sheima.pdf |  | true | HR message drafted | 2026-06-03T10:41:00.637Z |
 | IBM | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.261Z |
 | Infogain | target | cv_to_send | 88/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.335Z |
 | InPost | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.161Z |
+| INQUD | target | cv_ready_hr_text_ready | 84/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/inqud-qa-manual-automation/inqud-qa-manual-automation.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md | 120-140 PLN/h gross preferred; open to discuss if scope/contract fit is strong | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-03T15:59:11.514Z |
 | Intellias | applied | application_sent_outreach_sent | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf |  |  | Daria Donets — LinkedIn message sent in Russian | 2026-05-27T11:32:36.173Z |
 | Inuits | target | cv_to_send | 7/10 |  |  |  |  | 2026-04-02T22:38:53.974771+00:00 |
 | IQVIA | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.662Z |
@@ -81,6 +86,7 @@ This is the canonical human-readable list of interview companies.
 | N-iX (Playwright + AI) | target | cv_ready_hr_text_ready | 82/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/n-ix-playwright/n-ix-playwright.cv.Yauheni.Sheima.pdf |  | true | HR message drafted | 2026-06-03T10:41:01.090Z |
 | Navro | target | cv_ready_hr_text_ready | 76/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/navro/navro.cv.Yauheni.Sheima.pdf |  | true | HR message drafted | 2026-06-03T10:41:01.617Z |
 | Nord Security | applied | application submitted | high | cv-master-profile/tailored-cv/nord-security-automation-qa-engineer.cv.Yauheni.Sheima.pdf |  |  | Jurga Schulze; Anastasiia Mheladze | 2026-05-14T13:30:00.000Z |
+| Nova Team | target | cv_ready_hr_text_ready | 80/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/nova-team-qa-automation-python/nova-team-qa-automation-python.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md | 120-140 PLN/h gross preferred or monthly equivalent; role listed from 3,000 USD/month | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-03T15:59:11.841Z |
 | Omada | target | cv_to_send_outreach_to_send | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/omada/cover-letter.txt | 20 500-22 500 PLN gross/month listed | Małgorzata — LinkedIn message drafted | 2026-05-29T15:17:44.738Z |
 | Onwelo Sp. z o.o. | applied | application_sent | 81/100 | CV 2 |  |  | Applied via Monika Kulisz | 2026-04-24T11:12:58.763Z |
 | OpenX | target | cv_ready_hr_text_ready | 74/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/openx/openx.cv.Yauheni.Sheima.pdf |  | true | HR message drafted | 2026-06-03T10:41:01.791Z |
@@ -89,6 +95,7 @@ This is the canonical human-readable list of interview companies.
 | People More | target | cv_to_send | 3/10 |  |  |  |  | 2026-04-02T22:38:53.974758+00:00 |
 | Plain Concepts | target | cv_ready_hr_text_ready | 70/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/plain-concepts/plain-concepts.cv.Yauheni.Sheima.pdf |  | true | HR message drafted | 2026-06-03T10:41:02.141Z |
 | Precisely | contacted | message_sent | 6/10 | CV 2 |  |  | Zuzanna Biel — LinkedIn message sent | 2026-05-11T16:00:00.000Z |
+| Prequel | target | cv_ready_hr_text_ready | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/prequel-automation-qa-java/prequel-automation-qa-java.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md | 120-140 PLN/h gross preferred; role listed from 1,500 USD gross/month | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-03T15:59:12.380Z |
 | Proxity GmbH / Blackstone | contacted | recruiter_outreach | 88/100 | CV 2 |  |  | Selvet Uzun | 2026-05-04T10:52:34.347Z |
 | PwC | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.663Z |
 | Pwrteams | applied | application_sent | 100/100 | CV 2 |  |  | Applied via Anastasiia Kravchuk | 2026-04-25T19:51:31.638Z |
@@ -97,6 +104,7 @@ This is the canonical human-readable list of interview companies.
 | Remsoft | target | cv_ready_hr_text_ready | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remsoft/remsoft.cv.Yauheni.Sheima.pdf |  | 65,000-85,000 CAD/year | HR message drafted | 2026-06-03T10:41:01.442Z |
 | Rimthan | target | cv_ready_hr_text_ready | 88/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/rimthan/rimthan.cv.Yauheni.Sheima.pdf |  | 16,000-22,000 PLN/month B2B | HR message drafted | 2026-06-03T10:41:00.467Z |
 | rinf.tech | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.963Z |
+| ROGII | target | cv_ready_hr_text_ready | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/rogii-fullstack-qa/rogii-fullstack-qa.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md | 120-140 PLN/h gross or equivalent, negotiable by contract/project scope | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-03T15:59:11.405Z |
 | Sand Technologies | target | cv_ready | 75/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sand-technologies/sand-technologies.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:49.849Z |
 | Scalable Solutions | rejected | rejected | 5/10 | CV 2 |  |  | Maryia Klimianok — rejected, Python stack mismatch | 2026-05-08T14:00:00.000Z |
 | ScaleTech | target | cv_ready | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scaletech/scaletech.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:49.651Z |
