@@ -10,7 +10,7 @@ This is the canonical human-readable list of interview companies.
 | AirHelp | rejected | rejected_from_gmail_label | 8.5/10 | CV 2 |  |  | Michał Sabat — LinkedIn message sent | 2026-05-25T16:01:09.773Z |
 | Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
 | Alior Bank | target | cv_to_send | 5/10 |  |  |  |  | 2026-04-02T22:38:53.974750+00:00 |
-| ALTEN Polska | target | cv_ready_outreach_to_send | 82/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alten-polska/alten-polska.cv.Yauheni.Sheima.pdf |  | not listed | Fresh LinkedIn scan HR leads: Daniel Kukuryk; Julia Kaźmierczyk; Magdalena Jarek; Katarzyna Kierzkowska; Julia Awerianowa; Jakub Foster; Katarzyna Staszel | 2026-05-29T21:37:24.433Z |
+| ALTEN Polska | target | recruiter_reply_to_send | 82/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alten-polska/alten-polska.cv.Yauheni.Sheima.pdf |  | B2B up to 160 PLN/h net + VAT; UoP up to 19,000 PLN gross | Anna Grzanecka — recruiter message received; previous HR scan leads: Daniel Kukuryk; Julia Kaźmierczyk; Magdalena Jarek; Katarzyna Kierzkowska; Julia Awerianowa; Jakub Foster; Katarzyna Staszel | 2026-06-04T16:05:02.692Z |
 | Andersen | target | recruiter_outreach | 7/10 | CV 2 |  |  | Recruiter outreach from Yana Budulatii (LinkedIn) | 2026-04-17T11:44:37.677Z |
 | Antal | applied | application_sent | 6/10 | CV 2 |  |  | Applied via JustJoinIt | 2026-04-08T10:35:05.105Z |
 | Antal Sp. z o.o. | target | cv_to_send | 83/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.399Z |
