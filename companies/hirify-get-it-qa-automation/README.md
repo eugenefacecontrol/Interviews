@@ -3,21 +3,21 @@
 - Role: Middle/Senior QA Automation Engineer
 - Stack: TypeScript, JavaScript, PHP, Cypress, Playwright, k6, UI/API testing, SQL, Agile/Scrum, CI/CD, Docker, mobile automation nice-to-have
 - Status: target
-- Stage: cv_ready_hr_text_ready
+- Stage: cv_ready_cover_letter_ready_hr_text_ready
 - Fit: 82/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-get-it-qa-automation/hirify-get-it-qa-automation.cv.Yauheni.Sheima.pdf
-- Cover Letter: —
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/hirify-get-it-qa-automation/cover-letter.md
 - Salary Ask: 2,300-2,800 EUR/month
 - Outreach: Veronika @V_recruiting — Telegram message drafted
 
 ## Process
-Vacancy found via Hirify / Telegram channel Get IT and provided by Yauheni on 2026-06-03. HR contact: Veronika @V_recruiting. Short Russian outreach message drafted. Next step: send message/application with tailored CV.
+Vacancy found via Hirify / Telegram channel Get IT and provided by Yauheni on 2026-06-03. HR contact: Veronika @V_recruiting. Short Russian outreach message drafted. Cover letter added on 2026-06-04. Next step: send message/application with tailored CV.
 
 ## Requirements
 Remote full-time Middle/Senior QA Automation role for Europe/Belarus. Salary 2,300-2,800 EUR. Requirements: 2+ years QA automation; API/UI testing; JavaScript/TypeScript; modern QA methodologies/tools/processes; Agile/Scrum; SQL scripts and database work; communication and teamwork; troubleshooting/debugging; English. Responsibilities: write automated tests for new/existing features; manual and automated regression testing; document test cases in test management system; collaborate with cross-functional teams; analyze/review specifications and build reliable manual/automated API/UI test cases; support teams with troubleshooting. Nice-to-have: React/frontend testing, backend microservices, shell scripts, Docker, CI/CD test pipeline setup, mobile automation.
 
 ## Notes
-Good practical fit on 7+ years QA automation, UI/API testing, Selenium/Playwright direction, TypeScript/JavaScript exposure, SQL/backend validation, CI/CD, Agile/Scrum, troubleshooting and documentation. Risks: PHP, Cypress, k6 and mobile automation are adjacent/ramp-up areas rather than strongest current tools. HR message for Veronika drafted: "Здравствуйте, Вероника! Увидел вакансию Middle/Senior QA Automation. У меня 7+ лет в QA automation: UI/API, Selenium/Playwright, TypeScript direction, SQL, CI/CD и debugging. Буду рад обсудить, подходит ли мой профиль." PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-get-it-qa-automation/hirify-get-it-qa-automation.cv.Yauheni.Sheima.pdf
+Good practical fit on 7+ years QA automation, UI/API testing, Selenium/Playwright direction, TypeScript/JavaScript exposure, SQL/backend validation, CI/CD, Agile/Scrum, troubleshooting and documentation. Risks: PHP, Cypress, k6 and mobile automation are adjacent/ramp-up areas rather than strongest current tools. HR message for Veronika drafted in cover-letter.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-get-it-qa-automation/hirify-get-it-qa-automation.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/hirify-get-it-qa-automation/cover-letter.md
 
 ## Links
 - https://hirify.me/jobs/568433-middlesenior-qa-automation-engineer
