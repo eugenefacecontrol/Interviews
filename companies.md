@@ -119,7 +119,7 @@ This is the canonical human-readable list of interview companies.
 | State Street | target | cv_to_send | 72/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.710Z |
 | StoneX Group Inc. | applying | outreach_sent | 66/100 | CV 2 |  | true | Marina Yanusheuskaya | 2026-04-23T11:33:37.999Z |
 | StoneX Poland | target | cv_to_send | 100/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:47.973Z |
-| Storyblok | target | cv_ready_cover_letter_ready_hr_text_ready | 84/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/storyblok/storyblok.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md | 52,000-88,000 USD/year | HR message drafted | 2026-06-04T10:17:16.842Z |
+| Storyblok | applied | application_sent | 84/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/storyblok/storyblok.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md | 52,000-88,000 USD/year | HR message drafted; application sent | 2026-06-04T18:22:41.249Z |
 | Strategicsiq | target | cv_to_send | 5/10 |  |  |  |  | 2026-04-02T22:38:53.974740+00:00 |
 | Svitla Systems | applied | application_sent | 76/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/svitla-systems-ai/svitla-systems-ai.cv.Yauheni.Sheima.pdf |  |  | Application submitted | 2026-05-30T19:30:15.658Z |
 | Talmatic | rejected | rejected | unknown | CV 2 |  |  | Rejected by Talmatic | 2026-05-14T14:00:00.000Z |

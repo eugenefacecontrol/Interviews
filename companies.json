@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T18:10:42.113Z",
+  "generatedAt": "2026-06-04T18:22:41.260Z",
   "companies": [
     {
       "slug": "acronis",
@@ -2249,11 +2249,11 @@
       "name": "Storyblok",
       "role": "Senior QA Engineer - Europe",
       "stack": "Playwright, TypeScript, frontend/backend automated tests, QA strategy, test plans, exploratory testing, metrics, API-first CMS",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready_hr_text_ready",
-      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Europe remote. Next step: apply/send outreach with tailored CV after confirming exact country eligibility.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Europe remote. Separate Storyblok CV was available and refreshed on 2026-06-04. Yauheni applied on 2026-06-04.",
       "requirements": "Senior QA Engineer for Storyblok headless CMS. Responsibilities: own quality projects end-to-end; champion quality/coding standards; design, implement and maintain automated tests across frontend and backend using Playwright and TypeScript; improve test automation strategy and QA process/metrics; prepare and review test plans; perform manual and exploratory testing; work with product owners, designers and developers.",
-      "notes": "Strong fit on product QA ownership, Playwright/TypeScript direction, frontend/backend testing, exploratory testing, CI/CD-quality thinking, documentation and stakeholder collaboration. Risk: confirm original apply page/country eligibility. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/storyblok/storyblok.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md",
+      "notes": "Applied on 2026-06-04. Strong fit on product QA ownership, Playwright/TypeScript direction, frontend/backend testing, exploratory testing, CI/CD-quality thinking, documentation and stakeholder collaboration. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/storyblok/storyblok.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md",
       "links": [
         "https://dynamitejobs.com/company/storyblok/remote-job/senior-qa-engineer-europe-m-w-d",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/storyblok/storyblok.cv.Yauheni.Sheima.pdf"
@@ -2262,9 +2262,9 @@
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/storyblok/storyblok.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md",
       "salaryAsk": "52,000-88,000 USD/year",
-      "outreach": "HR message drafted",
-      "outreachUrl": true,
-      "updatedAt": "2026-06-04T10:17:16.842Z"
+      "outreach": "HR message drafted; application sent",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-04T18:22:41.249Z"
     },
     {
       "slug": "strategicsiq",
