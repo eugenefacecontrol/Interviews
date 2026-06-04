@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T17:36:04.691Z",
+  "generatedAt": "2026-06-04T17:38:15.315Z",
   "companies": [
     {
       "slug": "acronis",
@@ -28,21 +28,21 @@
       "name": "Actimind",
       "role": "Middle QA Engineer (Python/AI)",
       "stack": "Manual QA, web/mobile/API, Python, Pytest, Requests, Locust, Playwright, SQL, Docker, TeamCity, Grafana, AI tools",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready_hr_text_ready",
-      "process": "Hirify export 2026-06-03: selected as remote QA role with gradual Python/AI automation growth. CV and HR outreach text prepared.",
+      "status": "closed",
+      "stage": "compensation_too_low",
+      "process": "Hirify export 2026-06-03: selected as remote QA role with gradual Python/AI automation growth. CV, separate cover letter, and HR outreach text prepared. Yauheni clarified on 2026-06-04 that the listed compensation from 2,200 USD/month is too weak for the current search.",
       "requirements": "Commercial QA from 1 year; test analysis/design; web app architecture; programming basics and willingness to grow Python automation; English A2+; SQL/DevTools/REST/SPA/Linux/Docker/load/security as plus. Salary listed from 2,200 USD.",
-      "notes": "Lower grade but realistic fit if compensation and scope are acceptable. Strong angle: manual QA plus automation growth, API/backend, documentation, AI-assisted workflows.",
+      "notes": "Closed as compensation mismatch on 2026-06-04. Lower grade and salary from 2,200 USD/month are below current target. Strong angle was manual QA plus automation growth, API/backend, documentation, AI-assisted workflows, but not worth prioritizing at this compensation level. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/actimind-qa-python-ai/actimind-qa-python-ai.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/actimind-qa-python-ai/cover-letter.md",
       "links": [
         "https://hirify.me/jobs/603784-middle-qa-engineer-pythonai"
       ],
       "fit": "77/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/actimind-qa-python-ai/actimind-qa-python-ai.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/actimind-qa-python-ai/cover-letter.md",
-      "salaryAsk": "120-140 PLN/h gross preferred; evaluate against listed from 2,200 USD/month",
-      "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
+      "salaryAsk": "Listed from 2,200 USD/month; below target",
+      "outreach": "Closed: compensation too low",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T16:55:18.710Z"
+      "updatedAt": "2026-06-04T17:38:15.304Z"
     },
     {
       "slug": "ailleron",

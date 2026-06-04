@@ -5,7 +5,7 @@ This is the canonical human-readable list of interview companies.
 | Company | Status | Stage | Fit | Recommended CV | Cover Letter | Salary Ask | Outreach | Last update |
 |---|---|---|---|---|---|---|---|---|
 | Acronis | target | cv_to_send | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf |  |  | CV context prepared | 2026-05-25T16:01:09.179Z |
-| Actimind | target | cv_ready_cover_letter_ready_hr_text_ready | 77/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/actimind-qa-python-ai/actimind-qa-python-ai.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/actimind-qa-python-ai/cover-letter.md | 120-140 PLN/h gross preferred; evaluate against listed from 2,200 USD/month | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-04T16:55:18.710Z |
+| Actimind | closed | compensation_too_low | 77/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/actimind-qa-python-ai/actimind-qa-python-ai.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/actimind-qa-python-ai/cover-letter.md | Listed from 2,200 USD/month; below target | Closed: compensation too low | 2026-06-04T17:38:15.304Z |
 | Ailleron | applied | cv_sent | 7/10 | CV 2 |  |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
 | AirHelp | rejected | rejected_from_gmail_label | 8.5/10 | CV 2 |  |  | Michał Sabat — LinkedIn message sent | 2026-05-25T16:01:09.773Z |
 | Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
