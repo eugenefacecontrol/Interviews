@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T16:18:34.680Z",
+  "generatedAt": "2026-06-04T16:23:52.636Z",
   "companies": [
     {
       "slug": "acronis",
@@ -127,9 +127,9 @@
       "stack": "Java, JUnit/TestNG, REST Assured, Postman, Maven/Gradle, Git, Jenkins/GitLab CI/Azure DevOps, SQL, Docker, Kubernetes, Splunk/ELK, Kafka, ISO 20022, SWIFT MT/MX, payments",
       "status": "applied",
       "stage": "application_sent",
-      "process": "Target role provided by Yauheni on 2026-05-29 from LinkedIn job 4414566596. CV refreshed and PDF regenerated. On 2026-06-04 Anna Grzanecka sent a matching recruiter offer for Senior Automation Test Engineer (Java, API) in payments. Yauheni applied on 2026-06-04 via eRecruiter form.",
+      "process": "Target role provided by Yauheni on 2026-05-29 from LinkedIn job 4414566596. CV refreshed and PDF regenerated. On 2026-06-04 Anna Grzanecka sent a matching recruiter offer for Senior Automation Test Engineer (Java, API) in payments. Yauheni applied on 2026-06-04 via eRecruiter form. eRecruiter/ALTEN confirmation received on 2026-06-04 for [K] [IP] Automation Test Engineer (Java, API) 57740.",
       "requirements": "Senior Automation Test Engineer for payment platforms. Build and maintain Java automation frameworks and libraries focused on API and integrations. Automate regression for critical payment paths and exception cases. Integrate tests into CI/CD and reports such as Allure/Extent. Validate payment-processing rules: settlement terms, fees, transaction validation, routing, exception handling. Work with POs, Developers and BAs on acceptance criteria and release readiness. Requirements: 6+ years automation, Java clean code/OOP/design patterns, JUnit/TestNG, REST Assured, Postman, Maven/Gradle, Git, Jenkins/GitLab CI/Azure DevOps, ISO 20022, SWIFT MT/MX, API/integration/event-driven architecture testing with Kafka, SQL, Docker, Kubernetes, observability tools such as Splunk/ELK, very good English.",
-      "notes": "Applied on 2026-06-04 through eRecruiter form. Anna Grzanecka provided concrete conditions: B2B up to 160 PLN/h net + VAT or UoP up to 19,000 PLN gross; hybrid model 6 days/month in Krakow; working language English. Yauheni used UoP salary expectation: 19,000 PLN gross/month. Fit remains strong on QA automation, API/service-level testing, CI/CD, SQL/log diagnostics, enterprise workflows and payments-adjacent experience. Main gaps: Java is earlier automation foundation rather than the strongest recent stack; ISO 20022/SWIFT should be framed as adjacent banking/payment workflow exposure and focused ramp-up, not deep specialist ownership. Recommended PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alten-polska/alten-polska.cv.Yauheni.Sheima.pdf.",
+      "notes": "Applied on 2026-06-04 through eRecruiter form. eRecruiter/ALTEN confirmation received on 2026-06-04; candidate account prompt also received for the same application. Anna Grzanecka provided concrete conditions: B2B up to 160 PLN/h net + VAT or UoP up to 19,000 PLN gross; hybrid model 6 days/month in Krakow; working language English. Yauheni used UoP salary expectation: 19,000 PLN gross/month. Fit remains strong on QA automation, API/service-level testing, CI/CD, SQL/log diagnostics, enterprise workflows and payments-adjacent experience. Main gaps: Java is earlier automation foundation rather than the strongest recent stack; ISO 20022/SWIFT should be framed as adjacent banking/payment workflow exposure and focused ramp-up, not deep specialist ownership. Recommended PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alten-polska/alten-polska.cv.Yauheni.Sheima.pdf.",
       "links": [
         "https://www.linkedin.com/jobs/view/4414566596",
         "https://form.erecruiter.pl/form/16227ca2a03a4d9f8e391f356cc1d7da"
@@ -137,9 +137,9 @@
       "fit": "82/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alten-polska/alten-polska.cv.Yauheni.Sheima.pdf",
       "salaryAsk": "UoP: 19,000 PLN gross/month; offer range also listed B2B up to 160 PLN/h net + VAT",
-      "outreach": "Anna Grzanecka — recruiter message received; applied via eRecruiter form",
+      "outreach": "Anna Grzanecka — recruiter message received; applied via eRecruiter form; application confirmation received",
       "outreachUrl": "https://form.erecruiter.pl/form/16227ca2a03a4d9f8e391f356cc1d7da",
-      "updatedAt": "2026-06-04T16:18:34.670Z",
+      "updatedAt": "2026-06-04T16:23:52.626Z",
       "coverLetter": ""
     },
     {
@@ -993,11 +993,11 @@
       "name": "GROWE",
       "role": "Senior Automation QA Engineer",
       "stack": "Playwright, JavaScript, TypeScript, REST API, SQL/NoSQL, CI/CD, Agile/Scrum, AI agents plus",
-      "status": "applied",
-      "stage": "application_sent",
-      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter added on 2026-06-04. Gmail confirmation from Growe Talents received on 2026-06-04: application received successfully.",
+      "status": "rejected",
+      "stage": "rejected_after_application",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter added on 2026-06-04. Application confirmation from Growe Talents received on 2026-06-04, then rejection received later the same day.",
       "requirements": "4+ years commercial test automation; JavaScript and TypeScript; Playwright; client-server architecture; REST API; SQL/NoSQL; CI/CD; automation frameworks from scratch; Python and AI agents are plus.",
-      "notes": "Applied on 2026-06-04. Anywhere. Very good stack match: Playwright, JS/TS, REST, DB, CI/CD, framework from scratch. Form asks Ukrainian proficiency; Yauheni can answer honestly if needed later. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md",
+      "notes": "Applied on 2026-06-04. Rejected by Growe Talents on 2026-06-04: while this role is not the right match at the moment, they will keep the profile in mind for future opportunities. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md",
       "links": [
         "https://job-boards.eu.greenhouse.io/growe/jobs/4874623101"
       ],
@@ -1005,9 +1005,9 @@
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md",
       "salaryAsk": "",
-      "outreach": "Application confirmation received",
+      "outreach": "Rejected by Growe Talents",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T10:44:21.675Z"
+      "updatedAt": "2026-06-04T16:23:52.307Z"
     },
     {
       "slug": "happy-team",
@@ -2570,9 +2570,9 @@
       "stack": "AI-first QA, mobile/web/API testing, Appium, Selenium, Playwright, Cypress, Postman, REST Assured, Python, JavaScript, CI/CD, performance testing",
       "status": "applied",
       "stage": "application_sent",
-      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Global remote including Europe/EMEA/Eastern Europe. Cover letter added on 2026-06-04. Yauheni applied on 2026-06-04.",
+      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Global remote including Europe/EMEA/Eastern Europe. Cover letter added on 2026-06-04. Yauheni applied on 2026-06-04. BambooHR/Gmail confirmation received on 2026-06-04 for Senior QA Automation Engineer | AI-Augmented.",
       "requirements": "Senior QA Automation Engineer owning quality orchestration across mobile, web and API. Responsibilities: AI-assisted test generation, data creation, failure triage, strategy and risk analysis; automation frameworks across mobile/web/API; custom prompt libraries, triage pipelines and synthetic data workflows; full development cycle. Requirements: 5+ years QA, 3+ automation, mobile iOS/Android, Appium, Selenium/Playwright/Cypress, Postman/REST Assured, Python primary, JavaScript secondary, AI tools, CI/CD nice-to-have.",
-      "notes": "Applied on 2026-06-04. Good global remote option but not the cleanest fit: strong on QA strategy, web/API automation, Selenium/Playwright direction, API testing and AI-assisted workflows. Risks: mobile/Appium and Python-primary focus are ramp-up areas. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/yonder-media-mobile/yonder-media-mobile.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/yonder-media-mobile/cover-letter.md",
+      "notes": "Applied on 2026-06-04. Application confirmation received from Yonder Media Mobile/BambooHR on 2026-06-04: application received for Senior QA Automation Engineer | AI-Augmented. Good global remote option but not the cleanest fit: strong on QA strategy, web/API automation, Selenium/Playwright direction, API testing and AI-assisted workflows. Risks: mobile/Appium and Python-primary focus are ramp-up areas. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/yonder-media-mobile/yonder-media-mobile.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/yonder-media-mobile/cover-letter.md",
       "links": [
         "https://remotive.com/remote/jobs/qa/senior-qa-automation-engineer-4537759",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/yonder-media-mobile/yonder-media-mobile.cv.Yauheni.Sheima.pdf"
@@ -2580,10 +2580,10 @@
       "fit": "73/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/yonder-media-mobile/yonder-media-mobile.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/yonder-media-mobile/cover-letter.md",
-      "salaryAsk": true,
-      "outreach": "HR message drafted",
+      "salaryAsk": "",
+      "outreach": "Application confirmation received",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T10:42:27.132Z"
+      "updatedAt": "2026-06-04T16:23:52.466Z"
     },
     {
       "slug": "youriteams",

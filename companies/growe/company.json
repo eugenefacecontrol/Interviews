@@ -3,11 +3,11 @@
   "name": "GROWE",
   "role": "Senior Automation QA Engineer",
   "stack": "Playwright, JavaScript, TypeScript, REST API, SQL/NoSQL, CI/CD, Agile/Scrum, AI agents plus",
-  "status": "applied",
-  "stage": "application_sent",
-  "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter added on 2026-06-04. Gmail confirmation from Growe Talents received on 2026-06-04: application received successfully.",
+  "status": "rejected",
+  "stage": "rejected_after_application",
+  "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter added on 2026-06-04. Application confirmation from Growe Talents received on 2026-06-04, then rejection received later the same day.",
   "requirements": "4+ years commercial test automation; JavaScript and TypeScript; Playwright; client-server architecture; REST API; SQL/NoSQL; CI/CD; automation frameworks from scratch; Python and AI agents are plus.",
-  "notes": "Applied on 2026-06-04. Anywhere. Very good stack match: Playwright, JS/TS, REST, DB, CI/CD, framework from scratch. Form asks Ukrainian proficiency; Yauheni can answer honestly if needed later. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md",
+  "notes": "Applied on 2026-06-04. Rejected by Growe Talents on 2026-06-04: while this role is not the right match at the moment, they will keep the profile in mind for future opportunities. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md",
   "links": [
     "https://job-boards.eu.greenhouse.io/growe/jobs/4874623101"
   ],
@@ -15,7 +15,7 @@
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md",
   "salaryAsk": "",
-  "outreach": "Application confirmation received",
+  "outreach": "Rejected by Growe Talents",
   "outreachUrl": "",
-  "updatedAt": "2026-06-04T10:44:21.675Z"
+  "updatedAt": "2026-06-04T16:23:52.307Z"
 }

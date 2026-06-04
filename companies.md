@@ -10,7 +10,7 @@ This is the canonical human-readable list of interview companies.
 | AirHelp | rejected | rejected_from_gmail_label | 8.5/10 | CV 2 |  |  | Michał Sabat — LinkedIn message sent | 2026-05-25T16:01:09.773Z |
 | Akamai Technologies | target | cv_to_send | 5/10 | CV 2 |  |  | Marlena Misiarz — preparing outreach | 2026-05-12T09:00:00.000Z |
 | Alior Bank | target | cv_to_send | 5/10 |  |  |  |  | 2026-04-02T22:38:53.974750+00:00 |
-| ALTEN Polska | applied | application_sent | 82/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alten-polska/alten-polska.cv.Yauheni.Sheima.pdf |  | UoP: 19,000 PLN gross/month; offer range also listed B2B up to 160 PLN/h net + VAT | Anna Grzanecka — recruiter message received; applied via eRecruiter form | 2026-06-04T16:18:34.670Z |
+| ALTEN Polska | applied | application_sent | 82/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alten-polska/alten-polska.cv.Yauheni.Sheima.pdf |  | UoP: 19,000 PLN gross/month; offer range also listed B2B up to 160 PLN/h net + VAT | Anna Grzanecka — recruiter message received; applied via eRecruiter form; application confirmation received | 2026-06-04T16:23:52.626Z |
 | Andersen | target | recruiter_outreach | 7/10 | CV 2 |  |  | Recruiter outreach from Yana Budulatii (LinkedIn) | 2026-04-17T11:44:37.677Z |
 | Antal | applied | application_sent | 6/10 | CV 2 |  |  | Applied via JustJoinIt | 2026-04-08T10:35:05.105Z |
 | Antal Sp. z o.o. | target | cv_to_send | 83/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.399Z |
@@ -55,7 +55,7 @@ This is the canonical human-readable list of interview companies.
 | GR8 Tech | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.552Z |
 | Grape Up | rejected | rejected_from_gmail_label | 9/10 | CV 2 |  |  | Rejected after applying to talent pool opening | 2026-05-25T16:01:09.677Z |
 | Green Hive Technology | target | cv_to_send | 51/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.954Z |
-| GROWE | applied | application_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md |  | Application confirmation received | 2026-06-04T10:44:21.675Z |
+| GROWE | rejected | rejected_after_application | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md |  | Rejected by Growe Talents | 2026-06-04T16:23:52.307Z |
 | Happy Team | target | cv_to_send | 41/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.134Z |
 | HEINEKEN | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.411Z |
 | Hidden Company via Hirify | target | cv_ready_hr_text_ready | 74/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md | 120-140 PLN/h gross or equivalent; role listed 4,000-8,000 USD gross/month | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-03T15:59:12.156Z |
@@ -136,5 +136,5 @@ This is the canonical human-readable list of interview companies.
 | Wipro | rejected | rejected_after_application_review | 6/10 | CV 2 |  | 800 PLN/day | Sri Latha (Infinity Quest) - recruiter outreach | 2026-05-28T15:03:59.878Z |
 | Xebia | target | cv_to_send | 68/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.831Z |
 | XM | interviewing | hr_screen_completed_waiting_technical_feedback | 70/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xm/xm.cv.Yauheni.Sheima.pdf |  | 4,500 EUR/month B2B (application previously: 56,500 EUR/year) |  | 2026-06-02T09:05:06.004Z |
-| Yonder Media Mobile | applied | application_sent | 73/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/yonder-media-mobile/yonder-media-mobile.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/yonder-media-mobile/cover-letter.md | true | HR message drafted | 2026-06-04T10:42:27.132Z |
+| Yonder Media Mobile | applied | application_sent | 73/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/yonder-media-mobile/yonder-media-mobile.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/yonder-media-mobile/cover-letter.md |  | Application confirmation received | 2026-06-04T16:23:52.466Z |
 | YourITeams | target | cv_to_send | 0/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.195Z |
