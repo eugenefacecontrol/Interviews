@@ -18,12 +18,14 @@ const rows = data.companies.length
       const outreachCell = outreachUrl && outreachLabel
         ? `<a href="${escapeAttribute(outreachUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(outreachLabel)}</a>`
         : escapeHtml(outreachLabel);
+      const materialsCell = renderMaterialsCell(c, primaryLink, outreachUrl);
       return `<tr>
         <td data-column="company">${escapeHtml(c.name || '')}</td>
         <td data-column="role">${escapeHtml(c.role || '')}</td>
         <td data-column="salary">${escapeHtml(c.salary || '')}</td>
         <td data-column="stack">${escapeHtml(c.stack || '')}</td>
         <td data-column="fit">${escapeHtml(c.fit || '')}</td>
+        <td data-column="materials">${materialsCell}</td>
         <td data-column="cv">${escapeHtml(c.recommendedCv || c.cv || '')}</td>
         <td data-column="coverLetter">${escapeHtml(c.coverLetter || '')}</td>
         <td data-column="salaryAsk">${escapeHtml(c.salaryAsk || '')}</td>
@@ -35,7 +37,7 @@ const rows = data.companies.length
         <td data-column="updatedAt">${escapeHtml(c.updatedAt || '')}</td>
       </tr>`;
     }).join('\n')
-  : '<tr><td colspan="14">No companies yet.</td></tr>';
+  : '<tr><td colspan="15">No companies yet.</td></tr>';
 
 const html = `<!doctype html>
 <html lang="en">
@@ -58,6 +60,13 @@ const html = `<!doctype html>
     code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
     a { color: #0b57d0; }
     .summary { margin: 10px 0 16px; color: #555; font-size: 14px; }
+    .materials-compact { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 6px; }
+    .material-chip { display: inline-flex; max-width: 220px; padding: 2px 7px; border: 1px solid #ddd; border-radius: 999px; background: #fafafa; color: #333; font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .material-chip[href] { color: #0b57d0; text-decoration: none; }
+    details.materials-details summary { color: #0b57d0; cursor: pointer; font-size: 13px; }
+    .materials-list { margin: 8px 0 0; padding-left: 18px; font-size: 13px; }
+    .materials-list li { margin: 3px 0; overflow-wrap: anywhere; }
+    .material-label { color: #555; font-weight: 600; }
   </style>
 </head>
 <body>
@@ -95,6 +104,7 @@ const html = `<!doctype html>
         <th data-column="salary">Salary</th>
         <th data-column="stack">Stack</th>
         <th data-column="fit">Fit</th>
+        <th data-column="materials">Vacancy Materials</th>
         <th data-column="cv">CV</th>
         <th data-column="coverLetter">Cover Letter</th>
         <th data-column="salaryAsk">Salary Ask</th>
@@ -270,4 +280,102 @@ function escapeAttribute(value) {
 function extractFirstUrl(text) {
   const match = String(text || '').match(/https?:\/\/[^\s)]+/);
   return match ? match[0] : '';
+}
+
+function renderMaterialsCell(company, primaryLink, outreachUrl) {
+  const materials = collectVacancyMaterials(company, primaryLink, outreachUrl);
+  if (!materials.length) return '';
+
+  const compact = materials
+    .filter(item => item.compact)
+    .slice(0, 3)
+    .map(item => renderMaterialChip(item))
+    .join('');
+  const list = materials
+    .map(item => `<li><span class="material-label">${escapeHtml(item.label)}:</span> ${renderMaterialValue(item)}</li>`)
+    .join('');
+
+  return `${compact ? `<div class="materials-compact">${compact}</div>` : ''}
+    <details class="materials-details">
+      <summary>Read more</summary>
+      <ul class="materials-list">${list}</ul>
+    </details>`;
+}
+
+function collectVacancyMaterials(company, primaryLink, outreachUrl) {
+  const materials = [];
+  const seen = new Set();
+
+  addMaterial(materials, seen, 'CV', company.recommendedCv || company.cv || '', true);
+  addMaterial(materials, seen, 'Cover letter', company.coverLetter || '', true);
+  addMaterial(materials, seen, 'Apply link', primaryLink || '', true);
+  addMaterial(materials, seen, 'Outreach URL', outreachUrl || '', false);
+  if (company.outreach && !outreachUrl) {
+    addMaterial(materials, seen, 'Outreach note', company.outreach, false);
+  }
+
+  (Array.isArray(company.links) ? company.links : []).forEach((link, index) => {
+    addMaterial(materials, seen, index === 0 ? 'Primary link' : 'Related link', link, false);
+  });
+
+  const slug = company.slug || '';
+  if (slug) {
+    const folder = path.join('companies', slug);
+    addMaterial(materials, seen, 'Vacancy folder', folder + '/', false);
+    listVacancyFiles(folder).forEach(file => {
+      addMaterial(materials, seen, 'Vacancy file', file, false);
+    });
+  }
+
+  extractLocalPaths([company.process, company.requirements, company.notes].join(' ')).forEach(file => {
+    addMaterial(materials, seen, 'Referenced file', file, false);
+  });
+
+  return materials;
+}
+
+function addMaterial(materials, seen, label, value, compact) {
+  const cleanValue = String(value || '').trim();
+  if (!cleanValue) return;
+  const key = cleanValue;
+  if (seen.has(key)) return;
+  seen.add(key);
+  materials.push({ label, value: cleanValue, compact });
+}
+
+function listVacancyFiles(folder) {
+  const absoluteFolder = path.join(root, folder);
+  if (!fs.existsSync(absoluteFolder)) return [];
+  return fs.readdirSync(absoluteFolder, { withFileTypes: true })
+    .filter(entry => entry.isFile())
+    .map(entry => path.join(folder, entry.name))
+    .sort((a, b) => a.localeCompare(b));
+}
+
+function extractLocalPaths(text) {
+  const matches = String(text || '').match(/(?:\/Users\/[^\s),]+|[A-Za-z0-9_.@()+-]+\.(?:md|pdf|json|html|docx?|txt))/g) || [];
+  return [...new Set(matches.map(value => value.replace(/[.,;:]+$/, '')))];
+}
+
+function renderMaterialChip(item) {
+  const label = escapeHtml(item.label);
+  const title = escapeAttribute(item.value);
+  const href = materialHref(item.value);
+  if (href) {
+    return `<a class="material-chip" href="${escapeAttribute(href)}" target="_blank" rel="noopener noreferrer" title="${title}">${label}</a>`;
+  }
+  return `<span class="material-chip" title="${title}">${label}</span>`;
+}
+
+function renderMaterialValue(item) {
+  const href = materialHref(item.value);
+  if (href) {
+    return `<a href="${escapeAttribute(href)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.value)}</a>`;
+  }
+  return `<code>${escapeHtml(item.value)}</code>`;
+}
+
+function materialHref(value) {
+  if (/^https?:\/\//.test(value)) return value;
+  return '';
 }
