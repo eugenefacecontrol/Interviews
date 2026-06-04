@@ -2,16 +2,16 @@
 
 - Role: Senior QA Automation Engineer (Contract)
 - Stack: Playwright/Selenium, UI/browser testing, API testing, CI/CD, k6/JMeter, Agile, AI-assisted testing
-- Status: target
-- Stage: cv_ready_cover_letter_ready
+- Status: applied
+- Stage: application_sent
 - Fit: 78/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scaletech/scaletech.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/scaletech/cover-letter.md
-- Salary Ask: —
-- Outreach: —
+- Salary Ask: not listed
+- Outreach: Application submitted via Lever
 
 ## Process
-Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.
+Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Application submitted on 2026-06-04.
 
 ## Requirements
 Strong UI/browser automation; Playwright or Selenium; API testing; CI/CD integration; performance/stress testing exposure with k6/JMeter; Agile/Scrum; quality-first release risk communication.
