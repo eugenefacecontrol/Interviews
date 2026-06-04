@@ -5,7 +5,7 @@
   "stack": "C#, .NET, Python/Golang, Selenium or similar, XUnit or similar, REST/GraphQL API, Web UI automation, CI/CD, Jenkins/GitLab/GitHub Actions, Allure, TDD/BDD, AI for testing",
   "status": "target",
   "stage": "recruiter_reply_to_send",
-  "process": "Inbound recruiter message from Kseniya Vishnevskaya on 2026-06-04. Remote AQA role for an online inspection and real-time quality-control platform in the automotive industry. Yauheni said the vacancy looks interesting; next step is to reply and continue conversation before applying.",
+  "process": "Inbound recruiter message from Kseniya Vishnevskaya on LinkedIn on 2026-06-04. Remote AQA role for an online inspection and real-time quality-control platform in the automotive industry. Yauheni said the vacancy looks interesting; next step is to reply and continue conversation before applying.",
   "requirements": "Middle AQA, remote, full-time, 3+ years. Build automated frameworks from scratch; API and Web UI automation for REST/GraphQL; CI/CD integration; code reviews and OOP; investigate failures/flaky tests; requirements review; Agile collaboration; optimize test suites and report metrics. Required: 3+ years AQA, testing theory/methodology, web/mobile testing tools, AI usage for testing, functional/regression/smoke/ad-hoc testing, English B2+, C#/.NET backend development experience, Python and/or Golang, Selenium or similar, XUnit or similar, TDD/BDD, integration/programmatic testing, test plans in CI/CD.",
   "notes": "Good general QA automation fit: framework building, API/UI automation, CI/CD, defect analysis, reporting, and automotive quality-control domain. Main risk: role explicitly asks for extensive C#/.NET backend development and Python/Golang; position carefully as QA automation with C#/Selenium foundation and practical Python scripting, without overstating backend ownership. Suggested temporary CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf. Better next step: generate Aristek-specific CV before applying.",
   "links": [
@@ -15,7 +15,7 @@
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf",
   "coverLetter": "",
   "salaryAsk": "",
-  "outreach": "Kseniya Vishnevskaya — recruiter message received",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-04T16:03:28.551Z"
+  "outreach": "Kseniya Vishnevskaya — LinkedIn recruiter message received",
+  "outreachUrl": "https://www.linkedin.com/in/kseniyavishnevskaya/",
+  "updatedAt": "2026-06-04T18:08:56.403Z"
 }

@@ -14,7 +14,7 @@ This is the canonical human-readable list of interview companies.
 | Andersen | target | recruiter_outreach | 7/10 | CV 2 |  |  | Recruiter outreach from Yana Budulatii (LinkedIn) | 2026-04-17T11:44:37.677Z |
 | Antal | applied | application_sent | 6/10 | CV 2 |  |  | Applied via JustJoinIt | 2026-04-08T10:35:05.105Z |
 | Antal Sp. z o.o. | target | cv_to_send | 83/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.399Z |
-| Aristek Systems | target | recruiter_reply_to_send | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf |  |  | Kseniya Vishnevskaya — recruiter message received | 2026-06-04T16:03:28.551Z |
+| Aristek Systems | target | recruiter_reply_to_send | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf |  |  | Kseniya Vishnevskaya — LinkedIn recruiter message received | 2026-06-04T18:08:56.403Z |
 | Aristocrat | applied | application_sent | 8/10 | CV 2 |  |  | Applied via JustJoinIt | 2026-05-08T09:00:00.000Z |
 | Asseco Poland S.A. | target | cv_to_send | 89/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.208Z |
 | Atos | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.314Z |

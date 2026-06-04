@@ -8,10 +8,10 @@
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf
 - Cover Letter: —
 - Salary Ask: —
-- Outreach: Kseniya Vishnevskaya — recruiter message received
+- Outreach: Kseniya Vishnevskaya — LinkedIn recruiter message received
 
 ## Process
-Inbound recruiter message from Kseniya Vishnevskaya on 2026-06-04. Remote AQA role for an online inspection and real-time quality-control platform in the automotive industry. Yauheni said the vacancy looks interesting; next step is to reply and continue conversation before applying.
+Inbound recruiter message from Kseniya Vishnevskaya on LinkedIn on 2026-06-04. Remote AQA role for an online inspection and real-time quality-control platform in the automotive industry. Yauheni said the vacancy looks interesting; next step is to reply and continue conversation before applying.
 
 ## Requirements
 Middle AQA, remote, full-time, 3+ years. Build automated frameworks from scratch; API and Web UI automation for REST/GraphQL; CI/CD integration; code reviews and OOP; investigate failures/flaky tests; requirements review; Agile collaboration; optimize test suites and report metrics. Required: 3+ years AQA, testing theory/methodology, web/mobile testing tools, AI usage for testing, functional/regression/smoke/ad-hoc testing, English B2+, C#/.NET backend development experience, Python and/or Golang, Selenium or similar, XUnit or similar, TDD/BDD, integration/programmatic testing, test plans in CI/CD.
