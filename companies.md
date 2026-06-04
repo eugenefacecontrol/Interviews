@@ -79,7 +79,7 @@ This is the canonical human-readable list of interview companies.
 | Mesh | target | cv_ready | 73/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:50.062Z |
 | Miquido | applied | application_sent | 7/10 | CV 2 |  |  | Applied via company site | 2026-04-08T10:29:36.348Z |
 | Mitrix Technology | rejected | rejected | low | CV 2 |  |  |  | 2026-04-02T13:53:34.666Z |
-| MLabs | target | cv_ready | 80/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mlabs/mlabs.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:49.301Z |
+| MLabs | target | cv_ready_cover_letter_ready | 80/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mlabs/mlabs.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/mlabs/cover-letter.md |  |  | 2026-06-04T09:57:18.197Z |
 | Montrose Software | target | cv_prepared | 80/100 | tailored-cv/montrose-software-qa-automation-engineer.md |  |  | CV prepared | 2026-05-06T18:00:20.505Z |
 | Motorola Solutions | rejected | rejected_from_gmail_label | 8/10 | CV 2 |  |  |  | 2026-05-25T16:01:10.014Z |
 | N-iX | applied | application_sent | 76/100 | CV 2 |  |  | Applied via Olga Dmytryshyn | 2026-04-24T17:32:02.889Z |
