@@ -4,7 +4,7 @@
   "role": "Senior Test Automation Engineer",
   "stack": "C#, .NET, Selenium, Playwright, Microsoft SQL Server, API testing, Integration testing, Azure DevOps pipelines, CI/CD, NUnit/xUnit/MSTest, PowerShell, BDD/SpecFlow, AI-assisted development tools",
   "status": "target",
-  "stage": "cv_to_send_outreach_to_send",
+  "stage": "cv_to_send_outreach_to_send_cover_letter_ready",
   "process": "Target application for Senior Test Automation Engineer. LinkedIn HR outreach message drafted for Małgorzata; not marked as sent.",
   "requirements": "5+ years test automation; test plans, test cases and test procedures; functional, GUI, integration, regression, data validation and UI testing; defect feedback and quality improvements; scrum collaboration; code reviews; CI/CD integration; C#/.NET; SQL Server; Azure DevOps pipelines/releases; API testing; Selenium and Playwright; NUnit/xUnit/MSTest; nice-to-have PowerShell, Azure WebApps/Functions/APIs, BDD/SpecFlow, AI-assisted development tools.",
   "notes": "Strong match on senior QA automation, C#/.NET foundation, Selenium, API/integration testing, SQL validation, Azure DevOps/CI/CD and framework improvement. Playwright is a current hands-on modern automation direction supported by broader 7+ years QA automation experience. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf",
@@ -13,9 +13,9 @@
   ],
   "fit": "86/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf",
-  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/omada/cover-letter.txt",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/omada/cover-letter.md",
   "salaryAsk": "20 500-22 500 PLN gross/month listed",
   "outreach": "Małgorzata — LinkedIn message drafted",
   "outreachUrl": "https://www.linkedin.com/in/ma%C5%82gorzata-strzelecka-388879101/?locale=en",
-  "updatedAt": "2026-05-29T15:17:44.738Z"
+  "updatedAt": "2026-06-04T18:39:32.262Z"
 }

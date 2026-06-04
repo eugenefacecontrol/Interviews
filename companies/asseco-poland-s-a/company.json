@@ -1,8 +1,10 @@
 {
   "slug": "asseco-poland-s-a",
   "name": "Asseco Poland S.A.",
+  "role": "",
+  "stack": "",
   "status": "target",
-  "stage": "cv_to_send",
+  "stage": "cv_to_send_cover_letter_ready",
   "process": "Imported from JustJoinIt shortlist",
   "requirements": "Tester Automatyzujący (m/k/os.); Stack: Playwright, Java, Selenium, REST, API, CI/CD",
   "notes": "Imported from ranked shortlist CSV. Vacancy: Tester Automatyzujący (m/k/os.).",
@@ -11,6 +13,9 @@
   ],
   "fit": "89/100",
   "recommendedCv": "CV 2",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/asseco-poland-s-a/cover-letter.md",
+  "salaryAsk": "",
   "outreach": "Shortlisted from CSV",
-  "updatedAt": "2026-04-16T10:25:48.208Z"
+  "outreachUrl": "",
+  "updatedAt": "2026-06-04T18:39:30.575Z"
 }

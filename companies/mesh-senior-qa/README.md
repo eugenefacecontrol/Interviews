@@ -3,10 +3,10 @@
 - Role: Senior QA Automation Engineer
 - Stack: Playwright, Cypress, JavaScript, TypeScript, Python, CI/CD, API testing, AI-assisted tooling
 - Status: target
-- Stage: cv_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 73/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf
-- Cover Letter: —
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/mesh-senior-qa/cover-letter.md
 - Salary Ask: —
 - Outreach: —
 

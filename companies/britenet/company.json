@@ -1,8 +1,10 @@
 {
   "slug": "britenet",
   "name": "Britenet",
+  "role": "",
+  "stack": "",
   "status": "target",
-  "stage": "cv_to_send",
+  "stage": "cv_to_send_cover_letter_ready",
   "process": "Imported from JustJoinIt shortlist",
   "requirements": "QA Automation Engineer (Low-Code Platform); Stack: REST, API",
   "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (Low-Code Platform).",
@@ -11,6 +13,9 @@
   ],
   "fit": "56/100",
   "recommendedCv": "CV 2",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/britenet/cover-letter.md",
+  "salaryAsk": "",
   "outreach": "Shortlisted from CSV",
-  "updatedAt": "2026-04-16T10:25:48.893Z"
+  "outreachUrl": "",
+  "updatedAt": "2026-06-04T18:39:30.671Z"
 }

@@ -1,8 +1,10 @@
 {
   "slug": "xebia",
   "name": "Xebia",
+  "role": "",
+  "stack": "",
   "status": "target",
-  "stage": "cv_to_send",
+  "stage": "cv_to_send_cover_letter_ready",
   "process": "Imported from JustJoinIt shortlist",
   "requirements": "👉 QA Automation - Kraków; Stack: Java, Selenium, REST, API, CI/CD, Jenkins",
   "notes": "Imported from ranked shortlist CSV. Vacancy: 👉 QA Automation - Kraków.",
@@ -11,6 +13,9 @@
   ],
   "fit": "68/100",
   "recommendedCv": "CV 2",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/xebia/cover-letter.md",
+  "salaryAsk": "",
   "outreach": "Shortlisted from CSV",
-  "updatedAt": "2026-04-16T10:25:48.831Z"
+  "outreachUrl": "",
+  "updatedAt": "2026-06-04T18:39:33.309Z"
 }

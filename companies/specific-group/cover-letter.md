@@ -1,0 +1,14 @@
+# Specific-Group - QA Automation Engineer Cover Letter
+
+Dear Specific-Group team,
+
+I am interested in the QA Automation Engineer role. I bring 7+ years of QA and QA automation experience across UI/API testing, automation support, regression validation, defect investigation, test documentation and collaboration with engineering teams.
+
+The relevant overlap is around web automation and maintainable test suites, API validation and service-level quality checks, CI/CD quality feedback, performance-aware testing. I have worked with practical automation around Selenium and Playwright-oriented workflows, API testing, CI/CD feedback, SQL/log-based diagnostics, clear bug evidence and risk-based release support. My approach is pragmatic: automate checks that give reliable signal, keep exploratory testing for uncertain flows, and make test results useful for developers.
+
+The role's stack and expectations around QA automation, UI/API testing, CI/CD, test design and defect investigation are close to the kind of quality work I want to continue building. The financial context is relevant because reliable regression coverage, traceability and careful edge-case handling matter in systems where defects can be costly. Some areas, including German-language expectations, are things I would approach honestly as ramp-up topics while relying on my broader QA automation foundation.
+
+I would be glad to discuss how my QA automation and product-quality background can support your team.
+
+Best regards,
+Yauheni Sheima

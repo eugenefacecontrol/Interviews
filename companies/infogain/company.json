@@ -1,8 +1,10 @@
 {
   "slug": "infogain",
   "name": "Infogain",
+  "role": "",
+  "stack": "",
   "status": "target",
-  "stage": "cv_to_send",
+  "stage": "cv_to_send_cover_letter_ready",
   "process": "Imported from JustJoinIt shortlist",
   "requirements": "Senior QA Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, Performance",
   "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.",
@@ -11,6 +13,9 @@
   ],
   "fit": "88/100",
   "recommendedCv": "CV 2",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/infogain/cover-letter.md",
+  "salaryAsk": "",
   "outreach": "Shortlisted from CSV",
-  "updatedAt": "2026-04-16T10:25:48.335Z"
+  "outreachUrl": "",
+  "updatedAt": "2026-06-04T18:39:31.701Z"
 }

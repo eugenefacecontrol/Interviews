@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-04T18:33:30.989Z",
+  "generatedAt": "2026-06-04T18:39:33.414Z",
   "companies": [
     {
       "slug": "acronis",
       "name": "Acronis",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Preparing CV for LinkedIn Senior Automation QA Engineer role in Acronis Cloud-to-Cloud Backup team. Gmail label Job Search/Rejections: rejection recorded for Senior Automation QA Engineer on 2026-05-14 (not moving forward with candidacy at this time).",
       "requirements": "Senior Automation QA Engineer; Acronis Cloud-to-Cloud Backup team; develop and execute E2E, Component, Acceptance and Regression UI auto tests; collaborate with product managers, developers and global R&D teams; review product requirements; design test suites and test cases; develop automation tests for web UI; participate in automation code reviews; execute and maintain regression test suites; analyze test automation results; maintain documentation of test plans, test cases and test results; 5+ years Automation QA Python Engineer; QA theory; Python; API/UI testing; Playwright framework or similar; Jira; Git; Jenkins; Docker; analytical mindset; communication; Microsoft 365 or similar cloud-based systems is a plus; Upper-intermediate English; application in English; interviews without AI tools/external assistance.",
       "notes": "New Acronis LinkedIn context replaces older rejected Workday role context. Strong fit on 7+ QA automation, Playwright, API/UI automation, E2E/regression testing, Jenkins/Git/Docker, test documentation, automation result analysis, QA theory and cloud-product context. Main gap: Python is practical scripting/automation-adjacent, while recent strongest stack is Playwright/TypeScript/C#/PowerShell; keep this honest. Important interview note: Acronis explicitly prohibits AI tools/external assistance during live interviews. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf Historical rejection source: Gmail label Job Search/Rejections. Role/vacancy: Senior Automation QA Engineer. Date: 2026-05-14. Reason: not moving forward with candidacy at this time.",
@@ -17,11 +17,11 @@
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf",
       "outreach": "CV context prepared",
       "outreachUrl": "",
-      "updatedAt": "2026-05-25T16:01:09.179Z",
+      "updatedAt": "2026-06-04T18:39:29.997Z",
       "role": "Senior Automation QA Engineer",
       "stack": "Python, Playwright, API/UI testing, E2E tests, Component tests, Acceptance tests, Regression UI auto tests, Jira, Git, Jenkins, Docker, QA theory, cloud-based systems",
       "salaryAsk": "",
-      "coverLetter": ""
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/acronis/cover-letter.md"
     },
     {
       "slug": "actimind-qa-python-ai",
@@ -89,7 +89,7 @@
       "slug": "akamai",
       "name": "Akamai Technologies",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Preparing CV for Firmware Quality Assurance Engineer role",
       "requirements": "Linux-based firmware testing, Python programming, networking fundamentals (TCP/IP, DNS, DHCP, VLANs, Routing), API testing, Jira, network lab environments, CI/CD pipelines, firmware update processes, bootloaders, hardware-software interfaces",
       "notes": "Server Hardware Engineering team. Responsible for Linux-based firmware quality in networking environments. Requires expertise in Linux OS, system configuration, log analysis, networking fundamentals, Python programming, API testing tools, firmware update processes, bootloaders, hardware-software interfaces. Flexible work options via FlexBase. Strong fit on Python, API testing, CI/CD, Docker, Kubernetes. Gaps in Linux kernel depth, firmware-specific knowledge, hardware networking. Fit: 5/10.",
@@ -100,25 +100,34 @@
       "recommendedCv": "CV 2",
       "outreach": "Marlena Misiarz — preparing outreach",
       "outreachUrl": "https://www.linkedin.com/in/marlena-misiarz/",
-      "updatedAt": "2026-05-12T09:00:00.000Z"
+      "updatedAt": "2026-06-04T18:39:30.089Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/akamai/cover-letter.md",
+      "salaryAsk": ""
     },
     {
       "slug": "alior-bank",
       "name": "Alior Bank",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Senior Test Automation; Stack: C#, Selenium, Jenkins; Salary: N/A",
       "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
       "links": [
         "https://www.aliorbank.pl/kariera"
       ],
-      "updatedAt": "2026-04-02T22:38:53.974750+00:00",
+      "updatedAt": "2026-06-04T18:39:30.184Z",
       "role": "Senior Test Automation",
       "salary": "N/A",
       "stack": "C#, Selenium, Jenkins",
       "fit": "5/10",
-      "cv": "qa-devops-cv.pdf"
+      "cv": "qa-devops-cv.pdf",
+      "recommendedCv": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/alior-bank/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": ""
     },
     {
       "slug": "alten-polska",
@@ -146,7 +155,7 @@
       "slug": "andersen",
       "name": "Andersen",
       "status": "target",
-      "stage": "recruiter_outreach",
+      "stage": "recruiter_outreach_cover_letter_ready",
       "process": "Recruiter reached out about Full Stack QA Engineer (C#) role",
       "requirements": "Full Stack QA Engineer; C#; Playwright; API testing; CI/CD; balance of manual and automation; quality/framework design",
       "notes": "First recorded contact with Andersen. Recruiter outreach highlighted growth in C# automation, Playwright, API testing, CI/CD, and influence on quality/framework design. Recruiter contact: https://www.linkedin.com/in/yana-budulatii-560a81387/.",
@@ -156,7 +165,12 @@
       "fit": "7/10",
       "recommendedCv": "CV 2",
       "outreach": "Recruiter outreach from Yana Budulatii (LinkedIn)",
-      "updatedAt": "2026-04-17T11:44:37.677Z"
+      "updatedAt": "2026-06-04T18:39:30.276Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/andersen/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "antal",
@@ -182,7 +196,7 @@
       "slug": "antal-sp-z-o-o",
       "name": "Antal Sp. z o.o.",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "Test Automation Engineer Lead (Cybersecurity); Stack: CI/CD, Performance",
       "notes": "Imported from ranked shortlist CSV. Vacancy: Test Automation Engineer Lead (Cybersecurity).",
@@ -192,7 +206,12 @@
       "fit": "83/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.399Z"
+      "updatedAt": "2026-06-04T18:39:30.368Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/antal-sp-z-o-o/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "aristek-systems",
@@ -200,7 +219,7 @@
       "role": "AQA Engineer (C#+Python)",
       "stack": "C#, .NET, Python/Golang, Selenium or similar, XUnit or similar, REST/GraphQL API, Web UI automation, CI/CD, Jenkins/GitLab/GitHub Actions, Allure, TDD/BDD, AI for testing",
       "status": "target",
-      "stage": "recruiter_reply_to_send",
+      "stage": "recruiter_reply_to_send_cover_letter_ready",
       "process": "Inbound recruiter message from Kseniya Vishnevskaya on LinkedIn on 2026-06-04. Remote AQA role for an online inspection and real-time quality-control platform in the automotive industry. Yauheni said the vacancy looks interesting; next step is to reply and continue conversation before applying.",
       "requirements": "Middle AQA, remote, full-time, 3+ years. Build automated frameworks from scratch; API and Web UI automation for REST/GraphQL; CI/CD integration; code reviews and OOP; investigate failures/flaky tests; requirements review; Agile collaboration; optimize test suites and report metrics. Required: 3+ years AQA, testing theory/methodology, web/mobile testing tools, AI usage for testing, functional/regression/smoke/ad-hoc testing, English B2+, C#/.NET backend development experience, Python and/or Golang, Selenium or similar, XUnit or similar, TDD/BDD, integration/programmatic testing, test plans in CI/CD.",
       "notes": "Good general QA automation fit: framework building, API/UI automation, CI/CD, defect analysis, reporting, and automotive quality-control domain. Main risk: role explicitly asks for extensive C#/.NET backend development and Python/Golang; position carefully as QA automation with C#/Selenium foundation and practical Python scripting, without overstating backend ownership. Suggested temporary CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf. Better next step: generate Aristek-specific CV before applying.",
@@ -209,11 +228,11 @@
       ],
       "fit": "72/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf",
-      "coverLetter": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/cover-letter.md",
       "salaryAsk": "",
       "outreach": "Kseniya Vishnevskaya — LinkedIn recruiter message received",
       "outreachUrl": "https://www.linkedin.com/in/kseniyavishnevskaya/",
-      "updatedAt": "2026-06-04T18:08:56.403Z"
+      "updatedAt": "2026-06-04T18:39:30.463Z"
     },
     {
       "slug": "aristocrat",
@@ -238,7 +257,7 @@
       "slug": "asseco-poland-s-a",
       "name": "Asseco Poland S.A.",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "Tester Automatyzujący (m/k/os.); Stack: Playwright, Java, Selenium, REST, API, CI/CD",
       "notes": "Imported from ranked shortlist CSV. Vacancy: Tester Automatyzujący (m/k/os.).",
@@ -248,7 +267,12 @@
       "fit": "89/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.208Z"
+      "updatedAt": "2026-06-04T18:39:30.575Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/asseco-poland-s-a/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "atos",
@@ -365,7 +389,7 @@
       "slug": "britenet",
       "name": "Britenet",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "QA Automation Engineer (Low-Code Platform); Stack: REST, API",
       "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (Low-Code Platform).",
@@ -375,7 +399,12 @@
       "fit": "56/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.893Z"
+      "updatedAt": "2026-06-04T18:39:30.671Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/britenet/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "capco",
@@ -456,17 +485,17 @@
       ],
       "fit": "86/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-typescript-playwright/hirify-typescript-playwright.cv.Yauheni.Sheima.pdf",
-      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/hirify-typescript-playwright/cover-letter.md",
       "salaryAsk": "not listed; verify before applying",
       "outreach": "HR message drafted; company identified as Ciklum",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T18:25:26.207Z"
+      "updatedAt": "2026-06-04T18:39:30.768Z"
     },
     {
       "slug": "clearcourse-dev",
       "name": "ClearCourse Dev",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "QA Automation Engineer; Stack: Playwright, REST, API, CI/CD, Docker, TypeScript",
       "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer.",
@@ -476,7 +505,12 @@
       "fit": "46/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:49.074Z"
+      "updatedAt": "2026-06-04T18:39:30.863Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/clearcourse-dev/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "cleverbit",
@@ -665,7 +699,7 @@
       "slug": "edge-one-solutions-sp-z-o-o",
       "name": "Edge One Solutions Sp. z o.o",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "QA Automation Engineer with C# (Mid/Senior); Stack: Playwright, Selenium, REST, API, CI/CD",
       "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer with C# (Mid/Senior).",
@@ -675,7 +709,12 @@
       "fit": "96/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.092Z"
+      "updatedAt": "2026-06-04T18:39:30.958Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/edge-one-solutions-sp-z-o-o/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "effectivesoft",
@@ -795,37 +834,47 @@
       "slug": "eset",
       "name": "ESET",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Agile Test Engineer; Stack: Python, testing, CI/CD; Salary: 18-22k PLN gross",
       "notes": "Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf",
       "links": [
         "https://www.eset.com/pl/kariera"
       ],
-      "updatedAt": "2026-04-02T22:38:53.974753+00:00",
+      "updatedAt": "2026-06-04T18:39:31.049Z",
       "role": "Agile Test Engineer",
       "salary": "18-22k PLN gross",
       "stack": "Python, testing, CI/CD",
       "fit": "6/10",
-      "cv": "qa-devops-cv.pdf"
+      "cv": "qa-devops-cv.pdf",
+      "recommendedCv": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/eset/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": ""
     },
     {
       "slug": "euroclear",
       "name": "Euroclear",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Test Manager; Stack: Test strategy, Jira; Salary: N/A",
       "notes": "Imported from CSV shortlist. Fit: 4/10. CV file: qa-devops-cv.pdf",
       "links": [
         "https://careers.euroclear.com"
       ],
-      "updatedAt": "2026-04-02T22:38:53.974755+00:00",
+      "updatedAt": "2026-06-04T18:39:31.142Z",
       "role": "Test Manager",
       "salary": "N/A",
       "stack": "Test strategy, Jira",
       "fit": "4/10",
-      "cv": "qa-devops-cv.pdf"
+      "cv": "qa-devops-cv.pdf",
+      "recommendedCv": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/euroclear/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": ""
     },
     {
       "slug": "exadel",
@@ -853,7 +902,7 @@
       "slug": "experis-manpower-group",
       "name": "Experis Manpower Group",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "Software Development Engineer in Test; Stack: REST, API, CI/CD, Docker, Python, Performance",
       "notes": "Imported from ranked shortlist CSV. Vacancy: Software Development Engineer in Test.",
@@ -863,7 +912,12 @@
       "fit": "88/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.272Z"
+      "updatedAt": "2026-06-04T18:39:31.236Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/experis-manpower-group/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "hirify-fintech-ai-qa",
@@ -948,7 +1002,7 @@
       "salaryAsk": "",
       "outreach": "Tetiana Rediuk — LinkedIn message drafted",
       "outreachUrl": "https://www.linkedin.com/in/tetianarediuk/",
-      "updatedAt": "2026-06-04T10:18:28.508Z",
+      "updatedAt": "2026-06-04T18:39:31.330Z",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/globallogic/cover-letter.md"
     },
     {
@@ -998,7 +1052,7 @@
       "slug": "green-hive-technology",
       "name": "Green Hive Technology",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "QA Automation Engineer (she/he/they); Stack: Java, REST, API, CI/CD, Docker",
       "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (she/he/they).",
@@ -1008,7 +1062,12 @@
       "fit": "51/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.954Z"
+      "updatedAt": "2026-06-04T18:39:31.422Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/green-hive-technology/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "growe",
@@ -1035,7 +1094,7 @@
       "slug": "happy-team",
       "name": "Happy Team",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "Test Engineer; Stack: REST, API",
       "notes": "Imported from ranked shortlist CSV. Vacancy: Test Engineer.",
@@ -1045,7 +1104,12 @@
       "fit": "41/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:49.134Z"
+      "updatedAt": "2026-06-04T18:39:31.514Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/happy-team/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "heineken",
@@ -1085,7 +1149,7 @@
       "salaryAsk": "120-140 PLN/h gross or equivalent; role listed 4,000-8,000 USD gross/month",
       "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T16:55:18.710Z"
+      "updatedAt": "2026-06-04T18:39:31.607Z"
     },
     {
       "slug": "hirify-get-it-qa-automation",
@@ -1132,7 +1196,7 @@
       "slug": "infogain",
       "name": "Infogain",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "Senior QA Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, Performance",
       "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.",
@@ -1142,7 +1206,12 @@
       "fit": "88/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.335Z"
+      "updatedAt": "2026-06-04T18:39:31.701Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/infogain/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "inpost",
@@ -1210,19 +1279,24 @@
       "slug": "inuits",
       "name": "Inuits",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: SDET AI; Stack: Playwright, AI, C#/.NET; Salary: 120-130 PLN/h",
       "notes": "Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf",
       "links": [
         "https://justjoin.it"
       ],
-      "updatedAt": "2026-04-02T22:38:53.974771+00:00",
+      "updatedAt": "2026-06-04T18:39:31.795Z",
       "role": "SDET AI",
       "salary": "120-130 PLN/h",
       "stack": "Playwright, AI, C#/.NET",
       "fit": "7/10",
-      "cv": "qa-devops-cv.pdf"
+      "cv": "qa-devops-cv.pdf",
+      "recommendedCv": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/inuits/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": ""
     },
     {
       "slug": "iqvia",
@@ -1267,7 +1341,7 @@
       "slug": "iteamly",
       "name": "iTeamly",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "Senior QA Engineer (Robot Framework); Stack: Playwright, API, CI/CD, Python, Performance",
       "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Engineer (Robot Framework).",
@@ -1277,7 +1351,12 @@
       "fit": "98/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.033Z"
+      "updatedAt": "2026-06-04T18:39:31.887Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/iteamly/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "jacobs",
@@ -1381,7 +1460,7 @@
       "slug": "link-group",
       "name": "Link Group",
       "status": "target",
-      "stage": "recruiter_outreach",
+      "stage": "recruiter_outreach_cover_letter_ready",
       "process": "Tracked from job listing / recruiter contact",
       "requirements": "Senior QA Java; Java, REST, API, CI/CD, Docker",
       "notes": "Contact person: Przemysław Lorek https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
@@ -1391,11 +1470,12 @@
       "fit": "58/100",
       "recommendedCv": "CV 2",
       "outreach": "Przemysław Lorek",
-      "updatedAt": "2026-04-26T18:07:13.801Z",
+      "updatedAt": "2026-06-04T18:39:31.983Z",
       "role": "Senior QA Java",
       "stack": "Java, REST, API, CI/CD, Docker",
       "salaryAsk": "",
-      "outreachUrl": "https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+      "outreachUrl": "https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/link-group/cover-letter.md"
     },
     {
       "slug": "luxoft-poland",
@@ -1423,7 +1503,7 @@
       "role": "Senior QA Automation Engineer",
       "stack": "Playwright, Cypress, JavaScript, TypeScript, Python, CI/CD, API testing, AI-assisted tooling",
       "status": "target",
-      "stage": "cv_ready",
+      "stage": "cv_ready_cover_letter_ready",
       "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
       "requirements": "Senior QA automation with Playwright/Cypress; JavaScript/TypeScript and Python; E2E/API automation; CI/CD; framework ownership; AI-assisted development/testing; collaborative product engineering.",
       "notes": "Europe remote. Good automation/tooling fit; Web3/crypto payments domain is a stretch but not a blocker if they value test infrastructure ownership. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf",
@@ -1432,11 +1512,11 @@
       ],
       "fit": "73/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf",
-      "coverLetter": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/mesh-senior-qa/cover-letter.md",
       "salaryAsk": "",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-05-30T19:55:50.062Z"
+      "updatedAt": "2026-06-04T18:39:32.075Z"
     },
     {
       "slug": "miquido",
@@ -1499,7 +1579,7 @@
       "role": "QA Automation Engineer",
       "stack": "Playwright, Selenium, Python/JavaScript/TypeScript, SQL, Agile/Scrum, Jira",
       "status": "target",
-      "stage": "cv_prepared",
+      "stage": "cv_prepared_cover_letter_ready",
       "process": "CV prepared for JustJoinIt application",
       "requirements": "Automation in manual-heavy project, framework building, coverage/reliability, strong QA fundamentals",
       "notes": "Location: Kraków / Poland (remote option). Format: B2B or Permanent. Risks: not Python-first profile; healthcare domain is not core background. Recommended CV: tailored-cv/montrose-software-qa-automation-engineer.md",
@@ -1511,7 +1591,8 @@
       "salaryAsk": "",
       "outreach": "CV prepared",
       "outreachUrl": "",
-      "updatedAt": "2026-05-06T18:00:20.505Z"
+      "updatedAt": "2026-06-04T18:39:32.168Z",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/montrose-software/cover-letter.md"
     },
     {
       "slug": "motorola-solutions",
@@ -1644,7 +1725,7 @@
       "role": "Senior Test Automation Engineer",
       "stack": "C#, .NET, Selenium, Playwright, Microsoft SQL Server, API testing, Integration testing, Azure DevOps pipelines, CI/CD, NUnit/xUnit/MSTest, PowerShell, BDD/SpecFlow, AI-assisted development tools",
       "status": "target",
-      "stage": "cv_to_send_outreach_to_send",
+      "stage": "cv_to_send_outreach_to_send_cover_letter_ready",
       "process": "Target application for Senior Test Automation Engineer. LinkedIn HR outreach message drafted for Małgorzata; not marked as sent.",
       "requirements": "5+ years test automation; test plans, test cases and test procedures; functional, GUI, integration, regression, data validation and UI testing; defect feedback and quality improvements; scrum collaboration; code reviews; CI/CD integration; C#/.NET; SQL Server; Azure DevOps pipelines/releases; API testing; Selenium and Playwright; NUnit/xUnit/MSTest; nice-to-have PowerShell, Azure WebApps/Functions/APIs, BDD/SpecFlow, AI-assisted development tools.",
       "notes": "Strong match on senior QA automation, C#/.NET foundation, Selenium, API/integration testing, SQL validation, Azure DevOps/CI/CD and framework improvement. Playwright is a current hands-on modern automation direction supported by broader 7+ years QA automation experience. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf",
@@ -1656,8 +1737,8 @@
       "salaryAsk": "20 500-22 500 PLN gross/month listed",
       "outreach": "Małgorzata — LinkedIn message drafted",
       "outreachUrl": "https://www.linkedin.com/in/ma%C5%82gorzata-strzelecka-388879101/?locale=en",
-      "updatedAt": "2026-05-29T15:17:44.738Z",
-      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/omada/cover-letter.txt"
+      "updatedAt": "2026-06-04T18:39:32.262Z",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/omada/cover-letter.md"
     },
     {
       "slug": "onwelo-sp-z-o-o",
@@ -1744,19 +1825,24 @@
       "slug": "people-more",
       "name": "People More",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Manual QA; Stack: Manual API testing; Salary: 60-100 PLN/h",
       "notes": "Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf",
       "links": [
         "https://justjoin.it"
       ],
-      "updatedAt": "2026-04-02T22:38:53.974758+00:00",
+      "updatedAt": "2026-06-04T18:39:32.355Z",
       "role": "Manual QA",
       "salary": "60-100 PLN/h",
       "stack": "Manual API testing",
       "fit": "3/10",
-      "cv": "qa-devops-cv.pdf"
+      "cv": "qa-devops-cv.pdf",
+      "recommendedCv": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/people-more/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": ""
     },
     {
       "slug": "plain-concepts",
@@ -1880,7 +1966,7 @@
       "slug": "remodevs",
       "name": "Remodevs",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "Automation QA Engineer; Stack: Playwright, API, CI/CD, Docker, Python, TypeScript",
       "notes": "Imported from ranked shortlist CSV. Vacancy: Automation QA Engineer.",
@@ -1890,7 +1976,12 @@
       "fit": "51/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:49.014Z"
+      "updatedAt": "2026-06-04T18:39:32.446Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/remodevs/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "remote-people",
@@ -2000,7 +2091,7 @@
       "role": "Senior Test Automation Engineer",
       "stack": "Playwright, TypeScript, GraphQL API testing, GitHub Actions, manual test design, enterprise web testing, AI tools",
       "status": "target",
-      "stage": "cv_ready",
+      "stage": "cv_ready_cover_letter_ready",
       "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
       "requirements": "5+ years software quality engineering; TypeScript; Playwright UI automation; GraphQL API testing; manual test design; web technologies, DOM, CSS, DevTools; CI/CD with GitHub Actions; AI-assisted development plus.",
       "notes": "Fully remote. Strong Playwright/TypeScript and manual-to-automation fit. GraphQL is a ramp-up area, but API automation background is relevant. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sand-technologies/sand-technologies.cv.Yauheni.Sheima.pdf",
@@ -2009,11 +2100,11 @@
       ],
       "fit": "75/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sand-technologies/sand-technologies.cv.Yauheni.Sheima.pdf",
-      "coverLetter": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/sand-technologies/cover-letter.md",
       "salaryAsk": "",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-05-30T19:55:49.849Z"
+      "updatedAt": "2026-06-04T18:39:32.538Z"
     },
     {
       "slug": "scalable-solutions",
@@ -2041,7 +2132,7 @@
       "role": "Senior QA Automation Engineer (Contract)",
       "stack": "Playwright/Selenium, UI/browser testing, API testing, CI/CD, k6/JMeter, Agile, AI-assisted testing",
       "status": "target",
-      "stage": "cv_ready",
+      "stage": "cv_ready_cover_letter_ready",
       "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
       "requirements": "Strong UI/browser automation; Playwright or Selenium; API testing; CI/CD integration; performance/stress testing exposure with k6/JMeter; Agile/Scrum; quality-first release risk communication.",
       "notes": "Fully remote freelance, 30-40 EUR/hour, long-term contract with Scandinavian cybersecurity/mobile security client. Strong QA ownership and UI/API fit; performance tooling is a ramp-up area. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scaletech/scaletech.cv.Yauheni.Sheima.pdf",
@@ -2050,17 +2141,17 @@
       ],
       "fit": "78/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scaletech/scaletech.cv.Yauheni.Sheima.pdf",
-      "coverLetter": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/scaletech/cover-letter.md",
       "salaryAsk": "",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-05-30T19:55:49.651Z"
+      "updatedAt": "2026-06-04T18:39:32.630Z"
     },
     {
       "slug": "scalo",
       "name": "SCALO",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "Senior Automation Tester/QA (Java); Stack: Java, Selenium, REST, Performance",
       "notes": "Imported from ranked shortlist CSV. Vacancy: Senior Automation Tester/QA (Java).",
@@ -2070,7 +2161,12 @@
       "fit": "100/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:47.915Z"
+      "updatedAt": "2026-06-04T18:39:32.723Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/scalo/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "sherpany",
@@ -2162,7 +2258,7 @@
       "slug": "specific-group",
       "name": "Specific-Group",
       "status": "target",
-      "stage": "recruiter_outreach",
+      "stage": "recruiter_outreach_cover_letter_ready",
       "process": "Recruiter reached out about Senior Test Automation Engineer role for Austrian bank client",
       "requirements": "Senior Test Automation Engineer; fintech/banking domain; Playwright or Selenium; Postman/RestAssured; Gatling or k6; CI/CD integration; Agile; English; German plus; B2B; remote available",
       "notes": "Outreach from Anastasia Markitan: https://www.linkedin.com/in/anastasia-markitan-8a6a109a/. Role looks like a strong fit on Playwright, Selenium, API testing, CI/CD, and banking/enterprise QA context. Fully remote available, Kraków office optional.",
@@ -2172,8 +2268,12 @@
       "fit": "8/10",
       "recommendedCv": "CV 2",
       "outreach": "Recruiter outreach from Anastasia Markitan (LinkedIn)",
-      "updatedAt": "2026-04-19T14:27:15.545Z",
-      "salaryAsk": "150 PLN/h"
+      "updatedAt": "2026-06-04T18:39:32.814Z",
+      "salaryAsk": "150 PLN/h",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/specific-group/cover-letter.md",
+      "outreachUrl": ""
     },
     {
       "slug": "squareone",
@@ -2197,7 +2297,7 @@
       "slug": "state-street",
       "name": "State Street",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "Senior QA Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, CI/CD",
       "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.",
@@ -2207,7 +2307,12 @@
       "fit": "72/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.710Z"
+      "updatedAt": "2026-06-04T18:39:32.906Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/state-street/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "stonex-group-inc",
@@ -2232,7 +2337,7 @@
       "slug": "stonex-poland",
       "name": "StoneX Poland",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "QA Automation Lead; Stack: Playwright, Java, Selenium, API, CI/CD, Python",
       "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Lead.",
@@ -2242,7 +2347,12 @@
       "fit": "100/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:47.973Z"
+      "updatedAt": "2026-06-04T18:39:33.019Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/stonex-poland/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "storyblok",
@@ -2270,19 +2380,24 @@
       "slug": "strategicsiq",
       "name": "Strategicsiq",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: SDET Java Selenium; Stack: Java, Selenium, CI/CD; Salary: 900-1100 PLN/day",
       "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
       "links": [
         "https://justjoin.it"
       ],
-      "updatedAt": "2026-04-02T22:38:53.974740+00:00",
+      "updatedAt": "2026-06-04T18:39:33.119Z",
       "role": "SDET Java Selenium",
       "salary": "900-1100 PLN/day",
       "stack": "Java, Selenium, CI/CD",
       "fit": "5/10",
-      "cv": "qa-devops-cv.pdf"
+      "cv": "qa-devops-cv.pdf",
+      "recommendedCv": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/strategicsiq/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": ""
     },
     {
       "slug": "svitla-systems",
@@ -2454,7 +2569,7 @@
       "slug": "upvanta-sp-z-o-o",
       "name": "Upvanta sp. z o.o.",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "Software QA Engineer (Java); Stack: Java, Selenium, Docker, SDET",
       "notes": "Imported from ranked shortlist CSV. Vacancy: Software QA Engineer (Java).",
@@ -2464,7 +2579,12 @@
       "fit": "78/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.587Z"
+      "updatedAt": "2026-06-04T18:39:33.215Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/upvanta-sp-z-o-o/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "vention",
@@ -2530,7 +2650,7 @@
       "slug": "xebia",
       "name": "Xebia",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "👉 QA Automation - Kraków; Stack: Java, Selenium, REST, API, CI/CD, Jenkins",
       "notes": "Imported from ranked shortlist CSV. Vacancy: 👉 QA Automation - Kraków.",
@@ -2540,7 +2660,12 @@
       "fit": "68/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:48.831Z"
+      "updatedAt": "2026-06-04T18:39:33.309Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/xebia/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     },
     {
       "slug": "xm",
@@ -2589,7 +2714,7 @@
       "slug": "youriteams",
       "name": "YourITeams",
       "status": "target",
-      "stage": "cv_to_send",
+      "stage": "cv_to_send_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "Salesforce Automation Tester with Copado; Stack: Performance",
       "notes": "Imported from ranked shortlist CSV. Vacancy: Salesforce Automation Tester with Copado.",
@@ -2599,7 +2724,12 @@
       "fit": "0/100",
       "recommendedCv": "CV 2",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-04-16T10:25:49.195Z"
+      "updatedAt": "2026-06-04T18:39:33.403Z",
+      "role": "",
+      "stack": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/youriteams/cover-letter.md",
+      "salaryAsk": "",
+      "outreachUrl": ""
     }
   ]
 }

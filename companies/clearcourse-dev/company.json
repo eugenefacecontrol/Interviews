@@ -1,8 +1,10 @@
 {
   "slug": "clearcourse-dev",
   "name": "ClearCourse Dev",
+  "role": "",
+  "stack": "",
   "status": "target",
-  "stage": "cv_to_send",
+  "stage": "cv_to_send_cover_letter_ready",
   "process": "Imported from JustJoinIt shortlist",
   "requirements": "QA Automation Engineer; Stack: Playwright, REST, API, CI/CD, Docker, TypeScript",
   "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer.",
@@ -11,6 +13,9 @@
   ],
   "fit": "46/100",
   "recommendedCv": "CV 2",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/clearcourse-dev/cover-letter.md",
+  "salaryAsk": "",
   "outreach": "Shortlisted from CSV",
-  "updatedAt": "2026-04-16T10:25:49.074Z"
+  "outreachUrl": "",
+  "updatedAt": "2026-06-04T18:39:30.863Z"
 }

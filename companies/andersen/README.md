@@ -1,9 +1,13 @@
 # Andersen
 
+- Role: —
+- Stack: —
 - Status: target
-- Stage: recruiter_outreach
+- Stage: recruiter_outreach_cover_letter_ready
 - Fit: 7/10
 - Recommended CV: CV 2
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/andersen/cover-letter.md
+- Salary Ask: —
 - Outreach: Recruiter outreach from Yana Budulatii (LinkedIn)
 
 ## Process

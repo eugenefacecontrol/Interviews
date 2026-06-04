@@ -3,9 +3,10 @@
 - Role: Senior QA Java
 - Stack: Java, REST, API, CI/CD, Docker
 - Status: target
-- Stage: recruiter_outreach
+- Stage: recruiter_outreach_cover_letter_ready
 - Fit: 58/100
 - Recommended CV: CV 2
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/link-group/cover-letter.md
 - Salary Ask: —
 - Outreach: Przemysław Lorek
 

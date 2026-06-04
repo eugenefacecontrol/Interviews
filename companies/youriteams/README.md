@@ -1,9 +1,13 @@
 # YourITeams
 
+- Role: —
+- Stack: —
 - Status: target
-- Stage: cv_to_send
+- Stage: cv_to_send_cover_letter_ready
 - Fit: 0/100
 - Recommended CV: CV 2
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/youriteams/cover-letter.md
+- Salary Ask: —
 - Outreach: Shortlisted from CSV
 
 ## Process

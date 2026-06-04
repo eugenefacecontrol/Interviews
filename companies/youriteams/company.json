@@ -1,8 +1,10 @@
 {
   "slug": "youriteams",
   "name": "YourITeams",
+  "role": "",
+  "stack": "",
   "status": "target",
-  "stage": "cv_to_send",
+  "stage": "cv_to_send_cover_letter_ready",
   "process": "Imported from JustJoinIt shortlist",
   "requirements": "Salesforce Automation Tester with Copado; Stack: Performance",
   "notes": "Imported from ranked shortlist CSV. Vacancy: Salesforce Automation Tester with Copado.",
@@ -11,6 +13,9 @@
   ],
   "fit": "0/100",
   "recommendedCv": "CV 2",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/youriteams/cover-letter.md",
+  "salaryAsk": "",
   "outreach": "Shortlisted from CSV",
-  "updatedAt": "2026-04-16T10:25:49.195Z"
+  "outreachUrl": "",
+  "updatedAt": "2026-06-04T18:39:33.403Z"
 }

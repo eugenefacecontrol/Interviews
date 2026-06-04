@@ -1,9 +1,13 @@
 # Infogain
 
+- Role: —
+- Stack: —
 - Status: target
-- Stage: cv_to_send
+- Stage: cv_to_send_cover_letter_ready
 - Fit: 88/100
 - Recommended CV: CV 2
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/infogain/cover-letter.md
+- Salary Ask: —
 - Outreach: Shortlisted from CSV
 
 ## Process

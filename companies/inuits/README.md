@@ -1,11 +1,14 @@
 # Inuits
 
 - Role: SDET AI
+- Stack: Playwright, AI, C#/.NET
 - Status: target
-- Stage: cv_to_send
-- Salary: 120-130 PLN/h
+- Stage: cv_to_send_cover_letter_ready
 - Fit: 7/10
-- CV: qa-devops-cv.pdf
+- Recommended CV: —
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/inuits/cover-letter.md
+- Salary Ask: —
+- Outreach: —
 
 ## Process
 Initial outreach / CV submission planned

@@ -1,0 +1,14 @@
+# Aristek Systems - AQA Engineer (C#+Python) Cover Letter
+
+Dear Aristek Systems team,
+
+I am interested in the AQA Engineer (C#+Python) role. I bring 7+ years of QA and QA automation experience across UI/API testing, automation support, regression validation, defect investigation, test documentation and collaboration with engineering teams.
+
+The main overlap is around web automation and maintainable test suites, API validation and service-level quality checks, CI/CD quality feedback, automation scripting and code-level collaboration, AI-assisted QA workflows with human review. I have worked with practical automation around Selenium and Playwright-oriented workflows, API testing, CI/CD feedback, SQL/log-based diagnostics, clear bug evidence and risk-based release support. My approach is pragmatic: automate checks that give reliable signal, keep exploratory testing for uncertain flows, and make test results useful for developers.
+
+The role's stack and expectations around C#, .NET, Python/Golang, Selenium or similar, XUnit or similar, REST/GraphQL API, Web UI automation, CI/CD, Jenkins/GitLab/GitHub Actions, Allure, TDD/BDD, AI for testing are close to the kind of quality work I want to continue building. The role is relevant because it needs a QA engineer who can connect hands-on testing with practical automation and clear engineering feedback. Some areas, including deeper backend implementation expectations, are things I would approach honestly as ramp-up topics while relying on my broader QA automation foundation.
+
+I would be glad to discuss how my QA automation and product-quality background can support your team.
+
+Best regards,
+Yauheni Sheima

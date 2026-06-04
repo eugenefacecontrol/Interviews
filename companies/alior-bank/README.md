@@ -1,11 +1,14 @@
 # Alior Bank
 
 - Role: Senior Test Automation
+- Stack: C#, Selenium, Jenkins
 - Status: target
-- Stage: cv_to_send
-- Salary: N/A
+- Stage: cv_to_send_cover_letter_ready
 - Fit: 5/10
-- CV: qa-devops-cv.pdf
+- Recommended CV: —
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/alior-bank/cover-letter.md
+- Salary Ask: —
+- Outreach: —
 
 ## Process
 Initial outreach / CV submission planned

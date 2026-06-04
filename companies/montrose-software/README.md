@@ -3,9 +3,10 @@
 - Role: QA Automation Engineer
 - Stack: Playwright, Selenium, Python/JavaScript/TypeScript, SQL, Agile/Scrum, Jira
 - Status: target
-- Stage: cv_prepared
+- Stage: cv_prepared_cover_letter_ready
 - Fit: 80/100
 - Recommended CV: tailored-cv/montrose-software-qa-automation-engineer.md
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/montrose-software/cover-letter.md
 - Salary Ask: —
 - Outreach: CV prepared
 

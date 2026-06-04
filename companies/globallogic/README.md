@@ -7,7 +7,7 @@
 - Fit: 62/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/globallogic/cover-letter.md
-- Salary Ask: true
+- Salary Ask: —
 - Outreach: Tetiana Rediuk — LinkedIn message drafted
 
 ## Process

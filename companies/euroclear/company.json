@@ -1,18 +1,21 @@
 {
   "slug": "euroclear",
   "name": "Euroclear",
+  "role": "Test Manager",
+  "stack": "Test strategy, Jira",
   "status": "target",
-  "stage": "cv_to_send",
+  "stage": "cv_to_send_cover_letter_ready",
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: Test Manager; Stack: Test strategy, Jira; Salary: N/A",
   "notes": "Imported from CSV shortlist. Fit: 4/10. CV file: qa-devops-cv.pdf",
   "links": [
     "https://careers.euroclear.com"
   ],
-  "updatedAt": "2026-04-02T22:38:53.974755+00:00",
-  "role": "Test Manager",
-  "salary": "N/A",
-  "stack": "Test strategy, Jira",
   "fit": "4/10",
-  "cv": "qa-devops-cv.pdf"
+  "recommendedCv": "",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/euroclear/cover-letter.md",
+  "salaryAsk": "",
+  "outreach": "",
+  "outreachUrl": "",
+  "updatedAt": "2026-06-04T18:39:31.142Z"
 }

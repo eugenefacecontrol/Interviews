@@ -1,8 +1,10 @@
 {
   "slug": "andersen",
   "name": "Andersen",
+  "role": "",
+  "stack": "",
   "status": "target",
-  "stage": "recruiter_outreach",
+  "stage": "recruiter_outreach_cover_letter_ready",
   "process": "Recruiter reached out about Full Stack QA Engineer (C#) role",
   "requirements": "Full Stack QA Engineer; C#; Playwright; API testing; CI/CD; balance of manual and automation; quality/framework design",
   "notes": "First recorded contact with Andersen. Recruiter outreach highlighted growth in C# automation, Playwright, API testing, CI/CD, and influence on quality/framework design. Recruiter contact: https://www.linkedin.com/in/yana-budulatii-560a81387/.",
@@ -11,6 +13,9 @@
   ],
   "fit": "7/10",
   "recommendedCv": "CV 2",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/andersen/cover-letter.md",
+  "salaryAsk": "",
   "outreach": "Recruiter outreach from Yana Budulatii (LinkedIn)",
-  "updatedAt": "2026-04-17T11:44:37.677Z"
+  "outreachUrl": "",
+  "updatedAt": "2026-06-04T18:39:30.276Z"
 }

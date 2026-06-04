@@ -1,11 +1,14 @@
 # ESET
 
 - Role: Agile Test Engineer
+- Stack: Python, testing, CI/CD
 - Status: target
-- Stage: cv_to_send
-- Salary: 18-22k PLN gross
+- Stage: cv_to_send_cover_letter_ready
 - Fit: 6/10
-- CV: qa-devops-cv.pdf
+- Recommended CV: —
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/eset/cover-letter.md
+- Salary Ask: —
+- Outreach: —
 
 ## Process
 Initial outreach / CV submission planned

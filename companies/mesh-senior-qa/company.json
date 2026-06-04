@@ -4,7 +4,7 @@
   "role": "Senior QA Automation Engineer",
   "stack": "Playwright, Cypress, JavaScript, TypeScript, Python, CI/CD, API testing, AI-assisted tooling",
   "status": "target",
-  "stage": "cv_ready",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
   "requirements": "Senior QA automation with Playwright/Cypress; JavaScript/TypeScript and Python; E2E/API automation; CI/CD; framework ownership; AI-assisted development/testing; collaborative product engineering.",
   "notes": "Europe remote. Good automation/tooling fit; Web3/crypto payments domain is a stretch but not a blocker if they value test infrastructure ownership. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf",
@@ -13,9 +13,9 @@
   ],
   "fit": "73/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf",
-  "coverLetter": "",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/mesh-senior-qa/cover-letter.md",
   "salaryAsk": "",
   "outreach": "",
   "outreachUrl": "",
-  "updatedAt": "2026-05-30T19:55:50.062Z"
+  "updatedAt": "2026-06-04T18:39:32.075Z"
 }

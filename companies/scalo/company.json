@@ -1,8 +1,10 @@
 {
   "slug": "scalo",
   "name": "SCALO",
+  "role": "",
+  "stack": "",
   "status": "target",
-  "stage": "cv_to_send",
+  "stage": "cv_to_send_cover_letter_ready",
   "process": "Imported from JustJoinIt shortlist",
   "requirements": "Senior Automation Tester/QA (Java); Stack: Java, Selenium, REST, Performance",
   "notes": "Imported from ranked shortlist CSV. Vacancy: Senior Automation Tester/QA (Java).",
@@ -11,6 +13,9 @@
   ],
   "fit": "100/100",
   "recommendedCv": "CV 2",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/scalo/cover-letter.md",
+  "salaryAsk": "",
   "outreach": "Shortlisted from CSV",
-  "updatedAt": "2026-04-16T10:25:47.915Z"
+  "outreachUrl": "",
+  "updatedAt": "2026-06-04T18:39:32.723Z"
 }

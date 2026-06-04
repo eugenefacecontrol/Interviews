@@ -6,7 +6,7 @@
 - Stage: cv_ready_cover_letter_ready_hr_text_ready
 - Fit: 86/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-typescript-playwright/hirify-typescript-playwright.cv.Yauheni.Sheima.pdf
-- Cover Letter: /Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/hirify-typescript-playwright/cover-letter.md
 - Salary Ask: not listed; verify before applying
 - Outreach: HR message drafted; company identified as Ciklum
 

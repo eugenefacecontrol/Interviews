@@ -1,18 +1,21 @@
 {
   "slug": "alior-bank",
   "name": "Alior Bank",
+  "role": "Senior Test Automation",
+  "stack": "C#, Selenium, Jenkins",
   "status": "target",
-  "stage": "cv_to_send",
+  "stage": "cv_to_send_cover_letter_ready",
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: Senior Test Automation; Stack: C#, Selenium, Jenkins; Salary: N/A",
   "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
   "links": [
     "https://www.aliorbank.pl/kariera"
   ],
-  "updatedAt": "2026-04-02T22:38:53.974750+00:00",
-  "role": "Senior Test Automation",
-  "salary": "N/A",
-  "stack": "C#, Selenium, Jenkins",
   "fit": "5/10",
-  "cv": "qa-devops-cv.pdf"
+  "recommendedCv": "",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/alior-bank/cover-letter.md",
+  "salaryAsk": "",
+  "outreach": "",
+  "outreachUrl": "",
+  "updatedAt": "2026-06-04T18:39:30.184Z"
 }

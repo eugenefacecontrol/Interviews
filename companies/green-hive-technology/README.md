@@ -1,9 +1,13 @@
 # Green Hive Technology
 
+- Role: —
+- Stack: —
 - Status: target
-- Stage: cv_to_send
+- Stage: cv_to_send_cover_letter_ready
 - Fit: 51/100
 - Recommended CV: CV 2
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/green-hive-technology/cover-letter.md
+- Salary Ask: —
 - Outreach: Shortlisted from CSV
 
 ## Process

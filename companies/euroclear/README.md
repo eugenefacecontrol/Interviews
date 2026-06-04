@@ -1,11 +1,14 @@
 # Euroclear
 
 - Role: Test Manager
+- Stack: Test strategy, Jira
 - Status: target
-- Stage: cv_to_send
-- Salary: N/A
+- Stage: cv_to_send_cover_letter_ready
 - Fit: 4/10
-- CV: qa-devops-cv.pdf
+- Recommended CV: —
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/euroclear/cover-letter.md
+- Salary Ask: —
+- Outreach: —
 
 ## Process
 Initial outreach / CV submission planned

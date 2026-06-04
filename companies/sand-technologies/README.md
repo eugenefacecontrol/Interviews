@@ -3,10 +3,10 @@
 - Role: Senior Test Automation Engineer
 - Stack: Playwright, TypeScript, GraphQL API testing, GitHub Actions, manual test design, enterprise web testing, AI tools
 - Status: target
-- Stage: cv_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 75/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sand-technologies/sand-technologies.cv.Yauheni.Sheima.pdf
-- Cover Letter: —
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/sand-technologies/cover-letter.md
 - Salary Ask: —
 - Outreach: —
 

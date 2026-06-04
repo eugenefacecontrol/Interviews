@@ -1,8 +1,10 @@
 {
   "slug": "edge-one-solutions-sp-z-o-o",
   "name": "Edge One Solutions Sp. z o.o",
+  "role": "",
+  "stack": "",
   "status": "target",
-  "stage": "cv_to_send",
+  "stage": "cv_to_send_cover_letter_ready",
   "process": "Imported from JustJoinIt shortlist",
   "requirements": "QA Automation Engineer with C# (Mid/Senior); Stack: Playwright, Selenium, REST, API, CI/CD",
   "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer with C# (Mid/Senior).",
@@ -11,6 +13,9 @@
   ],
   "fit": "96/100",
   "recommendedCv": "CV 2",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/edge-one-solutions-sp-z-o-o/cover-letter.md",
+  "salaryAsk": "",
   "outreach": "Shortlisted from CSV",
-  "updatedAt": "2026-04-16T10:25:48.092Z"
+  "outreachUrl": "",
+  "updatedAt": "2026-06-04T18:39:30.958Z"
 }

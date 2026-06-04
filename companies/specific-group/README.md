@@ -1,9 +1,12 @@
 # Specific-Group
 
+- Role: —
+- Stack: —
 - Status: target
-- Stage: recruiter_outreach
+- Stage: recruiter_outreach_cover_letter_ready
 - Fit: 8/10
 - Recommended CV: CV 2
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/specific-group/cover-letter.md
 - Salary Ask: 150 PLN/h
 - Outreach: Recruiter outreach from Anastasia Markitan (LinkedIn)
 
