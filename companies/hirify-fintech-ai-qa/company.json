@@ -3,11 +3,11 @@
   "name": "Fintech Platform via Hirify",
   "role": "Mid-Level QA Engineer",
   "stack": "Manual QA, Playwright/Cypress/Selenium, AI-assisted automation, API, SQL, Jira, CI/CD, fintech",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready_hr_text_ready",
-  "process": "Hirify export 2026-06-03: selected as Europe remote fintech QA role focused on manual testing plus co-building AI-assisted automation. CV and HR outreach text prepared.",
+  "status": "contacted",
+  "stage": "cv_ready_cover_letter_ready_outreach_sent",
+  "process": "Hirify export 2026-06-03: selected as Europe remote fintech QA role focused on manual testing plus co-building AI-assisted automation. CV, separate cover letter, and HR outreach text prepared. Yauheni sent Telegram outreach to @ENI_ONE_LTD on 2026-06-04.",
   "requirements": "2-4 years hands-on QA manual + automation; Playwright/Cypress/Selenium; test plans/cases; Jira; AI-assisted automation framework from scratch; CI/CD; remote Europe timezone. Salary listed 3,000-3,750 USD/month.",
-  "notes": "Very usable positioning: honest manual+automation profile, AI-assisted QA workflows, API/SQL/CI/CD. Role title is mid-level, but scope and salary can still fit as pragmatic target.",
+  "notes": "Telegram outreach sent to @ENI_ONE_LTD on 2026-06-04. Very usable positioning: honest manual+automation profile, AI-assisted QA workflows, API/SQL/CI/CD. Role title is mid-level, but scope and salary can still fit as pragmatic target. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-fintech-ai-qa/hirify-fintech-ai-qa.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/hirify-fintech-ai-qa/cover-letter.md",
   "links": [
     "https://hirify.me/jobs/598042-middle-qa-engineer-fintech"
   ],
@@ -15,7 +15,7 @@
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-fintech-ai-qa/hirify-fintech-ai-qa.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/hirify-fintech-ai-qa/cover-letter.md",
   "salaryAsk": "120-140 PLN/h gross preferred or monthly equivalent; negotiable by scope",
-  "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-04T16:55:18.709Z"
+  "outreach": "Telegram outreach sent to @ENI_ONE_LTD",
+  "outreachUrl": "https://t.me/ENI_ONE_LTD",
+  "updatedAt": "2026-06-04T17:22:29.474Z"
 }
