@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T09:57:18.209Z",
+  "generatedAt": "2026-06-04T10:09:05.246Z",
   "companies": [
     {
       "slug": "acronis",
@@ -1558,21 +1558,21 @@
       "role": "Senior Software Development Engineer in Test (SDET)",
       "stack": "Java, JavaScript, BDD, integration/regression/performance testing, Pact contract testing, AWS, Kubernetes, GitHub Actions, ArgoCD, fintech/payments",
       "status": "target",
-      "stage": "cv_ready_hr_text_ready",
-      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Remote with Warsaw/Poland mentioned. Next step: apply/send tailored CV if Java/Pact/performance gap is acceptable.",
+      "stage": "cv_ready_cover_letter_ready_hr_text_ready",
+      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Remote with Warsaw/Poland mentioned. Cover letter added on 2026-06-04. Next step: apply/send tailored CV if Java/Pact/performance gap is acceptable.",
       "requirements": "Senior SDET for early-stage fintech/payment curation platform. Responsibilities: define and execute automation strategy; design, co-develop and automate test plans/cases; champion continuous improvement; mentor and guide testing practices. Stack: Java/Spring backend, Next.js frontend, Kubernetes, GitHub Actions, ArgoCD, AWS. Requirements: strong Java and ideally JS, BDD/testing principles, integration/regression/performance testing, Pact contract testing, mentoring, fintech/payments nice-to-have.",
-      "notes": "Good fintech/SDET opportunity; fit from API/framework/CI/CD/test strategy/debugging and Java automation foundation. Risks: Java, Pact and performance/load depth are stronger requirements than current recent stack; Playwright is not prominent. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/navro/navro.cv.Yauheni.Sheima.pdf",
+      "notes": "Good fintech/SDET opportunity; fit from API/framework/CI/CD/test strategy/debugging and Java automation foundation. Risks: Java, Pact and performance/load depth are stronger requirements than current recent stack; Playwright is not prominent. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/navro/navro.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/navro/cover-letter.md",
       "links": [
         "https://www.qajobs.co/jobs/senior-software-development-engineer-in-test-sdet-to-ykXSisu",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/navro/navro.cv.Yauheni.Sheima.pdf"
       ],
       "fit": "76/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/navro/navro.cv.Yauheni.Sheima.pdf",
-      "coverLetter": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/navro/cover-letter.md",
       "salaryAsk": true,
       "outreach": "HR message drafted",
       "outreachUrl": "",
-      "updatedAt": "2026-06-03T10:41:01.617Z"
+      "updatedAt": "2026-06-04T10:09:04.637Z"
     },
     {
       "slug": "nord-security",
@@ -1661,21 +1661,21 @@
       "role": "Software Development Engineer in Test II",
       "stack": "Python, automation framework maintenance, CI/CD, Jenkins/Spinnaker, data processing systems, GCP, Kubernetes, Docker, Polish and English",
       "status": "target",
-      "stage": "cv_ready_hr_text_ready",
-      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Poland remote. Next step: apply/send tailored CV if Polish requirement and Python framework ramp-up are acceptable.",
+      "stage": "cv_ready_cover_letter_ready_hr_text_ready",
+      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Poland remote. Cover letter added on 2026-06-04. Next step: apply/send tailored CV if Polish requirement and Python framework ramp-up are acceptable.",
       "requirements": "SDET II for OpenX Poland. Responsibilities: test large-scale data processing systems; participate from requirements through validation/deployment; improve efficiency/scalability/stability; develop and maintain automation suites/frameworks; oversee QA CI pipelines; root-cause analysis; collaborate with project teams and QA organization. Requirements: 2+ years test automation, Python framework codebase maintenance, willingness for Java/JavaScript, CI/CD such as Jenkins/Spinnaker, troubleshooting, Agile, Polish and English; GCP/Kubernetes/Docker plus.",
-      "notes": "Fit through framework maintenance, CI/CD, troubleshooting, backend/data investigation, Docker/Kubernetes support and Polish/English communication. Risk: Python framework depth and data processing are not strongest current areas; role may be less senior. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/openx/openx.cv.Yauheni.Sheima.pdf",
+      "notes": "Fit through framework maintenance, CI/CD, troubleshooting, backend/data investigation, Docker/Kubernetes support and Polish/English communication. Risk: Python framework depth and data processing are not strongest current areas; role may be less senior. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/openx/openx.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/openx/cover-letter.md",
       "links": [
         "https://www.remotery.co/job/remote-software-development-engineer-in-test-ii-at-openx-in-poland-full-time-b6c35c",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/openx/openx.cv.Yauheni.Sheima.pdf"
       ],
       "fit": "74/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/openx/openx.cv.Yauheni.Sheima.pdf",
-      "coverLetter": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/openx/cover-letter.md",
       "salaryAsk": true,
       "outreach": "HR message drafted",
       "outreachUrl": "",
-      "updatedAt": "2026-06-03T10:41:01.791Z"
+      "updatedAt": "2026-06-04T10:09:04.833Z"
     },
     {
       "slug": "pacaya-hr-experts",
@@ -1741,21 +1741,21 @@
       "role": "QA Automation Engineer (Python)",
       "stack": "Python, Selenium, Pytest, Postman, API test automation, UI testing, Azure DevOps, Jira, exploratory testing, Agile",
       "status": "target",
-      "stage": "cv_ready_hr_text_ready",
-      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Existing tracker entry reused and refreshed with CV/HR-message-ready state. Next step: apply/send tailored CV if Python-heavy position is acceptable.",
+      "stage": "cv_ready_cover_letter_ready_hr_text_ready",
+      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Existing tracker entry reused and refreshed with CV/HR-message-ready state. Cover letter added on 2026-06-04. Next step: apply/send tailored CV if Python-heavy position is acceptable.",
       "requirements": "QA Automation Engineer with Python focus. Responsibilities: design and validate software quality solutions; contribute to testing strategies; maintain reusable automated tests; work in Agile teams. Requirements: 2+ years manual and automated testing, exploratory/smoke/sanity/regression testing, UI web/mobile testing, API test automation with Postman valued, UI automation with Python/Selenium/Pytest, Azure DevOps/Jira, English.",
-      "notes": "Existing Plain Concepts target refreshed. Fit through Selenium, API/Postman, Azure DevOps/Jira, exploratory/manual+automation and practical Python scripting. Risk: Python-heavy and lower seniority. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/plain-concepts/plain-concepts.cv.Yauheni.Sheima.pdf",
+      "notes": "Existing Plain Concepts target refreshed. Fit through Selenium, API/Postman, Azure DevOps/Jira, exploratory/manual+automation and practical Python scripting. Risk: Python-heavy and lower seniority. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/plain-concepts/plain-concepts.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/plain-concepts/cover-letter.md",
       "links": [
         "https://dynamitejobs.com/company/plainconcepts/remote-job/qa-automation-engineer-python",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/plain-concepts/plain-concepts.cv.Yauheni.Sheima.pdf"
       ],
       "fit": "70/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/plain-concepts/plain-concepts.cv.Yauheni.Sheima.pdf",
-      "coverLetter": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/plain-concepts/cover-letter.md",
       "salaryAsk": true,
       "outreach": "HR message drafted",
       "outreachUrl": "",
-      "updatedAt": "2026-06-03T10:41:02.141Z"
+      "updatedAt": "2026-06-04T10:09:05.234Z"
     },
     {
       "slug": "precisely",
@@ -1893,21 +1893,21 @@
       "role": "QA Automation Specialist",
       "stack": "Selenium, Playwright, C#, Java, API testing, Postman, CI/CD, Azure DevOps/GitHub Actions, SQL, manual/exploratory testing",
       "status": "target",
-      "stage": "cv_ready_hr_text_ready",
-      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Worldwide/flexible remote. Next step: apply/send tailored CV.",
+      "stage": "cv_ready_cover_letter_ready_hr_text_ready",
+      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Worldwide/flexible remote. Cover letter added on 2026-06-04. Next step: apply/send tailored CV.",
       "requirements": "QA Automation Specialist for web/cloud/mobile/desktop applications. Responsibilities: design, build, execute and maintain automated test suites; manual testing where automation is not suitable; automation-first strategy; collaborate with developers/product/QA; validate new features; analyze test results and log defects; monitor CI/CD automation results. Requirements: 3+ years QA, manual and automation, Selenium or Playwright, C#/Java or similar OOP language, API testing, CI/CD, SQL, Appium/performance/AI tools nice-to-have.",
-      "notes": "Solid fit for Selenium/C#Java base, API testing, CI/CD, SQL, manual+automation and framework maintainability. Risk: specialist level and CAD salary may be below target; mobile/desktop breadth is adjacent. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remsoft/remsoft.cv.Yauheni.Sheima.pdf",
+      "notes": "Solid fit for Selenium/C#Java base, API testing, CI/CD, SQL, manual+automation and framework maintainability. Risk: specialist level and CAD salary may be below target; mobile/desktop breadth is adjacent. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remsoft/remsoft.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/remsoft/cover-letter.md",
       "links": [
         "https://remotive.com/remote/jobs/qa/qa-automation-specialist-4536207",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remsoft/remsoft.cv.Yauheni.Sheima.pdf"
       ],
       "fit": "78/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remsoft/remsoft.cv.Yauheni.Sheima.pdf",
-      "coverLetter": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/remsoft/cover-letter.md",
       "salaryAsk": "65,000-85,000 CAD/year",
       "outreach": "HR message drafted",
       "outreachUrl": "",
-      "updatedAt": "2026-06-03T10:41:01.442Z"
+      "updatedAt": "2026-06-04T10:09:04.447Z"
     },
     {
       "slug": "rimthan",
@@ -2546,21 +2546,21 @@
       "role": "Senior QA Automation Engineer",
       "stack": "AI-first QA, mobile/web/API testing, Appium, Selenium, Playwright, Cypress, Postman, REST Assured, Python, JavaScript, CI/CD, performance testing",
       "status": "target",
-      "stage": "cv_ready_hr_text_ready",
-      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Global remote including Europe/EMEA/Eastern Europe. Next step: apply/send tailored CV if mobile/Python-heavy scope is acceptable.",
+      "stage": "cv_ready_cover_letter_ready_hr_text_ready",
+      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Global remote including Europe/EMEA/Eastern Europe. Cover letter added on 2026-06-04. Next step: apply/send tailored CV if mobile/Python-heavy scope is acceptable.",
       "requirements": "Senior QA Automation Engineer owning quality orchestration across mobile, web and API. Responsibilities: AI-assisted test generation, data creation, failure triage, strategy and risk analysis; automation frameworks across mobile/web/API; custom prompt libraries, triage pipelines and synthetic data workflows; full development cycle. Requirements: 5+ years QA, 3+ automation, mobile iOS/Android, Appium, Selenium/Playwright/Cypress, Postman/REST Assured, Python primary, JavaScript secondary, AI tools, CI/CD nice-to-have.",
-      "notes": "Good global remote option but not the cleanest fit: strong on QA strategy, web/API automation, Selenium/Playwright direction, API testing and AI-assisted workflows. Risks: mobile/Appium and Python-primary focus are ramp-up areas. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/yonder-media-mobile/yonder-media-mobile.cv.Yauheni.Sheima.pdf",
+      "notes": "Good global remote option but not the cleanest fit: strong on QA strategy, web/API automation, Selenium/Playwright direction, API testing and AI-assisted workflows. Risks: mobile/Appium and Python-primary focus are ramp-up areas. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/yonder-media-mobile/yonder-media-mobile.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/yonder-media-mobile/cover-letter.md",
       "links": [
         "https://remotive.com/remote/jobs/qa/senior-qa-automation-engineer-4537759",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/yonder-media-mobile/yonder-media-mobile.cv.Yauheni.Sheima.pdf"
       ],
       "fit": "73/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/yonder-media-mobile/yonder-media-mobile.cv.Yauheni.Sheima.pdf",
-      "coverLetter": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/yonder-media-mobile/cover-letter.md",
       "salaryAsk": true,
       "outreach": "HR message drafted",
       "outreachUrl": "",
-      "updatedAt": "2026-06-03T10:41:01.967Z"
+      "updatedAt": "2026-06-04T10:09:05.053Z"
     },
     {
       "slug": "youriteams",

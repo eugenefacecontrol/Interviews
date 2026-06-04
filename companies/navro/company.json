@@ -4,19 +4,19 @@
   "role": "Senior Software Development Engineer in Test (SDET)",
   "stack": "Java, JavaScript, BDD, integration/regression/performance testing, Pact contract testing, AWS, Kubernetes, GitHub Actions, ArgoCD, fintech/payments",
   "status": "target",
-  "stage": "cv_ready_hr_text_ready",
-  "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Remote with Warsaw/Poland mentioned. Next step: apply/send tailored CV if Java/Pact/performance gap is acceptable.",
+  "stage": "cv_ready_cover_letter_ready_hr_text_ready",
+  "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Remote with Warsaw/Poland mentioned. Cover letter added on 2026-06-04. Next step: apply/send tailored CV if Java/Pact/performance gap is acceptable.",
   "requirements": "Senior SDET for early-stage fintech/payment curation platform. Responsibilities: define and execute automation strategy; design, co-develop and automate test plans/cases; champion continuous improvement; mentor and guide testing practices. Stack: Java/Spring backend, Next.js frontend, Kubernetes, GitHub Actions, ArgoCD, AWS. Requirements: strong Java and ideally JS, BDD/testing principles, integration/regression/performance testing, Pact contract testing, mentoring, fintech/payments nice-to-have.",
-  "notes": "Good fintech/SDET opportunity; fit from API/framework/CI/CD/test strategy/debugging and Java automation foundation. Risks: Java, Pact and performance/load depth are stronger requirements than current recent stack; Playwright is not prominent. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/navro/navro.cv.Yauheni.Sheima.pdf",
+  "notes": "Good fintech/SDET opportunity; fit from API/framework/CI/CD/test strategy/debugging and Java automation foundation. Risks: Java, Pact and performance/load depth are stronger requirements than current recent stack; Playwright is not prominent. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/navro/navro.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/navro/cover-letter.md",
   "links": [
     "https://www.qajobs.co/jobs/senior-software-development-engineer-in-test-sdet-to-ykXSisu",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/navro/navro.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "76/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/navro/navro.cv.Yauheni.Sheima.pdf",
-  "coverLetter": "",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/navro/cover-letter.md",
   "salaryAsk": true,
   "outreach": "HR message drafted",
   "outreachUrl": "",
-  "updatedAt": "2026-06-03T10:41:01.617Z"
+  "updatedAt": "2026-06-04T10:09:04.637Z"
 }
