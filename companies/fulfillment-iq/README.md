@@ -7,7 +7,7 @@
 - Fit: 78/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/fulfillment-iq/fulfillment-iq.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md
-- Salary Ask: true
+- Salary Ask: not listed
 - Outreach: Closed: vacancy unavailable
 
 ## Process

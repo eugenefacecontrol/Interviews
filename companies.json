@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T18:26:55.970Z",
+  "generatedAt": "2026-06-04T18:27:23.878Z",
   "companies": [
     {
       "slug": "acronis",
@@ -903,10 +903,10 @@
       "fit": "78/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/fulfillment-iq/fulfillment-iq.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md",
-      "salaryAsk": true,
+      "salaryAsk": "not listed",
       "outreach": "Closed: vacancy unavailable",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T18:26:55.960Z"
+      "updatedAt": "2026-06-04T18:27:23.868Z"
     },
     {
       "slug": "fundraise-up",
