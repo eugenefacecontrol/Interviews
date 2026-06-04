@@ -4,18 +4,18 @@
   "role": "Quality Engineer",
   "stack": "Playwright, TypeScript, CI quality gates, Pact, Testcontainers, DataDog, Selenium/Cypress migration, Claude Code, API contracts",
   "status": "target",
-  "stage": "cv_ready",
-  "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
-  "requirements": "Strong Playwright E2E automation; page objects; CI sharding/quality gates; Selenium/Cypress migration; Pact contract testing; Testcontainers; dashboards and flaky test tracking; AI-assisted test migration/review.",
-  "notes": "Quality engineering function from scratch. Strong stretch: Playwright migration, CI quality gates and AI-assisted testing fit well; Pact/Testcontainers/DataDog are ramp-up areas. Location listed as Croatia/remote-friendly; verify Poland eligibility. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf",
+  "stage": "cv_ready_cover_letter_ready",
+  "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter prepared on 2026-06-04 for the Greenhouse application.",
+  "requirements": "Strong Playwright E2E automation; page objects; CI sharding/quality gates; Selenium/Cypress migration; Pact contract testing; Testcontainers; DataDog quality dashboards; mutation testing; AI-assisted test migration/review.",
+  "notes": "First quality engineering hire building QE function from scratch. Strong fit: Playwright direction, CI quality feedback, API testing, diagnostics and AI-assisted QA. Stretch areas to ramp up: Pact, Testcontainers, DataDog dashboards and mutation testing. Location listed as Remote (Croatia); verify Poland eligibility. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf",
   "links": [
     "https://job-boards.greenhouse.io/duettoresearch/jobs/7920633"
   ],
   "fit": "72/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf",
-  "coverLetter": "",
-  "salaryAsk": "",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/duetto/cover-letter.md",
+  "salaryAsk": "not listed",
   "outreach": "",
   "outreachUrl": "",
-  "updatedAt": "2026-05-30T19:55:50.243Z"
+  "updatedAt": "2026-06-04T18:31:00.427Z"
 }
