@@ -3,11 +3,11 @@
   "name": "Remsoft",
   "role": "QA Automation Specialist",
   "stack": "Selenium, Playwright, C#, Java, API testing, Postman, CI/CD, Azure DevOps/GitHub Actions, SQL, manual/exploratory testing",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready_hr_text_ready",
-  "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Worldwide/flexible remote. Cover letter added on 2026-06-04. Next step: apply/send tailored CV.",
+  "status": "closed",
+  "stage": "position_closed",
+  "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Worldwide/flexible remote. Cover letter added on 2026-06-04. Yauheni reported on 2026-06-04 that the vacancy is no longer available.",
   "requirements": "QA Automation Specialist for web/cloud/mobile/desktop applications. Responsibilities: design, build, execute and maintain automated test suites; manual testing where automation is not suitable; automation-first strategy; collaborate with developers/product/QA; validate new features; analyze test results and log defects; monitor CI/CD automation results. Requirements: 3+ years QA, manual and automation, Selenium or Playwright, C#/Java or similar OOP language, API testing, CI/CD, SQL, Appium/performance/AI tools nice-to-have.",
-  "notes": "Solid fit for Selenium/C#Java base, API testing, CI/CD, SQL, manual+automation and framework maintainability. Risk: specialist level and CAD salary may be below target; mobile/desktop breadth is adjacent. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remsoft/remsoft.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/remsoft/cover-letter.md",
+  "notes": "Position closed/unavailable as of 2026-06-04. Historical fit: solid for Selenium/C#Java base, API testing, CI/CD, SQL, manual+automation and framework maintainability. Risk was specialist level and CAD salary below target; mobile/desktop breadth adjacent. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remsoft/remsoft.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/remsoft/cover-letter.md",
   "links": [
     "https://remotive.com/remote/jobs/qa/qa-automation-specialist-4536207",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remsoft/remsoft.cv.Yauheni.Sheima.pdf"
@@ -16,7 +16,7 @@
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remsoft/remsoft.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/remsoft/cover-letter.md",
   "salaryAsk": "65,000-85,000 CAD/year",
-  "outreach": "HR message drafted",
+  "outreach": "Position closed / unavailable",
   "outreachUrl": "",
-  "updatedAt": "2026-06-04T10:09:04.447Z"
+  "updatedAt": "2026-06-04T10:11:21.094Z"
 }
