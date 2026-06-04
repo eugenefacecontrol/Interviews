@@ -134,7 +134,7 @@ This is the canonical human-readable list of interview companies.
 | Vention | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.863Z |
 | Verisk | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.216Z |
 | Wipro | rejected | rejected_after_application_review | 6/10 | CV 2 |  | 800 PLN/day | Sri Latha (Infinity Quest) - recruiter outreach | 2026-05-28T15:03:59.878Z |
-| Xebia | target | cv_to_send_cover_letter_ready | 68/100 | CV 2 | /Users/yauhenisheima/Sources/Interviews/companies/xebia/cover-letter.md |  | Shortlisted from CSV | 2026-06-04T18:39:33.309Z |
+| Xebia | target | cv_ready_cover_letter_ready | 90/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xebia/xebia.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/xebia/cover-letter.md | not listed | New Greenhouse vacancy; CV and cover letter ready | 2026-06-04T18:45:32.340Z |
 | XM | interviewing | hr_screen_completed_waiting_technical_feedback | 70/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xm/xm.cv.Yauheni.Sheima.pdf |  | 4,500 EUR/month B2B (application previously: 56,500 EUR/year) |  | 2026-06-02T09:05:06.004Z |
 | Yonder Media Mobile | applied | application_sent | 73/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/yonder-media-mobile/yonder-media-mobile.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/yonder-media-mobile/cover-letter.md |  | Application confirmation received | 2026-06-04T16:23:52.466Z |
 | YourITeams | closed | position_closed | 0/100 | CV 2 | /Users/yauhenisheima/Sources/Interviews/companies/youriteams/cover-letter.md | not listed | Closed: vacancy unavailable | 2026-06-04T18:41:58.206Z |

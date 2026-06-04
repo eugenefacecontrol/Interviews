@@ -1,14 +1,16 @@
-# Xebia - QA Automation Engineer Cover Letter
+# Xebia - QA Automation Specialist Cover Letter
 
 Dear Xebia team,
 
-I am interested in the QA Automation Engineer role. I bring 7+ years of QA and QA automation experience across UI/API testing, automation support, regression validation, defect investigation, test documentation and collaboration with engineering teams.
+I am interested in the QA Automation Specialist role because it is closely aligned with the type of quality engineering work I want to keep building: Playwright-based automation, API testing, CI/CD integration, quality gates, shift-left QA, and pragmatic use of AI-assisted testing tools.
 
-The main overlap is around web automation and maintainable test suites, API validation and service-level quality checks, CI/CD quality feedback, automation scripting and code-level collaboration. I have worked with practical automation around Selenium and Playwright-oriented workflows, API testing, CI/CD feedback, SQL/log-based diagnostics, clear bug evidence and risk-based release support. My approach is pragmatic: automate checks that give reliable signal, keep exploratory testing for uncertain flows, and make test results useful for developers.
+I bring 7+ years of QA and QA automation experience across UI/API testing, regression validation, defect investigation, test documentation, release support, and close collaboration with development and product teams. My strongest overlap is around web automation, API validation, CI/CD feedback, reliable bug evidence, and improving test coverage where it gives useful release signal.
 
-The role's stack and expectations around Java, Selenium, REST, API, CI/CD, Jenkins are close to the kind of quality work I want to continue building. The role is relevant because it needs a QA engineer who can connect hands-on testing with practical automation and clear engineering feedback.
+The role's Playwright + TypeScript direction is especially relevant. I have practical experience with Selenium-based automation and a current Playwright-oriented automation direction, plus JavaScript/TypeScript foundations, API testing, CI/CD workflow improvement, SQL/log-based diagnostics, and risk-based test strategy. I am also interested in AI-assisted QA used responsibly: test idea generation, flaky-test analysis support, coverage review, and reducing repetitive work while keeping human review and product risk analysis central.
 
-I would be glad to discuss how my QA automation and product-quality background can support your team.
+Some areas, such as visual regression baseline management, Redis/cache-specific scenarios, AB-test variant control, and deeper structured GenAI workflows, are topics I would ramp up on directly. The core role still fits well because it combines automation engineering, API quality, pipeline feedback, and modern QA improvement.
+
+I would be glad to discuss how my QA automation background can support Xebia's engineering teams and client delivery quality.
 
 Best regards,
 Yauheni Sheima
