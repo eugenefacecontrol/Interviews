@@ -14,6 +14,7 @@ This is the canonical human-readable list of interview companies.
 | Andersen | target | recruiter_outreach | 7/10 | CV 2 |  |  | Recruiter outreach from Yana Budulatii (LinkedIn) | 2026-04-17T11:44:37.677Z |
 | Antal | applied | application_sent | 6/10 | CV 2 |  |  | Applied via JustJoinIt | 2026-04-08T10:35:05.105Z |
 | Antal Sp. z o.o. | target | cv_to_send | 83/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.399Z |
+| Aristek Systems | target | recruiter_reply_to_send | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf |  |  | Kseniya Vishnevskaya — recruiter message received | 2026-06-04T16:03:28.551Z |
 | Aristocrat | applied | application_sent | 8/10 | CV 2 |  |  | Applied via JustJoinIt | 2026-05-08T09:00:00.000Z |
 | Asseco Poland S.A. | target | cv_to_send | 89/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.208Z |
 | Atos | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.314Z |
@@ -54,7 +55,7 @@ This is the canonical human-readable list of interview companies.
 | GR8 Tech | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.552Z |
 | Grape Up | rejected | rejected_from_gmail_label | 9/10 | CV 2 |  |  | Rejected after applying to talent pool opening | 2026-05-25T16:01:09.677Z |
 | Green Hive Technology | target | cv_to_send | 51/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.954Z |
-| GROWE | applied | application_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md | true | Application confirmation received | 2026-06-04T10:44:21.675Z |
+| GROWE | applied | application_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md |  | Application confirmation received | 2026-06-04T10:44:21.675Z |
 | Happy Team | target | cv_to_send | 41/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:49.134Z |
 | HEINEKEN | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.411Z |
 | Hidden Company via Hirify | target | cv_ready_hr_text_ready | 74/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md | 120-140 PLN/h gross or equivalent; role listed 4,000-8,000 USD gross/month | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-03T15:59:12.156Z |
@@ -79,7 +80,7 @@ This is the canonical human-readable list of interview companies.
 | Mesh | target | cv_ready | 73/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf |  |  |  | 2026-05-30T19:55:50.062Z |
 | Miquido | applied | application_sent | 7/10 | CV 2 |  |  | Applied via company site | 2026-04-08T10:29:36.348Z |
 | Mitrix Technology | rejected | rejected | low | CV 2 |  |  |  | 2026-04-02T13:53:34.666Z |
-| MLabs | applied | application_sent | 80/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mlabs/mlabs.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/mlabs/cover-letter.md | true | Application confirmation received | 2026-06-04T10:44:21.518Z |
+| MLabs | applied | application_sent | 80/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mlabs/mlabs.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/mlabs/cover-letter.md |  | Application confirmation received | 2026-06-04T10:44:21.518Z |
 | Montrose Software | target | cv_prepared | 80/100 | tailored-cv/montrose-software-qa-automation-engineer.md |  |  | CV prepared | 2026-05-06T18:00:20.505Z |
 | Motorola Solutions | rejected | rejected_from_gmail_label | 8/10 | CV 2 |  |  |  | 2026-05-25T16:01:10.014Z |
 | N-iX | applied | application_sent | 76/100 | CV 2 |  |  | Applied via Olga Dmytryshyn | 2026-04-24T17:32:02.889Z |
