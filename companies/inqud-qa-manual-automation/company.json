@@ -4,7 +4,7 @@
   "role": "QA Engineer (Manual + Automation)",
   "stack": "Manual QA, automation, E2E, API, CI/CD, fintech, crypto, PostgreSQL/ClickHouse, Grafana/DataDog",
   "status": "target",
-  "stage": "cv_ready_hr_text_ready",
+  "stage": "cv_ready_cover_letter_ready_hr_text_ready",
   "process": "Hirify export 2026-06-03: selected as remote worldwide fintech/crypto QA role. CV and HR outreach text prepared; verify contact and contract details before submission.",
   "requirements": "5+ years QA manual + automation; API testing via Postman or code-based approach; Playwright/Cypress/Selenium; CI/CD; test strategy and risk-based testing; transactional systems; fintech/crypto and performance/security as plus. Salary listed 1,800-2,800 USD.",
   "notes": "Good fit for manual+automation ownership, API/CI/CD, small-team QA process building and payment-flow positioning. Compensation may be lower than preferred range; verify expectations.",
@@ -13,9 +13,9 @@
   ],
   "fit": "84/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/inqud-qa-manual-automation/inqud-qa-manual-automation.cv.Yauheni.Sheima.pdf",
-  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/inqud-qa-manual-automation/cover-letter.md",
   "salaryAsk": "120-140 PLN/h gross preferred; open to discuss if scope/contract fit is strong",
   "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
   "outreachUrl": "",
-  "updatedAt": "2026-06-03T15:59:11.514Z"
+  "updatedAt": "2026-06-04T16:55:18.707Z"
 }

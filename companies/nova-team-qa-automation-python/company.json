@@ -4,7 +4,7 @@
   "role": "QA Automation Engineer (Python, Fintech/Crypto)",
   "stack": "Python, pytest, backend/API QA, fintech, crypto, logs, metrics, Kibana, Grafana, SQL, CI/CD",
   "status": "target",
-  "stage": "cv_ready_hr_text_ready",
+  "stage": "cv_ready_cover_letter_ready_hr_text_ready",
   "process": "Hirify export 2026-06-03: selected as remote fintech/crypto QA automation role via Nova Team. CV and HR outreach text prepared; verify Python-depth expectations before applying.",
   "requirements": "Middle+/Senior QA Automation; remote except Russia/Belarus or relocation to Georgia; backend/API automation on Python pytest; framework support; manual debugging/exploratory tasks; code review; logs and metrics. Salary listed from 3,000 USD.",
   "notes": "Potentially useful but Python depth is the main risk. Use honest framing: strongest scripting history is PowerShell/JS/C#/Java with practical Python ramp-up and strong API/backend QA transfer.",
@@ -13,9 +13,9 @@
   ],
   "fit": "80/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/nova-team-qa-automation-python/nova-team-qa-automation-python.cv.Yauheni.Sheima.pdf",
-  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/nova-team-qa-automation-python/cover-letter.md",
   "salaryAsk": "120-140 PLN/h gross preferred or monthly equivalent; role listed from 3,000 USD/month",
   "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
   "outreachUrl": "",
-  "updatedAt": "2026-06-03T15:59:11.841Z"
+  "updatedAt": "2026-06-04T16:55:18.709Z"
 }

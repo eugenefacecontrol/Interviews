@@ -4,7 +4,7 @@
   "role": "Middle Automation QA Engineer (Java)",
   "stack": "Java, API, mobile E2E, web automation, Appium, Selenide, GitLab CI/CD, AI tools",
   "status": "target",
-  "stage": "cv_ready_hr_text_ready",
+  "stage": "cv_ready_cover_letter_ready_hr_text_ready",
   "process": "Hirify export 2026-06-03: selected as remote Automation QA Java role. CV and HR outreach text prepared; verify compensation and seniority before prioritizing.",
   "requirements": "Automation QA from 1 year; Java; Mobile/Web automation via Appium/Selenide; GitLab CI/CD; AI tools; API and Mobile E2E tests; framework support; flaky test analysis. Salary listed from 1,500 USD gross.",
   "notes": "Technically adjacent but lower seniority/salary. Consider only if recruiter route is easy or as backup; do not over-index on Appium/Selenide depth.",
@@ -13,9 +13,9 @@
   ],
   "fit": "72/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/prequel-automation-qa-java/prequel-automation-qa-java.cv.Yauheni.Sheima.pdf",
-  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/prequel-automation-qa-java/cover-letter.md",
   "salaryAsk": "120-140 PLN/h gross preferred; role listed from 1,500 USD gross/month",
   "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
   "outreachUrl": "",
-  "updatedAt": "2026-06-03T15:59:12.380Z"
+  "updatedAt": "2026-06-04T16:55:18.710Z"
 }

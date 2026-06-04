@@ -3,10 +3,10 @@
 - Role: Middle QA Engineer (Python/AI)
 - Stack: Manual QA, web/mobile/API, Python, Pytest, Requests, Locust, Playwright, SQL, Docker, TeamCity, Grafana, AI tools
 - Status: target
-- Stage: cv_ready_hr_text_ready
+- Stage: cv_ready_cover_letter_ready_hr_text_ready
 - Fit: 77/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/actimind-qa-python-ai/actimind-qa-python-ai.cv.Yauheni.Sheima.pdf
-- Cover Letter: /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/actimind-qa-python-ai/cover-letter.md
 - Salary Ask: 120-140 PLN/h gross preferred; evaluate against listed from 2,200 USD/month
 - Outreach: HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md
 

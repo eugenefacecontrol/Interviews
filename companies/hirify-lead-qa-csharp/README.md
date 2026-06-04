@@ -3,10 +3,10 @@
 - Role: Lead QA Engineer (C#)
 - Stack: C#, Playwright, API, high-load, messaging/telecom, PostgreSQL, GitHub Actions, monitoring, non-functional testing
 - Status: target
-- Stage: cv_ready_hr_text_ready
+- Stage: cv_ready_cover_letter_ready_hr_text_ready
 - Fit: 74/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf
-- Cover Letter: /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/hirify-lead-qa-csharp/cover-letter.md
 - Salary Ask: 120-140 PLN/h gross or equivalent; role listed 4,000-8,000 USD gross/month
 - Outreach: HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md
 

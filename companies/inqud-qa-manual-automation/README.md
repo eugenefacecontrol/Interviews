@@ -3,10 +3,10 @@
 - Role: QA Engineer (Manual + Automation)
 - Stack: Manual QA, automation, E2E, API, CI/CD, fintech, crypto, PostgreSQL/ClickHouse, Grafana/DataDog
 - Status: target
-- Stage: cv_ready_hr_text_ready
+- Stage: cv_ready_cover_letter_ready_hr_text_ready
 - Fit: 84/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/inqud-qa-manual-automation/inqud-qa-manual-automation.cv.Yauheni.Sheima.pdf
-- Cover Letter: /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/inqud-qa-manual-automation/cover-letter.md
 - Salary Ask: 120-140 PLN/h gross preferred; open to discuss if scope/contract fit is strong
 - Outreach: HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md
 

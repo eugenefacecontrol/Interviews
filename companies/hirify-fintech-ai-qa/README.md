@@ -3,10 +3,10 @@
 - Role: Mid-Level QA Engineer
 - Stack: Manual QA, Playwright/Cypress/Selenium, AI-assisted automation, API, SQL, Jira, CI/CD, fintech
 - Status: target
-- Stage: cv_ready_hr_text_ready
+- Stage: cv_ready_cover_letter_ready_hr_text_ready
 - Fit: 83/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-fintech-ai-qa/hirify-fintech-ai-qa.cv.Yauheni.Sheima.pdf
-- Cover Letter: /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/hirify-fintech-ai-qa/cover-letter.md
 - Salary Ask: 120-140 PLN/h gross preferred or monthly equivalent; negotiable by scope
 - Outreach: HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md
 

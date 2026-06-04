@@ -3,10 +3,10 @@
 - Role: QA Automation Engineer (Python, Fintech/Crypto)
 - Stack: Python, pytest, backend/API QA, fintech, crypto, logs, metrics, Kibana, Grafana, SQL, CI/CD
 - Status: target
-- Stage: cv_ready_hr_text_ready
+- Stage: cv_ready_cover_letter_ready_hr_text_ready
 - Fit: 80/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/nova-team-qa-automation-python/nova-team-qa-automation-python.cv.Yauheni.Sheima.pdf
-- Cover Letter: /Users/yauhenisheima/Sources/Interviews/hirify-qa-automation-hr-messages-2026-06-03.md
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/nova-team-qa-automation-python/cover-letter.md
 - Salary Ask: 120-140 PLN/h gross preferred or monthly equivalent; role listed from 3,000 USD/month
 - Outreach: HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md
 

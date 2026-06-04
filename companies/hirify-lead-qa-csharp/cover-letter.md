@@ -1,0 +1,9 @@
+# Hidden Company via Hirify - Lead QA Engineer (C#) Cover Letter
+
+Dear hiring team,
+
+I am interested in the Lead QA Engineer role because it focuses on senior QA ownership: automation strategy, API and UI testing, CI/CD quality gates, test process definition, observability, and mentoring. I have 7+ years of QA experience across manual and automated testing, release validation, defect investigation, and practical automation workflow improvement.
+
+My background includes C#/.NET and Java automation foundations, Selenium and Playwright-oriented web automation, REST API validation, SQL-backed diagnostics, CI/CD pipelines, and collaboration with developers on root-cause analysis. I can contribute strongly to QA process, test strategy, coverage planning, defect evidence, and pragmatic automation improvement. Some of the role's deeper hard requirements, especially extensive Python automation and high-load telecom/messaging depth, would need honest alignment during discussion, but the core QA leadership and automation ownership areas are relevant.
+
+The role is interesting because it combines hands-on automation with process leadership and system-level quality thinking. I would be glad to discuss whether my QA automation and test-strategy background fits the team's expectations.
