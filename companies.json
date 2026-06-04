@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T18:39:33.414Z",
+  "generatedAt": "2026-06-04T18:41:58.216Z",
   "companies": [
     {
       "slug": "acronis",
@@ -2713,22 +2713,22 @@
     {
       "slug": "youriteams",
       "name": "YourITeams",
-      "status": "target",
-      "stage": "cv_to_send_cover_letter_ready",
-      "process": "Imported from JustJoinIt shortlist",
+      "status": "closed",
+      "stage": "position_closed",
+      "process": "Imported from ranked shortlist CSV. Marked unavailable on 2026-06-04.",
       "requirements": "Salesforce Automation Tester with Copado; Stack: Performance",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Salesforce Automation Tester with Copado.",
+      "notes": "Vacancy is unavailable. Historical fit was 0/100; keep cover letter and tracker materials for history.",
       "links": [
         "https://justjoin.it/job-offer/youriteams-salesforce-automation-tester-with-copado-warszawa-testing"
       ],
       "fit": "0/100",
       "recommendedCv": "CV 2",
-      "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-06-04T18:39:33.403Z",
-      "role": "",
-      "stack": "",
+      "outreach": "Closed: vacancy unavailable",
+      "updatedAt": "2026-06-04T18:41:58.206Z",
+      "role": "Salesforce Automation Tester with Copado",
+      "stack": "Salesforce, Copado, performance testing",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/youriteams/cover-letter.md",
-      "salaryAsk": "",
+      "salaryAsk": "not listed",
       "outreachUrl": ""
     }
   ]
