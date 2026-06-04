@@ -11,11 +11,16 @@
     .controls { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin: 0 0 20px; }
     .controls label { display: flex; flex-direction: column; gap: 6px; font-size: 14px; color: #444; }
     .controls input, .controls select { padding: 8px 10px; border: 1px solid #ccc; border-radius: 8px; font: inherit; }
-    table { border-collapse: collapse; width: 100%; }
+    .table-wrap { border: 1px solid #ddd; overflow-x: auto; }
+    table { border-collapse: collapse; min-width: 100%; width: max-content; table-layout: fixed; }
     th, td { border: 1px solid #ddd; padding: 10px; text-align: left; vertical-align: top; }
-    th { background: #f5f5f5; cursor: pointer; user-select: none; }
+    th { background: #f5f5f5; cursor: pointer; position: relative; user-select: none; }
     th[data-sort-dir="asc"]::after { content: " ▲"; }
     th[data-sort-dir="desc"]::after { content: " ▼"; }
+    .resize-handle { bottom: 0; cursor: col-resize; position: absolute; right: -4px; top: 0; width: 8px; z-index: 2; }
+    .resize-handle::after { background: #c9c9c9; content: ""; display: block; height: 100%; margin-left: 3px; opacity: 0; width: 1px; }
+    th:hover .resize-handle::after, body.resizing-column .resize-handle::after { opacity: 1; }
+    body.resizing-column { cursor: col-resize; user-select: none; }
     code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
     a { color: #0b57d0; }
     .summary { margin: 10px 0 16px; color: #555; font-size: 14px; }
@@ -55,28 +60,46 @@
     </label>
   </div>
   <div class="summary" id="summary"></div>
-  <table id="companiesTable">
-    <thead>
-      <tr>
-        <th data-column="company">Company</th>
-        <th data-column="role">Role</th>
-        <th data-column="salary">Salary</th>
-        <th data-column="stack">Stack</th>
-        <th data-column="fit">Fit</th>
-        <th data-column="materials">Vacancy Materials</th>
-        <th data-column="cv">CV</th>
-        <th data-column="coverLetter">Cover Letter</th>
-        <th data-column="salaryAsk">Salary Ask</th>
-        <th data-column="outreach">Outreach</th>
-        <th data-column="notes">Notes</th>
-        <th data-column="status">Status</th>
-        <th data-column="stage">Stage</th>
-        <th data-column="link">Apply Link</th>
-        <th data-column="updatedAt">Last update</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
+  <div class="table-wrap">
+    <table id="companiesTable">
+      <colgroup>
+        <col data-column="company" style="width: 180px">
+        <col data-column="role" style="width: 240px">
+        <col data-column="salary" style="width: 140px">
+        <col data-column="stack" style="width: 300px">
+        <col data-column="fit" style="width: 90px">
+        <col data-column="materials" style="width: 280px">
+        <col data-column="cv" style="width: 280px">
+        <col data-column="coverLetter" style="width: 220px">
+        <col data-column="salaryAsk" style="width: 130px">
+        <col data-column="outreach" style="width: 180px">
+        <col data-column="notes" style="width: 360px">
+        <col data-column="status" style="width: 120px">
+        <col data-column="stage" style="width: 180px">
+        <col data-column="link" style="width: 110px">
+        <col data-column="updatedAt" style="width: 190px">
+      </colgroup>
+      <thead>
+        <tr>
+          <th data-column="company">Company</th>
+          <th data-column="role">Role</th>
+          <th data-column="salary">Salary</th>
+          <th data-column="stack">Stack</th>
+          <th data-column="fit">Fit</th>
+          <th data-column="materials">Vacancy Materials</th>
+          <th data-column="cv">CV</th>
+          <th data-column="coverLetter">Cover Letter</th>
+          <th data-column="salaryAsk">Salary Ask</th>
+          <th data-column="outreach">Outreach</th>
+          <th data-column="notes">Notes</th>
+          <th data-column="status">Status</th>
+          <th data-column="stage">Stage</th>
+          <th data-column="link">Apply Link</th>
+          <th data-column="updatedAt">Last update</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
         <td data-column="company">Acronis</td>
         <td data-column="role">Senior Automation QA Engineer</td>
         <td data-column="salary"></td>
@@ -2869,8 +2892,9 @@
         <td data-column="link"><a href="https://justjoin.it/job-offer/youriteams-salesforce-automation-tester-with-copado-warszawa-testing" target="_blank" rel="noopener noreferrer">Apply</a></td>
         <td data-column="updatedAt">2026-04-16T10:25:49.195Z</td>
       </tr>
-    </tbody>
-  </table>
+      </tbody>
+    </table>
+  </div>
   <script>
     const table = document.getElementById('companiesTable');
     const tbody = table.querySelector('tbody');
@@ -2884,6 +2908,10 @@
     const notesFilter = document.getElementById('notesFilter');
     const summary = document.getElementById('summary');
     const headers = Array.from(table.querySelectorAll('th[data-column]'));
+    const columnWidthStorageKey = 'interviewsColumnWidths:v1';
+    const defaultColumnWidths = Object.fromEntries(
+      Array.from(table.querySelectorAll('col[data-column]')).map(col => [col.dataset.column, parseInt(col.style.width, 10)])
+    );
 
     let sortColumn = 'updatedAt';
     let sortDir = 'desc';
@@ -2894,6 +2922,7 @@
     initSelect(cvFilter, 'cv');
     initSelect(salaryAskFilter, 'salaryAsk');
     initSelect(notesFilter, 'notes');
+    initColumnResizing();
     restoreStateFromUrl();
 
     searchInput.addEventListener('input', render);
@@ -3006,6 +3035,74 @@
       if (sortDir && sortDir !== 'desc') params.set('dir', sortDir); else params.delete('dir');
       const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
       window.history.replaceState({}, '', newUrl);
+    }
+
+    function initColumnResizing() {
+      const savedWidths = loadColumnWidths();
+      headers.forEach(header => {
+        const column = header.dataset.column;
+        if (savedWidths[column]) setColumnWidth(column, savedWidths[column]);
+
+        const handle = document.createElement('span');
+        handle.className = 'resize-handle';
+        handle.title = 'Drag to resize; double-click to reset';
+        handle.addEventListener('click', event => event.stopPropagation());
+        handle.addEventListener('dblclick', event => {
+          event.preventDefault();
+          event.stopPropagation();
+          delete savedWidths[column];
+          saveColumnWidths(savedWidths);
+          resetColumnWidth(column);
+        });
+        handle.addEventListener('mousedown', event => startColumnResize(event, header, column, savedWidths));
+        header.appendChild(handle);
+      });
+    }
+
+    function startColumnResize(event, header, column, savedWidths) {
+      event.preventDefault();
+      event.stopPropagation();
+      const startX = event.clientX;
+      const startWidth = header.getBoundingClientRect().width;
+      document.body.classList.add('resizing-column');
+
+      const onMove = moveEvent => {
+        const nextWidth = Math.max(70, Math.round(startWidth + moveEvent.clientX - startX));
+        setColumnWidth(column, nextWidth);
+      };
+      const onUp = () => {
+        const width = Math.round(header.getBoundingClientRect().width);
+        savedWidths[column] = width;
+        saveColumnWidths(savedWidths);
+        document.body.classList.remove('resizing-column');
+        document.removeEventListener('mousemove', onMove);
+        document.removeEventListener('mouseup', onUp);
+      };
+
+      document.addEventListener('mousemove', onMove);
+      document.addEventListener('mouseup', onUp);
+    }
+
+    function setColumnWidth(column, width) {
+      const col = table.querySelector('col[data-column="' + column + '"]');
+      if (col) col.style.width = width + 'px';
+    }
+
+    function resetColumnWidth(column) {
+      const col = table.querySelector('col[data-column="' + column + '"]');
+      if (col && defaultColumnWidths[column]) col.style.width = defaultColumnWidths[column] + 'px';
+    }
+
+    function loadColumnWidths() {
+      try {
+        return JSON.parse(localStorage.getItem(columnWidthStorageKey) || '{}');
+      } catch {
+        return {};
+      }
+    }
+
+    function saveColumnWidths(widths) {
+      localStorage.setItem(columnWidthStorageKey, JSON.stringify(widths));
     }
   </script>
 </body>
