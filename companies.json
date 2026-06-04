@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T15:59:12.392Z",
+  "generatedAt": "2026-06-04T09:20:30.848Z",
   "companies": [
     {
       "slug": "acronis",
@@ -1535,11 +1535,11 @@
       "name": "N-iX (Playwright + AI)",
       "role": "Senior Automation Test Engineer/SDET (Playwright + AI)",
       "stack": "Playwright, TypeScript/JavaScript, AI-driven testing, LLM/data-driven systems, UI/API/E2E automation, CI/CD, GitHub Actions/Azure DevOps/Jenkins, Zephyr/Xray",
-      "status": "target",
-      "stage": "cv_ready_hr_text_ready",
-      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03 as a separate N-iX Playwright + AI role. N-iX already exists in the tracker for another application; check duplicate/application policy before applying.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03 as a separate N-iX Playwright + AI role. Yauheni applied on 2026-06-04 after confirming he had not actually applied to this specific N-iX vacancy before.",
       "requirements": "Senior Automation Test Engineer/SDET for clinical research tech provider. Responsibilities: test AI-powered features for reliability, robustness, explainability and compliance; design prompt/scenario-driven tests; define validation criteria for non-deterministic systems; use AI coding assistants; design and maintain Playwright UI/API/E2E frameworks; integrate tests into CI/CD; exploratory testing. Requirements: 5+ years automation, AI/data-driven system testing, Playwright, TypeScript/JavaScript, CI/CD, test management tools, strong testing fundamentals.",
-      "notes": "Promising but needs careful positioning: strong on Playwright direction, API/E2E automation, CI/CD, test design, troubleshooting, and AI-assisted workflow; weaker on real LLM/ML testing and probabilistic validation. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/n-ix-playwright/n-ix-playwright.cv.Yauheni.Sheima.pdf",
+      "notes": "Applied on 2026-06-04. Promising but needs careful positioning: strong on Playwright direction, API/E2E automation, CI/CD, test design, troubleshooting, and AI-assisted workflow; weaker on real LLM/ML testing and probabilistic validation. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/n-ix-playwright/n-ix-playwright.cv.Yauheni.Sheima.pdf",
       "links": [
         "https://careers.n-ix.com/jobs/4468729101-automation-qc-senior/",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/n-ix-playwright/n-ix-playwright.cv.Yauheni.Sheima.pdf"
@@ -1550,7 +1550,7 @@
       "salaryAsk": true,
       "outreach": "HR message drafted",
       "outreachUrl": "",
-      "updatedAt": "2026-06-03T10:41:01.090Z"
+      "updatedAt": "2026-06-04T09:20:30.835Z"
     },
     {
       "slug": "navro",
