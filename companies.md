@@ -2,8 +2,8 @@
 
 This is the canonical human-readable list of interview companies.
 
-| Company | Status | Stage | Fit | Recommended CV | Cover Letter | Salary Ask | Outreach | Updated |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Company | Status | Stage | Fit | Recommended CV | Cover Letter | Salary Ask | Outreach | Last update |
+|---|---|---|---|---|---|---|---|---|
 | Acronis | target | cv_to_send | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf |  |  | CV context prepared | 2026-05-25T16:01:09.179Z |
 | Actimind | target | cv_ready_cover_letter_ready_hr_text_ready | 77/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/actimind-qa-python-ai/actimind-qa-python-ai.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/actimind-qa-python-ai/cover-letter.md | 120-140 PLN/h gross preferred; evaluate against listed from 2,200 USD/month | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-04T16:55:18.710Z |
 | Ailleron | applied | cv_sent | 7/10 | CV 2 |  |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
@@ -64,7 +64,7 @@ This is the canonical human-readable list of interview companies.
 | IBM | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.261Z |
 | Infogain | target | cv_to_send | 88/100 | CV 2 |  |  | Shortlisted from CSV | 2026-04-16T10:25:48.335Z |
 | InPost | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.161Z |
-| INQUD | target | cv_ready_cover_letter_ready_hr_text_ready | 84/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/inqud-qa-manual-automation/inqud-qa-manual-automation.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/inqud-qa-manual-automation/cover-letter.md | 120-140 PLN/h gross preferred; open to discuss if scope/contract fit is strong | HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md | 2026-06-04T16:55:18.707Z |
+| INQUD | applied | application_sent | 84/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/inqud-qa-manual-automation/inqud-qa-manual-automation.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/inqud-qa-manual-automation/cover-letter.md | 120-140 PLN/h gross preferred; open to discuss if scope/contract fit is strong | HR message prepared; application sent | 2026-06-04T17:01:26.753Z |
 | Intellias | applied | application_sent_outreach_sent | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/intellias/intellias.cv.Yauheni.Sheima.pdf |  |  | Daria Donets — LinkedIn message sent in Russian | 2026-05-27T11:32:36.173Z |
 | Inuits | target | cv_to_send | 7/10 |  |  |  |  | 2026-04-02T22:38:53.974771+00:00 |
 | IQVIA | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.662Z |
