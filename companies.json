@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T10:11:21.276Z",
+  "generatedAt": "2026-06-04T10:12:46.416Z",
   "companies": [
     {
       "slug": "acronis",
@@ -972,20 +972,20 @@
       "role": "Senior Automation QA Engineer",
       "stack": "Playwright, JavaScript, TypeScript, REST API, SQL/NoSQL, CI/CD, Agile/Scrum, AI agents plus",
       "status": "target",
-      "stage": "cv_ready",
-      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
+      "stage": "cv_ready_cover_letter_ready",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter added on 2026-06-04.",
       "requirements": "4+ years commercial test automation; JavaScript and TypeScript; Playwright; client-server architecture; REST API; SQL/NoSQL; CI/CD; automation frameworks from scratch; Python and AI agents are plus.",
-      "notes": "Anywhere. Very good stack match: Playwright, JS/TS, REST, DB, CI/CD, framework from scratch. Form asks Ukrainian proficiency; Yauheni can answer honestly if available. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf",
+      "notes": "Anywhere. Very good stack match: Playwright, JS/TS, REST, DB, CI/CD, framework from scratch. Form asks Ukrainian proficiency; Yauheni can answer honestly if available. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md",
       "links": [
         "https://job-boards.eu.greenhouse.io/growe/jobs/4874623101"
       ],
       "fit": "78/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf",
-      "coverLetter": "",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md",
       "salaryAsk": "",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-05-30T19:55:49.464Z"
+      "updatedAt": "2026-06-04T10:12:46.405Z"
     },
     {
       "slug": "happy-team",
