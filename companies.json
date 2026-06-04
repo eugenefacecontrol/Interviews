@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T10:42:27.143Z",
+  "generatedAt": "2026-06-04T10:44:21.878Z",
   "companies": [
     {
       "slug": "acronis",
@@ -971,11 +971,11 @@
       "name": "GROWE",
       "role": "Senior Automation QA Engineer",
       "stack": "Playwright, JavaScript, TypeScript, REST API, SQL/NoSQL, CI/CD, Agile/Scrum, AI agents plus",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter added on 2026-06-04.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter added on 2026-06-04. Gmail confirmation from Growe Talents received on 2026-06-04: application received successfully.",
       "requirements": "4+ years commercial test automation; JavaScript and TypeScript; Playwright; client-server architecture; REST API; SQL/NoSQL; CI/CD; automation frameworks from scratch; Python and AI agents are plus.",
-      "notes": "Anywhere. Very good stack match: Playwright, JS/TS, REST, DB, CI/CD, framework from scratch. Form asks Ukrainian proficiency; Yauheni can answer honestly if available. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md",
+      "notes": "Applied on 2026-06-04. Anywhere. Very good stack match: Playwright, JS/TS, REST, DB, CI/CD, framework from scratch. Form asks Ukrainian proficiency; Yauheni can answer honestly if needed later. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md",
       "links": [
         "https://job-boards.eu.greenhouse.io/growe/jobs/4874623101"
       ],
@@ -983,9 +983,9 @@
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/growe/growe.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/growe/cover-letter.md",
       "salaryAsk": "",
-      "outreach": "",
+      "outreach": "Application confirmation received",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T10:12:46.405Z"
+      "updatedAt": "2026-06-04T10:44:21.675Z"
     },
     {
       "slug": "happy-team",
@@ -1454,21 +1454,22 @@
       "name": "MLabs",
       "role": "Senior Automation QA Engineer",
       "stack": "Playwright, TypeScript, E2E/UI automation, risk-based regression, auth/permissions, Jira/Confluence, CI/CD, API/performance nice-to-have",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter added on 2026-06-04.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter added on 2026-06-04. Gmail confirmation received on 2026-06-04: application submitted successfully.",
       "requirements": "5+ years QA with automation focus; Playwright and TypeScript or similar; E2E/UI automation; manual/exploratory testing; risk-based testing; Jira/Confluence; Upper-Intermediate English; CI/CD, API and performance testing would be plus.",
-      "notes": "Remote Ukraine/Europe. Strong match for Playwright/TypeScript automation, risk-based testing, critical healthcare scheduling workflows, auth and permissions. ApplicantLocationRequirements metadata mentioned Germany, but page text says Ukraine/Europe; verify location in form. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mlabs/mlabs.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/mlabs/cover-letter.md",
+      "notes": "Applied on 2026-06-04. Remote Ukraine/Europe. Strong match for Playwright/TypeScript automation, risk-based testing, critical healthcare scheduling workflows, auth and permissions. ApplicantLocationRequirements metadata mentioned Germany, but page text says Ukraine/Europe. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mlabs/mlabs.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/mlabs/cover-letter.md",
       "links": [
-        "https://jobs.workable.com/view/q4WQw2Gw4hNBJ5HWBk2Cnm/remote-senior-automation-qa-engineer-in-germany-at-mlabs"
+        "https://jobs.workable.com/view/q4WQw2Gw4hNBJ5HWBk2Cnm/remote-senior-automation-qa-engineer-in-germany-at-mlabs",
+        "https://mlabs.workable.com/jobs/5688420"
       ],
       "fit": "80/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mlabs/mlabs.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/mlabs/cover-letter.md",
       "salaryAsk": "",
-      "outreach": "",
+      "outreach": "Application confirmation received",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T09:57:18.197Z"
+      "updatedAt": "2026-06-04T10:44:21.518Z"
     },
     {
       "slug": "montrose-software",
@@ -1660,11 +1661,11 @@
       "name": "OpenX",
       "role": "Software Development Engineer in Test II",
       "stack": "Python, automation framework maintenance, CI/CD, Jenkins/Spinnaker, data processing systems, GCP, Kubernetes, Docker, Polish and English",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready_hr_text_ready",
-      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Poland remote. Cover letter added on 2026-06-04. Next step: apply/send tailored CV if Polish requirement and Python framework ramp-up are acceptable.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Poland remote. Cover letter added on 2026-06-04. Gmail confirmation from OpenX/Lever received on 2026-06-04: application received for Test Automation Engineer II (Python/Java).",
       "requirements": "SDET II for OpenX Poland. Responsibilities: test large-scale data processing systems; participate from requirements through validation/deployment; improve efficiency/scalability/stability; develop and maintain automation suites/frameworks; oversee QA CI pipelines; root-cause analysis; collaborate with project teams and QA organization. Requirements: 2+ years test automation, Python framework codebase maintenance, willingness for Java/JavaScript, CI/CD such as Jenkins/Spinnaker, troubleshooting, Agile, Polish and English; GCP/Kubernetes/Docker plus.",
-      "notes": "Fit through framework maintenance, CI/CD, troubleshooting, backend/data investigation, Docker/Kubernetes support and Polish/English communication. Risk: Python framework depth and data processing are not strongest current areas; role may be less senior. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/openx/openx.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/openx/cover-letter.md",
+      "notes": "Applied on 2026-06-04. Fit through framework maintenance, CI/CD, troubleshooting, backend/data investigation, Docker/Kubernetes support and Polish/English communication. Risk: Python framework depth and data processing are not strongest current areas; role may be less senior. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/openx/openx.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/openx/cover-letter.md",
       "links": [
         "https://www.remotery.co/job/remote-software-development-engineer-in-test-ii-at-openx-in-poland-full-time-b6c35c",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/openx/openx.cv.Yauheni.Sheima.pdf"
@@ -1673,9 +1674,9 @@
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/openx/openx.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/openx/cover-letter.md",
       "salaryAsk": true,
-      "outreach": "HR message drafted",
+      "outreach": "Application confirmation received",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T10:09:04.833Z"
+      "updatedAt": "2026-06-04T10:44:21.867Z"
     },
     {
       "slug": "pacaya-hr-experts",
