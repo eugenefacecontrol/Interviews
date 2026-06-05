@@ -3,9 +3,9 @@
 - Role: Senior QA Automation Engineer
 - Stack: Java, JUnit/TestNG, REST Assured, API testing, Playwright/Selenium, CI, contract testing, performance testing
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 88/100
-- Recommended CV: CV 2
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/infogain/infogain.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/infogain/cover-letter.md
 - Salary Ask: not listed
 - Outreach: Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05
@@ -21,3 +21,4 @@ Solid fit for Java/API/E2E automation and communication-platform reliability. Hy
 
 ## Links
 - https://justjoin.it/job-offer/infogain-senior-qa-automation-engineer-krakow-testing
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/infogain/infogain.cv.Yauheni.Sheima.pdf

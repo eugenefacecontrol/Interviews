@@ -4,18 +4,19 @@
   "role": "QA Automation Lead",
   "stack": "Playwright, Java, Selenium, API testing, CI/CD, Python, UAT, payments",
   "status": "target",
-  "stage": "cv_to_send_cover_letter_ready",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Live JustJoinIt vacancy verified 2026-06-05. Permanent full-time hybrid role in Global Payments. CV and cover letter are ready; next step is application submission or recruiter search.",
   "requirements": "Hands-on QA Automation Lead for Global Payments. Define quality engineering standards, architect scalable automation, mentor engineers, own end-to-end UAT programs, partner with Product/DevOps/Operations, improve testability, observability and automation in production-critical payments platform.",
   "notes": "Very strong target but leadership-heavy. Positioning should emphasize QA architecture, automation framework ownership, defect prevention, release readiness, mentoring/standards, and payments/business-critical systems. Need salary verification before investing too much time.",
   "links": [
-    "https://justjoin.it/job-offer/stonex-poland-qa-automation-lead-krakow-testing"
+    "https://justjoin.it/job-offer/stonex-poland-qa-automation-lead-krakow-testing",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/stonex-poland/stonex-poland.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "100/100",
-  "recommendedCv": "CV 2",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/stonex-poland/stonex-poland.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/stonex-poland/cover-letter.md",
   "salaryAsk": "not listed",
   "outreach": "Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-05T08:00:54.570Z"
+  "outreachUrl": true,
+  "updatedAt": "2026-06-05T12:01:25.853Z"
 }

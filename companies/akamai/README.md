@@ -1,13 +1,13 @@
 # Akamai Technologies
 
-- Role: —
-- Stack: —
+- Role: true
+- Stack: true
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 5/10
-- Recommended CV: CV 2
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/akamai-technologies/akamai-technologies.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/akamai/cover-letter.md
-- Salary Ask: —
+- Salary Ask: true
 - Outreach: Marlena Misiarz — preparing outreach
 
 ## Process
@@ -21,3 +21,4 @@ Server Hardware Engineering team. Responsible for Linux-based firmware quality i
 
 ## Links
 - https://www.linkedin.com/jobs/view/4407859341
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/akamai-technologies/akamai-technologies.cv.Yauheni.Sheima.pdf

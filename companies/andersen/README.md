@@ -1,13 +1,13 @@
 # Andersen
 
-- Role: —
-- Stack: —
+- Role: true
+- Stack: true
 - Status: target
-- Stage: recruiter_outreach_cover_letter_ready
+- Stage: cv_ready_recruiter_outreach_cover_letter_ready
 - Fit: 7/10
-- Recommended CV: CV 2
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/andersen/andersen.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/andersen/cover-letter.md
-- Salary Ask: —
+- Salary Ask: true
 - Outreach: Recruiter outreach from Yana Budulatii (LinkedIn)
 
 ## Process
@@ -21,3 +21,4 @@ First recorded contact with Andersen. Recruiter outreach highlighted growth in C
 
 ## Links
 - https://people.andersenlab.com/vacancy/2509334?utm_source=FullStack&utm_campaign=recruiter
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/andersen/andersen.cv.Yauheni.Sheima.pdf

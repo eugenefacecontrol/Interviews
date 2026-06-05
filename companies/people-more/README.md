@@ -3,12 +3,12 @@
 - Role: Manual QA
 - Stack: Manual API testing
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 3/10
-- Recommended CV: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/people-more/people-more.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/people-more/cover-letter.md
-- Salary Ask: —
-- Outreach: —
+- Salary Ask: true
+- Outreach: true
 
 ## Process
 Initial outreach / CV submission planned
@@ -21,3 +21,4 @@ Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf
 
 ## Links
 - https://justjoin.it
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/people-more/people-more.cv.Yauheni.Sheima.pdf

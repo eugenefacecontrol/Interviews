@@ -3,9 +3,9 @@
 - Role: Software Development Engineer in Test
 - Stack: Python, REST API testing, Linux, Bash, Git, Docker, Kubernetes, CI/CD, cloud
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 88/100
-- Recommended CV: CV 2
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/experis-manpower-group/experis-manpower-group.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/experis-manpower-group/cover-letter.md
 - Salary Ask: 80-110 PLN/h net + VAT B2B
 - Outreach: Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05
@@ -21,3 +21,4 @@ Technically easy fit and remote, but rate 80-110 PLN/h is weak against preferred
 
 ## Links
 - https://justjoin.it/job-offer/experis-manpower-group-software-development-engineer-in-test-krakow-testing
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/experis-manpower-group/experis-manpower-group.cv.Yauheni.Sheima.pdf

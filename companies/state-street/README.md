@@ -1,13 +1,13 @@
 # State Street
 
-- Role: —
-- Stack: —
+- Role: true
+- Stack: true
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 72/100
-- Recommended CV: CV 2
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/state-street/state-street.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/state-street/cover-letter.md
-- Salary Ask: —
+- Salary Ask: true
 - Outreach: Shortlisted from CSV
 
 ## Process
@@ -21,3 +21,4 @@ Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.
 
 ## Links
 - https://justjoin.it/job-offer/state-street-senior-qa-automation-engineer-krakow-testing-940ba980
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/state-street/state-street.cv.Yauheni.Sheima.pdf

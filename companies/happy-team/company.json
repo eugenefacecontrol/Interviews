@@ -1,21 +1,22 @@
 {
   "slug": "happy-team",
   "name": "Happy Team",
-  "role": "",
-  "stack": "",
+  "role": true,
+  "stack": true,
   "status": "target",
-  "stage": "cv_to_send_cover_letter_ready",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Imported from JustJoinIt shortlist",
   "requirements": "Test Engineer; Stack: REST, API",
   "notes": "Imported from ranked shortlist CSV. Vacancy: Test Engineer.",
   "links": [
-    "https://justjoin.it/job-offer/happy-team-test-engineer-lodz-testing-a12ed4cc"
+    "https://justjoin.it/job-offer/happy-team-test-engineer-lodz-testing-a12ed4cc",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/happy-team/happy-team.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "41/100",
-  "recommendedCv": "CV 2",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/happy-team/happy-team.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/happy-team/cover-letter.md",
-  "salaryAsk": "",
+  "salaryAsk": true,
   "outreach": "Shortlisted from CSV",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-04T18:39:31.514Z"
+  "outreachUrl": true,
+  "updatedAt": "2026-06-05T12:01:24.764Z"
 }

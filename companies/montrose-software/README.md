@@ -3,11 +3,11 @@
 - Role: QA Automation Engineer
 - Stack: Playwright, Selenium, Python/JavaScript/TypeScript, SQL, Agile/Scrum, Jira
 - Status: target
-- Stage: cv_prepared_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 80/100
-- Recommended CV: tailored-cv/montrose-software-qa-automation-engineer.md
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software-qa-automation-engineer/montrose-software-qa-automation-engineer.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/montrose-software/cover-letter.md
-- Salary Ask: —
+- Salary Ask: true
 - Outreach: CV prepared
 
 ## Process
@@ -21,3 +21,4 @@ Location: Kraków / Poland (remote option). Format: B2B or Permanent. Risks: not
 
 ## Links
 - https://justjoin.it/job-offer/montrose-software-qa-automation-engineer-krakow-testing
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software-qa-automation-engineer/montrose-software-qa-automation-engineer.cv.Yauheni.Sheima.pdf

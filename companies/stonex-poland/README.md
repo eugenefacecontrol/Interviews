@@ -3,9 +3,9 @@
 - Role: QA Automation Lead
 - Stack: Playwright, Java, Selenium, API testing, CI/CD, Python, UAT, payments
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 100/100
-- Recommended CV: CV 2
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/stonex-poland/stonex-poland.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/stonex-poland/cover-letter.md
 - Salary Ask: not listed
 - Outreach: Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05
@@ -21,3 +21,4 @@ Very strong target but leadership-heavy. Positioning should emphasize QA archite
 
 ## Links
 - https://justjoin.it/job-offer/stonex-poland-qa-automation-lead-krakow-testing
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/stonex-poland/stonex-poland.cv.Yauheni.Sheima.pdf

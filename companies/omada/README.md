@@ -3,7 +3,7 @@
 - Role: Senior Test Automation Engineer
 - Stack: C#, .NET, Selenium, Playwright, Microsoft SQL Server, API testing, Integration testing, Azure DevOps pipelines, CI/CD, NUnit/xUnit/MSTest, PowerShell, BDD/SpecFlow, AI-assisted development tools
 - Status: target
-- Stage: cv_to_send_outreach_to_send_cover_letter_ready
+- Stage: cv_ready_outreach_to_send_cover_letter_ready
 - Fit: 86/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/omada/cover-letter.md

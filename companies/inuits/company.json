@@ -4,18 +4,19 @@
   "role": "SDET AI",
   "stack": "Playwright, AI, C#/.NET",
   "status": "target",
-  "stage": "cv_to_send_cover_letter_ready",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: SDET AI; Stack: Playwright, AI, C#/.NET; Salary: 120-130 PLN/h",
   "notes": "Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf",
   "links": [
-    "https://justjoin.it"
+    "https://justjoin.it",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/inuits/inuits.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "7/10",
-  "recommendedCv": "",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/inuits/inuits.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/inuits/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-04T18:39:31.795Z"
+  "salaryAsk": true,
+  "outreach": true,
+  "outreachUrl": true,
+  "updatedAt": "2026-06-05T12:01:24.958Z"
 }

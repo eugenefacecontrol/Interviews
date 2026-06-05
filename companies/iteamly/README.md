@@ -3,9 +3,9 @@
 - Role: Senior QA Engineer (Robot Framework)
 - Stack: Python, Playwright, Robot Framework, API testing, E2E testing, SQL, CI/CD, microservices, cloud
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 98/100
-- Recommended CV: CV 2
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/iteamly/iteamly.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/iteamly/cover-letter.md
 - Salary Ask: not listed
 - Outreach: Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05
@@ -21,3 +21,4 @@ One of the cleanest fits among active targets. Positioning: Python automation, P
 
 ## Links
 - https://justjoin.it/job-offer/iteamly-senior-qa-engineer-robot-framework--krakow-testing
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/iteamly/iteamly.cv.Yauheni.Sheima.pdf

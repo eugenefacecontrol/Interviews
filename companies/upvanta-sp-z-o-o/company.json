@@ -1,21 +1,22 @@
 {
   "slug": "upvanta-sp-z-o-o",
   "name": "Upvanta sp. z o.o.",
-  "role": "",
-  "stack": "",
+  "role": true,
+  "stack": true,
   "status": "target",
-  "stage": "cv_to_send_cover_letter_ready",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Imported from JustJoinIt shortlist",
   "requirements": "Software QA Engineer (Java); Stack: Java, Selenium, Docker, SDET",
   "notes": "Imported from ranked shortlist CSV. Vacancy: Software QA Engineer (Java).",
   "links": [
-    "https://justjoin.it/job-offer/upvanta-sp-z-o-o--software-qa-engineer-java--krakow-testing-b2282acd"
+    "https://justjoin.it/job-offer/upvanta-sp-z-o-o--software-qa-engineer-java--krakow-testing-b2282acd",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/upvanta-sp-z-o-o/upvanta-sp-z-o-o.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "78/100",
-  "recommendedCv": "CV 2",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/upvanta-sp-z-o-o/upvanta-sp-z-o-o.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/upvanta-sp-z-o-o/cover-letter.md",
-  "salaryAsk": "",
+  "salaryAsk": true,
   "outreach": "Shortlisted from CSV",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-04T18:39:33.215Z"
+  "outreachUrl": true,
+  "updatedAt": "2026-06-05T12:01:26.054Z"
 }

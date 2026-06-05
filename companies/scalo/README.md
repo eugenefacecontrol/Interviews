@@ -3,9 +3,9 @@
 - Role: Senior Automation Tester/QA (Java)
 - Stack: Java, Selenium/Playwright, FitNesse, REST/API testing, JIRA, Agile, CI/CD
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 100/100
-- Recommended CV: CV 2
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scalo/scalo.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/scalo/cover-letter.md
 - Salary Ask: up to 130 PLN/h B2B
 - Outreach: Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05
@@ -21,3 +21,4 @@ High-priority target by fit and location. Rate is below preferred 120-140 PLN/h 
 
 ## Links
 - https://justjoin.it/job-offer/scalo-senior-automation-tester-qa-java--krakow-testing
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scalo/scalo.cv.Yauheni.Sheima.pdf

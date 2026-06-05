@@ -4,18 +4,19 @@
   "role": "QA Automation Engineer",
   "stack": "Playwright, Selenium, Python/JavaScript/TypeScript, SQL, Agile/Scrum, Jira",
   "status": "target",
-  "stage": "cv_prepared_cover_letter_ready",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "CV prepared for JustJoinIt application",
   "requirements": "Automation in manual-heavy project, framework building, coverage/reliability, strong QA fundamentals",
   "notes": "Location: Kraków / Poland (remote option). Format: B2B or Permanent. Risks: not Python-first profile; healthcare domain is not core background. Recommended CV: tailored-cv/montrose-software-qa-automation-engineer.md",
   "links": [
-    "https://justjoin.it/job-offer/montrose-software-qa-automation-engineer-krakow-testing"
+    "https://justjoin.it/job-offer/montrose-software-qa-automation-engineer-krakow-testing",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software-qa-automation-engineer/montrose-software-qa-automation-engineer.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "80/100",
-  "recommendedCv": "tailored-cv/montrose-software-qa-automation-engineer.md",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software-qa-automation-engineer/montrose-software-qa-automation-engineer.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/montrose-software/cover-letter.md",
-  "salaryAsk": "",
+  "salaryAsk": true,
   "outreach": "CV prepared",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-04T18:39:32.168Z"
+  "outreachUrl": true,
+  "updatedAt": "2026-06-05T12:01:25.264Z"
 }

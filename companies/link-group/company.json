@@ -4,18 +4,19 @@
   "role": "Senior QA Java",
   "stack": "Java, REST, API, CI/CD, Docker",
   "status": "target",
-  "stage": "recruiter_outreach_cover_letter_ready",
+  "stage": "cv_ready_recruiter_outreach_cover_letter_ready",
   "process": "Tracked from job listing / recruiter contact",
   "requirements": "Senior QA Java; Java, REST, API, CI/CD, Docker",
   "notes": "Contact person: Przemysław Lorek https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
   "links": [
-    "https://justjoin.it/job-offer/link-group-senior-qa-java-warszawa-testing"
+    "https://justjoin.it/job-offer/link-group-senior-qa-java-warszawa-testing",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/link-group/link-group.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "58/100",
-  "recommendedCv": "CV 2",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/link-group/link-group.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/link-group/cover-letter.md",
-  "salaryAsk": "",
+  "salaryAsk": true,
   "outreach": "Przemysław Lorek",
   "outreachUrl": "https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
-  "updatedAt": "2026-06-04T18:39:31.983Z"
+  "updatedAt": "2026-06-05T12:01:25.157Z"
 }

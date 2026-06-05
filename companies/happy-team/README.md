@@ -1,13 +1,13 @@
 # Happy Team
 
-- Role: —
-- Stack: —
+- Role: true
+- Stack: true
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 41/100
-- Recommended CV: CV 2
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/happy-team/happy-team.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/happy-team/cover-letter.md
-- Salary Ask: —
+- Salary Ask: true
 - Outreach: Shortlisted from CSV
 
 ## Process
@@ -21,3 +21,4 @@ Imported from ranked shortlist CSV. Vacancy: Test Engineer.
 
 ## Links
 - https://justjoin.it/job-offer/happy-team-test-engineer-lodz-testing-a12ed4cc
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/happy-team/happy-team.cv.Yauheni.Sheima.pdf

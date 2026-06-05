@@ -3,9 +3,9 @@
 - Role: Tester Automatyzujący (m/k/os.)
 - Stack: Java, Maven, JUnit/TestNG, Selenium/Playwright, REST API, Git, Jenkins/CI/CD, SQL, XML/XSD, Postman
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 89/100
-- Recommended CV: CV 2
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/asseco-poland-s-a/asseco-poland-s-a.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/asseco-poland-s-a/cover-letter.md
 - Salary Ask: not listed
 - Outreach: Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05
@@ -21,3 +21,4 @@ Good technical fit, but 3 office days/week is heavier than preferred. Apply only
 
 ## Links
 - https://justjoin.it/job-offer/asseco-poland-s-a--tester-automatyzujacy-m-k-os--krakow-testing
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/asseco-poland-s-a/asseco-poland-s-a.cv.Yauheni.Sheima.pdf

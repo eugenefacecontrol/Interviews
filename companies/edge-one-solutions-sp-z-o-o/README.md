@@ -3,9 +3,9 @@
 - Role: QA Automation Engineer with C# (Mid/Senior)
 - Stack: C#, .NET, Selenium/Playwright, RestSharp, API testing, frontend/backend automation, CI/CD, SDLC
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 96/100
-- Recommended CV: CV 2
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/edge-one-solutions-sp-z-o-o/edge-one-solutions-sp-z-o-o.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/edge-one-solutions-sp-z-o-o/cover-letter.md
 - Salary Ask: not listed
 - Outreach: Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05
@@ -21,3 +21,4 @@ Strong fit through prior C#/.NET QA automation and current Playwright/API experi
 
 ## Links
 - https://justjoin.it/job-offer/edge-one-solutions-sp-z-o-o-qa-automation-engineer-with-c-mid-senior--krakow-testing
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/edge-one-solutions-sp-z-o-o/edge-one-solutions-sp-z-o-o.cv.Yauheni.Sheima.pdf

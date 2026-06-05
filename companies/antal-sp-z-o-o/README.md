@@ -1,13 +1,13 @@
 # Antal Sp. z o.o.
 
-- Role: —
-- Stack: —
+- Role: true
+- Stack: true
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 83/100
-- Recommended CV: CV 2
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/antal-sp-z-o-o/antal-sp-z-o-o.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/antal-sp-z-o-o/cover-letter.md
-- Salary Ask: —
+- Salary Ask: true
 - Outreach: Shortlisted from CSV
 
 ## Process
@@ -21,3 +21,4 @@ Imported from ranked shortlist CSV. Vacancy: Test Automation Engineer Lead (Cybe
 
 ## Links
 - https://justjoin.it/job-offer/antal-sp-z-o-o--test-automation-engineer-lead-cybersecurity--krakow-testing
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/antal-sp-z-o-o/antal-sp-z-o-o.cv.Yauheni.Sheima.pdf

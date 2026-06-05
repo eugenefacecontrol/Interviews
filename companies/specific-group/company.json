@@ -1,21 +1,22 @@
 {
   "slug": "specific-group",
   "name": "Specific-Group",
-  "role": "",
-  "stack": "",
+  "role": true,
+  "stack": true,
   "status": "target",
-  "stage": "recruiter_outreach_cover_letter_ready",
+  "stage": "cv_ready_recruiter_outreach_cover_letter_ready",
   "process": "Recruiter reached out about Senior Test Automation Engineer role for Austrian bank client",
   "requirements": "Senior Test Automation Engineer; fintech/banking domain; Playwright or Selenium; Postman/RestAssured; Gatling or k6; CI/CD integration; Agile; English; German plus; B2B; remote available",
   "notes": "Outreach from Anastasia Markitan: https://www.linkedin.com/in/anastasia-markitan-8a6a109a/. Role looks like a strong fit on Playwright, Selenium, API testing, CI/CD, and banking/enterprise QA context. Fully remote available, Kraków office optional.",
   "links": [
-    "https://specific-group.com/pl/"
+    "https://specific-group.com/pl/",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/specific-group/specific-group.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "8/10",
-  "recommendedCv": "CV 2",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/specific-group/specific-group.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/specific-group/cover-letter.md",
   "salaryAsk": "150 PLN/h",
   "outreach": "Recruiter outreach from Anastasia Markitan (LinkedIn)",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-04T18:39:32.814Z"
+  "outreachUrl": true,
+  "updatedAt": "2026-06-05T12:01:25.659Z"
 }

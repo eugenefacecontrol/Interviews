@@ -4,18 +4,19 @@
   "role": "Senior Test Automation",
   "stack": "C#, Selenium, Jenkins",
   "status": "target",
-  "stage": "cv_to_send_cover_letter_ready",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: Senior Test Automation; Stack: C#, Selenium, Jenkins; Salary: N/A",
   "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
   "links": [
-    "https://www.aliorbank.pl/kariera"
+    "https://www.aliorbank.pl/kariera",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alior-bank/alior-bank.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "5/10",
-  "recommendedCv": "",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alior-bank/alior-bank.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/alior-bank/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-04T18:39:30.184Z"
+  "salaryAsk": true,
+  "outreach": true,
+  "outreachUrl": true,
+  "updatedAt": "2026-06-05T12:01:23.672Z"
 }

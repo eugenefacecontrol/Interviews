@@ -1,21 +1,22 @@
 {
   "slug": "akamai",
   "name": "Akamai Technologies",
-  "role": "",
-  "stack": "",
+  "role": true,
+  "stack": true,
   "status": "target",
-  "stage": "cv_to_send_cover_letter_ready",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Preparing CV for Firmware Quality Assurance Engineer role",
   "requirements": "Linux-based firmware testing, Python programming, networking fundamentals (TCP/IP, DNS, DHCP, VLANs, Routing), API testing, Jira, network lab environments, CI/CD pipelines, firmware update processes, bootloaders, hardware-software interfaces",
   "notes": "Server Hardware Engineering team. Responsible for Linux-based firmware quality in networking environments. Requires expertise in Linux OS, system configuration, log analysis, networking fundamentals, Python programming, API testing tools, firmware update processes, bootloaders, hardware-software interfaces. Flexible work options via FlexBase. Strong fit on Python, API testing, CI/CD, Docker, Kubernetes. Gaps in Linux kernel depth, firmware-specific knowledge, hardware networking. Fit: 5/10.",
   "links": [
-    "https://www.linkedin.com/jobs/view/4407859341"
+    "https://www.linkedin.com/jobs/view/4407859341",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/akamai-technologies/akamai-technologies.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "5/10",
-  "recommendedCv": "CV 2",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/akamai-technologies/akamai-technologies.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/akamai/cover-letter.md",
-  "salaryAsk": "",
+  "salaryAsk": true,
   "outreach": "Marlena Misiarz — preparing outreach",
   "outreachUrl": "https://www.linkedin.com/in/marlena-misiarz/",
-  "updatedAt": "2026-06-04T18:39:30.089Z"
+  "updatedAt": "2026-06-05T12:01:23.571Z"
 }

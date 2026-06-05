@@ -1,21 +1,22 @@
 {
   "slug": "antal-sp-z-o-o",
   "name": "Antal Sp. z o.o.",
-  "role": "",
-  "stack": "",
+  "role": true,
+  "stack": true,
   "status": "target",
-  "stage": "cv_to_send_cover_letter_ready",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Imported from JustJoinIt shortlist",
   "requirements": "Test Automation Engineer Lead (Cybersecurity); Stack: CI/CD, Performance",
   "notes": "Imported from ranked shortlist CSV. Vacancy: Test Automation Engineer Lead (Cybersecurity).",
   "links": [
-    "https://justjoin.it/job-offer/antal-sp-z-o-o--test-automation-engineer-lead-cybersecurity--krakow-testing"
+    "https://justjoin.it/job-offer/antal-sp-z-o-o--test-automation-engineer-lead-cybersecurity--krakow-testing",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/antal-sp-z-o-o/antal-sp-z-o-o.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "83/100",
-  "recommendedCv": "CV 2",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/antal-sp-z-o-o/antal-sp-z-o-o.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/antal-sp-z-o-o/cover-letter.md",
-  "salaryAsk": "",
+  "salaryAsk": true,
   "outreach": "Shortlisted from CSV",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-04T18:39:30.368Z"
+  "outreachUrl": true,
+  "updatedAt": "2026-06-05T12:01:23.872Z"
 }

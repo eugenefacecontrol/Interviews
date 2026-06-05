@@ -3,11 +3,11 @@
 - Role: Senior Automation QA Engineer
 - Stack: Python, Playwright, API/UI testing, E2E tests, Component tests, Acceptance tests, Regression UI auto tests, Jira, Git, Jenkins, Docker, QA theory, cloud-based systems
 - Status: target
-- Stage: cv_to_send_cover_letter_ready
+- Stage: cv_ready_cover_letter_ready
 - Fit: 78/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/acronis/cover-letter.md
-- Salary Ask: —
+- Salary Ask: true
 - Outreach: CV context prepared
 
 ## Process

@@ -3,11 +3,11 @@
 - Role: AQA Engineer (C#+Python)
 - Stack: C#, .NET, Python/Golang, Selenium or similar, XUnit or similar, REST/GraphQL API, Web UI automation, CI/CD, Jenkins/GitLab/GitHub Actions, Allure, TDD/BDD, AI for testing
 - Status: target
-- Stage: recruiter_reply_to_send_cover_letter_ready
+- Stage: cv_ready_recruiter_reply_to_send_cover_letter_ready
 - Fit: 72/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/cover-letter.md
-- Salary Ask: —
+- Salary Ask: true
 - Outreach: Kseniya Vishnevskaya — LinkedIn recruiter message received
 
 ## Process

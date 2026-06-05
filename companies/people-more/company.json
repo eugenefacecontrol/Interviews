@@ -4,18 +4,19 @@
   "role": "Manual QA",
   "stack": "Manual API testing",
   "status": "target",
-  "stage": "cv_to_send_cover_letter_ready",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: Manual QA; Stack: Manual API testing; Salary: 60-100 PLN/h",
   "notes": "Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf",
   "links": [
-    "https://justjoin.it"
+    "https://justjoin.it",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/people-more/people-more.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "3/10",
-  "recommendedCv": "",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/people-more/people-more.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/people-more/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-04T18:39:32.355Z"
+  "salaryAsk": true,
+  "outreach": true,
+  "outreachUrl": true,
+  "updatedAt": "2026-06-05T12:01:25.365Z"
 }

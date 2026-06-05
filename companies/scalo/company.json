@@ -4,18 +4,19 @@
   "role": "Senior Automation Tester/QA (Java)",
   "stack": "Java, Selenium/Playwright, FitNesse, REST/API testing, JIRA, Agile, CI/CD",
   "status": "target",
-  "stage": "cv_to_send_cover_letter_ready",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Live JustJoinIt vacancy verified 2026-06-05. Hybrid Krakow, 1-2 office days/week. Project in aviation domain. CV and cover letter are ready; next step is application submission after final form review.",
   "requirements": "5+ years QA/testing experience; functional and non-functional testing; Java; OOP; FitNesse as strong plus; defect-management tools such as JIRA; test processes and techniques; Agile/SCRUM/Kanban; analytical problem solving. Responsibilities include designing, creating and maintaining automated tests, test documentation and scenarios, monitoring results, defect analysis and process improvement.",
   "notes": "High-priority target by fit and location. Rate is below preferred 120-140 PLN/h upper target only if capped at 130, but still within workable range. Positioning: Java automation foundation, API/UI test automation, CI/CD quality gates, domain complexity and hybrid Krakow availability.",
   "links": [
-    "https://justjoin.it/job-offer/scalo-senior-automation-tester-qa-java--krakow-testing"
+    "https://justjoin.it/job-offer/scalo-senior-automation-tester-qa-java--krakow-testing",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scalo/scalo.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "100/100",
-  "recommendedCv": "CV 2",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scalo/scalo.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/scalo/cover-letter.md",
   "salaryAsk": "up to 130 PLN/h B2B",
   "outreach": "Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-05T08:00:54.410Z"
+  "outreachUrl": true,
+  "updatedAt": "2026-06-05T12:01:25.561Z"
 }
