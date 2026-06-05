@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T08:00:55.395Z",
+  "generatedAt": "2026-06-05T09:13:54.494Z",
   "companies": [
     {
       "slug": "acronis",
@@ -2090,21 +2090,22 @@
       "name": "Sand Technologies",
       "role": "Senior Test Automation Engineer",
       "stack": "Playwright, TypeScript, GraphQL API testing, GitHub Actions, manual test design, enterprise web testing, AI tools",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Application submitted via Greenhouse on 2026-06-05. Tailored CV and cover letter were ready before submission.",
       "requirements": "5+ years software quality engineering; TypeScript; Playwright UI automation; GraphQL API testing; manual test design; web technologies, DOM, CSS, DevTools; CI/CD with GitHub Actions; AI-assisted development plus.",
       "notes": "Fully remote. Strong Playwright/TypeScript and manual-to-automation fit. GraphQL is a ramp-up area, but API automation background is relevant. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sand-technologies/sand-technologies.cv.Yauheni.Sheima.pdf",
       "links": [
-        "https://job-boards.eu.greenhouse.io/sandtechholdingslimited/jobs/4855710101"
+        "https://job-boards.eu.greenhouse.io/sandtechholdingslimited/jobs/4855710101",
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sand-technologies/sand-technologies.cv.Yauheni.Sheima.pdf"
       ],
       "fit": "75/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sand-technologies/sand-technologies.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/sand-technologies/cover-letter.md",
-      "salaryAsk": "",
-      "outreach": "",
+      "salaryAsk": "not listed",
+      "outreach": "Application submitted via Greenhouse",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T18:39:32.538Z"
+      "updatedAt": "2026-06-05T09:13:54.485Z"
     },
     {
       "slug": "scalable-solutions",
