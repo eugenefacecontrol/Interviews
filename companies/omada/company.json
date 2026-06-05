@@ -3,19 +3,20 @@
   "name": "Omada",
   "role": "Senior Test Automation Engineer",
   "stack": "C#, .NET, Selenium, Playwright, Microsoft SQL Server, API testing, Integration testing, Azure DevOps pipelines, CI/CD, NUnit/xUnit/MSTest, PowerShell, BDD/SpecFlow, AI-assisted development tools",
-  "status": "target",
-  "stage": "cv_ready_outreach_to_send_cover_letter_ready",
-  "process": "Target application for Senior Test Automation Engineer. LinkedIn HR outreach message drafted for Małgorzata; not marked as sent.",
+  "status": "applied",
+  "stage": "application_sent",
+  "process": "Target application for Senior Test Automation Engineer. LinkedIn HR outreach message drafted earlier for Małgorzata; not marked as sent. Application submitted on 2026-06-05.",
   "requirements": "5+ years test automation; test plans, test cases and test procedures; functional, GUI, integration, regression, data validation and UI testing; defect feedback and quality improvements; scrum collaboration; code reviews; CI/CD integration; C#/.NET; SQL Server; Azure DevOps pipelines/releases; API testing; Selenium and Playwright; NUnit/xUnit/MSTest; nice-to-have PowerShell, Azure WebApps/Functions/APIs, BDD/SpecFlow, AI-assisted development tools.",
   "notes": "Strong match on senior QA automation, C#/.NET foundation, Selenium, API/integration testing, SQL validation, Azure DevOps/CI/CD and framework improvement. Playwright is a current hands-on modern automation direction supported by broader 7+ years QA automation experience. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf",
   "links": [
-    "https://www.linkedin.com/jobs/view/4389053753"
+    "https://www.linkedin.com/jobs/view/4389053753",
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "86/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/omada/cover-letter.md",
   "salaryAsk": "20 500-22 500 PLN gross/month listed",
-  "outreach": "Małgorzata — LinkedIn message drafted",
+  "outreach": "Application submitted; Małgorzata LinkedIn outreach drafted but not marked sent",
   "outreachUrl": "https://www.linkedin.com/in/ma%C5%82gorzata-strzelecka-388879101/?locale=en",
-  "updatedAt": "2026-06-05T12:01:54.276Z"
+  "updatedAt": "2026-06-05T12:07:11.085Z"
 }

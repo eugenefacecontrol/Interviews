@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T12:01:54.386Z",
+  "generatedAt": "2026-06-05T12:07:11.095Z",
   "companies": [
     {
       "slug": "acronis",
@@ -1519,21 +1519,22 @@
       "name": "Mesh",
       "role": "Senior QA Automation Engineer",
       "stack": "Playwright, Cypress, JavaScript, TypeScript, Python, CI/CD, API testing, AI-assisted tooling",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Application submitted on 2026-06-05.",
       "requirements": "Senior QA automation with Playwright/Cypress; JavaScript/TypeScript and Python; E2E/API automation; CI/CD; framework ownership; AI-assisted development/testing; collaborative product engineering.",
       "notes": "Europe remote. Good automation/tooling fit; Web3/crypto payments domain is a stretch but not a blocker if they value test infrastructure ownership. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf",
       "links": [
-        "https://job-boards.greenhouse.io/mesh/jobs/5199203008"
+        "https://job-boards.greenhouse.io/mesh/jobs/5199203008",
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf"
       ],
       "fit": "73/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/mesh-senior-qa/mesh-senior-qa.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/mesh-senior-qa/cover-letter.md",
-      "salaryAsk": "",
-      "outreach": "",
+      "salaryAsk": "not listed",
+      "outreach": "Application submitted",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T18:39:32.075Z"
+      "updatedAt": "2026-06-05T12:07:10.993Z"
     },
     {
       "slug": "miquido",
@@ -1597,19 +1598,20 @@
       "stack": "Playwright, Selenium, Python/JavaScript/TypeScript, SQL, Agile/Scrum, Jira",
       "status": "target",
       "stage": "cv_ready_cover_letter_ready",
-      "process": "CV prepared for JustJoinIt application",
+      "process": "Refreshed personalized Montrose Software CV generated on 2026-06-05 for JustJoinIt application.",
       "requirements": "Automation in manual-heavy project, framework building, coverage/reliability, strong QA fundamentals",
-      "notes": "Location: Kraków / Poland (remote option). Format: B2B or Permanent. Risks: not Python-first profile; healthcare domain is not core background. Recommended CV: tailored-cv/montrose-software-qa-automation-engineer.md",
+      "notes": "Location: Kraków / Poland (remote option). Format: B2B or Permanent. New personalized CV uses Montrose-specific positioning around automation expansion, framework reliability, UI/API testing, CI/CD feedback, and manual-heavy project transition. Risk to keep honest: Python is supporting rather than primary.",
       "links": [
         "https://justjoin.it/job-offer/montrose-software-qa-automation-engineer-krakow-testing",
-        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software-qa-automation-engineer/montrose-software-qa-automation-engineer.cv.Yauheni.Sheima.pdf"
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software-qa-automation-engineer/montrose-software-qa-automation-engineer.cv.Yauheni.Sheima.pdf",
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software/montrose-software.cv.Yauheni.Sheima.pdf"
       ],
       "fit": "80/100",
-      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software-qa-automation-engineer/montrose-software-qa-automation-engineer.cv.Yauheni.Sheima.pdf",
-      "salaryAsk": true,
-      "outreach": "CV prepared",
-      "outreachUrl": true,
-      "updatedAt": "2026-06-05T12:01:25.264Z",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software/montrose-software.cv.Yauheni.Sheima.pdf",
+      "salaryAsk": "not listed",
+      "outreach": "New personalized CV prepared",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-05T12:07:10.901Z",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/montrose-software/cover-letter.md"
     },
     {
@@ -1742,20 +1744,21 @@
       "name": "Omada",
       "role": "Senior Test Automation Engineer",
       "stack": "C#, .NET, Selenium, Playwright, Microsoft SQL Server, API testing, Integration testing, Azure DevOps pipelines, CI/CD, NUnit/xUnit/MSTest, PowerShell, BDD/SpecFlow, AI-assisted development tools",
-      "status": "target",
-      "stage": "cv_ready_outreach_to_send_cover_letter_ready",
-      "process": "Target application for Senior Test Automation Engineer. LinkedIn HR outreach message drafted for Małgorzata; not marked as sent.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Target application for Senior Test Automation Engineer. LinkedIn HR outreach message drafted earlier for Małgorzata; not marked as sent. Application submitted on 2026-06-05.",
       "requirements": "5+ years test automation; test plans, test cases and test procedures; functional, GUI, integration, regression, data validation and UI testing; defect feedback and quality improvements; scrum collaboration; code reviews; CI/CD integration; C#/.NET; SQL Server; Azure DevOps pipelines/releases; API testing; Selenium and Playwright; NUnit/xUnit/MSTest; nice-to-have PowerShell, Azure WebApps/Functions/APIs, BDD/SpecFlow, AI-assisted development tools.",
       "notes": "Strong match on senior QA automation, C#/.NET foundation, Selenium, API/integration testing, SQL validation, Azure DevOps/CI/CD and framework improvement. Playwright is a current hands-on modern automation direction supported by broader 7+ years QA automation experience. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf",
       "links": [
-        "https://www.linkedin.com/jobs/view/4389053753"
+        "https://www.linkedin.com/jobs/view/4389053753",
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf"
       ],
       "fit": "86/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/omada/omada.cv.Yauheni.Sheima.pdf",
       "salaryAsk": "20 500-22 500 PLN gross/month listed",
-      "outreach": "Małgorzata — LinkedIn message drafted",
+      "outreach": "Application submitted; Małgorzata LinkedIn outreach drafted but not marked sent",
       "outreachUrl": "https://www.linkedin.com/in/ma%C5%82gorzata-strzelecka-388879101/?locale=en",
-      "updatedAt": "2026-06-05T12:01:54.276Z",
+      "updatedAt": "2026-06-05T12:07:11.085Z",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/omada/cover-letter.md"
     },
     {
