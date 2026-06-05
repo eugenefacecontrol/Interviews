@@ -1,21 +1,21 @@
 {
   "slug": "iteamly",
   "name": "iTeamly",
-  "role": "",
-  "stack": "",
+  "role": "Senior QA Engineer (Robot Framework)",
+  "stack": "Python, Playwright, Robot Framework, API testing, E2E testing, SQL, CI/CD, microservices, cloud",
   "status": "target",
   "stage": "cv_to_send_cover_letter_ready",
-  "process": "Imported from JustJoinIt shortlist",
-  "requirements": "Senior QA Engineer (Robot Framework); Stack: Playwright, API, CI/CD, Python, Performance",
-  "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Engineer (Robot Framework).",
+  "process": "Live JustJoinIt vacancy verified 2026-06-05. Remote or hybrid setup. CV and cover letter are ready; next step is application submission after checking compensation/form requirements.",
+  "requirements": "5+ years testing/QA automation; API and end-to-end testing; practical Python, Playwright, Robot Framework and SQL; microservices architecture; cloud-based systems; Agile; CI/CD integration. Responsibilities include test strategy, test plans/cases, API/E2E automation, manual testing for complex cases, quality/performance/reliability and QA process improvement.",
+  "notes": "One of the cleanest fits among active targets. Positioning: Python automation, Playwright/API coverage, SQL, distributed systems, CI/CD integration, and pragmatic manual testing for edge cases. Salary missing, so verify during form or outreach.",
   "links": [
     "https://justjoin.it/job-offer/iteamly-senior-qa-engineer-robot-framework--krakow-testing"
   ],
   "fit": "98/100",
   "recommendedCv": "CV 2",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/iteamly/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "Shortlisted from CSV",
+  "salaryAsk": "not listed",
+  "outreach": "Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05",
   "outreachUrl": "",
-  "updatedAt": "2026-06-04T18:39:31.887Z"
+  "updatedAt": "2026-06-05T08:00:54.734Z"
 }

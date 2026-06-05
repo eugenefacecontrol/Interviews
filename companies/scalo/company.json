@@ -1,21 +1,21 @@
 {
   "slug": "scalo",
   "name": "SCALO",
-  "role": "",
-  "stack": "",
+  "role": "Senior Automation Tester/QA (Java)",
+  "stack": "Java, Selenium/Playwright, FitNesse, REST/API testing, JIRA, Agile, CI/CD",
   "status": "target",
   "stage": "cv_to_send_cover_letter_ready",
-  "process": "Imported from JustJoinIt shortlist",
-  "requirements": "Senior Automation Tester/QA (Java); Stack: Java, Selenium, REST, Performance",
-  "notes": "Imported from ranked shortlist CSV. Vacancy: Senior Automation Tester/QA (Java).",
+  "process": "Live JustJoinIt vacancy verified 2026-06-05. Hybrid Krakow, 1-2 office days/week. Project in aviation domain. CV and cover letter are ready; next step is application submission after final form review.",
+  "requirements": "5+ years QA/testing experience; functional and non-functional testing; Java; OOP; FitNesse as strong plus; defect-management tools such as JIRA; test processes and techniques; Agile/SCRUM/Kanban; analytical problem solving. Responsibilities include designing, creating and maintaining automated tests, test documentation and scenarios, monitoring results, defect analysis and process improvement.",
+  "notes": "High-priority target by fit and location. Rate is below preferred 120-140 PLN/h upper target only if capped at 130, but still within workable range. Positioning: Java automation foundation, API/UI test automation, CI/CD quality gates, domain complexity and hybrid Krakow availability.",
   "links": [
     "https://justjoin.it/job-offer/scalo-senior-automation-tester-qa-java--krakow-testing"
   ],
   "fit": "100/100",
   "recommendedCv": "CV 2",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/scalo/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "Shortlisted from CSV",
+  "salaryAsk": "up to 130 PLN/h B2B",
+  "outreach": "Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05",
   "outreachUrl": "",
-  "updatedAt": "2026-06-04T18:39:32.723Z"
+  "updatedAt": "2026-06-05T08:00:54.410Z"
 }
