@@ -1,17 +1,22 @@
 {
   "slug": "stonex-group-inc",
   "name": "StoneX Group Inc.",
-  "status": "applying",
-  "stage": "outreach_sent",
-  "process": "Preparing application and LinkedIn outreach for Senior QA Automation Engineer with Agentic Dev role",
-  "requirements": "Senior QA Automation Engineer with Agentic Dev; Playwright/Cypress; UI/API/performance/security testing; CI/CD with Azure DevOps/GitHub Actions; AI-assisted testing workflows; UAT ownership; secure/risk-based testing; financial services/payments domain; hybrid 4 days office",
-  "notes": "LinkedIn outreach planned/sent to Marina Yanusheuskaya: https://www.linkedin.com/in/marina-yanusheuskaya-100207185/ regarding vacancy https://www.linkedin.com/jobs/view/4399998338.",
+  "role": "Senior QA Automation Engineer with Agentic Dev",
+  "stack": "Playwright/Cypress, UI/API/performance/security testing, Azure DevOps, GitHub Actions, AI-assisted testing",
+  "status": "unavailable",
+  "stage": "vacancy_unavailable_after_outreach",
+  "process": "Preparing application and LinkedIn outreach for Senior QA Automation Engineer with Agentic Dev role. LinkedIn outreach was sent earlier to Marina Yanusheuskaya. On 2026-06-07 user shared a JustJoinIt version of the same/new Agentic Dev vacancy and then confirmed it is also unavailable.",
+  "requirements": "Senior QA Automation Engineer with Agentic Dev; Playwright/Cypress; UI/API/performance/security testing; CI/CD with Azure DevOps/GitHub Actions; AI-assisted testing workflows; UAT ownership; secure/risk-based testing; financial services/payments domain; hybrid 4 days office.",
+  "notes": "Do not keep as active target. Related JustJoinIt URL reported unavailable by user on 2026-06-07: https://justjoin.it/job-offer/stonex-poland-senior-qa-automation-engineer-with-agentic-dev-krakow-testing. Prior outreach context: Marina Yanusheuskaya, regarding LinkedIn vacancy https://www.linkedin.com/jobs/view/4399998338.",
   "links": [
-    "https://www.linkedin.com/jobs/view/4399998338"
+    "https://www.linkedin.com/jobs/view/4399998338",
+    "https://justjoin.it/job-offer/stonex-poland-senior-qa-automation-engineer-with-agentic-dev-krakow-testing"
   ],
   "fit": "66/100",
   "recommendedCv": "CV 2",
-  "salaryAsk": true,
-  "outreach": "Marina Yanusheuskaya",
-  "updatedAt": "2026-04-23T11:33:37.999Z"
+  "coverLetter": "",
+  "salaryAsk": "not listed",
+  "outreach": "Marina Yanusheuskaya — prior LinkedIn outreach sent; vacancy now unavailable",
+  "outreachUrl": "https://www.linkedin.com/in/marina-yanusheuskaya-100207185/",
+  "updatedAt": "2026-06-07T10:13:45.096Z"
 }
