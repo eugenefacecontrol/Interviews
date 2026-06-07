@@ -3,11 +3,11 @@
   "name": "Euroclear",
   "role": "Test Manager",
   "stack": "Test strategy, Jira",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Initial outreach / CV submission planned",
+  "status": "unavailable",
+  "stage": "career_url_404",
+  "process": "Initial outreach / CV submission planned Availability checked on 2026-06-07: Euroclear career URL returned HTTP 404. Removed from active targets until a specific live vacancy is found.",
   "requirements": "Role: Test Manager; Stack: Test strategy, Jira; Salary: N/A",
-  "notes": "Imported from CSV shortlist. Fit: 4/10. CV file: qa-devops-cv.pdf",
+  "notes": "Imported from CSV shortlist. Fit: 4/10. CV file: qa-devops-cv.pdf 2026-06-07 target verification: career URL returned HTTP 404; not an active target.",
   "links": [
     "https://careers.euroclear.com",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/euroclear/euroclear.cv.Yauheni.Sheima.pdf"
@@ -15,8 +15,8 @@
   "fit": "4/10",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/euroclear/euroclear.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/euroclear/cover-letter.md",
-  "salaryAsk": true,
+  "salaryAsk": "not listed",
   "outreach": true,
   "outreachUrl": true,
-  "updatedAt": "2026-06-05T12:01:24.472Z"
+  "updatedAt": "2026-06-07T10:21:36.695Z"
 }

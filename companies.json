@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T10:13:45.207Z",
+  "generatedAt": "2026-06-07T10:21:37.079Z",
   "companies": [
     {
       "slug": "acronis",
@@ -156,11 +156,11 @@
     {
       "slug": "andersen",
       "name": "Andersen",
-      "status": "target",
-      "stage": "cv_ready_recruiter_outreach_cover_letter_ready",
-      "process": "Recruiter reached out about Full Stack QA Engineer (C#) role",
+      "status": "unavailable",
+      "stage": "vacancy_url_404_recruiter_contact_kept",
+      "process": "Recruiter reached out about Full Stack QA Engineer (C#) role Availability checked on 2026-06-07: Andersen vacancy URL returned HTTP 404. Recruiter contact is kept for future outreach, but this specific vacancy should not remain active.",
       "requirements": "Full Stack QA Engineer; C#; Playwright; API testing; CI/CD; balance of manual and automation; quality/framework design",
-      "notes": "First recorded contact with Andersen. Recruiter outreach highlighted growth in C# automation, Playwright, API testing, CI/CD, and influence on quality/framework design. Recruiter contact: https://www.linkedin.com/in/yana-budulatii-560a81387/.",
+      "notes": "First recorded contact with Andersen. Recruiter outreach highlighted growth in C# automation, Playwright, API testing, CI/CD, and influence on quality/framework design. Recruiter contact: https://www.linkedin.com/in/yana-budulatii-560a81387/. 2026-06-07 target verification: vacancy URL returned HTTP 404; moved out of active target list.",
       "links": [
         "https://people.andersenlab.com/vacancy/2509334?utm_source=FullStack&utm_campaign=recruiter",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/andersen/andersen.cv.Yauheni.Sheima.pdf"
@@ -168,11 +168,11 @@
       "fit": "7/10",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/andersen/andersen.cv.Yauheni.Sheima.pdf",
       "outreach": "Recruiter outreach from Yana Budulatii (LinkedIn)",
-      "updatedAt": "2026-06-05T12:01:23.769Z",
+      "updatedAt": "2026-06-07T10:21:36.504Z",
       "role": true,
       "stack": true,
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/andersen/cover-letter.md",
-      "salaryAsk": true,
+      "salaryAsk": "not listed",
       "outreachUrl": true
     },
     {
@@ -929,16 +929,16 @@
     {
       "slug": "eset",
       "name": "ESET",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Initial outreach / CV submission planned",
+      "status": "unavailable",
+      "stage": "career_url_404",
+      "process": "Initial outreach / CV submission planned Availability checked on 2026-06-07: ESET career URL returned HTTP 404. Removed from active targets until a specific live vacancy is found.",
       "requirements": "Role: Agile Test Engineer; Stack: Python, testing, CI/CD; Salary: 18-22k PLN gross",
-      "notes": "Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf",
+      "notes": "Imported from CSV shortlist. Fit: 6/10. CV file: qa-devops-cv.pdf 2026-06-07 target verification: career URL returned HTTP 404; not an active target.",
       "links": [
         "https://www.eset.com/pl/kariera",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/eset/eset.cv.Yauheni.Sheima.pdf"
       ],
-      "updatedAt": "2026-06-05T12:01:24.368Z",
+      "updatedAt": "2026-06-07T10:21:36.601Z",
       "role": "Agile Test Engineer",
       "salary": "18-22k PLN gross",
       "stack": "Python, testing, CI/CD",
@@ -946,23 +946,23 @@
       "cv": "qa-devops-cv.pdf",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/eset/eset.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/eset/cover-letter.md",
-      "salaryAsk": true,
+      "salaryAsk": "not listed",
       "outreach": true,
       "outreachUrl": true
     },
     {
       "slug": "euroclear",
       "name": "Euroclear",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Initial outreach / CV submission planned",
+      "status": "unavailable",
+      "stage": "career_url_404",
+      "process": "Initial outreach / CV submission planned Availability checked on 2026-06-07: Euroclear career URL returned HTTP 404. Removed from active targets until a specific live vacancy is found.",
       "requirements": "Role: Test Manager; Stack: Test strategy, Jira; Salary: N/A",
-      "notes": "Imported from CSV shortlist. Fit: 4/10. CV file: qa-devops-cv.pdf",
+      "notes": "Imported from CSV shortlist. Fit: 4/10. CV file: qa-devops-cv.pdf 2026-06-07 target verification: career URL returned HTTP 404; not an active target.",
       "links": [
         "https://careers.euroclear.com",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/euroclear/euroclear.cv.Yauheni.Sheima.pdf"
       ],
-      "updatedAt": "2026-06-05T12:01:24.472Z",
+      "updatedAt": "2026-06-07T10:21:36.695Z",
       "role": "Test Manager",
       "salary": "N/A",
       "stack": "Test strategy, Jira",
@@ -970,7 +970,7 @@
       "cv": "qa-devops-cv.pdf",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/euroclear/euroclear.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/euroclear/cover-letter.md",
-      "salaryAsk": true,
+      "salaryAsk": "not listed",
       "outreach": true,
       "outreachUrl": true
     },
@@ -1087,21 +1087,21 @@
       "name": "GigsRemote",
       "role": "Software Development Engineer in Test (SDET) - B2B Contract",
       "stack": "SDET, Python, remote EEA, contract",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready_jd_to_verify",
-      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD, so this needs verification in logged-in LinkedIn before applying.",
+      "status": "unavailable",
+      "stage": "linkedin_no_longer_accepting",
+      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD, so this needs verification in logged-in LinkedIn before applying. Availability checked on 2026-06-07 via LinkedIn/CDP: job is no longer accepting applications.",
       "requirements": "LinkedIn public metadata: Software Development Engineer in Test (SDET), B2B contract, European Economic Area, mid-senior level, information technology/engineering.",
-      "notes": "Potentially relevant remote EEA role. Verify stack, salary/rate, location eligibility and application path. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/gigsremote-sdet-b2b-eea/gigsremote-sdet-b2b-eea.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/gigsremote-sdet-b2b-eea/cover-letter.md",
+      "notes": "Potentially relevant remote EEA role. Verify stack, salary/rate, location eligibility and application path. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/gigsremote-sdet-b2b-eea/gigsremote-sdet-b2b-eea.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/gigsremote-sdet-b2b-eea/cover-letter.md 2026-06-07 target verification: LinkedIn shows no longer accepting applications.",
       "links": [
         "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-%E2%80%93-b2b-contract-at-gigsremote-4129183527"
       ],
       "fit": "72/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/gigsremote-sdet-b2b-eea/gigsremote-sdet-b2b-eea.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/gigsremote-sdet-b2b-eea/cover-letter.md",
-      "salaryAsk": "",
-      "outreach": "",
-      "outreachUrl": "",
-      "updatedAt": "2026-06-07T09:48:29.371Z"
+      "salaryAsk": "not listed",
+      "outreach": true,
+      "outreachUrl": true,
+      "updatedAt": "2026-06-07T10:21:36.790Z"
     },
     {
       "slug": "globallogic",
@@ -1259,21 +1259,21 @@
       "name": "Hays",
       "role": "Automation Test Engineer / QA Mid level",
       "stack": "QA automation, banking, contract",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready_jd_to_verify",
-      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD.",
+      "status": "unavailable",
+      "stage": "linkedin_no_longer_accepting",
+      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD. Availability checked on 2026-06-07 via LinkedIn/CDP: job is no longer accepting applications.",
       "requirements": "LinkedIn public metadata: Automation Test Engineer / QA Mid level, Hays, Warsaw, contract, IT/banking, recruiter Patrycja Rozmus.",
-      "notes": "Needs full JD/rate verification before prioritizing. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hays-automation-test-engineer-qa-mid/hays-automation-test-engineer-qa-mid.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/hays-automation-test-engineer-qa-mid/cover-letter.md",
+      "notes": "Needs full JD/rate verification before prioritizing. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hays-automation-test-engineer-qa-mid/hays-automation-test-engineer-qa-mid.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/hays-automation-test-engineer-qa-mid/cover-letter.md 2026-06-07 target verification: LinkedIn shows no longer accepting applications.",
       "links": [
         "https://pl.linkedin.com/jobs/view/automation-test-engineer-qa-mid-level-at-hays-4177299926"
       ],
       "fit": "65/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hays-automation-test-engineer-qa-mid/hays-automation-test-engineer-qa-mid.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/hays-automation-test-engineer-qa-mid/cover-letter.md",
-      "salaryAsk": "",
+      "salaryAsk": "not listed",
       "outreach": "Patrycja Rozmus — LinkedIn recruiter listed",
-      "outreachUrl": "",
-      "updatedAt": "2026-06-07T09:48:29.372Z"
+      "outreachUrl": true,
+      "updatedAt": "2026-06-07T10:21:36.885Z"
     },
     {
       "slug": "heineken",
@@ -2203,21 +2203,21 @@
       "name": "Raiffeisen Tech Poland",
       "role": "Quality Assurance Engineer",
       "stack": "QA, banking, IT",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready_jd_to_verify",
-      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD.",
+      "status": "unavailable",
+      "stage": "linkedin_no_longer_accepting",
+      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD. Availability checked on 2026-06-07 via LinkedIn/CDP after user reported the vacancy is unavailable: LinkedIn shows no longer accepting applications.",
       "requirements": "LinkedIn public metadata: Quality Assurance Engineer, Raiffeisen Tech Poland, Warsaw area, mid-level, full-time, IT/banking.",
-      "notes": "Banking domain may fit, but exact automation stack is unknown. Verify JD before CV tailoring. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/raiffeisen-tech-quality-assurance-engineer/raiffeisen-tech-quality-assurance-engineer.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/raiffeisen-tech-quality-assurance-engineer/cover-letter.md",
+      "notes": "Banking domain may fit, but exact automation stack is unknown. Verify JD before CV tailoring. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/raiffeisen-tech-quality-assurance-engineer/raiffeisen-tech-quality-assurance-engineer.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/raiffeisen-tech-quality-assurance-engineer/cover-letter.md 2026-06-07 target verification: LinkedIn shows no longer accepting applications.",
       "links": [
         "https://pl.linkedin.com/jobs/view/quality-assurance-engineer-at-raiffeisen-tech-poland-4202497467"
       ],
       "fit": "64/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/raiffeisen-tech-quality-assurance-engineer/raiffeisen-tech-quality-assurance-engineer.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/raiffeisen-tech-quality-assurance-engineer/cover-letter.md",
-      "salaryAsk": "",
-      "outreach": "",
-      "outreachUrl": "",
-      "updatedAt": "2026-06-07T09:48:29.373Z"
+      "salaryAsk": "not listed",
+      "outreach": true,
+      "outreachUrl": true,
+      "updatedAt": "2026-06-07T10:21:36.977Z"
     },
     {
       "slug": "remodevs",
@@ -2286,21 +2286,21 @@
       "name": "Reply Polska",
       "role": "Mid/Senior Test Engineer with Playwright",
       "stack": "Playwright, manual testing, automated testing, test strategy, test reports, QA metrics",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Sourced on 2026-06-07 from BulldogJob. Remote/hybrid details still need verification.",
+      "status": "unavailable",
+      "stage": "job_closed",
+      "process": "Sourced on 2026-06-07 from BulldogJob. Remote/hybrid details still need verification. Availability checked on 2026-06-07: BulldogJob vacancy page indicates the job is closed/no longer available.",
       "requirements": "Manual and automated testing; automated test systems and strategies; documenting results and reports; requirements analysis; test cases and plans; quality standards and metrics; defect analysis; collaboration with testing/development teams. Requires software testing/QA experience and Playwright.",
-      "notes": "Potential fit, but location/work model must be checked before prioritizing. Benefits and corporate setup look standard. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/reply-polska-playwright-test-engineer/reply-polska-playwright-test-engineer.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/reply-polska-playwright-test-engineer/cover-letter.md",
+      "notes": "Potential fit, but location/work model must be checked before prioritizing. Benefits and corporate setup look standard. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/reply-polska-playwright-test-engineer/reply-polska-playwright-test-engineer.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/reply-polska-playwright-test-engineer/cover-letter.md 2026-06-07 target verification: BulldogJob indicates closed/no longer available.",
       "links": [
         "https://bulldogjob.pl/companies/jobs/237209-mid-senior-test-engineer-with-playwright-katowice-reply-polska"
       ],
       "fit": "70/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/reply-polska-playwright-test-engineer/reply-polska-playwright-test-engineer.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/reply-polska-playwright-test-engineer/cover-letter.md",
-      "salaryAsk": "",
-      "outreach": "",
-      "outreachUrl": "",
-      "updatedAt": "2026-06-07T09:48:29.370Z"
+      "salaryAsk": "not listed",
+      "outreach": true,
+      "outreachUrl": true,
+      "updatedAt": "2026-06-07T10:21:37.069Z"
     },
     {
       "slug": "rimthan",

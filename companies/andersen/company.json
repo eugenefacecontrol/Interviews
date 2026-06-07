@@ -3,11 +3,11 @@
   "name": "Andersen",
   "role": true,
   "stack": true,
-  "status": "target",
-  "stage": "cv_ready_recruiter_outreach_cover_letter_ready",
-  "process": "Recruiter reached out about Full Stack QA Engineer (C#) role",
+  "status": "unavailable",
+  "stage": "vacancy_url_404_recruiter_contact_kept",
+  "process": "Recruiter reached out about Full Stack QA Engineer (C#) role Availability checked on 2026-06-07: Andersen vacancy URL returned HTTP 404. Recruiter contact is kept for future outreach, but this specific vacancy should not remain active.",
   "requirements": "Full Stack QA Engineer; C#; Playwright; API testing; CI/CD; balance of manual and automation; quality/framework design",
-  "notes": "First recorded contact with Andersen. Recruiter outreach highlighted growth in C# automation, Playwright, API testing, CI/CD, and influence on quality/framework design. Recruiter contact: https://www.linkedin.com/in/yana-budulatii-560a81387/.",
+  "notes": "First recorded contact with Andersen. Recruiter outreach highlighted growth in C# automation, Playwright, API testing, CI/CD, and influence on quality/framework design. Recruiter contact: https://www.linkedin.com/in/yana-budulatii-560a81387/. 2026-06-07 target verification: vacancy URL returned HTTP 404; moved out of active target list.",
   "links": [
     "https://people.andersenlab.com/vacancy/2509334?utm_source=FullStack&utm_campaign=recruiter",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/andersen/andersen.cv.Yauheni.Sheima.pdf"
@@ -15,8 +15,8 @@
   "fit": "7/10",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/andersen/andersen.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/andersen/cover-letter.md",
-  "salaryAsk": true,
+  "salaryAsk": "not listed",
   "outreach": "Recruiter outreach from Yana Budulatii (LinkedIn)",
   "outreachUrl": true,
-  "updatedAt": "2026-06-05T12:01:23.769Z"
+  "updatedAt": "2026-06-07T10:21:36.504Z"
 }

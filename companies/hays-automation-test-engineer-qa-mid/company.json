@@ -3,19 +3,19 @@
   "name": "Hays",
   "role": "Automation Test Engineer / QA Mid level",
   "stack": "QA automation, banking, contract",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready_jd_to_verify",
-  "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD.",
+  "status": "unavailable",
+  "stage": "linkedin_no_longer_accepting",
+  "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD. Availability checked on 2026-06-07 via LinkedIn/CDP: job is no longer accepting applications.",
   "requirements": "LinkedIn public metadata: Automation Test Engineer / QA Mid level, Hays, Warsaw, contract, IT/banking, recruiter Patrycja Rozmus.",
-  "notes": "Needs full JD/rate verification before prioritizing. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hays-automation-test-engineer-qa-mid/hays-automation-test-engineer-qa-mid.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/hays-automation-test-engineer-qa-mid/cover-letter.md",
+  "notes": "Needs full JD/rate verification before prioritizing. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hays-automation-test-engineer-qa-mid/hays-automation-test-engineer-qa-mid.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/hays-automation-test-engineer-qa-mid/cover-letter.md 2026-06-07 target verification: LinkedIn shows no longer accepting applications.",
   "links": [
     "https://pl.linkedin.com/jobs/view/automation-test-engineer-qa-mid-level-at-hays-4177299926"
   ],
   "fit": "65/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hays-automation-test-engineer-qa-mid/hays-automation-test-engineer-qa-mid.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/hays-automation-test-engineer-qa-mid/cover-letter.md",
-  "salaryAsk": "",
+  "salaryAsk": "not listed",
   "outreach": "Patrycja Rozmus — LinkedIn recruiter listed",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-07T09:48:29.372Z"
+  "outreachUrl": true,
+  "updatedAt": "2026-06-07T10:21:36.885Z"
 }

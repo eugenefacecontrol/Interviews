@@ -3,19 +3,19 @@
   "name": "Reply Polska",
   "role": "Mid/Senior Test Engineer with Playwright",
   "stack": "Playwright, manual testing, automated testing, test strategy, test reports, QA metrics",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Sourced on 2026-06-07 from BulldogJob. Remote/hybrid details still need verification.",
+  "status": "unavailable",
+  "stage": "job_closed",
+  "process": "Sourced on 2026-06-07 from BulldogJob. Remote/hybrid details still need verification. Availability checked on 2026-06-07: BulldogJob vacancy page indicates the job is closed/no longer available.",
   "requirements": "Manual and automated testing; automated test systems and strategies; documenting results and reports; requirements analysis; test cases and plans; quality standards and metrics; defect analysis; collaboration with testing/development teams. Requires software testing/QA experience and Playwright.",
-  "notes": "Potential fit, but location/work model must be checked before prioritizing. Benefits and corporate setup look standard. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/reply-polska-playwright-test-engineer/reply-polska-playwright-test-engineer.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/reply-polska-playwright-test-engineer/cover-letter.md",
+  "notes": "Potential fit, but location/work model must be checked before prioritizing. Benefits and corporate setup look standard. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/reply-polska-playwright-test-engineer/reply-polska-playwright-test-engineer.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/reply-polska-playwright-test-engineer/cover-letter.md 2026-06-07 target verification: BulldogJob indicates closed/no longer available.",
   "links": [
     "https://bulldogjob.pl/companies/jobs/237209-mid-senior-test-engineer-with-playwright-katowice-reply-polska"
   ],
   "fit": "70/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/reply-polska-playwright-test-engineer/reply-polska-playwright-test-engineer.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/reply-polska-playwright-test-engineer/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-07T09:48:29.370Z"
+  "salaryAsk": "not listed",
+  "outreach": true,
+  "outreachUrl": true,
+  "updatedAt": "2026-06-07T10:21:37.069Z"
 }
