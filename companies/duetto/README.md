@@ -2,22 +2,24 @@
 
 - Role: Quality Engineer
 - Stack: Playwright, TypeScript, CI quality gates, Pact, Testcontainers, DataDog, Selenium/Cypress migration, Claude Code, API contracts
-- Status: applied
-- Stage: application_sent
+- Status: rejected
+- Stage: rejected_after_application_review
 - Fit: 72/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/duetto/cover-letter.md
 - Salary Ask: not listed
-- Outreach: Application submitted via Greenhouse
+- Outreach: CDP scan found Duetto HR leads: Heather Garner (Sr. Manager, Talent Acquisition @ Duetto), Linda Mudadu (CHRO @ Duetto), David Lammert (recruiting leader; lower confidence). Recommended path: feedback/alternate-fit outreach, not a same-form resubmission.
 
 ## Process
-Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter prepared on 2026-06-04 for the Greenhouse application. Application submitted on 2026-06-04.
+Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter prepared on 2026-06-04 for the Greenhouse application. Application submitted on 2026-06-04. Rejection email received Saturday 2026-06-06 from Duetto Talent Acquisition Team: moving forward with other candidates whose experience more closely aligns with current needs. CDP recruiter scan run on 2026-06-07 via linkedin-recruiter-outreach.
 
 ## Requirements
 Strong Playwright E2E automation; page objects; CI sharding/quality gates; Selenium/Cypress migration; Pact contract testing; Testcontainers; DataDog quality dashboards; mutation testing; AI-assisted test migration/review.
 
 ## Notes
-First quality engineering hire building QE function from scratch. Strong fit: Playwright direction, CI quality feedback, API testing, diagnostics and AI-assisted QA. Stretch areas to ramp up: Pact, Testcontainers, DataDog dashboards and mutation testing. Location listed as Remote (Croatia); verify Poland eligibility. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf
+Likely automated/ATS or recruiter screen-down reasons: first QE hire/build-from-scratch expectation; CV honestly framed Pact, Testcontainers, DataDog dashboards and mutation testing as ramp-up areas; possible location mismatch because role was listed Remote (Croatia) and Poland eligibility needed verification. Do not simply resubmit the same application; use recruiter outreach for feedback or alternate fit. CDP artifact: /Users/yauhenisheima/.openclaw/workspace/projects/linkedin-recruiter-outreach/data/scans/duetto/_merged.json. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf
 
 ## Links
 - https://job-boards.greenhouse.io/duettoresearch/jobs/7920633
+- /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf
+- /Users/yauhenisheima/.openclaw/workspace/projects/linkedin-recruiter-outreach/data/scans/duetto/_merged.json
