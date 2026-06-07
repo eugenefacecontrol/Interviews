@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T10:09:41.717Z",
+  "generatedAt": "2026-06-07T10:12:35.403Z",
   "companies": [
     {
       "slug": "acronis",
@@ -2448,6 +2448,27 @@
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/scalo/cover-letter.md",
       "salaryAsk": "up to 130 PLN/h B2B",
       "outreachUrl": true
+    },
+    {
+      "slug": "scalo-qa-automation-java-katowice",
+      "name": "SCALO (QA Automation Java Katowice)",
+      "role": "QA/Automation Tester (Java)",
+      "stack": "Java, REST Assured, Selenium/Playwright, TypeScript, Cucumber/JBehave, SQL, Postman/Bruno, Azure DevOps, banking workflows",
+      "status": "target",
+      "stage": "live_status_to_verify_cv_to_prepare",
+      "process": "User shared JustJoinIt vacancy on 2026-06-07. Copied listing text says published 2026-06-04 and 12 days left until 2026-06-19, but user also noted it may already be expired. Web fetch returned HTTP 200 and vacancy description on 2026-06-07; browser/form status should be verified before application.",
+      "requirements": "1-2+ years QA; manual testing of business systems; system analysis; BPMN/UML basics; functional/integration/acceptance testing; bug/log analysis; SQL basics; TypeScript and Playwright; Ferryt process familiarity; test plans; API basics and Postman/Bruno. Responsibilities include Java-oriented QA automation for bank document workflow system, API/UI tests with REST Assured and Selenium/Playwright, BDD with JBehave/Cucumber, Azure DevOps CI/CD, performance/microservice/workflow support.",
+      "notes": "Separate from existing SCALO Senior Automation Tester/QA Java Krakow aviation role. This Katowice/banking workflow role is lower seniority and capped at 120 PLN/h B2B. Fit is decent via banking, API/UI automation, SQL, logs, Playwright/TypeScript and CI/CD; gaps/unknowns: Ferryt, BPMN/UML, REST Assured/Java depth for this specific project. User reported it may be expired despite page text showing time left.",
+      "links": [
+        "https://justjoin.it/job-offer/scalo-qa-automation-tester-java--katowice-testing"
+      ],
+      "fit": "76/100",
+      "recommendedCv": "",
+      "coverLetter": "",
+      "salaryAsk": "up to 120 PLN/h B2B",
+      "outreach": "User-reported status conflict: possible expired; live page fetched on 2026-06-07",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-07T10:12:35.392Z"
     },
     {
       "slug": "sherpany",
