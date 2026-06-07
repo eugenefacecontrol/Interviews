@@ -4,18 +4,18 @@
   "role": "Quality Assurance Engineer",
   "stack": "QA, banking, IT",
   "status": "target",
-  "stage": "linkedin_jd_to_verify",
+  "stage": "cv_ready_cover_letter_ready_jd_to_verify",
   "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD.",
   "requirements": "LinkedIn public metadata: Quality Assurance Engineer, Raiffeisen Tech Poland, Warsaw area, mid-level, full-time, IT/banking.",
-  "notes": "Banking domain may fit, but exact automation stack is unknown. Verify JD before CV tailoring.",
+  "notes": "Banking domain may fit, but exact automation stack is unknown. Verify JD before CV tailoring. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/raiffeisen-tech-quality-assurance-engineer/raiffeisen-tech-quality-assurance-engineer.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/raiffeisen-tech-quality-assurance-engineer/cover-letter.md",
   "links": [
     "https://pl.linkedin.com/jobs/view/quality-assurance-engineer-at-raiffeisen-tech-poland-4202497467"
   ],
   "fit": "64/100",
-  "recommendedCv": "",
-  "coverLetter": "",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/raiffeisen-tech-quality-assurance-engineer/raiffeisen-tech-quality-assurance-engineer.cv.Yauheni.Sheima.pdf",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/raiffeisen-tech-quality-assurance-engineer/cover-letter.md",
   "salaryAsk": "",
   "outreach": "",
   "outreachUrl": "",
-  "updatedAt": "2026-06-07T09:40:02.452Z"
+  "updatedAt": "2026-06-07T09:48:29.373Z"
 }

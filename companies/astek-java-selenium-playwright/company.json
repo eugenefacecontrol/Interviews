@@ -4,18 +4,18 @@
   "role": "Tester Automatyzujący / Testerka Automatyzująca Java Selenium Playwright",
   "stack": "Java, Selenium, Playwright, SQL, Azure DevOps, REST Assured, Cucumber/JBehave, CI/CD",
   "status": "target",
-  "stage": "sourced_to_review",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Sourced on 2026-06-07 from NoFluffJobs.",
   "requirements": "Minimum 2 years designing and implementing automated tests; basic Java; SQL; Azure DevOps CI/CD; automation practices. Responsibilities include web/API automation with Java, Selenium/Playwright, REST Assured, Cucumber/JBehave; test data and SQL; pipeline integration; performance tests with Gatling; microservices/workflow testing.",
-  "notes": "100% remote, B2B 100-130 PLN/h, Polish recruitment. Good Java/Selenium foundation and Playwright adjacency. Listing valid until 2026-06-18.",
+  "notes": "100% remote, B2B 100-130 PLN/h, Polish recruitment. Good Java/Selenium foundation and Playwright adjacency. Listing valid until 2026-06-18. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/astek-java-selenium-playwright/astek-java-selenium-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/astek-java-selenium-playwright/cover-letter.md",
   "links": [
     "https://nofluffjobs.com/pl/job/tester-automatyzujacy-testerka-automatyzujaca-java-selenium-playwright-astek-polska-remote"
   ],
   "fit": "80/100",
-  "recommendedCv": "",
-  "coverLetter": "",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/astek-java-selenium-playwright/astek-java-selenium-playwright.cv.Yauheni.Sheima.pdf",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/astek-java-selenium-playwright/cover-letter.md",
   "salaryAsk": "100-130 PLN/h B2B listed",
   "outreach": "",
   "outreachUrl": "",
-  "updatedAt": "2026-06-07T09:40:01.357Z"
+  "updatedAt": "2026-06-07T09:48:29.369Z"
 }

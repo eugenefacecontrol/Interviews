@@ -4,18 +4,18 @@
   "role": "Software Development Engineer in Test (SDET) - B2B Contract",
   "stack": "SDET, Python, remote EEA, contract",
   "status": "target",
-  "stage": "linkedin_jd_to_verify",
+  "stage": "cv_ready_cover_letter_ready_jd_to_verify",
   "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD, so this needs verification in logged-in LinkedIn before applying.",
   "requirements": "LinkedIn public metadata: Software Development Engineer in Test (SDET), B2B contract, European Economic Area, mid-senior level, information technology/engineering.",
-  "notes": "Potentially relevant remote EEA role. Verify stack, salary/rate, location eligibility and application path.",
+  "notes": "Potentially relevant remote EEA role. Verify stack, salary/rate, location eligibility and application path. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/gigsremote-sdet-b2b-eea/gigsremote-sdet-b2b-eea.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/gigsremote-sdet-b2b-eea/cover-letter.md",
   "links": [
     "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-%E2%80%93-b2b-contract-at-gigsremote-4129183527"
   ],
   "fit": "72/100",
-  "recommendedCv": "",
-  "coverLetter": "",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/gigsremote-sdet-b2b-eea/gigsremote-sdet-b2b-eea.cv.Yauheni.Sheima.pdf",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/gigsremote-sdet-b2b-eea/cover-letter.md",
   "salaryAsk": "",
   "outreach": "",
   "outreachUrl": "",
-  "updatedAt": "2026-06-07T09:40:01.890Z"
+  "updatedAt": "2026-06-07T09:48:29.371Z"
 }

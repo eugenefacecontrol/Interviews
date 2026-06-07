@@ -4,18 +4,18 @@
   "role": "Senior AQA Engineer (Playwright)",
   "stack": "TypeScript, Playwright, API testing, E2E testing, backend/infrastructure testing, cybersecurity XDR",
   "status": "target",
-  "stage": "sourced_to_review",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Sourced on 2026-06-07 from JustJoinIt. Separate from previously applied N-iX Playwright+AI role; this one appears to be SentinelOne/cybersecurity XDR.",
   "requirements": "Design, develop and implement TypeScript automation tests across SentinelOne SaaS platform and endpoint protection areas: API, E2E, backend and infrastructure testing. Triage test execution results, close test gaps and collaborate across project teams.",
-  "notes": "Strong fit for Playwright/TypeScript/API automation. Check whether prior N-iX applications affect duplicate submission strategy.",
+  "notes": "Strong fit for Playwright/TypeScript/API automation. Check whether prior N-iX applications affect duplicate submission strategy. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/n-ix-sentinelone-aqa-playwright/n-ix-sentinelone-aqa-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/n-ix-sentinelone-aqa-playwright/cover-letter.md",
   "links": [
     "https://justjoin.it/job-offer/n-ix-senior-aqa-engineer-playwright-4784--poland-remote--testing"
   ],
   "fit": "82/100",
-  "recommendedCv": "",
-  "coverLetter": "",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/n-ix-sentinelone-aqa-playwright/n-ix-sentinelone-aqa-playwright.cv.Yauheni.Sheima.pdf",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/n-ix-sentinelone-aqa-playwright/cover-letter.md",
   "salaryAsk": "",
   "outreach": "",
   "outreachUrl": "",
-  "updatedAt": "2026-06-07T09:40:00.477Z"
+  "updatedAt": "2026-06-07T09:48:29.366Z"
 }

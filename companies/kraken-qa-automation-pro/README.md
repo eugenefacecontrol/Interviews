@@ -3,10 +3,10 @@
 - Role: QA Automation Engineer - Pro
 - Stack: QA automation, backend/API testing, crypto trading systems, market data, matching engine, remote
 - Status: target
-- Stage: sourced_to_review
+- Stage: cv_ready_cover_letter_ready
 - Fit: 84/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/kraken-qa-automation-pro/kraken-qa-automation-pro.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/kraken-qa-automation-pro/cover-letter.md
 - Salary Ask: —
 - Outreach: —
 
@@ -17,7 +17,7 @@ Sourced on 2026-06-07 from Working Nomads remote QA scan. Fresh posting, remote 
 Crypto/trading backend QA automation role for Kraken Pro team. Focus on trading backend services such as matching engine, market data gateways, internal/external APIs and trading services. Strong fit for backend/API QA and fintech/crypto positioning.
 
 ## Notes
-High priority from 2026-06-07 sourcing. Strong domain relevance after Scalable search. Confirm exact stack and application path before tailoring CV.
+High priority from 2026-06-07 sourcing. Strong domain relevance after Scalable search. Confirm exact stack and application path before tailoring CV. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/kraken-qa-automation-pro/kraken-qa-automation-pro.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/kraken-qa-automation-pro/cover-letter.md
 
 ## Links
 - https://www.workingnomads.com/jobs/qa-automation-engineer-pro-kraken
