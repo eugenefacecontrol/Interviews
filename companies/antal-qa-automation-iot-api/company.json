@@ -1,0 +1,23 @@
+{
+  "slug": "antal-qa-automation-iot-api",
+  "name": "Antal (IoT API)",
+  "status": "target",
+  "stage": "sourced_to_review",
+  "process": "Sourced on 2026-06-07 from NoFluffJobs. Separate from earlier Antal senior automation application.",
+  "requirements": "Senior remote role for IoT API layer. JS/TS and Node.js; RESTful API testing with Supertest/PactumJS/Playwright; PostgreSQL and MongoDB validation; Docker; CI/CD with GitLab/GitHub Actions; microservices; Redis/RabbitMQ and k6 as plus.",
+  "notes": "Good API/automation fit, less direct Playwright UI. NoFluff listing valid until 2026-06-16.",
+  "links": [
+    "https://nofluffjobs.com/pl/job/qa-automation-engineer-antal-remote"
+  ],
+  "updatedAt": "2026-06-07T09:40:01.185Z",
+  "role": "QA Automation Engineer",
+  "salary": "30-33k PLN net",
+  "stack": "JavaScript, TypeScript, Node.js, REST API, PostgreSQL, MongoDB, Docker, GitLab, GitHub Actions, IoT API",
+  "fit": "76/100",
+  "cv": "qa-devops-cv.pdf",
+  "recommendedCv": "",
+  "outreach": "",
+  "coverLetter": "",
+  "salaryAsk": "",
+  "outreachUrl": ""
+}

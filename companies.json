@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T12:07:11.095Z",
+  "generatedAt": "2026-06-07T09:41:47.293Z",
   "companies": [
     {
       "slug": "acronis",
@@ -196,6 +196,29 @@
       "outreach": "Applied via JustJoinIt"
     },
     {
+      "slug": "antal-qa-automation-iot-api",
+      "name": "Antal (IoT API)",
+      "status": "target",
+      "stage": "sourced_to_review",
+      "process": "Sourced on 2026-06-07 from NoFluffJobs. Separate from earlier Antal senior automation application.",
+      "requirements": "Senior remote role for IoT API layer. JS/TS and Node.js; RESTful API testing with Supertest/PactumJS/Playwright; PostgreSQL and MongoDB validation; Docker; CI/CD with GitLab/GitHub Actions; microservices; Redis/RabbitMQ and k6 as plus.",
+      "notes": "Good API/automation fit, less direct Playwright UI. NoFluff listing valid until 2026-06-16.",
+      "links": [
+        "https://nofluffjobs.com/pl/job/qa-automation-engineer-antal-remote"
+      ],
+      "updatedAt": "2026-06-07T09:40:01.185Z",
+      "role": "QA Automation Engineer",
+      "salary": "30-33k PLN net",
+      "stack": "JavaScript, TypeScript, Node.js, REST API, PostgreSQL, MongoDB, Docker, GitLab, GitHub Actions, IoT API",
+      "fit": "76/100",
+      "cv": "qa-devops-cv.pdf",
+      "recommendedCv": "",
+      "outreach": "",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreachUrl": ""
+    },
+    {
       "slug": "antal-sp-z-o-o",
       "name": "Antal Sp. z o.o.",
       "status": "target",
@@ -278,6 +301,27 @@
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/asseco-poland-s-a/cover-letter.md",
       "salaryAsk": "not listed",
       "outreachUrl": true
+    },
+    {
+      "slug": "astek-java-selenium-playwright",
+      "name": "Astek Polska",
+      "role": "Tester Automatyzujący / Testerka Automatyzująca Java Selenium Playwright",
+      "stack": "Java, Selenium, Playwright, SQL, Azure DevOps, REST Assured, Cucumber/JBehave, CI/CD",
+      "status": "target",
+      "stage": "sourced_to_review",
+      "process": "Sourced on 2026-06-07 from NoFluffJobs.",
+      "requirements": "Minimum 2 years designing and implementing automated tests; basic Java; SQL; Azure DevOps CI/CD; automation practices. Responsibilities include web/API automation with Java, Selenium/Playwright, REST Assured, Cucumber/JBehave; test data and SQL; pipeline integration; performance tests with Gatling; microservices/workflow testing.",
+      "notes": "100% remote, B2B 100-130 PLN/h, Polish recruitment. Good Java/Selenium foundation and Playwright adjacency. Listing valid until 2026-06-18.",
+      "links": [
+        "https://nofluffjobs.com/pl/job/tester-automatyzujacy-testerka-automatyzujaca-java-selenium-playwright-astek-polska-remote"
+      ],
+      "fit": "80/100",
+      "recommendedCv": "",
+      "coverLetter": "",
+      "salaryAsk": "100-130 PLN/h B2B listed",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-07T09:40:01.357Z"
     },
     {
       "slug": "atos",
@@ -682,6 +726,27 @@
       "updatedAt": "2026-05-30T19:41:22.040Z"
     },
     {
+      "slug": "devire-qa-engineer-playwright-ts",
+      "name": "Devire",
+      "role": "QA Engineer",
+      "stack": "Playwright TS/JS, Postman, GitLab CI/CD, K6, SQL, API, Kafka, RabbitMQ, Pact",
+      "status": "target",
+      "stage": "sourced_to_review",
+      "process": "Sourced on 2026-06-07 from BulldogJob.",
+      "requirements": "5+ years QA; SQL; GitLab + CI/CD; K6; web and API testing; Postman, GitLab, Visual Studio; low-code/data warehouse architecture; English; Playwright TS/JS automation welcome. Duties include manual and automated tests, integration/system/performance/UAT, API Gateway Kong, RabbitMQ, Kafka, contract tests with Pact.",
+      "notes": "100% remote, B2B via Devire, 110-130 PLN/h net. Mixed manual+automation/coordination but good remote rate and broad API/event-driven stack.",
+      "links": [
+        "https://bulldogjob.pl/companies/jobs/238951-qa-engineer-devire"
+      ],
+      "fit": "78/100",
+      "recommendedCv": "",
+      "coverLetter": "",
+      "salaryAsk": "110-130 PLN/h B2B listed",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-07T09:40:01.534Z"
+    },
+    {
       "slug": "duetto",
       "name": "Duetto Research",
       "role": "Quality Engineer",
@@ -779,6 +844,27 @@
       "salaryAsk": "",
       "role": "Senior Automation Tester in Java / Test Automation Engineer (Java)",
       "stack": "Java, automation testing",
+      "coverLetter": "",
+      "outreachUrl": ""
+    },
+    {
+      "slug": "epam-python-azure-automation",
+      "name": "EPAM Systems (Python/Azure)",
+      "status": "target",
+      "stage": "sourced_to_review",
+      "process": "Sourced on 2026-06-07 from JustJoinIt. Separate from earlier EPAM Java application.",
+      "requirements": "2+ years QA automation; Python automation with PyTest or similar; API testing with Postman/Python Requests; browser automation/web validation using Selenium plus HTML/CSS/JS knowledge; CI/CD integration with Jenkins/GitLab CI; optional Big Data and AI-assisted testing.",
+      "notes": "Potentially accessible Python role compared with senior-only postings; separate history from earlier EPAM Java application should be kept clear.",
+      "links": [
+        "https://justjoin.it/job-offer/epam-systems-test-automation-engineer-with-python-and-azure-cloud-poland-remote--testing"
+      ],
+      "fit": "74/100",
+      "recommendedCv": "",
+      "outreach": "",
+      "updatedAt": "2026-06-07T09:40:00.823Z",
+      "salaryAsk": "",
+      "role": "Test Automation Engineer with Python and Azure Cloud",
+      "stack": "Python, PyTest, Selenium, API testing, Postman, Python Requests, CI/CD, Jenkins, GitLab CI, Azure Cloud",
       "coverLetter": "",
       "outreachUrl": ""
     },
@@ -995,6 +1081,27 @@
       "salaryAsk": ""
     },
     {
+      "slug": "gigsremote-sdet-b2b-eea",
+      "name": "GigsRemote",
+      "role": "Software Development Engineer in Test (SDET) - B2B Contract",
+      "stack": "SDET, Python, remote EEA, contract",
+      "status": "target",
+      "stage": "linkedin_jd_to_verify",
+      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD, so this needs verification in logged-in LinkedIn before applying.",
+      "requirements": "LinkedIn public metadata: Software Development Engineer in Test (SDET), B2B contract, European Economic Area, mid-senior level, information technology/engineering.",
+      "notes": "Potentially relevant remote EEA role. Verify stack, salary/rate, location eligibility and application path.",
+      "links": [
+        "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-%E2%80%93-b2b-contract-at-gigsremote-4129183527"
+      ],
+      "fit": "72/100",
+      "recommendedCv": "",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-07T09:40:01.890Z"
+    },
+    {
       "slug": "globallogic",
       "name": "GlobalLogic",
       "role": "Senior Python Automation Test Engineer IRC292988",
@@ -1082,6 +1189,27 @@
       "outreachUrl": true
     },
     {
+      "slug": "grid-dynamics-python-playwright",
+      "name": "Grid Dynamics Poland",
+      "role": "QA Automation Engineer with Python",
+      "stack": "Python, Pytest, Playwright, REST API, SQL/MySQL, Agile, EST overlap",
+      "status": "target",
+      "stage": "sourced_to_review",
+      "process": "Sourced on 2026-06-07 from JustJoinIt. Needs review because role requires Python positioning and later EST-aligned shift.",
+      "requirements": "3+ years test automation; strong Python; Pytest; REST API testing; modern UI automation with Playwright; SQL/MySQL validation; Jira user story analysis; working with US-based team and EST timezone ceremonies.",
+      "notes": "Good technical overlap with Playwright/API/SQL; Python depth and EST schedule are the main caveats.",
+      "links": [
+        "https://justjoin.it/job-offer/grid-dynamics-poland-qa-automation-engineer-with-python-krakow-testing-b3926536"
+      ],
+      "fit": "76/100",
+      "recommendedCv": "",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-07T09:40:00.648Z"
+    },
+    {
       "slug": "growe",
       "name": "GROWE",
       "role": "Senior Automation QA Engineer",
@@ -1123,6 +1251,27 @@
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/happy-team/cover-letter.md",
       "salaryAsk": true,
       "outreachUrl": true
+    },
+    {
+      "slug": "hays-automation-test-engineer-qa-mid",
+      "name": "Hays",
+      "role": "Automation Test Engineer / QA Mid level",
+      "stack": "QA automation, banking, contract",
+      "status": "target",
+      "stage": "linkedin_jd_to_verify",
+      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD.",
+      "requirements": "LinkedIn public metadata: Automation Test Engineer / QA Mid level, Hays, Warsaw, contract, IT/banking, recruiter Patrycja Rozmus.",
+      "notes": "Needs full JD/rate verification before prioritizing.",
+      "links": [
+        "https://pl.linkedin.com/jobs/view/automation-test-engineer-qa-mid-level-at-hays-4177299926"
+      ],
+      "fit": "65/100",
+      "recommendedCv": "",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "Patrycja Rozmus — LinkedIn recruiter listed",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-07T09:40:02.280Z"
     },
     {
       "slug": "heineken",
@@ -1473,6 +1622,27 @@
       "stack": "Automation/quality engineering, Java/Selenide-oriented, complex integrations"
     },
     {
+      "slug": "kraken-qa-automation-pro",
+      "name": "Kraken",
+      "role": "QA Automation Engineer - Pro",
+      "stack": "QA automation, backend/API testing, crypto trading systems, market data, matching engine, remote",
+      "status": "target",
+      "stage": "sourced_to_review",
+      "process": "Sourced on 2026-06-07 from Working Nomads remote QA scan. Fresh posting, remote locations include Poland. Needs JD review and application decision.",
+      "requirements": "Crypto/trading backend QA automation role for Kraken Pro team. Focus on trading backend services such as matching engine, market data gateways, internal/external APIs and trading services. Strong fit for backend/API QA and fintech/crypto positioning.",
+      "notes": "High priority from 2026-06-07 sourcing. Strong domain relevance after Scalable search. Confirm exact stack and application path before tailoring CV.",
+      "links": [
+        "https://www.workingnomads.com/jobs/qa-automation-engineer-pro-kraken"
+      ],
+      "fit": "84/100",
+      "recommendedCv": "",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-07T09:40:00.311Z"
+    },
+    {
       "slug": "link-group",
       "name": "Link Group",
       "status": "target",
@@ -1493,6 +1663,27 @@
       "salaryAsk": true,
       "outreachUrl": "https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/link-group/cover-letter.md"
+    },
+    {
+      "slug": "link-group-ai-assisted-qa",
+      "name": "Link Group (AI-assisted QA)",
+      "status": "target",
+      "stage": "sourced_to_review",
+      "process": "Sourced on 2026-06-07 from NoFluffJobs. Separate from existing Link Group Senior QA Java record.",
+      "requirements": "Senior remote QA role. Daily Cursor or Claude Code usage for test programming, log analysis and test case design; strong test automation in Playwright/Cypress/Pytest; complex web app testing including user flows, stateful UI and access control; CI/CD quality perspective; fluent English and Polish listed.",
+      "notes": "Interesting because AI-assisted QA matches current tooling, but Polish requirement must be verified. NoFluff listing valid until 2026-06-13.",
+      "links": [
+        "https://nofluffjobs.com/pl/job/qa-engineer-ai-assisted-link-group-remote"
+      ],
+      "fit": "78/100",
+      "recommendedCv": "",
+      "outreach": "",
+      "updatedAt": "2026-06-07T09:40:01.004Z",
+      "role": "QA Engineer AI-assisted",
+      "stack": "Playwright, Cypress, Pytest, CI/CD, UAT, Cursor, Claude Code, AI-first QA, web apps",
+      "salaryAsk": "",
+      "outreachUrl": "",
+      "coverLetter": ""
     },
     {
       "slug": "luxoft-poland",
@@ -1675,6 +1866,27 @@
       "outreach": "HR message drafted",
       "outreachUrl": "",
       "updatedAt": "2026-06-04T09:20:30.835Z"
+    },
+    {
+      "slug": "n-ix-sentinelone-aqa-playwright",
+      "name": "N-iX / SentinelOne",
+      "role": "Senior AQA Engineer (Playwright)",
+      "stack": "TypeScript, Playwright, API testing, E2E testing, backend/infrastructure testing, cybersecurity XDR",
+      "status": "target",
+      "stage": "sourced_to_review",
+      "process": "Sourced on 2026-06-07 from JustJoinIt. Separate from previously applied N-iX Playwright+AI role; this one appears to be SentinelOne/cybersecurity XDR.",
+      "requirements": "Design, develop and implement TypeScript automation tests across SentinelOne SaaS platform and endpoint protection areas: API, E2E, backend and infrastructure testing. Triage test execution results, close test gaps and collaborate across project teams.",
+      "notes": "Strong fit for Playwright/TypeScript/API automation. Check whether prior N-iX applications affect duplicate submission strategy.",
+      "links": [
+        "https://justjoin.it/job-offer/n-ix-senior-aqa-engineer-playwright-4784--poland-remote--testing"
+      ],
+      "fit": "82/100",
+      "recommendedCv": "",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-07T09:40:00.477Z"
     },
     {
       "slug": "navro",
@@ -1985,6 +2197,27 @@
       "stack": "Playwright, Java, REST, API, CI/CD, TypeScript"
     },
     {
+      "slug": "raiffeisen-tech-quality-assurance-engineer",
+      "name": "Raiffeisen Tech Poland",
+      "role": "Quality Assurance Engineer",
+      "stack": "QA, banking, IT",
+      "status": "target",
+      "stage": "linkedin_jd_to_verify",
+      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn extraction did not expose full JD.",
+      "requirements": "LinkedIn public metadata: Quality Assurance Engineer, Raiffeisen Tech Poland, Warsaw area, mid-level, full-time, IT/banking.",
+      "notes": "Banking domain may fit, but exact automation stack is unknown. Verify JD before CV tailoring.",
+      "links": [
+        "https://pl.linkedin.com/jobs/view/quality-assurance-engineer-at-raiffeisen-tech-poland-4202497467"
+      ],
+      "fit": "64/100",
+      "recommendedCv": "",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-07T09:40:02.452Z"
+    },
+    {
       "slug": "remodevs",
       "name": "Remodevs",
       "status": "target",
@@ -2045,6 +2278,27 @@
       "outreach": "Position closed / unavailable",
       "outreachUrl": "",
       "updatedAt": "2026-06-04T10:11:21.094Z"
+    },
+    {
+      "slug": "reply-polska-playwright-test-engineer",
+      "name": "Reply Polska",
+      "role": "Mid/Senior Test Engineer with Playwright",
+      "stack": "Playwright, manual testing, automated testing, test strategy, test reports, QA metrics",
+      "status": "target",
+      "stage": "sourced_to_review",
+      "process": "Sourced on 2026-06-07 from BulldogJob. Remote/hybrid details still need verification.",
+      "requirements": "Manual and automated testing; automated test systems and strategies; documenting results and reports; requirements analysis; test cases and plans; quality standards and metrics; defect analysis; collaboration with testing/development teams. Requires software testing/QA experience and Playwright.",
+      "notes": "Potential fit, but location/work model must be checked before prioritizing. Benefits and corporate setup look standard.",
+      "links": [
+        "https://bulldogjob.pl/companies/jobs/237209-mid-senior-test-engineer-with-playwright-katowice-reply-polska"
+      ],
+      "fit": "70/100",
+      "recommendedCv": "",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-07T09:40:01.717Z"
     },
     {
       "slug": "rimthan",
@@ -2615,6 +2869,27 @@
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/upvanta-sp-z-o-o/cover-letter.md",
       "salaryAsk": true,
       "outreachUrl": true
+    },
+    {
+      "slug": "venchr-senior-qa-playwright-uk",
+      "name": "Venchr",
+      "role": "Senior QA Engineer (Playwright Specialist)",
+      "stack": "Playwright, QA automation, remote UK",
+      "status": "target",
+      "stage": "linkedin_jd_to_verify",
+      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn showed pay range and similar jobs, but not enough JD detail.",
+      "requirements": "LinkedIn public metadata: Senior QA Engineer Playwright Specialist, remote UK / Manchester area, mid-senior, full-time, £50k-£65k base range.",
+      "notes": "Strong Playwright keyword, but likely UK-only remote. Verify work authorization/location before spending CV time.",
+      "links": [
+        "https://uk.linkedin.com/jobs/view/%F0%9F%9A%80-senior-qa-engineer-playwright-specialist-%E2%80%94-remote-uk-%E2%80%94-%C2%A360%E2%80%9365k-at-venchr-4385251493"
+      ],
+      "fit": "62/100",
+      "recommendedCv": "",
+      "coverLetter": "",
+      "salaryAsk": "£50k-£65k listed",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-07T09:40:02.124Z"
     },
     {
       "slug": "vention",

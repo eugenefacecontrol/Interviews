@@ -1,0 +1,21 @@
+{
+  "slug": "epam-python-azure-automation",
+  "name": "EPAM Systems (Python/Azure)",
+  "status": "target",
+  "stage": "sourced_to_review",
+  "process": "Sourced on 2026-06-07 from JustJoinIt. Separate from earlier EPAM Java application.",
+  "requirements": "2+ years QA automation; Python automation with PyTest or similar; API testing with Postman/Python Requests; browser automation/web validation using Selenium plus HTML/CSS/JS knowledge; CI/CD integration with Jenkins/GitLab CI; optional Big Data and AI-assisted testing.",
+  "notes": "Potentially accessible Python role compared with senior-only postings; separate history from earlier EPAM Java application should be kept clear.",
+  "links": [
+    "https://justjoin.it/job-offer/epam-systems-test-automation-engineer-with-python-and-azure-cloud-poland-remote--testing"
+  ],
+  "fit": "74/100",
+  "recommendedCv": "",
+  "outreach": "",
+  "updatedAt": "2026-06-07T09:40:00.823Z",
+  "salaryAsk": "",
+  "role": "Test Automation Engineer with Python and Azure Cloud",
+  "stack": "Python, PyTest, Selenium, API testing, Postman, Python Requests, CI/CD, Jenkins, GitLab CI, Azure Cloud",
+  "coverLetter": "",
+  "outreachUrl": ""
+}

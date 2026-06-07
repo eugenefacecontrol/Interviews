@@ -1,0 +1,21 @@
+{
+  "slug": "devire-qa-engineer-playwright-ts",
+  "name": "Devire",
+  "role": "QA Engineer",
+  "stack": "Playwright TS/JS, Postman, GitLab CI/CD, K6, SQL, API, Kafka, RabbitMQ, Pact",
+  "status": "target",
+  "stage": "sourced_to_review",
+  "process": "Sourced on 2026-06-07 from BulldogJob.",
+  "requirements": "5+ years QA; SQL; GitLab + CI/CD; K6; web and API testing; Postman, GitLab, Visual Studio; low-code/data warehouse architecture; English; Playwright TS/JS automation welcome. Duties include manual and automated tests, integration/system/performance/UAT, API Gateway Kong, RabbitMQ, Kafka, contract tests with Pact.",
+  "notes": "100% remote, B2B via Devire, 110-130 PLN/h net. Mixed manual+automation/coordination but good remote rate and broad API/event-driven stack.",
+  "links": [
+    "https://bulldogjob.pl/companies/jobs/238951-qa-engineer-devire"
+  ],
+  "fit": "78/100",
+  "recommendedCv": "",
+  "coverLetter": "",
+  "salaryAsk": "110-130 PLN/h B2B listed",
+  "outreach": "",
+  "outreachUrl": "",
+  "updatedAt": "2026-06-07T09:40:01.534Z"
+}
