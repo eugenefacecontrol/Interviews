@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T10:01:32.739Z",
+  "generatedAt": "2026-06-07T10:09:41.717Z",
   "companies": [
     {
       "slug": "acronis",
@@ -752,8 +752,8 @@
       "role": "Quality Engineer",
       "stack": "Playwright, TypeScript, CI quality gates, Pact, Testcontainers, DataDog, Selenium/Cypress migration, Claude Code, API contracts",
       "status": "rejected",
-      "stage": "rejected_after_application_review",
-      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter prepared on 2026-06-04 for the Greenhouse application. Application submitted on 2026-06-04. Rejection email received Saturday 2026-06-06 from Duetto Talent Acquisition Team: moving forward with other candidates whose experience more closely aligns with current needs. CDP recruiter scan run on 2026-06-07 via linkedin-recruiter-outreach.",
+      "stage": "rejected_after_application_review_outreach_sent",
+      "process": "Fresh remote/EU QA/SDET target found and tailored CV generated on 2026-05-30. Cover letter prepared on 2026-06-04 for the Greenhouse application. Application submitted on 2026-06-04. Rejection email received Saturday 2026-06-06 from Duetto Talent Acquisition Team: moving forward with other candidates whose experience more closely aligns with current needs. CDP recruiter scan run on 2026-06-07 via linkedin-recruiter-outreach. LinkedIn follow-up message sent to Heather Garner on 2026-06-07 asking whether the gap was location/eligibility or specific tools.",
       "requirements": "Strong Playwright E2E automation; page objects; CI sharding/quality gates; Selenium/Cypress migration; Pact contract testing; Testcontainers; DataDog quality dashboards; mutation testing; AI-assisted test migration/review.",
       "notes": "Likely automated/ATS or recruiter screen-down reasons: first QE hire/build-from-scratch expectation; CV honestly framed Pact, Testcontainers, DataDog dashboards and mutation testing as ramp-up areas; possible location mismatch because role was listed Remote (Croatia) and Poland eligibility needed verification. Do not simply resubmit the same application; use recruiter outreach for feedback or alternate fit. CDP artifact: /Users/yauhenisheima/.openclaw/workspace/projects/linkedin-recruiter-outreach/data/scans/duetto/_merged.json. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf",
       "links": [
@@ -765,9 +765,9 @@
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/duetto/duetto.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/duetto/cover-letter.md",
       "salaryAsk": "not listed",
-      "outreach": "CDP scan found Duetto HR leads: Heather Garner (Sr. Manager, Talent Acquisition @ Duetto), Linda Mudadu (CHRO @ Duetto), David Lammert (recruiting leader; lower confidence). Recommended path: feedback/alternate-fit outreach, not a same-form resubmission.",
+      "outreach": "Heather Garner — LinkedIn follow-up sent on 2026-06-07 after rejection. Asked whether the gap was location/eligibility or specific tools like Pact/Testcontainers/DataDog; also stated glad to connect.",
       "outreachUrl": "https://www.linkedin.com/in/heather-garner-3a164143/",
-      "updatedAt": "2026-06-07T10:01:32.729Z"
+      "updatedAt": "2026-06-07T10:09:41.615Z"
     },
     {
       "slug": "edge-one-solutions-sp-z-o-o",
@@ -1628,11 +1628,11 @@
       "name": "Kraken",
       "role": "QA Automation Engineer - Pro",
       "stack": "QA automation, backend/API testing, crypto trading systems, market data, matching engine, remote",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Sourced on 2026-06-07 from Working Nomads remote QA scan. Fresh posting, remote locations include Poland. Needs JD review and application decision.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Sourced on 2026-06-07 from Working Nomads remote QA scan. Fresh posting, remote locations include Poland. Tailored CV and cover letter prepared on 2026-06-07. Application submitted by Yauheni on 2026-06-07.",
       "requirements": "Crypto/trading backend QA automation role for Kraken Pro team. Focus on trading backend services such as matching engine, market data gateways, internal/external APIs and trading services. Strong fit for backend/API QA and fintech/crypto positioning.",
-      "notes": "High priority from 2026-06-07 sourcing. Strong domain relevance after Scalable search. Confirm exact stack and application path before tailoring CV. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/kraken-qa-automation-pro/kraken-qa-automation-pro.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/kraken-qa-automation-pro/cover-letter.md",
+      "notes": "High priority from 2026-06-07 sourcing. Strong domain relevance after Scalable search. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/kraken-qa-automation-pro/kraken-qa-automation-pro.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/kraken-qa-automation-pro/cover-letter.md",
       "links": [
         "https://www.workingnomads.com/jobs/qa-automation-engineer-pro-kraken"
       ],
@@ -1642,7 +1642,7 @@
       "salaryAsk": "",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-06-07T09:48:29.364Z"
+      "updatedAt": "2026-06-07T10:09:41.707Z"
     },
     {
       "slug": "link-group",
