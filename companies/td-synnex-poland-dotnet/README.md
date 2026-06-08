@@ -17,7 +17,7 @@ Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application
 .NET/C# automation foundation, senior QA automation, CI/CD feedback, enterprise product quality.
 
 ## Notes
-Good match for Yauheni’s C# automation foundation, enterprise QA background, CI/CD context, and framework-improvement experience.
+This is a good match for my C# automation foundation, enterprise QA background, CI/CD context, and framework-improvement experience.
 
 ## Links
 - https://www.linkedin.com/jobs/view/4412912600

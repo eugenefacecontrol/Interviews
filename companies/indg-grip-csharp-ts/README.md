@@ -17,7 +17,7 @@ Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application
 C#/TypeScript QA automation for a product platform, web automation, framework maintainability.
 
 ## Notes
-Strong match to C# automation foundation plus TypeScript/Playwright direction, with product-focused automation and practical framework work.
+This is a strong match to my C# automation foundation plus TypeScript/Playwright direction, with product-focused automation and practical framework work.
 
 ## Links
 - https://relocate.me/the-netherlands/amsterdam/indg-grip/qa-automation-engineer-c-ts-8867

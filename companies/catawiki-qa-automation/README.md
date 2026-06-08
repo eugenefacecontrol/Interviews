@@ -17,7 +17,7 @@ Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application
 Web/mobile/API E2E automation with Playwright and cross-platform quality.
 
 ## Notes
-Good Playwright/API automation fit. Mobile-specific tools are a gap, but Yauheni can position broad UI/API automation, framework improvement, and cross-platform quality thinking.
+I see a good Playwright/API automation fit. Mobile-specific tools are a gap, but I can position broad UI/API automation, framework improvement, and cross-platform quality thinking.
 
 ## Links
 - https://relocate.me/portugal/lisbon/catawiki/qa-automation-engineer-10215

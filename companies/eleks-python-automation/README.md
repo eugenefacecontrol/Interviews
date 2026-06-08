@@ -17,7 +17,7 @@ Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application
 Senior test automation with Python/Selenium/Jenkins, remote Krakow context, SQL nice-to-have.
 
 ## Notes
-Good fit through senior automation, Selenium/Jenkins, scripting, SQL/backend validation, and CI/CD quality feedback. Python should be framed honestly as practical automation/scripting rather than the deepest long-term language.
+I see a good fit through senior automation, Selenium/Jenkins, scripting, SQL/backend validation, and CI/CD quality feedback. I would frame Python honestly as practical automation/scripting rather than my deepest long-term language.
 
 ## Links
 - https://nofluffjobs.com/pl/job/senior-test-automation-engineer-python-eleks-remote

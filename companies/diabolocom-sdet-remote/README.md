@@ -17,7 +17,7 @@ Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application
 Full remote SDET role, quality strategy, distributed systems, CI/CD quality gates, Python/Java/Kotlin automation.
 
 ## Notes
-Good engineering-quality fit through SDET mindset, CI/CD quality gates, diagnostics, and distributed-system testing. Java/Kotlin depth should be positioned as foundation/ramp-up, with practical Python scripting.
+I see a good engineering-quality fit through my SDET mindset, CI/CD quality gates, diagnostics, and distributed-system testing. I would position Java/Kotlin as foundation/ramp-up, with practical Python scripting.
 
 ## Links
 - https://relocate.me/remote/remote/diabolocom/middle-senior-sdet-full-remote-9555

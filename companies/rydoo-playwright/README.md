@@ -17,7 +17,7 @@ Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application
 Senior Playwright automation, product QA, maintainable UI/API coverage, release feedback.
 
 ## Notes
-Strong direct fit around Playwright automation, product-quality ownership, CI/CD-integrated checks, and pragmatic framework maintenance.
+I see a strong direct fit around Playwright automation, product-quality ownership, CI/CD-integrated checks, and pragmatic framework maintenance.
 
 ## Links
 - https://www.linkedin.com/jobs/view/4415217562

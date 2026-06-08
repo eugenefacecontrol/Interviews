@@ -17,7 +17,7 @@ Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application
 TypeScript and Playwright SDET work, framework maintainability, CI/CD feedback, API/UI quality.
 
 ## Notes
-The role matches Yauheni’s current Playwright/TypeScript direction and broader SDET profile: UI/API automation, framework improvement, CI/CD feedback, and defect evidence.
+This role matches my current Playwright/TypeScript direction and broader SDET profile: UI/API automation, framework improvement, CI/CD feedback, and defect evidence.
 
 ## Links
 - https://www.linkedin.com/jobs/view/4423368379

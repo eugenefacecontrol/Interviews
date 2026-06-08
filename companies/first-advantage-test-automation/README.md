@@ -17,7 +17,7 @@ Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application
 Senior QA automation, framework maintainability, UI/API checks, defect triage.
 
 ## Notes
-Relevant senior QA automation role where Yauheni can emphasize automation framework improvement, API/UI checks, CI/CD feedback, and product-quality ownership.
+This is a relevant senior QA automation role where I can emphasize automation framework improvement, API/UI checks, CI/CD feedback, and product-quality ownership.
 
 ## Links
 - https://www.linkedin.com/jobs/view/4414498166

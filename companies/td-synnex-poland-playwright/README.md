@@ -17,7 +17,7 @@ Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application
 Software Engineer in Test role with Playwright, automation design, CI/CD feedback, diagnostics.
 
 ## Notes
-Strong SDET positioning: coding-based automation, Playwright/TypeScript, CI/CD feedback, and practical diagnostics across product workflows.
+This role fits my SDET positioning: coding-based automation, Playwright/TypeScript, CI/CD feedback, and practical diagnostics across product workflows.
 
 ## Links
 - https://www.linkedin.com/jobs/view/4417261316
