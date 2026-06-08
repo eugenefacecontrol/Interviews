@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T11:14:25.626Z",
+  "generatedAt": "2026-06-08T11:54:03.865Z",
   "companies": [
     {
       "slug": "acronis",
@@ -500,6 +500,27 @@
       "updatedAt": "2026-06-04T17:31:26.764Z"
     },
     {
+      "slug": "catawiki-qa-automation",
+      "name": "Catawiki",
+      "role": "QA Automation Engineer",
+      "stack": "Playwright, API testing, web/mobile automation, E2E testing",
+      "status": "target",
+      "stage": "cv_ready_cover_letter_ready",
+      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+      "requirements": "Web/mobile/API E2E automation with Playwright and cross-platform quality.",
+      "notes": "Good Playwright/API automation fit. Mobile-specific tools are a gap, but Yauheni can position broad UI/API automation, framework improvement, and cross-platform quality thinking.",
+      "links": [
+        "https://relocate.me/portugal/lisbon/catawiki/qa-automation-engineer-10215"
+      ],
+      "fit": "80/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/catawiki-qa-automation/catawiki-qa-automation.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/catawiki-qa-automation/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-08T11:54:03.854Z"
+    },
+    {
       "slug": "ciklum",
       "name": "Ciklum",
       "role": "Automation QA Engineer",
@@ -748,6 +769,27 @@
       "updatedAt": "2026-06-08T08:21:55.756Z"
     },
     {
+      "slug": "diabolocom-sdet-remote",
+      "name": "Diabolocom",
+      "role": "Middle/Senior SDET - Full Remote",
+      "stack": "SDET, Java/Kotlin or Python, CI/CD, quality gates, distributed architecture",
+      "status": "target",
+      "stage": "cv_ready_cover_letter_ready",
+      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+      "requirements": "Full remote SDET role, quality strategy, distributed systems, CI/CD quality gates, Python/Java/Kotlin automation.",
+      "notes": "Good engineering-quality fit through SDET mindset, CI/CD quality gates, diagnostics, and distributed-system testing. Java/Kotlin depth should be positioned as foundation/ramp-up, with practical Python scripting.",
+      "links": [
+        "https://relocate.me/remote/remote/diabolocom/middle-senior-sdet-full-remote-9555"
+      ],
+      "fit": "76/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/diabolocom-sdet-remote/diabolocom-sdet-remote.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/diabolocom-sdet-remote/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-08T11:54:03.650Z"
+    },
+    {
       "slug": "duetto",
       "name": "Duetto Research",
       "role": "Quality Engineer",
@@ -805,6 +847,27 @@
       "recommendedCv": "CV 2",
       "updatedAt": "2026-04-19T05:34:49.451Z",
       "outreach": "Rejected after recruiter clarification from Olga Simonova (LinkedIn)"
+    },
+    {
+      "slug": "eleks-python-automation",
+      "name": "ELEKS",
+      "role": "Senior Test Automation Engineer (Python)",
+      "stack": "Python, Selenium, Jenkins, JavaScript, SQL, automated testing",
+      "status": "target",
+      "stage": "cv_ready_cover_letter_ready",
+      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+      "requirements": "Senior test automation with Python/Selenium/Jenkins, remote Krakow context, SQL nice-to-have.",
+      "notes": "Good fit through senior automation, Selenium/Jenkins, scripting, SQL/backend validation, and CI/CD quality feedback. Python should be framed honestly as practical automation/scripting rather than the deepest long-term language.",
+      "links": [
+        "https://nofluffjobs.com/pl/job/senior-test-automation-engineer-python-eleks-remote"
+      ],
+      "fit": "78/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/eleks-python-automation/eleks-python-automation.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/eleks-python-automation/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-08T11:54:03.351Z"
     },
     {
       "slug": "emagine",
@@ -1039,6 +1102,48 @@
       "outreach": "Telegram outreach sent to @ENI_ONE_LTD",
       "outreachUrl": "https://t.me/ENI_ONE_LTD",
       "updatedAt": "2026-06-04T17:22:29.474Z"
+    },
+    {
+      "slug": "first-advantage-test-automation",
+      "name": "First Advantage",
+      "role": "Senior QA Test Automation Engineer",
+      "stack": "QA automation, Selenium/Playwright foundation, API testing, CI/CD",
+      "status": "target",
+      "stage": "cv_ready_cover_letter_ready",
+      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+      "requirements": "Senior QA automation, framework maintainability, UI/API checks, defect triage.",
+      "notes": "Relevant senior QA automation role where Yauheni can emphasize automation framework improvement, API/UI checks, CI/CD feedback, and product-quality ownership.",
+      "links": [
+        "https://www.linkedin.com/jobs/view/4414498166"
+      ],
+      "fit": "78/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/first-advantage-test-automation/first-advantage-test-automation.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/first-advantage-test-automation/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-08T11:54:03.550Z"
+    },
+    {
+      "slug": "forte-group-sdet-playwright",
+      "name": "Forte Group",
+      "role": "Senior SDET (TypeScript/Playwright)",
+      "stack": "TypeScript, Playwright, SDET, UI/API automation, CI/CD",
+      "status": "target",
+      "stage": "cv_ready_cover_letter_ready",
+      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+      "requirements": "TypeScript and Playwright SDET work, framework maintainability, CI/CD feedback, API/UI quality.",
+      "notes": "The role matches Yauheni’s current Playwright/TypeScript direction and broader SDET profile: UI/API automation, framework improvement, CI/CD feedback, and defect evidence.",
+      "links": [
+        "https://www.linkedin.com/jobs/view/4423368379"
+      ],
+      "fit": "86/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/forte-group-sdet-playwright/forte-group-sdet-playwright.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/forte-group-sdet-playwright/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-08T11:54:03.056Z"
     },
     {
       "slug": "fulfillment-iq",
@@ -1356,6 +1461,27 @@
       "outreach": "",
       "outreachUrl": "",
       "updatedAt": "2026-05-25T16:01:11.261Z"
+    },
+    {
+      "slug": "indg-grip-csharp-ts",
+      "name": "INDG | Grip",
+      "role": "QA Automation Engineer (C#/TS)",
+      "stack": "C#, TypeScript, QA automation, visual product platform, web automation",
+      "status": "target",
+      "stage": "cv_ready_cover_letter_ready",
+      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+      "requirements": "C#/TypeScript QA automation for a product platform, web automation, framework maintainability.",
+      "notes": "Strong match to C# automation foundation plus TypeScript/Playwright direction, with product-focused automation and practical framework work.",
+      "links": [
+        "https://relocate.me/the-netherlands/amsterdam/indg-grip/qa-automation-engineer-c-ts-8867"
+      ],
+      "fit": "82/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/indg-grip-csharp-ts/indg-grip-csharp-ts.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/indg-grip-csharp-ts/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-08T11:54:03.753Z"
     },
     {
       "slug": "infogain",
@@ -2366,6 +2492,27 @@
       "updatedAt": "2026-06-04T16:51:18.507Z"
     },
     {
+      "slug": "rydoo-playwright",
+      "name": "Rydoo",
+      "role": "Senior Automation QA Engineer (Playwright)",
+      "stack": "Playwright, TypeScript/JavaScript, UI/API automation, CI/CD",
+      "status": "target",
+      "stage": "cv_ready_cover_letter_ready",
+      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+      "requirements": "Senior Playwright automation, product QA, maintainable UI/API coverage, release feedback.",
+      "notes": "Strong direct fit around Playwright automation, product-quality ownership, CI/CD-integrated checks, and pragmatic framework maintenance.",
+      "links": [
+        "https://www.linkedin.com/jobs/view/4415217562"
+      ],
+      "fit": "84/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/rydoo-playwright/rydoo-playwright.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/rydoo-playwright/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-08T11:54:03.158Z"
+    },
+    {
       "slug": "sand-technologies",
       "name": "Sand Technologies",
       "role": "Senior Test Automation Engineer",
@@ -2746,6 +2893,27 @@
       "updatedAt": "2026-05-14T14:00:00.000Z",
       "role": "Senior QA Automation Engineer",
       "stack": "TBD"
+    },
+    {
+      "slug": "td-synnex-poland-dotnet",
+      "name": "TD SYNNEX Poland",
+      "role": "Senior Test Automation Engineer (.NET)",
+      "stack": ".NET, C#, test automation, CI/CD, SDET",
+      "status": "target",
+      "stage": "cv_ready_cover_letter_ready",
+      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+      "requirements": ".NET/C# automation foundation, senior QA automation, CI/CD feedback, enterprise product quality.",
+      "notes": "Good match for Yauheni’s C# automation foundation, enterprise QA background, CI/CD context, and framework-improvement experience.",
+      "links": [
+        "https://www.linkedin.com/jobs/view/4412912600"
+      ],
+      "fit": "80/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/td-synnex-poland-dotnet/td-synnex-poland-dotnet.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/td-synnex-poland-dotnet/cover-letter.md",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-08T11:54:03.452Z"
     },
     {
       "slug": "telement",
