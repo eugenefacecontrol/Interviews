@@ -18,6 +18,7 @@ Senior Automation QA Engineer focused on TypeScript/Playwright. Responsibilities
 
 ## Notes
 Company identified as Ciklum on 2026-06-04. Very strong fit for Playwright/TypeScript direction, API testing, CI/CD, strategy, and coaching. Risk: this may overlap with existing Ciklum application history; verify whether a second Ciklum application is acceptable before submitting. AWS/GitLab CI are adjacent rather than strongest. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-typescript-playwright/hirify-typescript-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md
+Availability check on 2026-06-08: Hirify page returned live/apply markers.
 
 ## Links
 - https://hirify.me/jobs/510280-senior-automation-qa-engineer-typescript-playwright

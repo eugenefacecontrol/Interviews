@@ -1,22 +1,22 @@
 {
   "slug": "specific-group",
   "name": "Specific-Group",
-  "role": true,
-  "stack": true,
   "status": "target",
   "stage": "cv_ready_recruiter_outreach_cover_letter_ready",
   "process": "Recruiter reached out about Senior Test Automation Engineer role for Austrian bank client",
   "requirements": "Senior Test Automation Engineer; fintech/banking domain; Playwright or Selenium; Postman/RestAssured; Gatling or k6; CI/CD integration; Agile; English; German plus; B2B; remote available",
-  "notes": "Outreach from Anastasia Markitan: https://www.linkedin.com/in/anastasia-markitan-8a6a109a/. Role looks like a strong fit on Playwright, Selenium, API testing, CI/CD, and banking/enterprise QA context. Fully remote available, Kraków office optional.",
+  "notes": "Outreach from Anastasia Markitan: https://www.linkedin.com/in/anastasia-markitan-8a6a109a/. Role looks like a strong fit on Playwright, Selenium, API testing, CI/CD, and banking/enterprise QA context. Fully remote available, Kraków office optional.\nAvailability check on 2026-06-08: no public exact vacancy found; keeping as target because it came from recruiter outreach/private opportunity, not a public job URL.",
   "links": [
     "https://specific-group.com/pl/",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/specific-group/specific-group.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "8/10",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/specific-group/specific-group.cv.Yauheni.Sheima.pdf",
-  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/specific-group/cover-letter.md",
-  "salaryAsk": "150 PLN/h",
   "outreach": "Recruiter outreach from Anastasia Markitan (LinkedIn)",
-  "outreachUrl": true,
-  "updatedAt": "2026-06-05T12:01:25.659Z"
+  "updatedAt": "2026-06-08T08:23:43.582Z",
+  "salaryAsk": "150 PLN/h",
+  "role": true,
+  "stack": true,
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/specific-group/cover-letter.md",
+  "outreachUrl": true
 }

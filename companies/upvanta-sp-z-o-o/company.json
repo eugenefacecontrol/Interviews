@@ -1,22 +1,22 @@
 {
   "slug": "upvanta-sp-z-o-o",
   "name": "Upvanta sp. z o.o.",
-  "role": true,
-  "stack": true,
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Imported from JustJoinIt shortlist",
+  "status": "unavailable",
+  "stage": "vacancy_unavailable_verified",
+  "process": "Imported from JustJoinIt shortlist\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
   "requirements": "Software QA Engineer (Java); Stack: Java, Selenium, Docker, SDET",
-  "notes": "Imported from ranked shortlist CSV. Vacancy: Software QA Engineer (Java).",
+  "notes": "Imported from ranked shortlist CSV. Vacancy: Software QA Engineer (Java).\nRemoved from active target list after availability check.",
   "links": [
     "https://justjoin.it/job-offer/upvanta-sp-z-o-o--software-qa-engineer-java--krakow-testing-b2282acd",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/upvanta-sp-z-o-o/upvanta-sp-z-o-o.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "78/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/upvanta-sp-z-o-o/upvanta-sp-z-o-o.cv.Yauheni.Sheima.pdf",
+  "outreach": "Shortlisted from CSV",
+  "updatedAt": "2026-06-08T08:21:55.756Z",
+  "role": true,
+  "stack": true,
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/upvanta-sp-z-o-o/cover-letter.md",
   "salaryAsk": true,
-  "outreach": "Shortlisted from CSV",
-  "outreachUrl": true,
-  "updatedAt": "2026-06-05T12:01:26.054Z"
+  "outreachUrl": true
 }

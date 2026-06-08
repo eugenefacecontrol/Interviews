@@ -18,6 +18,7 @@ Healthcare solutions client; medical, dental and veterinary equipment; medicatio
 
 ## Notes
 Fit is mixed but CV was refreshed and ATS-checked at 82%. Strong on general QA automation, scripting mindset, test automation frameworks, analytical debugging, documentation, CI/CD/quality workflows, and collaboration. Gaps: Squish/COCO and embedded devices are not known core experience; Python positioned as practical scripting/automation-adjacent rather than strongest current stack. Healthcare/medical devices domain is new, but careful validation and documentation habits are relevant. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/globallogic/cover-letter.md
+Availability check on 2026-06-08: LinkedIn page live with "Apply on company website".
 
 ## Links
 - https://www.linkedin.com/jobs/view/4398181212

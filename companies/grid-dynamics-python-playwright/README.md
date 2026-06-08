@@ -2,8 +2,8 @@
 
 - Role: QA Automation Engineer with Python
 - Stack: Python, Pytest, Playwright, REST API, SQL/MySQL, Agile, EST overlap
-- Status: target
-- Stage: cv_ready_cover_letter_ready
+- Status: applied
+- Stage: application_sent
 - Fit: 76/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/grid-dynamics-python-playwright/grid-dynamics-python-playwright.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/grid-dynamics-python-playwright/cover-letter.md
@@ -12,12 +12,14 @@
 
 ## Process
 Sourced on 2026-06-07 from JustJoinIt. Needs review because role requires Python positioning and later EST-aligned shift.
+Gmail confirmation from JustJoinIt on 2026-06-07 11:31 UTC: application sent for QA Automation Engineer with Python to Grid Dynamics Poland.
 
 ## Requirements
 3+ years test automation; strong Python; Pytest; REST API testing; modern UI automation with Playwright; SQL/MySQL validation; Jira user story analysis; working with US-based team and EST timezone ceremonies.
 
 ## Notes
 Good technical overlap with Playwright/API/SQL; Python depth and EST schedule are the main caveats. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/grid-dynamics-python-playwright/grid-dynamics-python-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/grid-dynamics-python-playwright/cover-letter.md
+Availability check on 2026-06-08 kept the vacancy live/visible.
 
 ## Links
 - https://justjoin.it/job-offer/grid-dynamics-poland-qa-automation-engineer-with-python-krakow-testing-b3926536

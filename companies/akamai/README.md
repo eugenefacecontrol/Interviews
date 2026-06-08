@@ -18,6 +18,7 @@ Linux-based firmware testing, Python programming, networking fundamentals (TCP/I
 
 ## Notes
 Server Hardware Engineering team. Responsible for Linux-based firmware quality in networking environments. Requires expertise in Linux OS, system configuration, log analysis, networking fundamentals, Python programming, API testing tools, firmware update processes, bootloaders, hardware-software interfaces. Flexible work options via FlexBase. Strong fit on Python, API testing, CI/CD, Docker, Kubernetes. Gaps in Linux kernel depth, firmware-specific knowledge, hardware networking. Fit: 5/10.
+Availability check on 2026-06-08: LinkedIn page live with "Apply on company website".
 
 ## Links
 - https://www.linkedin.com/jobs/view/4407859341

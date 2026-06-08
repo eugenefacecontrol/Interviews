@@ -18,6 +18,7 @@ QA Automation Engineer (she/he/they); Stack: Java, REST, API, CI/CD, Docker
 
 ## Notes
 Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (she/he/they).
+Availability check on 2026-06-08: JustJoinIt page returned live job/apply markers.
 
 ## Links
 - https://justjoin.it/job-offer/green-hive-technology-qa-automation-engineer-she-he-they--poznan-testing-c36220f1

@@ -1,22 +1,25 @@
 {
   "slug": "alior-bank",
   "name": "Alior Bank",
-  "role": "Senior Test Automation",
-  "stack": "C#, Selenium, Jenkins",
   "status": "target",
   "stage": "cv_ready_cover_letter_ready",
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: Senior Test Automation; Stack: C#, Selenium, Jenkins; Salary: N/A",
-  "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
+  "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf\nAvailability check on 2026-06-08: found concrete JustJoinIt/Pracuj/LinkedIn listing for Senior Test Automation Engineer; JustJoinIt page returned job description.",
   "links": [
+    "https://justjoin.it/job-offer/alior-bank-sa-senior-test-automation-engineer-gdansk-testing",
     "https://www.aliorbank.pl/kariera",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alior-bank/alior-bank.cv.Yauheni.Sheima.pdf"
   ],
+  "updatedAt": "2026-06-08T08:23:43.582Z",
+  "role": "Senior Test Automation",
+  "salary": "N/A",
+  "stack": "C#, Selenium, Jenkins",
   "fit": "5/10",
+  "cv": "qa-devops-cv.pdf",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alior-bank/alior-bank.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/alior-bank/cover-letter.md",
   "salaryAsk": true,
   "outreach": true,
-  "outreachUrl": true,
-  "updatedAt": "2026-06-05T12:01:23.672Z"
+  "outreachUrl": true
 }

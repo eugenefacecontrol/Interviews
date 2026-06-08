@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T10:21:37.079Z",
+  "generatedAt": "2026-06-08T08:23:43.582Z",
   "companies": [
     {
       "slug": "acronis",
@@ -8,7 +8,7 @@
       "stage": "cv_ready_cover_letter_ready",
       "process": "Preparing CV for LinkedIn Senior Automation QA Engineer role in Acronis Cloud-to-Cloud Backup team. Gmail label Job Search/Rejections: rejection recorded for Senior Automation QA Engineer on 2026-05-14 (not moving forward with candidacy at this time).",
       "requirements": "Senior Automation QA Engineer; Acronis Cloud-to-Cloud Backup team; develop and execute E2E, Component, Acceptance and Regression UI auto tests; collaborate with product managers, developers and global R&D teams; review product requirements; design test suites and test cases; develop automation tests for web UI; participate in automation code reviews; execute and maintain regression test suites; analyze test automation results; maintain documentation of test plans, test cases and test results; 5+ years Automation QA Python Engineer; QA theory; Python; API/UI testing; Playwright framework or similar; Jira; Git; Jenkins; Docker; analytical mindset; communication; Microsoft 365 or similar cloud-based systems is a plus; Upper-intermediate English; application in English; interviews without AI tools/external assistance.",
-      "notes": "New Acronis LinkedIn context replaces older rejected Workday role context. Strong fit on 7+ QA automation, Playwright, API/UI automation, E2E/regression testing, Jenkins/Git/Docker, test documentation, automation result analysis, QA theory and cloud-product context. Main gap: Python is practical scripting/automation-adjacent, while recent strongest stack is Playwright/TypeScript/C#/PowerShell; keep this honest. Important interview note: Acronis explicitly prohibits AI tools/external assistance during live interviews. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf Historical rejection source: Gmail label Job Search/Rejections. Role/vacancy: Senior Automation QA Engineer. Date: 2026-05-14. Reason: not moving forward with candidacy at this time.",
+      "notes": "New Acronis LinkedIn context replaces older rejected Workday role context. Strong fit on 7+ QA automation, Playwright, API/UI automation, E2E/regression testing, Jenkins/Git/Docker, test documentation, automation result analysis, QA theory and cloud-product context. Main gap: Python is practical scripting/automation-adjacent, while recent strongest stack is Playwright/TypeScript/C#/PowerShell; keep this honest. Important interview note: Acronis explicitly prohibits AI tools/external assistance during live interviews. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf Historical rejection source: Gmail label Job Search/Rejections. Role/vacancy: Senior Automation QA Engineer. Date: 2026-05-14. Reason: not moving forward with candidacy at this time.\nAvailability check on 2026-06-08: LinkedIn page live with \"Apply on company website\".",
       "links": [
         "https://www.linkedin.com/jobs/view/4409891066",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf"
@@ -17,7 +17,7 @@
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf",
       "outreach": "CV context prepared",
       "outreachUrl": true,
-      "updatedAt": "2026-06-05T12:01:54.169Z",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
       "role": "Senior Automation QA Engineer",
       "stack": "Python, Playwright, API/UI testing, E2E tests, Component tests, Acceptance tests, Regression UI auto tests, Jira, Git, Jenkins, Docker, QA theory, cloud-based systems",
       "salaryAsk": true,
@@ -92,7 +92,7 @@
       "stage": "cv_ready_cover_letter_ready",
       "process": "Preparing CV for Firmware Quality Assurance Engineer role",
       "requirements": "Linux-based firmware testing, Python programming, networking fundamentals (TCP/IP, DNS, DHCP, VLANs, Routing), API testing, Jira, network lab environments, CI/CD pipelines, firmware update processes, bootloaders, hardware-software interfaces",
-      "notes": "Server Hardware Engineering team. Responsible for Linux-based firmware quality in networking environments. Requires expertise in Linux OS, system configuration, log analysis, networking fundamentals, Python programming, API testing tools, firmware update processes, bootloaders, hardware-software interfaces. Flexible work options via FlexBase. Strong fit on Python, API testing, CI/CD, Docker, Kubernetes. Gaps in Linux kernel depth, firmware-specific knowledge, hardware networking. Fit: 5/10.",
+      "notes": "Server Hardware Engineering team. Responsible for Linux-based firmware quality in networking environments. Requires expertise in Linux OS, system configuration, log analysis, networking fundamentals, Python programming, API testing tools, firmware update processes, bootloaders, hardware-software interfaces. Flexible work options via FlexBase. Strong fit on Python, API testing, CI/CD, Docker, Kubernetes. Gaps in Linux kernel depth, firmware-specific knowledge, hardware networking. Fit: 5/10.\nAvailability check on 2026-06-08: LinkedIn page live with \"Apply on company website\".",
       "links": [
         "https://www.linkedin.com/jobs/view/4407859341",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/akamai-technologies/akamai-technologies.cv.Yauheni.Sheima.pdf"
@@ -101,7 +101,7 @@
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/akamai-technologies/akamai-technologies.cv.Yauheni.Sheima.pdf",
       "outreach": "Marlena Misiarz — preparing outreach",
       "outreachUrl": "https://www.linkedin.com/in/marlena-misiarz/",
-      "updatedAt": "2026-06-05T12:01:23.571Z",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
       "role": true,
       "stack": true,
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/akamai/cover-letter.md",
@@ -114,12 +114,13 @@
       "stage": "cv_ready_cover_letter_ready",
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Senior Test Automation; Stack: C#, Selenium, Jenkins; Salary: N/A",
-      "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
+      "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf\nAvailability check on 2026-06-08: found concrete JustJoinIt/Pracuj/LinkedIn listing for Senior Test Automation Engineer; JustJoinIt page returned job description.",
       "links": [
+        "https://justjoin.it/job-offer/alior-bank-sa-senior-test-automation-engineer-gdansk-testing",
         "https://www.aliorbank.pl/kariera",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alior-bank/alior-bank.cv.Yauheni.Sheima.pdf"
       ],
-      "updatedAt": "2026-06-05T12:01:23.672Z",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
       "role": "Senior Test Automation",
       "salary": "N/A",
       "stack": "C#, Selenium, Jenkins",
@@ -198,15 +199,15 @@
     {
       "slug": "antal-qa-automation-iot-api",
       "name": "Antal (IoT API)",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Sourced on 2026-06-07 from NoFluffJobs. Separate from earlier Antal senior automation application.",
+      "status": "applied",
+      "stage": "application_sent_vacancy_closed_after_application",
+      "process": "Sourced on 2026-06-07 from NoFluffJobs. Separate from earlier Antal senior automation application.\nGmail confirmation from Antal on 2026-06-07 11:28 UTC: application received and consultant is reviewing it.",
       "requirements": "Senior remote role for IoT API layer. JS/TS and Node.js; RESTful API testing with Supertest/PactumJS/Playwright; PostgreSQL and MongoDB validation; Docker; CI/CD with GitLab/GitHub Actions; microservices; Redis/RabbitMQ and k6 as plus.",
-      "notes": "Good API/automation fit, less direct Playwright UI. NoFluff listing valid until 2026-06-16. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/antal-qa-automation-iot-api/antal-qa-automation-iot-api.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/antal-qa-automation-iot-api/cover-letter.md",
+      "notes": "Good API/automation fit, less direct Playwright UI. NoFluff listing valid until 2026-06-16. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/antal-qa-automation-iot-api/antal-qa-automation-iot-api.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/antal-qa-automation-iot-api/cover-letter.md\nNo Fluff Jobs also showed \"zakończona\" on 2026-06-08 after the application confirmation.",
       "links": [
         "https://nofluffjobs.com/pl/job/qa-automation-engineer-antal-remote"
       ],
-      "updatedAt": "2026-06-07T09:48:29.368Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": "QA Automation Engineer",
       "salary": "30-33k PLN net",
       "stack": "JavaScript, TypeScript, Node.js, REST API, PostgreSQL, MongoDB, Docker, GitLab, GitHub Actions, IoT API",
@@ -221,11 +222,11 @@
     {
       "slug": "antal-sp-z-o-o",
       "name": "Antal Sp. z o.o.",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Imported from JustJoinIt shortlist",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Imported from JustJoinIt shortlist\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "Test Automation Engineer Lead (Cybersecurity); Stack: CI/CD, Performance",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Test Automation Engineer Lead (Cybersecurity).",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Test Automation Engineer Lead (Cybersecurity).\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/antal-sp-z-o-o--test-automation-engineer-lead-cybersecurity--krakow-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/antal-sp-z-o-o/antal-sp-z-o-o.cv.Yauheni.Sheima.pdf"
@@ -233,7 +234,7 @@
       "fit": "83/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/antal-sp-z-o-o/antal-sp-z-o-o.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-06-05T12:01:23.872Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": true,
       "stack": true,
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/antal-sp-z-o-o/cover-letter.md",
@@ -249,7 +250,7 @@
       "stage": "cv_ready_recruiter_reply_to_send_cover_letter_ready",
       "process": "Inbound recruiter message from Kseniya Vishnevskaya on LinkedIn on 2026-06-04. Remote AQA role for an online inspection and real-time quality-control platform in the automotive industry. Yauheni said the vacancy looks interesting; next step is to reply and continue conversation before applying.",
       "requirements": "Middle AQA, remote, full-time, 3+ years. Build automated frameworks from scratch; API and Web UI automation for REST/GraphQL; CI/CD integration; code reviews and OOP; investigate failures/flaky tests; requirements review; Agile collaboration; optimize test suites and report metrics. Required: 3+ years AQA, testing theory/methodology, web/mobile testing tools, AI usage for testing, functional/regression/smoke/ad-hoc testing, English B2+, C#/.NET backend development experience, Python and/or Golang, Selenium or similar, XUnit or similar, TDD/BDD, integration/programmatic testing, test plans in CI/CD.",
-      "notes": "Good general QA automation fit: framework building, API/UI automation, CI/CD, defect analysis, reporting, and automotive quality-control domain. Main risk: role explicitly asks for extensive C#/.NET backend development and Python/Golang; position carefully as QA automation with C#/Selenium foundation and practical Python scripting, without overstating backend ownership. Suggested temporary CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf. Better next step: generate Aristek-specific CV before applying.",
+      "notes": "Good general QA automation fit: framework building, API/UI automation, CI/CD, defect analysis, reporting, and automotive quality-control domain. Main risk: role explicitly asks for extensive C#/.NET backend development and Python/Golang; position carefully as QA automation with C#/Selenium foundation and practical Python scripting, without overstating backend ownership. Suggested temporary CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf. Better next step: generate Aristek-specific CV before applying.\nAvailability check on 2026-06-08: Aristek page live in browser with full job description and \"Apply now\".",
       "links": [
         "https://aristeksystems.com/career/aqa-engineer-cpython/"
       ],
@@ -259,7 +260,7 @@
       "salaryAsk": true,
       "outreach": "Kseniya Vishnevskaya — LinkedIn recruiter message received",
       "outreachUrl": "https://www.linkedin.com/in/kseniyavishnevskaya/",
-      "updatedAt": "2026-06-05T12:01:54.376Z"
+      "updatedAt": "2026-06-08T08:23:43.582Z"
     },
     {
       "slug": "aristocrat",
@@ -287,7 +288,7 @@
       "stage": "cv_ready_cover_letter_ready",
       "process": "Live JustJoinIt vacancy verified 2026-06-05. Hybrid Krakow or Rzeszow, 3 office days/week. Online process: phone call plus one online meeting. CV and cover letter ready; next step is application if hybrid schedule is acceptable.",
       "requirements": "Banking application testing for Asseco Core Banking. Manual and automated GUI/API testing, test planning/reporting, functional/regression testing, defect analysis. Requires Java, Maven, JUnit/TestNG, Selenium or Playwright, REST API testing, Git, CI/CD such as Jenkins, basic SQL, XML/XSD, Postman. Nice to have: banking domain and AI/ML in testing.",
-      "notes": "Good technical fit, but 3 office days/week is heavier than preferred. Apply only if Krakow hybrid is acceptable. Positioning: banking/regulated-quality mindset, Java/API automation, SQL and CI/CD.",
+      "notes": "Good technical fit, but 3 office days/week is heavier than preferred. Apply only if Krakow hybrid is acceptable. Positioning: banking/regulated-quality mindset, Java/API automation, SQL and CI/CD.\nAvailability check on 2026-06-08: JustJoinIt page returned live job/apply markers.",
       "links": [
         "https://justjoin.it/job-offer/asseco-poland-s-a--tester-automatyzujacy-m-k-os--krakow-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/asseco-poland-s-a/asseco-poland-s-a.cv.Yauheni.Sheima.pdf"
@@ -295,7 +296,7 @@
       "fit": "89/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/asseco-poland-s-a/asseco-poland-s-a.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05",
-      "updatedAt": "2026-06-05T12:01:23.972Z",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
       "role": "Tester Automatyzujący (m/k/os.)",
       "stack": "Java, Maven, JUnit/TestNG, Selenium/Playwright, REST API, Git, Jenkins/CI/CD, SQL, XML/XSD, Postman",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/asseco-poland-s-a/cover-letter.md",
@@ -307,11 +308,11 @@
       "name": "Astek Polska",
       "role": "Tester Automatyzujący / Testerka Automatyzująca Java Selenium Playwright",
       "stack": "Java, Selenium, Playwright, SQL, Azure DevOps, REST Assured, Cucumber/JBehave, CI/CD",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Sourced on 2026-06-07 from NoFluffJobs.",
+      "status": "applied",
+      "stage": "application_sent_vacancy_closed_after_application",
+      "process": "Sourced on 2026-06-07 from NoFluffJobs.\nGmail confirmation from No Fluff Jobs on 2026-06-07 11:25 UTC: application sent successfully to ASTEK Polska.",
       "requirements": "Minimum 2 years designing and implementing automated tests; basic Java; SQL; Azure DevOps CI/CD; automation practices. Responsibilities include web/API automation with Java, Selenium/Playwright, REST Assured, Cucumber/JBehave; test data and SQL; pipeline integration; performance tests with Gatling; microservices/workflow testing.",
-      "notes": "100% remote, B2B 100-130 PLN/h, Polish recruitment. Good Java/Selenium foundation and Playwright adjacency. Listing valid until 2026-06-18. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/astek-java-selenium-playwright/astek-java-selenium-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/astek-java-selenium-playwright/cover-letter.md",
+      "notes": "100% remote, B2B 100-130 PLN/h, Polish recruitment. Good Java/Selenium foundation and Playwright adjacency. Listing valid until 2026-06-18. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/astek-java-selenium-playwright/astek-java-selenium-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/astek-java-selenium-playwright/cover-letter.md\nNo Fluff Jobs also showed \"zakończona\" on 2026-06-08 after the application confirmation.",
       "links": [
         "https://nofluffjobs.com/pl/job/tester-automatyzujacy-testerka-automatyzujaca-java-selenium-playwright-astek-polska-remote"
       ],
@@ -321,7 +322,7 @@
       "salaryAsk": "100-130 PLN/h B2B listed",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-06-07T09:48:29.369Z"
+      "updatedAt": "2026-06-08T08:21:55.756Z"
     },
     {
       "slug": "atos",
@@ -437,11 +438,11 @@
     {
       "slug": "britenet",
       "name": "Britenet",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Imported from JustJoinIt shortlist",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Imported from JustJoinIt shortlist\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "QA Automation Engineer (Low-Code Platform); Stack: REST, API",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (Low-Code Platform).",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (Low-Code Platform).\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/britenet-qa-automation-engineer-low-code-platform--krakow-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/britenet/britenet.cv.Yauheni.Sheima.pdf"
@@ -449,7 +450,7 @@
       "fit": "56/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/britenet/britenet.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-06-05T12:01:24.070Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": true,
       "stack": true,
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/britenet/cover-letter.md",
@@ -528,7 +529,7 @@
       "stage": "cv_ready_cover_letter_ready_hr_text_ready",
       "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Remote Poland; must be based in Poland. Yauheni clarified on 2026-06-04 that the hidden Hirify company is Ciklum. Keep separate from the Ciklum RAG/LLM evaluation role because this is a TypeScript/Playwright vacancy.",
       "requirements": "Senior Automation QA Engineer focused on TypeScript/Playwright. Responsibilities: define and maintain automated tests across functional, integration, contract, performance and load testing; domain-level testing strategy; test data; coaching junior engineers; BDD/TDD collaboration; evaluate tools and quality processes. Requirements: deep QA practices in Agile, TypeScript/JavaScript with Playwright, RESTful services, CI/CD preferably GitLab CI, AWS, performance testing nice-to-have.",
-      "notes": "Company identified as Ciklum on 2026-06-04. Very strong fit for Playwright/TypeScript direction, API testing, CI/CD, strategy, and coaching. Risk: this may overlap with existing Ciklum application history; verify whether a second Ciklum application is acceptable before submitting. AWS/GitLab CI are adjacent rather than strongest. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-typescript-playwright/hirify-typescript-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md",
+      "notes": "Company identified as Ciklum on 2026-06-04. Very strong fit for Playwright/TypeScript direction, API testing, CI/CD, strategy, and coaching. Risk: this may overlap with existing Ciklum application history; verify whether a second Ciklum application is acceptable before submitting. AWS/GitLab CI are adjacent rather than strongest. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-typescript-playwright/hirify-typescript-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md\nAvailability check on 2026-06-08: Hirify page returned live/apply markers.",
       "links": [
         "https://hirify.me/jobs/510280-senior-automation-qa-engineer-typescript-playwright",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-typescript-playwright/hirify-typescript-playwright.cv.Yauheni.Sheima.pdf"
@@ -539,16 +540,16 @@
       "salaryAsk": "not listed; verify before applying",
       "outreach": "HR message drafted; company identified as Ciklum",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T18:39:30.768Z"
+      "updatedAt": "2026-06-08T08:23:43.582Z"
     },
     {
       "slug": "clearcourse-dev",
       "name": "ClearCourse Dev",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Imported from JustJoinIt shortlist",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Imported from JustJoinIt shortlist\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "QA Automation Engineer; Stack: Playwright, REST, API, CI/CD, Docker, TypeScript",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer.",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer.\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/clearcourse-dev-qa-automation-engineer-krakow-testing-f0d4f3ae",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/clearcourse-dev/clearcourse-dev.cv.Yauheni.Sheima.pdf"
@@ -556,7 +557,7 @@
       "fit": "46/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/clearcourse-dev/clearcourse-dev.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-06-05T12:01:24.171Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": true,
       "stack": true,
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/clearcourse-dev/cover-letter.md",
@@ -730,11 +731,11 @@
       "name": "Devire",
       "role": "QA Engineer",
       "stack": "Playwright TS/JS, Postman, GitLab CI/CD, K6, SQL, API, Kafka, RabbitMQ, Pact",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Sourced on 2026-06-07 from BulldogJob.",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Sourced on 2026-06-07 from BulldogJob.\nBulldogJob showed \"Oferta zakończona\" on 2026-06-08.",
       "requirements": "5+ years QA; SQL; GitLab + CI/CD; K6; web and API testing; Postman, GitLab, Visual Studio; low-code/data warehouse architecture; English; Playwright TS/JS automation welcome. Duties include manual and automated tests, integration/system/performance/UAT, API Gateway Kong, RabbitMQ, Kafka, contract tests with Pact.",
-      "notes": "100% remote, B2B via Devire, 110-130 PLN/h net. Mixed manual+automation/coordination but good remote rate and broad API/event-driven stack. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/devire-qa-engineer-playwright-ts/devire-qa-engineer-playwright-ts.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/devire-qa-engineer-playwright-ts/cover-letter.md",
+      "notes": "100% remote, B2B via Devire, 110-130 PLN/h net. Mixed manual+automation/coordination but good remote rate and broad API/event-driven stack. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/devire-qa-engineer-playwright-ts/devire-qa-engineer-playwright-ts.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/devire-qa-engineer-playwright-ts/cover-letter.md\nRemoved from active target list after availability check.",
       "links": [
         "https://bulldogjob.pl/companies/jobs/238951-qa-engineer-devire"
       ],
@@ -744,7 +745,7 @@
       "salaryAsk": "110-130 PLN/h B2B listed",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-06-07T09:48:29.369Z"
+      "updatedAt": "2026-06-08T08:21:55.756Z"
     },
     {
       "slug": "duetto",
@@ -772,11 +773,11 @@
     {
       "slug": "edge-one-solutions-sp-z-o-o",
       "name": "Edge One Solutions Sp. z o.o",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Live JustJoinIt vacancy verified 2026-06-05. Remote role for a global logistics client; application is being rewritten in C#/.NET. CV and cover letter are ready; next step is application submission or recruiter search.",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Live JustJoinIt vacancy verified 2026-06-05. Remote role for a global logistics client; application is being rewritten in C#/.NET. CV and cover letter are ready; next step is application submission or recruiter search.\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "Minimum 5 years automation experience; frontend and backend automation; SDLC; manual testing; C#; Selenium or Playwright; RestSharp; web testing; CI/CD; English B2/C1. Nice to have: desktop testing, accessibility testing, cloud, German. Responsibilities include building automation frameworks/scripts for web and API tests and collaborating with development/QA teams.",
-      "notes": "Strong fit through prior C#/.NET QA automation and current Playwright/API experience. Positioning should not overstate recent C# depth; frame it as a proven foundation plus active modern automation work.",
+      "notes": "Strong fit through prior C#/.NET QA automation and current Playwright/API experience. Positioning should not overstate recent C# depth; frame it as a proven foundation plus active modern automation work.\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/edge-one-solutions-sp-z-o-o-qa-automation-engineer-with-c-mid-senior--krakow-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/edge-one-solutions-sp-z-o-o/edge-one-solutions-sp-z-o-o.cv.Yauheni.Sheima.pdf"
@@ -784,7 +785,7 @@
       "fit": "96/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/edge-one-solutions-sp-z-o-o/edge-one-solutions-sp-z-o-o.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05",
-      "updatedAt": "2026-06-05T12:01:24.269Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": "QA Automation Engineer with C# (Mid/Senior)",
       "stack": "C#, .NET, Selenium/Playwright, RestSharp, API testing, frontend/backend automation, CI/CD, SDLC",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/edge-one-solutions-sp-z-o-o/cover-letter.md",
@@ -856,14 +857,14 @@
       "stage": "cv_ready_cover_letter_ready",
       "process": "Sourced on 2026-06-07 from JustJoinIt. Separate from earlier EPAM Java application.",
       "requirements": "2+ years QA automation; Python automation with PyTest or similar; API testing with Postman/Python Requests; browser automation/web validation using Selenium plus HTML/CSS/JS knowledge; CI/CD integration with Jenkins/GitLab CI; optional Big Data and AI-assisted testing.",
-      "notes": "Potentially accessible Python role compared with senior-only postings; separate history from earlier EPAM Java application should be kept clear. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/epam-python-azure-automation/epam-python-azure-automation.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/epam-python-azure-automation/cover-letter.md",
+      "notes": "Potentially accessible Python role compared with senior-only postings; separate history from earlier EPAM Java application should be kept clear. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/epam-python-azure-automation/epam-python-azure-automation.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/epam-python-azure-automation/cover-letter.md\nAvailability check on 2026-06-08: JustJoinIt page returned live job/apply markers.",
       "links": [
         "https://justjoin.it/job-offer/epam-systems-test-automation-engineer-with-python-and-azure-cloud-poland-remote--testing"
       ],
       "fit": "74/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/epam-python-azure-automation/epam-python-azure-automation.cv.Yauheni.Sheima.pdf",
       "outreach": "",
-      "updatedAt": "2026-06-07T09:48:29.367Z",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
       "salaryAsk": "",
       "role": "Test Automation Engineer with Python and Azure Cloud",
       "stack": "Python, PyTest, Selenium, API testing, Postman, Python Requests, CI/CD, Jenkins, GitLab CI, Azure Cloud",
@@ -999,11 +1000,11 @@
     {
       "slug": "experis-manpower-group",
       "name": "Experis Manpower Group",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Live JustJoinIt vacancy verified 2026-06-05. 100% remote B2B role. CV and cover letter ready, but compensation is below preferred range; treat as lower-priority unless pipeline needs volume.",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Live JustJoinIt vacancy verified 2026-06-05. 100% remote B2B role. CV and cover letter ready, but compensation is below preferred range; treat as lower-priority unless pipeline needs volume.\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "1+ year automation-focused testing; strong Python; Linux and command line; Git; Bash scripting; REST API testing; SDLC/testing methods. Nice/expected: Docker, Kubernetes, CI/CD and cloud. Responsibilities include automated/manual tests, API validation, test result analysis, defect collaboration, documentation and code reviews.",
-      "notes": "Technically easy fit and remote, but rate 80-110 PLN/h is weak against preferred 120-140 PLN/h. Better as backup target, not first priority.",
+      "notes": "Technically easy fit and remote, but rate 80-110 PLN/h is weak against preferred 120-140 PLN/h. Better as backup target, not first priority.\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/experis-manpower-group-software-development-engineer-in-test-krakow-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/experis-manpower-group/experis-manpower-group.cv.Yauheni.Sheima.pdf"
@@ -1011,7 +1012,7 @@
       "fit": "88/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/experis-manpower-group/experis-manpower-group.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05",
-      "updatedAt": "2026-06-05T12:01:24.570Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": "Software Development Engineer in Test",
       "stack": "Python, REST API testing, Linux, Bash, Git, Docker, Kubernetes, CI/CD, cloud",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/experis-manpower-group/cover-letter.md",
@@ -1112,7 +1113,7 @@
       "stage": "cv_ready_cover_letter_ready_outreach_to_send",
       "process": "Preparing CV and LinkedIn outreach for Senior Python Automation Test Engineer IRC292988 role. PDF refreshed on 2026-05-30. Cover letter added on 2026-06-04.",
       "requirements": "Healthcare solutions client; medical, dental and veterinary equipment; medication management systems; automated testing with Squish; Squish & COCO; embedded systems automation; write and maintain Software Test Specifications (STS); scripting languages commonly used with Squish; test automation frameworks and best practices; analytical/problem-solving skills; communication and documentation; develop, execute and maintain automated test scripts for embedded devices; analyze test results; identify issues; work with development team; update STS; optimize testing strategies; collaborate with software engineers, QA teams and stakeholders.",
-      "notes": "Fit is mixed but CV was refreshed and ATS-checked at 82%. Strong on general QA automation, scripting mindset, test automation frameworks, analytical debugging, documentation, CI/CD/quality workflows, and collaboration. Gaps: Squish/COCO and embedded devices are not known core experience; Python positioned as practical scripting/automation-adjacent rather than strongest current stack. Healthcare/medical devices domain is new, but careful validation and documentation habits are relevant. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/globallogic/cover-letter.md",
+      "notes": "Fit is mixed but CV was refreshed and ATS-checked at 82%. Strong on general QA automation, scripting mindset, test automation frameworks, analytical debugging, documentation, CI/CD/quality workflows, and collaboration. Gaps: Squish/COCO and embedded devices are not known core experience; Python positioned as practical scripting/automation-adjacent rather than strongest current stack. Healthcare/medical devices domain is new, but careful validation and documentation habits are relevant. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/globallogic/cover-letter.md\nAvailability check on 2026-06-08: LinkedIn page live with \"Apply on company website\".",
       "links": [
         "https://www.linkedin.com/jobs/view/4398181212",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/globallogic/globallogic.cv.Yauheni.Sheima.pdf"
@@ -1122,7 +1123,7 @@
       "salaryAsk": "",
       "outreach": "Tetiana Rediuk — LinkedIn message drafted",
       "outreachUrl": "https://www.linkedin.com/in/tetianarediuk/",
-      "updatedAt": "2026-06-04T18:39:31.330Z",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/globallogic/cover-letter.md"
     },
     {
@@ -1175,7 +1176,7 @@
       "stage": "cv_ready_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "QA Automation Engineer (she/he/they); Stack: Java, REST, API, CI/CD, Docker",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (she/he/they).",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (she/he/they).\nAvailability check on 2026-06-08: JustJoinIt page returned live job/apply markers.",
       "links": [
         "https://justjoin.it/job-offer/green-hive-technology-qa-automation-engineer-she-he-they--poznan-testing-c36220f1",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/green-hive-technology/green-hive-technology.cv.Yauheni.Sheima.pdf"
@@ -1183,7 +1184,7 @@
       "fit": "51/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/green-hive-technology/green-hive-technology.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-06-05T12:01:24.667Z",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
       "role": true,
       "stack": true,
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/green-hive-technology/cover-letter.md",
@@ -1195,11 +1196,11 @@
       "name": "Grid Dynamics Poland",
       "role": "QA Automation Engineer with Python",
       "stack": "Python, Pytest, Playwright, REST API, SQL/MySQL, Agile, EST overlap",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Sourced on 2026-06-07 from JustJoinIt. Needs review because role requires Python positioning and later EST-aligned shift.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Sourced on 2026-06-07 from JustJoinIt. Needs review because role requires Python positioning and later EST-aligned shift.\nGmail confirmation from JustJoinIt on 2026-06-07 11:31 UTC: application sent for QA Automation Engineer with Python to Grid Dynamics Poland.",
       "requirements": "3+ years test automation; strong Python; Pytest; REST API testing; modern UI automation with Playwright; SQL/MySQL validation; Jira user story analysis; working with US-based team and EST timezone ceremonies.",
-      "notes": "Good technical overlap with Playwright/API/SQL; Python depth and EST schedule are the main caveats. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/grid-dynamics-python-playwright/grid-dynamics-python-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/grid-dynamics-python-playwright/cover-letter.md",
+      "notes": "Good technical overlap with Playwright/API/SQL; Python depth and EST schedule are the main caveats. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/grid-dynamics-python-playwright/grid-dynamics-python-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/grid-dynamics-python-playwright/cover-letter.md\nAvailability check on 2026-06-08 kept the vacancy live/visible.",
       "links": [
         "https://justjoin.it/job-offer/grid-dynamics-poland-qa-automation-engineer-with-python-krakow-testing-b3926536"
       ],
@@ -1209,7 +1210,7 @@
       "salaryAsk": "",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-06-07T09:48:29.366Z"
+      "updatedAt": "2026-06-08T08:21:55.756Z"
     },
     {
       "slug": "growe",
@@ -1235,11 +1236,11 @@
     {
       "slug": "happy-team",
       "name": "Happy Team",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Imported from JustJoinIt shortlist",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Imported from JustJoinIt shortlist\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "Test Engineer; Stack: REST, API",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Test Engineer.",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Test Engineer.\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/happy-team-test-engineer-lodz-testing-a12ed4cc",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/happy-team/happy-team.cv.Yauheni.Sheima.pdf"
@@ -1247,7 +1248,7 @@
       "fit": "41/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/happy-team/happy-team.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-06-05T12:01:24.764Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": true,
       "stack": true,
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/happy-team/cover-letter.md",
@@ -1303,7 +1304,7 @@
       "stage": "cv_ready_cover_letter_ready_hr_text_ready",
       "process": "Hirify export 2026-06-03: selected as high-upside Europe remote Lead QA C# role. CV and HR outreach text prepared; validate hard requirements before sending.",
       "requirements": "8+ years QA; 6+ years C# automation; 3+ years Playwright or similar; high-load API/messaging/telecom; PostgreSQL; GitHub Actions; QA process definition; monitoring/observability; non-functional testing; 3+ years Python automation; English C1+. Salary listed 4,000-8,000 USD gross/month.",
-      "notes": "High salary and some relevant C#/.NET/API/CI/CD background, but several hard gaps: C1 English, Python 3+ years, deep C# automation, high-load messaging/telecom. Treat as stretch target only.",
+      "notes": "High salary and some relevant C#/.NET/API/CI/CD background, but several hard gaps: C1 English, Python 3+ years, deep C# automation, high-load messaging/telecom. Treat as stretch target only.\nAvailability check on 2026-06-08: Hirify page returned live/apply markers.",
       "links": [
         "https://hirify.me/jobs/488332-lead-qa-engineer-csharp"
       ],
@@ -1313,7 +1314,7 @@
       "salaryAsk": "120-140 PLN/h gross or equivalent; role listed 4,000-8,000 USD gross/month",
       "outreach": "HR message prepared in hirify-qa-automation-hr-messages-2026-06-03.md",
       "outreachUrl": "",
-      "updatedAt": "2026-06-04T18:39:31.607Z"
+      "updatedAt": "2026-06-08T08:23:43.582Z"
     },
     {
       "slug": "hirify-get-it-qa-automation",
@@ -1359,11 +1360,11 @@
     {
       "slug": "infogain",
       "name": "Infogain",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Live JustJoinIt vacancy verified 2026-06-05. Krakow/surrounding areas; hybrid model mentioned. Client project is a large-scale travel communication platform with time-critical email/SMS notifications. CV and cover letter ready; next step is application after confirming hybrid expectations.",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Live JustJoinIt vacancy verified 2026-06-05. Krakow/surrounding areas; hybrid model mentioned. Client project is a large-scale travel communication platform with time-critical email/SMS notifications. CV and cover letter ready; next step is application after confirming hybrid expectations.\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "Senior Java automation for APIs, integrations and E2E flows. Strong Java automation with JUnit/TestNG, REST API testing such as REST Assured, CI integration, E2E tooling Playwright/Selenium, contract-testing familiarity, Git workflows, test documentation and communication. Nice to have performance testing with k6/JMeter/Gatling and email/SMS deliverability validation.",
-      "notes": "Solid fit for Java/API/E2E automation and communication-platform reliability. Hybrid/location and salary need confirmation. Positioning: API automation, CI reliability, defect/root-cause work, large-scale notification systems, performance awareness.",
+      "notes": "Solid fit for Java/API/E2E automation and communication-platform reliability. Hybrid/location and salary need confirmation. Positioning: API automation, CI reliability, defect/root-cause work, large-scale notification systems, performance awareness.\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/infogain-senior-qa-automation-engineer-krakow-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/infogain/infogain.cv.Yauheni.Sheima.pdf"
@@ -1371,7 +1372,7 @@
       "fit": "88/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/infogain/infogain.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05",
-      "updatedAt": "2026-06-05T12:01:24.862Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": "Senior QA Automation Engineer",
       "stack": "Java, JUnit/TestNG, REST Assured, API testing, Playwright/Selenium, CI, contract testing, performance testing",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/infogain/cover-letter.md",
@@ -1443,16 +1444,16 @@
     {
       "slug": "inuits",
       "name": "Inuits",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Initial outreach / CV submission planned",
+      "status": "unavailable",
+      "stage": "exact_vacancy_not_found",
+      "process": "Initial outreach / CV submission planned\nAvailability check on 2026-06-08: original link was generic JustJoinIt homepage; web search did not find a matching active \"SDET AI\" vacancy. Found unrelated Inuits roles instead.",
       "requirements": "Role: SDET AI; Stack: Playwright, AI, C#/.NET; Salary: 120-130 PLN/h",
-      "notes": "Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf",
+      "notes": "Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf\nRemoved from active target list until a concrete matching vacancy URL is available.",
       "links": [
         "https://justjoin.it",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/inuits/inuits.cv.Yauheni.Sheima.pdf"
       ],
-      "updatedAt": "2026-06-05T12:01:24.958Z",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
       "role": "SDET AI",
       "salary": "120-130 PLN/h",
       "stack": "Playwright, AI, C#/.NET",
@@ -1506,11 +1507,11 @@
     {
       "slug": "iteamly",
       "name": "iTeamly",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Live JustJoinIt vacancy verified 2026-06-05. Remote or hybrid setup. CV and cover letter are ready; next step is application submission after checking compensation/form requirements.",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Live JustJoinIt vacancy verified 2026-06-05. Remote or hybrid setup. CV and cover letter are ready; next step is application submission after checking compensation/form requirements.\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "5+ years testing/QA automation; API and end-to-end testing; practical Python, Playwright, Robot Framework and SQL; microservices architecture; cloud-based systems; Agile; CI/CD integration. Responsibilities include test strategy, test plans/cases, API/E2E automation, manual testing for complex cases, quality/performance/reliability and QA process improvement.",
-      "notes": "One of the cleanest fits among active targets. Positioning: Python automation, Playwright/API coverage, SQL, distributed systems, CI/CD integration, and pragmatic manual testing for edge cases. Salary missing, so verify during form or outreach.",
+      "notes": "One of the cleanest fits among active targets. Positioning: Python automation, Playwright/API coverage, SQL, distributed systems, CI/CD integration, and pragmatic manual testing for edge cases. Salary missing, so verify during form or outreach.\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/iteamly-senior-qa-engineer-robot-framework--krakow-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/iteamly/iteamly.cv.Yauheni.Sheima.pdf"
@@ -1518,7 +1519,7 @@
       "fit": "98/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/iteamly/iteamly.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05",
-      "updatedAt": "2026-06-05T12:01:25.057Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": "Senior QA Engineer (Robot Framework)",
       "stack": "Python, Playwright, Robot Framework, API testing, E2E testing, SQL, CI/CD, microservices, cloud",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/iteamly/cover-letter.md",
@@ -1647,11 +1648,11 @@
     {
       "slug": "link-group",
       "name": "Link Group",
-      "status": "target",
-      "stage": "cv_ready_recruiter_outreach_cover_letter_ready",
-      "process": "Tracked from job listing / recruiter contact",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Tracked from job listing / recruiter contact\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "Senior QA Java; Java, REST, API, CI/CD, Docker",
-      "notes": "Contact person: Przemysław Lorek https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+      "notes": "Contact person: Przemysław Lorek https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/link-group-senior-qa-java-warszawa-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/link-group/link-group.cv.Yauheni.Sheima.pdf"
@@ -1659,7 +1660,7 @@
       "fit": "58/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/link-group/link-group.cv.Yauheni.Sheima.pdf",
       "outreach": "Przemysław Lorek",
-      "updatedAt": "2026-06-05T12:01:25.157Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": "Senior QA Java",
       "stack": "Java, REST, API, CI/CD, Docker",
       "salaryAsk": true,
@@ -1669,18 +1670,18 @@
     {
       "slug": "link-group-ai-assisted-qa",
       "name": "Link Group (AI-assisted QA)",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Sourced on 2026-06-07 from NoFluffJobs. Separate from existing Link Group Senior QA Java record.",
+      "status": "applied",
+      "stage": "application_sent_vacancy_closed_after_application",
+      "process": "Sourced on 2026-06-07 from NoFluffJobs. Separate from existing Link Group Senior QA Java record.\nGmail confirmation from Recruitify.ai on 2026-06-07 11:29 UTC: application for QA Engineer (AI-Assisted) is being processed.",
       "requirements": "Senior remote QA role. Daily Cursor or Claude Code usage for test programming, log analysis and test case design; strong test automation in Playwright/Cypress/Pytest; complex web app testing including user flows, stateful UI and access control; CI/CD quality perspective; fluent English and Polish listed.",
-      "notes": "Interesting because AI-assisted QA matches current tooling, but Polish requirement must be verified. NoFluff listing valid until 2026-06-13. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/link-group-ai-assisted-qa/link-group-ai-assisted-qa.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/link-group-ai-assisted-qa/cover-letter.md",
+      "notes": "Interesting because AI-assisted QA matches current tooling, but Polish requirement must be verified. NoFluff listing valid until 2026-06-13. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/link-group-ai-assisted-qa/link-group-ai-assisted-qa.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/link-group-ai-assisted-qa/cover-letter.md\nNo Fluff Jobs also showed \"zakończona\" on 2026-06-08 after the application confirmation.",
       "links": [
         "https://nofluffjobs.com/pl/job/qa-engineer-ai-assisted-link-group-remote"
       ],
       "fit": "78/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/link-group-ai-assisted-qa/link-group-ai-assisted-qa.cv.Yauheni.Sheima.pdf",
       "outreach": "",
-      "updatedAt": "2026-06-07T09:48:29.367Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": "QA Engineer AI-assisted",
       "stack": "Playwright, Cypress, Pytest, CI/CD, UAT, Cursor, Claude Code, AI-first QA, web apps",
       "salaryAsk": "",
@@ -1789,11 +1790,11 @@
       "name": "Montrose Software",
       "role": "QA Automation Engineer",
       "stack": "Playwright, Selenium, Python/JavaScript/TypeScript, SQL, Agile/Scrum, Jira",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Refreshed personalized Montrose Software CV generated on 2026-06-05 for JustJoinIt application.",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Refreshed personalized Montrose Software CV generated on 2026-06-05 for JustJoinIt application.\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "Automation in manual-heavy project, framework building, coverage/reliability, strong QA fundamentals",
-      "notes": "Location: Kraków / Poland (remote option). Format: B2B or Permanent. New personalized CV uses Montrose-specific positioning around automation expansion, framework reliability, UI/API testing, CI/CD feedback, and manual-heavy project transition. Risk to keep honest: Python is supporting rather than primary.",
+      "notes": "Location: Kraków / Poland (remote option). Format: B2B or Permanent. New personalized CV uses Montrose-specific positioning around automation expansion, framework reliability, UI/API testing, CI/CD feedback, and manual-heavy project transition. Risk to keep honest: Python is supporting rather than primary.\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/montrose-software-qa-automation-engineer-krakow-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software-qa-automation-engineer/montrose-software-qa-automation-engineer.cv.Yauheni.Sheima.pdf",
@@ -1804,7 +1805,7 @@
       "salaryAsk": "not listed",
       "outreach": "New personalized CV prepared",
       "outreachUrl": "",
-      "updatedAt": "2026-06-05T12:07:10.901Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/montrose-software/cover-letter.md"
     },
     {
@@ -1874,11 +1875,11 @@
       "name": "N-iX / SentinelOne",
       "role": "Senior AQA Engineer (Playwright)",
       "stack": "TypeScript, Playwright, API testing, E2E testing, backend/infrastructure testing, cybersecurity XDR",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Sourced on 2026-06-07 from JustJoinIt. Separate from previously applied N-iX Playwright+AI role; this one appears to be SentinelOne/cybersecurity XDR.",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Sourced on 2026-06-07 from JustJoinIt. Separate from previously applied N-iX Playwright+AI role; this one appears to be SentinelOne/cybersecurity XDR.\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "Design, develop and implement TypeScript automation tests across SentinelOne SaaS platform and endpoint protection areas: API, E2E, backend and infrastructure testing. Triage test execution results, close test gaps and collaborate across project teams.",
-      "notes": "Strong fit for Playwright/TypeScript/API automation. Check whether prior N-iX applications affect duplicate submission strategy. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/n-ix-sentinelone-aqa-playwright/n-ix-sentinelone-aqa-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/n-ix-sentinelone-aqa-playwright/cover-letter.md",
+      "notes": "Strong fit for Playwright/TypeScript/API automation. Check whether prior N-iX applications affect duplicate submission strategy. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/n-ix-sentinelone-aqa-playwright/n-ix-sentinelone-aqa-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/n-ix-sentinelone-aqa-playwright/cover-letter.md\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/n-ix-senior-aqa-engineer-playwright-4784--poland-remote--testing"
       ],
@@ -1888,7 +1889,7 @@
       "salaryAsk": "",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-06-07T09:48:29.366Z"
+      "updatedAt": "2026-06-08T08:21:55.756Z"
     },
     {
       "slug": "navro",
@@ -2063,13 +2064,13 @@
       "stage": "cv_ready_cover_letter_ready",
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: Manual QA; Stack: Manual API testing; Salary: 60-100 PLN/h",
-      "notes": "Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf",
+      "notes": "Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf\nAvailability check on 2026-06-08: found concrete active JustJoinIt listing for People More P.S.A. Mobile QA Engineer — Manual + AI-augmented.",
       "links": [
-        "https://justjoin.it",
+        "https://justjoin.it/job-offer/people-more-p-s-a--mobile-qa-engineer---manual-ai-augmented-poznan-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/people-more/people-more.cv.Yauheni.Sheima.pdf"
       ],
-      "updatedAt": "2026-06-05T12:01:25.365Z",
-      "role": "Manual QA",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
+      "role": "Mobile QA Engineer — Manual + AI-augmented",
       "salary": "60-100 PLN/h",
       "stack": "Manual API testing",
       "fit": "3/10",
@@ -2222,11 +2223,11 @@
     {
       "slug": "remodevs",
       "name": "Remodevs",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Imported from JustJoinIt shortlist",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Imported from JustJoinIt shortlist\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "Automation QA Engineer; Stack: Playwright, API, CI/CD, Docker, Python, TypeScript",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Automation QA Engineer.",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Automation QA Engineer.\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/remodevs-automation-qa-engineer-wroclaw-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remodevs/remodevs.cv.Yauheni.Sheima.pdf"
@@ -2234,7 +2235,7 @@
       "fit": "51/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remodevs/remodevs.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-06-05T12:01:25.466Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": true,
       "stack": true,
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/remodevs/cover-letter.md",
@@ -2430,11 +2431,11 @@
     {
       "slug": "scalo",
       "name": "SCALO",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Live JustJoinIt vacancy verified 2026-06-05. Hybrid Krakow, 1-2 office days/week. Project in aviation domain. CV and cover letter are ready; next step is application submission after final form review.",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Live JustJoinIt vacancy verified 2026-06-05. Hybrid Krakow, 1-2 office days/week. Project in aviation domain. CV and cover letter are ready; next step is application submission after final form review.\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "5+ years QA/testing experience; functional and non-functional testing; Java; OOP; FitNesse as strong plus; defect-management tools such as JIRA; test processes and techniques; Agile/SCRUM/Kanban; analytical problem solving. Responsibilities include designing, creating and maintaining automated tests, test documentation and scenarios, monitoring results, defect analysis and process improvement.",
-      "notes": "High-priority target by fit and location. Rate is below preferred 120-140 PLN/h upper target only if capped at 130, but still within workable range. Positioning: Java automation foundation, API/UI test automation, CI/CD quality gates, domain complexity and hybrid Krakow availability.",
+      "notes": "High-priority target by fit and location. Rate is below preferred 120-140 PLN/h upper target only if capped at 130, but still within workable range. Positioning: Java automation foundation, API/UI test automation, CI/CD quality gates, domain complexity and hybrid Krakow availability.\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/scalo-senior-automation-tester-qa-java--krakow-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scalo/scalo.cv.Yauheni.Sheima.pdf"
@@ -2442,7 +2443,7 @@
       "fit": "100/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scalo/scalo.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05",
-      "updatedAt": "2026-06-05T12:01:25.561Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": "Senior Automation Tester/QA (Java)",
       "stack": "Java, Selenium/Playwright, FitNesse, REST/API testing, JIRA, Agile, CI/CD",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/scalo/cover-letter.md",
@@ -2458,7 +2459,7 @@
       "stage": "live_status_to_verify_cv_to_prepare",
       "process": "User shared JustJoinIt vacancy on 2026-06-07. Copied listing text says published 2026-06-04 and 12 days left until 2026-06-19, but user also noted it may already be expired. Web fetch returned HTTP 200 and vacancy description on 2026-06-07; browser/form status should be verified before application.",
       "requirements": "1-2+ years QA; manual testing of business systems; system analysis; BPMN/UML basics; functional/integration/acceptance testing; bug/log analysis; SQL basics; TypeScript and Playwright; Ferryt process familiarity; test plans; API basics and Postman/Bruno. Responsibilities include Java-oriented QA automation for bank document workflow system, API/UI tests with REST Assured and Selenium/Playwright, BDD with JBehave/Cucumber, Azure DevOps CI/CD, performance/microservice/workflow support.",
-      "notes": "Separate from existing SCALO Senior Automation Tester/QA Java Krakow aviation role. This Katowice/banking workflow role is lower seniority and capped at 120 PLN/h B2B. Fit is decent via banking, API/UI automation, SQL, logs, Playwright/TypeScript and CI/CD; gaps/unknowns: Ferryt, BPMN/UML, REST Assured/Java depth for this specific project. User reported it may be expired despite page text showing time left.",
+      "notes": "Separate from existing SCALO Senior Automation Tester/QA Java Krakow aviation role. This Katowice/banking workflow role is lower seniority and capped at 120 PLN/h B2B. Fit is decent via banking, API/UI automation, SQL, logs, Playwright/TypeScript and CI/CD; gaps/unknowns: Ferryt, BPMN/UML, REST Assured/Java depth for this specific project. User reported it may be expired despite page text showing time left.\nAvailability check on 2026-06-08: JustJoinIt page returned live job/apply markers.",
       "links": [
         "https://justjoin.it/job-offer/scalo-qa-automation-tester-java--katowice-testing"
       ],
@@ -2468,7 +2469,7 @@
       "salaryAsk": "up to 120 PLN/h B2B",
       "outreach": "User-reported status conflict: possible expired; live page fetched on 2026-06-07",
       "outreachUrl": "",
-      "updatedAt": "2026-06-07T10:12:35.392Z"
+      "updatedAt": "2026-06-08T08:23:43.582Z"
     },
     {
       "slug": "sherpany",
@@ -2563,7 +2564,7 @@
       "stage": "cv_ready_recruiter_outreach_cover_letter_ready",
       "process": "Recruiter reached out about Senior Test Automation Engineer role for Austrian bank client",
       "requirements": "Senior Test Automation Engineer; fintech/banking domain; Playwright or Selenium; Postman/RestAssured; Gatling or k6; CI/CD integration; Agile; English; German plus; B2B; remote available",
-      "notes": "Outreach from Anastasia Markitan: https://www.linkedin.com/in/anastasia-markitan-8a6a109a/. Role looks like a strong fit on Playwright, Selenium, API testing, CI/CD, and banking/enterprise QA context. Fully remote available, Kraków office optional.",
+      "notes": "Outreach from Anastasia Markitan: https://www.linkedin.com/in/anastasia-markitan-8a6a109a/. Role looks like a strong fit on Playwright, Selenium, API testing, CI/CD, and banking/enterprise QA context. Fully remote available, Kraków office optional.\nAvailability check on 2026-06-08: no public exact vacancy found; keeping as target because it came from recruiter outreach/private opportunity, not a public job URL.",
       "links": [
         "https://specific-group.com/pl/",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/specific-group/specific-group.cv.Yauheni.Sheima.pdf"
@@ -2571,7 +2572,7 @@
       "fit": "8/10",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/specific-group/specific-group.cv.Yauheni.Sheima.pdf",
       "outreach": "Recruiter outreach from Anastasia Markitan (LinkedIn)",
-      "updatedAt": "2026-06-05T12:01:25.659Z",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
       "salaryAsk": "150 PLN/h",
       "role": true,
       "stack": true,
@@ -2603,7 +2604,7 @@
       "stage": "cv_ready_cover_letter_ready",
       "process": "Imported from JustJoinIt shortlist",
       "requirements": "Senior QA Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, CI/CD",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.\nAvailability check on 2026-06-08: JustJoinIt page returned live job/apply markers.",
       "links": [
         "https://justjoin.it/job-offer/state-street-senior-qa-automation-engineer-krakow-testing-940ba980",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/state-street/state-street.cv.Yauheni.Sheima.pdf"
@@ -2611,7 +2612,7 @@
       "fit": "72/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/state-street/state-street.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-06-05T12:01:25.755Z",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
       "role": true,
       "stack": true,
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/state-street/cover-letter.md",
@@ -2691,13 +2692,13 @@
       "stage": "cv_ready_cover_letter_ready",
       "process": "Initial outreach / CV submission planned",
       "requirements": "Role: SDET Java Selenium; Stack: Java, Selenium, CI/CD; Salary: 900-1100 PLN/day",
-      "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
+      "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf\nAvailability check on 2026-06-08: found concrete active JustJoinIt listing for SDET Java & Selenium hybrid Warsaw.",
       "links": [
-        "https://justjoin.it",
+        "https://justjoin.it/job-offer/strategicsiq-sdet-software-development-engineer-in-test---java-selenium---hybrid-2-3-days-onsite-in-warsaw--cracow-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/strategicsiq/strategicsiq.cv.Yauheni.Sheima.pdf"
       ],
-      "updatedAt": "2026-06-05T12:01:25.953Z",
-      "role": "SDET Java Selenium",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
+      "role": "SDET (Software Development Engineer in Test) – Java & Selenium – Hybrid",
       "salary": "900-1100 PLN/day",
       "stack": "Java, Selenium, CI/CD",
       "fit": "5/10",
@@ -2877,11 +2878,11 @@
     {
       "slug": "upvanta-sp-z-o-o",
       "name": "Upvanta sp. z o.o.",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Imported from JustJoinIt shortlist",
+      "status": "unavailable",
+      "stage": "vacancy_unavailable_verified",
+      "process": "Imported from JustJoinIt shortlist\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
       "requirements": "Software QA Engineer (Java); Stack: Java, Selenium, Docker, SDET",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Software QA Engineer (Java).",
+      "notes": "Imported from ranked shortlist CSV. Vacancy: Software QA Engineer (Java).\nRemoved from active target list after availability check.",
       "links": [
         "https://justjoin.it/job-offer/upvanta-sp-z-o-o--software-qa-engineer-java--krakow-testing-b2282acd",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/upvanta-sp-z-o-o/upvanta-sp-z-o-o.cv.Yauheni.Sheima.pdf"
@@ -2889,7 +2890,7 @@
       "fit": "78/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/upvanta-sp-z-o-o/upvanta-sp-z-o-o.cv.Yauheni.Sheima.pdf",
       "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-06-05T12:01:26.054Z",
+      "updatedAt": "2026-06-08T08:21:55.756Z",
       "role": true,
       "stack": true,
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/upvanta-sp-z-o-o/cover-letter.md",
@@ -2901,11 +2902,11 @@
       "name": "Venchr",
       "role": "Senior QA Engineer (Playwright Specialist)",
       "stack": "Playwright, QA automation, remote UK",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready_jd_to_verify",
-      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn showed pay range and similar jobs, but not enough JD detail.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn showed pay range and similar jobs, but not enough JD detail.\nGmail/LinkedIn confirmation on 2026-06-07 11:24 UTC and LinkedIn application status on 2026-06-08: application submitted.",
       "requirements": "LinkedIn public metadata: Senior QA Engineer Playwright Specialist, remote UK / Manchester area, mid-senior, full-time, £50k-£65k base range.",
-      "notes": "Strong Playwright keyword, but likely UK-only remote. Verify work authorization/location before spending CV time. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/venchr-senior-qa-playwright-uk/venchr-senior-qa-playwright-uk.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/venchr-senior-qa-playwright-uk/cover-letter.md",
+      "notes": "Strong Playwright keyword, but likely UK-only remote. Verify work authorization/location before spending CV time. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/venchr-senior-qa-playwright-uk/venchr-senior-qa-playwright-uk.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/venchr-senior-qa-playwright-uk/cover-letter.md\nAvailability check on 2026-06-08 kept the vacancy live/visible.",
       "links": [
         "https://uk.linkedin.com/jobs/view/%F0%9F%9A%80-senior-qa-engineer-playwright-specialist-%E2%80%94-remote-uk-%E2%80%94-%C2%A360%E2%80%9365k-at-venchr-4385251493"
       ],
@@ -2915,7 +2916,7 @@
       "salaryAsk": "£50k-£65k listed",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-06-07T09:48:29.371Z"
+      "updatedAt": "2026-06-08T08:21:55.756Z"
     },
     {
       "slug": "vention",
@@ -2984,14 +2985,14 @@
       "stage": "cv_ready_cover_letter_ready",
       "process": "New Greenhouse vacancy shared on 2026-06-04. Tailored Xebia CV and cover letter prepared for the QA Automation Specialist role.",
       "requirements": "QA Automation Specialist for Bulgaria/Poland/Romania. Design, develop and maintain automated test suites for web applications and APIs; integrate tests into CI/CD pipelines and deployment quality gates; collaborate with development/product teams; create test strategies, quality metrics and documentation; support shift-left QA; explore AI-powered testing tools. Required: strong Playwright with TypeScript for E2E/API/visual regression testing; async patterns, fixtures, Page Object Model; multi-viewport testing; visual regression baseline management; test data across staging/pre-production; API automation, REST, JSON schema validation, contract-testing concepts; Redis/cache behavior; third-party/supplier integrations; CI/CD tools; quality gates, parallel execution and reporting; production-safe smoke tests; AB testing and feature flags; AI-powered tooling exposure. Nice to have: structured GenAI workflows in SDLC and agent-based/AI-augmented practices.",
-      "notes": "Strong fit for Playwright/TypeScript direction, API testing, CI/CD feedback, quality gates, shift-left QA and AI-assisted QA. Ramp-up areas: visual regression baseline management, Redis/cache-specific test design, AB-test deterministic variant control, and deeper structured GenAI workflows. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xebia/xebia.cv.Yauheni.Sheima.pdf",
+      "notes": "Strong fit for Playwright/TypeScript direction, API testing, CI/CD feedback, quality gates, shift-left QA and AI-assisted QA. Ramp-up areas: visual regression baseline management, Redis/cache-specific test design, AB-test deterministic variant control, and deeper structured GenAI workflows. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xebia/xebia.cv.Yauheni.Sheima.pdf\nAvailability check on 2026-06-08: Greenhouse page returned live job/apply markers.",
       "links": [
         "https://job-boards.greenhouse.io/xebiacee/jobs/5996791004"
       ],
       "fit": "90/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xebia/xebia.cv.Yauheni.Sheima.pdf",
       "outreach": "New Greenhouse vacancy; CV and cover letter ready",
-      "updatedAt": "2026-06-04T18:45:32.340Z",
+      "updatedAt": "2026-06-08T08:23:43.582Z",
       "role": "QA Automation Specialist",
       "stack": "Playwright, TypeScript, JavaScript, API testing, visual regression, CI/CD, quality gates, feature flags, AB testing, AI-assisted QA",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/xebia/cover-letter.md",

@@ -1,6 +1,6 @@
 # People More
 
-- Role: Manual QA
+- Role: Mobile QA Engineer — Manual + AI-augmented
 - Stack: Manual API testing
 - Status: target
 - Stage: cv_ready_cover_letter_ready
@@ -18,7 +18,8 @@ Role: Manual QA; Stack: Manual API testing; Salary: 60-100 PLN/h
 
 ## Notes
 Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf
+Availability check on 2026-06-08: found concrete active JustJoinIt listing for People More P.S.A. Mobile QA Engineer — Manual + AI-augmented.
 
 ## Links
-- https://justjoin.it
+- https://justjoin.it/job-offer/people-more-p-s-a--mobile-qa-engineer---manual-ai-augmented-poznan-testing
 - /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/people-more/people-more.cv.Yauheni.Sheima.pdf

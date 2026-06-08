@@ -18,6 +18,7 @@ Senior QA Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, CI/
 
 ## Notes
 Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.
+Availability check on 2026-06-08: JustJoinIt page returned live job/apply markers.
 
 ## Links
 - https://justjoin.it/job-offer/state-street-senior-qa-automation-engineer-krakow-testing-940ba980

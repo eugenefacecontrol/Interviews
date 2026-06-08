@@ -18,6 +18,7 @@ Banking application testing for Asseco Core Banking. Manual and automated GUI/AP
 
 ## Notes
 Good technical fit, but 3 office days/week is heavier than preferred. Apply only if Krakow hybrid is acceptable. Positioning: banking/regulated-quality mindset, Java/API automation, SQL and CI/CD.
+Availability check on 2026-06-08: JustJoinIt page returned live job/apply markers.
 
 ## Links
 - https://justjoin.it/job-offer/asseco-poland-s-a--tester-automatyzujacy-m-k-os--krakow-testing

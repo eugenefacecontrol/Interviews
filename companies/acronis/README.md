@@ -18,6 +18,7 @@ Senior Automation QA Engineer; Acronis Cloud-to-Cloud Backup team; develop and e
 
 ## Notes
 New Acronis LinkedIn context replaces older rejected Workday role context. Strong fit on 7+ QA automation, Playwright, API/UI automation, E2E/regression testing, Jenkins/Git/Docker, test documentation, automation result analysis, QA theory and cloud-product context. Main gap: Python is practical scripting/automation-adjacent, while recent strongest stack is Playwright/TypeScript/C#/PowerShell; keep this honest. Important interview note: Acronis explicitly prohibits AI tools/external assistance during live interviews. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf Historical rejection source: Gmail label Job Search/Rejections. Role/vacancy: Senior Automation QA Engineer. Date: 2026-05-14. Reason: not moving forward with candidacy at this time.
+Availability check on 2026-06-08: LinkedIn page live with "Apply on company website".
 
 ## Links
 - https://www.linkedin.com/jobs/view/4409891066

@@ -18,6 +18,7 @@ Hirify export 2026-06-03: selected as high-upside Europe remote Lead QA C# role.
 
 ## Notes
 High salary and some relevant C#/.NET/API/CI/CD background, but several hard gaps: C1 English, Python 3+ years, deep C# automation, high-load messaging/telecom. Treat as stretch target only.
+Availability check on 2026-06-08: Hirify page returned live/apply markers.
 
 ## Links
 - https://hirify.me/jobs/488332-lead-qa-engineer-csharp

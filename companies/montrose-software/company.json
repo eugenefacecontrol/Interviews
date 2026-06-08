@@ -3,11 +3,11 @@
   "name": "Montrose Software",
   "role": "QA Automation Engineer",
   "stack": "Playwright, Selenium, Python/JavaScript/TypeScript, SQL, Agile/Scrum, Jira",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Refreshed personalized Montrose Software CV generated on 2026-06-05 for JustJoinIt application.",
+  "status": "unavailable",
+  "stage": "vacancy_unavailable_verified",
+  "process": "Refreshed personalized Montrose Software CV generated on 2026-06-05 for JustJoinIt application.\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
   "requirements": "Automation in manual-heavy project, framework building, coverage/reliability, strong QA fundamentals",
-  "notes": "Location: Kraków / Poland (remote option). Format: B2B or Permanent. New personalized CV uses Montrose-specific positioning around automation expansion, framework reliability, UI/API testing, CI/CD feedback, and manual-heavy project transition. Risk to keep honest: Python is supporting rather than primary.",
+  "notes": "Location: Kraków / Poland (remote option). Format: B2B or Permanent. New personalized CV uses Montrose-specific positioning around automation expansion, framework reliability, UI/API testing, CI/CD feedback, and manual-heavy project transition. Risk to keep honest: Python is supporting rather than primary.\nRemoved from active target list after availability check.",
   "links": [
     "https://justjoin.it/job-offer/montrose-software-qa-automation-engineer-krakow-testing",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software-qa-automation-engineer/montrose-software-qa-automation-engineer.cv.Yauheni.Sheima.pdf",
@@ -15,9 +15,9 @@
   ],
   "fit": "80/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software/montrose-software.cv.Yauheni.Sheima.pdf",
-  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/montrose-software/cover-letter.md",
   "salaryAsk": "not listed",
   "outreach": "New personalized CV prepared",
   "outreachUrl": "",
-  "updatedAt": "2026-06-05T12:07:10.901Z"
+  "updatedAt": "2026-06-08T08:21:55.756Z",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/montrose-software/cover-letter.md"
 }

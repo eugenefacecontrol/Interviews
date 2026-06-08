@@ -1,22 +1,24 @@
 {
   "slug": "strategicsiq",
   "name": "Strategicsiq",
-  "role": "SDET Java Selenium",
-  "stack": "Java, Selenium, CI/CD",
   "status": "target",
   "stage": "cv_ready_cover_letter_ready",
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: SDET Java Selenium; Stack: Java, Selenium, CI/CD; Salary: 900-1100 PLN/day",
-  "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf",
+  "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf\nAvailability check on 2026-06-08: found concrete active JustJoinIt listing for SDET Java & Selenium hybrid Warsaw.",
   "links": [
-    "https://justjoin.it",
+    "https://justjoin.it/job-offer/strategicsiq-sdet-software-development-engineer-in-test---java-selenium---hybrid-2-3-days-onsite-in-warsaw--cracow-testing",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/strategicsiq/strategicsiq.cv.Yauheni.Sheima.pdf"
   ],
+  "updatedAt": "2026-06-08T08:23:43.582Z",
+  "role": "SDET (Software Development Engineer in Test) – Java & Selenium – Hybrid",
+  "salary": "900-1100 PLN/day",
+  "stack": "Java, Selenium, CI/CD",
   "fit": "5/10",
+  "cv": "qa-devops-cv.pdf",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/strategicsiq/strategicsiq.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/strategicsiq/cover-letter.md",
   "salaryAsk": true,
   "outreach": true,
-  "outreachUrl": true,
-  "updatedAt": "2026-06-05T12:01:25.953Z"
+  "outreachUrl": true
 }

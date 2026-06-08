@@ -18,6 +18,7 @@ User shared JustJoinIt vacancy on 2026-06-07. Copied listing text says published
 
 ## Notes
 Separate from existing SCALO Senior Automation Tester/QA Java Krakow aviation role. This Katowice/banking workflow role is lower seniority and capped at 120 PLN/h B2B. Fit is decent via banking, API/UI automation, SQL, logs, Playwright/TypeScript and CI/CD; gaps/unknowns: Ferryt, BPMN/UML, REST Assured/Java depth for this specific project. User reported it may be expired despite page text showing time left.
+Availability check on 2026-06-08: JustJoinIt page returned live job/apply markers.
 
 ## Links
 - https://justjoin.it/job-offer/scalo-qa-automation-tester-java--katowice-testing

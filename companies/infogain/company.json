@@ -1,22 +1,22 @@
 {
   "slug": "infogain",
   "name": "Infogain",
-  "role": "Senior QA Automation Engineer",
-  "stack": "Java, JUnit/TestNG, REST Assured, API testing, Playwright/Selenium, CI, contract testing, performance testing",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Live JustJoinIt vacancy verified 2026-06-05. Krakow/surrounding areas; hybrid model mentioned. Client project is a large-scale travel communication platform with time-critical email/SMS notifications. CV and cover letter ready; next step is application after confirming hybrid expectations.",
+  "status": "unavailable",
+  "stage": "vacancy_unavailable_verified",
+  "process": "Live JustJoinIt vacancy verified 2026-06-05. Krakow/surrounding areas; hybrid model mentioned. Client project is a large-scale travel communication platform with time-critical email/SMS notifications. CV and cover letter ready; next step is application after confirming hybrid expectations.\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
   "requirements": "Senior Java automation for APIs, integrations and E2E flows. Strong Java automation with JUnit/TestNG, REST API testing such as REST Assured, CI integration, E2E tooling Playwright/Selenium, contract-testing familiarity, Git workflows, test documentation and communication. Nice to have performance testing with k6/JMeter/Gatling and email/SMS deliverability validation.",
-  "notes": "Solid fit for Java/API/E2E automation and communication-platform reliability. Hybrid/location and salary need confirmation. Positioning: API automation, CI reliability, defect/root-cause work, large-scale notification systems, performance awareness.",
+  "notes": "Solid fit for Java/API/E2E automation and communication-platform reliability. Hybrid/location and salary need confirmation. Positioning: API automation, CI reliability, defect/root-cause work, large-scale notification systems, performance awareness.\nRemoved from active target list after availability check.",
   "links": [
     "https://justjoin.it/job-offer/infogain-senior-qa-automation-engineer-krakow-testing",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/infogain/infogain.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "88/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/infogain/infogain.cv.Yauheni.Sheima.pdf",
+  "outreach": "Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05",
+  "updatedAt": "2026-06-08T08:21:55.756Z",
+  "role": "Senior QA Automation Engineer",
+  "stack": "Java, JUnit/TestNG, REST Assured, API testing, Playwright/Selenium, CI, contract testing, performance testing",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/infogain/cover-letter.md",
   "salaryAsk": "not listed",
-  "outreach": "Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05",
-  "outreachUrl": true,
-  "updatedAt": "2026-06-05T12:01:24.862Z"
+  "outreachUrl": true
 }

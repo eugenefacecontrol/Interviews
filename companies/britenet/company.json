@@ -1,22 +1,22 @@
 {
   "slug": "britenet",
   "name": "Britenet",
-  "role": true,
-  "stack": true,
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Imported from JustJoinIt shortlist",
+  "status": "unavailable",
+  "stage": "vacancy_unavailable_verified",
+  "process": "Imported from JustJoinIt shortlist\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
   "requirements": "QA Automation Engineer (Low-Code Platform); Stack: REST, API",
-  "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (Low-Code Platform).",
+  "notes": "Imported from ranked shortlist CSV. Vacancy: QA Automation Engineer (Low-Code Platform).\nRemoved from active target list after availability check.",
   "links": [
     "https://justjoin.it/job-offer/britenet-qa-automation-engineer-low-code-platform--krakow-testing",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/britenet/britenet.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "56/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/britenet/britenet.cv.Yauheni.Sheima.pdf",
+  "outreach": "Shortlisted from CSV",
+  "updatedAt": "2026-06-08T08:21:55.756Z",
+  "role": true,
+  "stack": true,
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/britenet/cover-letter.md",
   "salaryAsk": true,
-  "outreach": "Shortlisted from CSV",
-  "outreachUrl": true,
-  "updatedAt": "2026-06-05T12:01:24.070Z"
+  "outreachUrl": true
 }

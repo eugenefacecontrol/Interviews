@@ -18,7 +18,9 @@ Role: Senior Test Automation; Stack: C#, Selenium, Jenkins; Salary: N/A
 
 ## Notes
 Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf
+Availability check on 2026-06-08: found concrete JustJoinIt/Pracuj/LinkedIn listing for Senior Test Automation Engineer; JustJoinIt page returned job description.
 
 ## Links
+- https://justjoin.it/job-offer/alior-bank-sa-senior-test-automation-engineer-gdansk-testing
 - https://www.aliorbank.pl/kariera
 - /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alior-bank/alior-bank.cv.Yauheni.Sheima.pdf

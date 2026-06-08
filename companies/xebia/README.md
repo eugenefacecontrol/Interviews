@@ -18,6 +18,7 @@ QA Automation Specialist for Bulgaria/Poland/Romania. Design, develop and mainta
 
 ## Notes
 Strong fit for Playwright/TypeScript direction, API testing, CI/CD feedback, quality gates, shift-left QA and AI-assisted QA. Ramp-up areas: visual regression baseline management, Redis/cache-specific test design, AB-test deterministic variant control, and deeper structured GenAI workflows. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/xebia/xebia.cv.Yauheni.Sheima.pdf
+Availability check on 2026-06-08: Greenhouse page returned live job/apply markers.
 
 ## Links
 - https://job-boards.greenhouse.io/xebiacee/jobs/5996791004

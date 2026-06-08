@@ -18,6 +18,7 @@ Senior Test Automation Engineer; fintech/banking domain; Playwright or Selenium;
 
 ## Notes
 Outreach from Anastasia Markitan: https://www.linkedin.com/in/anastasia-markitan-8a6a109a/. Role looks like a strong fit on Playwright, Selenium, API testing, CI/CD, and banking/enterprise QA context. Fully remote available, Kraków office optional.
+Availability check on 2026-06-08: no public exact vacancy found; keeping as target because it came from recruiter outreach/private opportunity, not a public job URL.
 
 ## Links
 - https://specific-group.com/pl/

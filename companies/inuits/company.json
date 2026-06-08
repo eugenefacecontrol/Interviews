@@ -1,22 +1,24 @@
 {
   "slug": "inuits",
   "name": "Inuits",
-  "role": "SDET AI",
-  "stack": "Playwright, AI, C#/.NET",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Initial outreach / CV submission planned",
+  "status": "unavailable",
+  "stage": "exact_vacancy_not_found",
+  "process": "Initial outreach / CV submission planned\nAvailability check on 2026-06-08: original link was generic JustJoinIt homepage; web search did not find a matching active \"SDET AI\" vacancy. Found unrelated Inuits roles instead.",
   "requirements": "Role: SDET AI; Stack: Playwright, AI, C#/.NET; Salary: 120-130 PLN/h",
-  "notes": "Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf",
+  "notes": "Imported from CSV shortlist. Fit: 7/10. CV file: qa-devops-cv.pdf\nRemoved from active target list until a concrete matching vacancy URL is available.",
   "links": [
     "https://justjoin.it",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/inuits/inuits.cv.Yauheni.Sheima.pdf"
   ],
+  "updatedAt": "2026-06-08T08:23:43.582Z",
+  "role": "SDET AI",
+  "salary": "120-130 PLN/h",
+  "stack": "Playwright, AI, C#/.NET",
   "fit": "7/10",
+  "cv": "qa-devops-cv.pdf",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/inuits/inuits.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/inuits/cover-letter.md",
   "salaryAsk": true,
   "outreach": true,
-  "outreachUrl": true,
-  "updatedAt": "2026-06-05T12:01:24.958Z"
+  "outreachUrl": true
 }

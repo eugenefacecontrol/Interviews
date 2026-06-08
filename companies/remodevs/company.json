@@ -1,22 +1,22 @@
 {
   "slug": "remodevs",
   "name": "Remodevs",
-  "role": true,
-  "stack": true,
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Imported from JustJoinIt shortlist",
+  "status": "unavailable",
+  "stage": "vacancy_unavailable_verified",
+  "process": "Imported from JustJoinIt shortlist\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
   "requirements": "Automation QA Engineer; Stack: Playwright, API, CI/CD, Docker, Python, TypeScript",
-  "notes": "Imported from ranked shortlist CSV. Vacancy: Automation QA Engineer.",
+  "notes": "Imported from ranked shortlist CSV. Vacancy: Automation QA Engineer.\nRemoved from active target list after availability check.",
   "links": [
     "https://justjoin.it/job-offer/remodevs-automation-qa-engineer-wroclaw-testing",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remodevs/remodevs.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "51/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/remodevs/remodevs.cv.Yauheni.Sheima.pdf",
+  "outreach": "Shortlisted from CSV",
+  "updatedAt": "2026-06-08T08:21:55.756Z",
+  "role": true,
+  "stack": true,
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/remodevs/cover-letter.md",
   "salaryAsk": true,
-  "outreach": "Shortlisted from CSV",
-  "outreachUrl": true,
-  "updatedAt": "2026-06-05T12:01:25.466Z"
+  "outreachUrl": true
 }

@@ -18,6 +18,7 @@ Middle AQA, remote, full-time, 3+ years. Build automated frameworks from scratch
 
 ## Notes
 Good general QA automation fit: framework building, API/UI automation, CI/CD, defect analysis, reporting, and automotive quality-control domain. Main risk: role explicitly asks for extensive C#/.NET backend development and Python/Golang; position carefully as QA automation with C#/Selenium foundation and practical Python scripting, without overstating backend ownership. Suggested temporary CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf. Better next step: generate Aristek-specific CV before applying.
+Availability check on 2026-06-08: Aristek page live in browser with full job description and "Apply now".
 
 ## Links
 - https://aristeksystems.com/career/aqa-engineer-cpython/

@@ -1,22 +1,24 @@
 {
   "slug": "people-more",
   "name": "People More",
-  "role": "Manual QA",
-  "stack": "Manual API testing",
   "status": "target",
   "stage": "cv_ready_cover_letter_ready",
   "process": "Initial outreach / CV submission planned",
   "requirements": "Role: Manual QA; Stack: Manual API testing; Salary: 60-100 PLN/h",
-  "notes": "Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf",
+  "notes": "Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf\nAvailability check on 2026-06-08: found concrete active JustJoinIt listing for People More P.S.A. Mobile QA Engineer — Manual + AI-augmented.",
   "links": [
-    "https://justjoin.it",
+    "https://justjoin.it/job-offer/people-more-p-s-a--mobile-qa-engineer---manual-ai-augmented-poznan-testing",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/people-more/people-more.cv.Yauheni.Sheima.pdf"
   ],
+  "updatedAt": "2026-06-08T08:23:43.582Z",
+  "role": "Mobile QA Engineer — Manual + AI-augmented",
+  "salary": "60-100 PLN/h",
+  "stack": "Manual API testing",
   "fit": "3/10",
+  "cv": "qa-devops-cv.pdf",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/people-more/people-more.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/people-more/cover-letter.md",
   "salaryAsk": true,
   "outreach": true,
-  "outreachUrl": true,
-  "updatedAt": "2026-06-05T12:01:25.365Z"
+  "outreachUrl": true
 }

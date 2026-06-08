@@ -1,22 +1,22 @@
 {
   "slug": "state-street",
   "name": "State Street",
-  "role": true,
-  "stack": true,
   "status": "target",
   "stage": "cv_ready_cover_letter_ready",
   "process": "Imported from JustJoinIt shortlist",
   "requirements": "Senior QA Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, CI/CD",
-  "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.",
+  "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.\nAvailability check on 2026-06-08: JustJoinIt page returned live job/apply markers.",
   "links": [
     "https://justjoin.it/job-offer/state-street-senior-qa-automation-engineer-krakow-testing-940ba980",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/state-street/state-street.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "72/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/state-street/state-street.cv.Yauheni.Sheima.pdf",
+  "outreach": "Shortlisted from CSV",
+  "updatedAt": "2026-06-08T08:23:43.582Z",
+  "role": true,
+  "stack": true,
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/state-street/cover-letter.md",
   "salaryAsk": true,
-  "outreach": "Shortlisted from CSV",
-  "outreachUrl": true,
-  "updatedAt": "2026-06-05T12:01:25.755Z"
+  "outreachUrl": true
 }

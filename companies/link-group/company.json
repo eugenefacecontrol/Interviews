@@ -1,22 +1,22 @@
 {
   "slug": "link-group",
   "name": "Link Group",
-  "role": "Senior QA Java",
-  "stack": "Java, REST, API, CI/CD, Docker",
-  "status": "target",
-  "stage": "cv_ready_recruiter_outreach_cover_letter_ready",
-  "process": "Tracked from job listing / recruiter contact",
+  "status": "unavailable",
+  "stage": "vacancy_unavailable_verified",
+  "process": "Tracked from job listing / recruiter contact\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
   "requirements": "Senior QA Java; Java, REST, API, CI/CD, Docker",
-  "notes": "Contact person: Przemysław Lorek https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+  "notes": "Contact person: Przemysław Lorek https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios\nRemoved from active target list after availability check.",
   "links": [
     "https://justjoin.it/job-offer/link-group-senior-qa-java-warszawa-testing",
     "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/link-group/link-group.cv.Yauheni.Sheima.pdf"
   ],
   "fit": "58/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/link-group/link-group.cv.Yauheni.Sheima.pdf",
-  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/link-group/cover-letter.md",
-  "salaryAsk": true,
   "outreach": "Przemysław Lorek",
+  "updatedAt": "2026-06-08T08:21:55.756Z",
+  "role": "Senior QA Java",
+  "stack": "Java, REST, API, CI/CD, Docker",
+  "salaryAsk": true,
   "outreachUrl": "https://www.linkedin.com/in/przemysławlorek?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
-  "updatedAt": "2026-06-05T12:01:25.157Z"
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/link-group/cover-letter.md"
 }
