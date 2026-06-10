@@ -3,19 +3,19 @@
   "name": "Catawiki",
   "role": "QA Automation Engineer",
   "stack": "Playwright, API testing, web/mobile automation, E2E testing",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
-  "requirements": "Web/mobile/API E2E automation with Playwright and cross-platform quality.",
-  "notes": "I see a good Playwright/API automation fit. Mobile-specific tools are a gap, but I can position broad UI/API automation, framework improvement, and cross-platform quality thinking.",
+  "status": "skipped",
+  "stage": "relocation_required",
+  "process": "Fresh vacancy from 2026-06-08 latest job search. Materials were prepared, but on 2026-06-10 user clarified the role requires relocation. Do not keep as active target unless relocation becomes acceptable.",
+  "requirements": "Web/mobile/API E2E automation with Playwright and cross-platform quality. Vacancy is listed via Relocate.me for Lisbon, Portugal, so relocation is expected.",
+  "notes": "Good Playwright/API automation fit, but skipped because the opportunity requires relocation to Lisbon/Portugal. Mobile-specific tools are a gap, but the main blocker is relocation rather than technical fit.",
   "links": [
     "https://relocate.me/portugal/lisbon/catawiki/qa-automation-engineer-10215"
   ],
   "fit": "80/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/catawiki-qa-automation/catawiki-qa-automation.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/catawiki-qa-automation/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "",
+  "salaryAsk": "not listed",
+  "outreach": "Skipped: relocation required",
   "outreachUrl": "",
-  "updatedAt": "2026-06-08T19:07:39.936Z"
+  "updatedAt": "2026-06-10T16:15:20.729Z"
 }
