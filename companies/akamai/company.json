@@ -1,22 +1,23 @@
 {
   "slug": "akamai",
   "name": "Akamai Technologies",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Preparing CV for Firmware Quality Assurance Engineer role",
+  "role": "Firmware Quality Assurance Engineer",
+  "stack": "Linux firmware QA, Python, API testing, networking, CI/CD",
+  "status": "applied",
+  "stage": "application_sent",
+  "process": "Application confirmation received in Gmail on 2026-06-10 from Akamai Talent Acquisition for Firmware Quality Assurance Engineer - 2315.",
   "requirements": "Linux-based firmware testing, Python programming, networking fundamentals (TCP/IP, DNS, DHCP, VLANs, Routing), API testing, Jira, network lab environments, CI/CD pipelines, firmware update processes, bootloaders, hardware-software interfaces",
-  "notes": "Server Hardware Engineering team. Responsible for Linux-based firmware quality in networking environments. Requires expertise in Linux OS, system configuration, log analysis, networking fundamentals, Python programming, API testing tools, firmware update processes, bootloaders, hardware-software interfaces. Flexible work options via FlexBase. Strong fit on Python, API testing, CI/CD, Docker, Kubernetes. Gaps in Linux kernel depth, firmware-specific knowledge, hardware networking. Fit: 5/10.\nAvailability check on 2026-06-08: LinkedIn page live with \"Apply on company website\".",
+  "notes": "Application is confirmed by Gmail. Server Hardware Engineering team. Good fit on Python, API testing, CI/CD, Docker/Kubernetes; gaps in firmware-specific and hardware networking depth remain.",
   "links": [
     "https://www.linkedin.com/jobs/view/4407859341",
-    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/akamai-technologies/akamai-technologies.cv.Yauheni.Sheima.pdf"
+    "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/akamai-technologies/akamai-technologies.cv.Yauheni.Sheima.pdf",
+    "https://mail.google.com/mail/#all/19eb134ffa7ddf8d"
   ],
   "fit": "5/10",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/akamai-technologies/akamai-technologies.cv.Yauheni.Sheima.pdf",
-  "outreach": "Marlena Misiarz — preparing outreach",
-  "outreachUrl": "https://www.linkedin.com/in/marlena-misiarz/",
-  "updatedAt": "2026-06-08T08:23:43.582Z",
-  "role": true,
-  "stack": true,
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/akamai/cover-letter.md",
-  "salaryAsk": true
+  "salaryAsk": "not listed",
+  "outreach": "Application confirmed by Gmail on 2026-06-10",
+  "outreachUrl": "https://mail.google.com/mail/#all/19eb134ffa7ddf8d",
+  "updatedAt": "2026-06-10T16:10:13.733Z"
 }

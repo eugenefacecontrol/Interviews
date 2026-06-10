@@ -1,21 +1,22 @@
 {
   "slug": "diabolocom-sdet-remote",
   "name": "Diabolocom",
-  "role": "Middle/Senior SDET - Full Remote",
+  "role": "Senior QA Engineer, Core Squad",
   "stack": "SDET, Java/Kotlin or Python, CI/CD, quality gates, distributed architecture",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
-  "requirements": "Full remote SDET role, quality strategy, distributed systems, CI/CD quality gates, Python/Java/Kotlin automation.",
-  "notes": "I see a good engineering-quality fit through my SDET mindset, CI/CD quality gates, diagnostics, and distributed-system testing. I would position Java/Kotlin as foundation/ramp-up, with practical Python scripting.",
+  "status": "applied",
+  "stage": "application_sent",
+  "process": "Application confirmation received in Gmail on 2026-06-10 from Diabolocom / Lever for Senior QA Engineer, Core Squad.",
+  "requirements": "Full remote SDET/Senior QA role, quality strategy, distributed systems, CI/CD quality gates, Python/Java/Kotlin automation.",
+  "notes": "Application is confirmed by Gmail. Good engineering-quality fit through SDET mindset, CI/CD quality gates, diagnostics, and distributed-system testing. Java/Kotlin should be positioned as foundation/ramp-up, with practical Python scripting.",
   "links": [
-    "https://relocate.me/remote/remote/diabolocom/middle-senior-sdet-full-remote-9555"
+    "https://relocate.me/remote/remote/diabolocom/middle-senior-sdet-full-remote-9555",
+    "https://mail.google.com/mail/#all/19eb111df25cd253"
   ],
   "fit": "76/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/diabolocom-sdet-remote/diabolocom-sdet-remote.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/diabolocom-sdet-remote/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-08T19:07:39.814Z"
+  "salaryAsk": "not listed",
+  "outreach": "Application confirmed by Gmail on 2026-06-10",
+  "outreachUrl": "https://mail.google.com/mail/#all/19eb111df25cd253",
+  "updatedAt": "2026-06-10T16:10:14.007Z"
 }

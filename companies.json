@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T11:14:44.233Z",
+  "generatedAt": "2026-06-10T16:10:14.573Z",
   "companies": [
     {
       "slug": "acronis",
@@ -88,24 +88,25 @@
     {
       "slug": "akamai",
       "name": "Akamai Technologies",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Preparing CV for Firmware Quality Assurance Engineer role",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Application confirmation received in Gmail on 2026-06-10 from Akamai Talent Acquisition for Firmware Quality Assurance Engineer - 2315.",
       "requirements": "Linux-based firmware testing, Python programming, networking fundamentals (TCP/IP, DNS, DHCP, VLANs, Routing), API testing, Jira, network lab environments, CI/CD pipelines, firmware update processes, bootloaders, hardware-software interfaces",
-      "notes": "Server Hardware Engineering team. Responsible for Linux-based firmware quality in networking environments. Requires expertise in Linux OS, system configuration, log analysis, networking fundamentals, Python programming, API testing tools, firmware update processes, bootloaders, hardware-software interfaces. Flexible work options via FlexBase. Strong fit on Python, API testing, CI/CD, Docker, Kubernetes. Gaps in Linux kernel depth, firmware-specific knowledge, hardware networking. Fit: 5/10.\nAvailability check on 2026-06-08: LinkedIn page live with \"Apply on company website\".",
+      "notes": "Application is confirmed by Gmail. Server Hardware Engineering team. Good fit on Python, API testing, CI/CD, Docker/Kubernetes; gaps in firmware-specific and hardware networking depth remain.",
       "links": [
         "https://www.linkedin.com/jobs/view/4407859341",
-        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/akamai-technologies/akamai-technologies.cv.Yauheni.Sheima.pdf"
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/akamai-technologies/akamai-technologies.cv.Yauheni.Sheima.pdf",
+        "https://mail.google.com/mail/#all/19eb134ffa7ddf8d"
       ],
       "fit": "5/10",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/akamai-technologies/akamai-technologies.cv.Yauheni.Sheima.pdf",
-      "outreach": "Marlena Misiarz — preparing outreach",
-      "outreachUrl": "https://www.linkedin.com/in/marlena-misiarz/",
-      "updatedAt": "2026-06-08T08:23:43.582Z",
-      "role": true,
-      "stack": true,
+      "outreach": "Application confirmed by Gmail on 2026-06-10",
+      "outreachUrl": "https://mail.google.com/mail/#all/19eb134ffa7ddf8d",
+      "updatedAt": "2026-06-10T16:10:13.733Z",
+      "role": "Firmware Quality Assurance Engineer",
+      "stack": "Linux firmware QA, Python, API testing, networking, CI/CD",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/akamai/cover-letter.md",
-      "salaryAsk": true
+      "salaryAsk": "not listed"
     },
     {
       "slug": "alior-bank",
@@ -771,23 +772,24 @@
     {
       "slug": "diabolocom-sdet-remote",
       "name": "Diabolocom",
-      "role": "Middle/Senior SDET - Full Remote",
+      "role": "Senior QA Engineer, Core Squad",
       "stack": "SDET, Java/Kotlin or Python, CI/CD, quality gates, distributed architecture",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
-      "requirements": "Full remote SDET role, quality strategy, distributed systems, CI/CD quality gates, Python/Java/Kotlin automation.",
-      "notes": "I see a good engineering-quality fit through my SDET mindset, CI/CD quality gates, diagnostics, and distributed-system testing. I would position Java/Kotlin as foundation/ramp-up, with practical Python scripting.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Application confirmation received in Gmail on 2026-06-10 from Diabolocom / Lever for Senior QA Engineer, Core Squad.",
+      "requirements": "Full remote SDET/Senior QA role, quality strategy, distributed systems, CI/CD quality gates, Python/Java/Kotlin automation.",
+      "notes": "Application is confirmed by Gmail. Good engineering-quality fit through SDET mindset, CI/CD quality gates, diagnostics, and distributed-system testing. Java/Kotlin should be positioned as foundation/ramp-up, with practical Python scripting.",
       "links": [
-        "https://relocate.me/remote/remote/diabolocom/middle-senior-sdet-full-remote-9555"
+        "https://relocate.me/remote/remote/diabolocom/middle-senior-sdet-full-remote-9555",
+        "https://mail.google.com/mail/#all/19eb111df25cd253"
       ],
       "fit": "76/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/diabolocom-sdet-remote/diabolocom-sdet-remote.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/diabolocom-sdet-remote/cover-letter.md",
-      "salaryAsk": "",
-      "outreach": "",
-      "outreachUrl": "",
-      "updatedAt": "2026-06-08T19:07:39.814Z"
+      "salaryAsk": "not listed",
+      "outreach": "Application confirmed by Gmail on 2026-06-10",
+      "outreachUrl": "https://mail.google.com/mail/#all/19eb111df25cd253",
+      "updatedAt": "2026-06-10T16:10:14.007Z"
     },
     {
       "slug": "duetto",
@@ -853,21 +855,22 @@
       "name": "ELEKS",
       "role": "Senior Test Automation Engineer (Python)",
       "stack": "Python, Selenium, Jenkins, JavaScript, SQL, automated testing",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Application confirmation received in Gmail on 2026-06-10 via No Fluff Jobs.",
       "requirements": "Senior test automation with Python/Selenium/Jenkins, remote Krakow context, SQL nice-to-have.",
-      "notes": "I see a good fit through senior automation, Selenium/Jenkins, scripting, SQL/backend validation, and CI/CD quality feedback. I would frame Python honestly as practical automation/scripting rather than my deepest long-term language.",
+      "notes": "Application is confirmed by Gmail. Good fit through senior automation, Selenium/Jenkins, scripting, SQL/backend validation, and CI/CD quality feedback. Python should remain positioned honestly as practical automation/scripting rather than the deepest long-term language.",
       "links": [
-        "https://nofluffjobs.com/pl/job/senior-test-automation-engineer-python-eleks-remote"
+        "https://nofluffjobs.com/pl/job/senior-test-automation-engineer-python-eleks-remote",
+        "https://mail.google.com/mail/#all/19eb119111b520a6"
       ],
       "fit": "78/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/eleks-python-automation/eleks-python-automation.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/eleks-python-automation/cover-letter.md",
-      "salaryAsk": "",
-      "outreach": "",
-      "outreachUrl": "",
-      "updatedAt": "2026-06-08T19:07:39.622Z"
+      "salaryAsk": "not listed",
+      "outreach": "Application confirmed by Gmail on 2026-06-10",
+      "outreachUrl": "https://mail.google.com/mail/#all/19eb119111b520a6",
+      "updatedAt": "2026-06-10T16:10:13.915Z"
     },
     {
       "slug": "emagine",
@@ -1108,21 +1111,22 @@
       "name": "First Advantage",
       "role": "Senior QA Test Automation Engineer",
       "stack": "QA automation, Selenium/Playwright foundation, API testing, CI/CD",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Application confirmation received in Gmail on 2026-06-10 from First Advantage / Workday.",
       "requirements": "Senior QA automation, framework maintainability, UI/API checks, defect triage.",
-      "notes": "This is a relevant senior QA automation role where I can emphasize automation framework improvement, API/UI checks, CI/CD feedback, and product-quality ownership.",
+      "notes": "Application is confirmed by Gmail. Relevant senior QA automation role emphasizing automation framework improvement, API/UI checks, CI/CD feedback, and product-quality ownership.",
       "links": [
-        "https://www.linkedin.com/jobs/view/4414498166"
+        "https://www.linkedin.com/jobs/view/4414498166",
+        "https://mail.google.com/mail/#all/19eb131e15ebeaca"
       ],
       "fit": "78/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/first-advantage-test-automation/first-advantage-test-automation.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/first-advantage-test-automation/cover-letter.md",
-      "salaryAsk": "",
-      "outreach": "",
-      "outreachUrl": "",
-      "updatedAt": "2026-06-08T19:07:39.752Z"
+      "salaryAsk": "not listed",
+      "outreach": "Application confirmed by Gmail on 2026-06-10",
+      "outreachUrl": "https://mail.google.com/mail/#all/19eb131e15ebeaca",
+      "updatedAt": "2026-06-10T16:10:13.825Z"
     },
     {
       "slug": "forte-group-sdet-playwright",
@@ -1815,6 +1819,28 @@
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/link-group-ai-assisted-qa/cover-letter.md"
     },
     {
+      "slug": "ltimindtree-aws-python-developer",
+      "name": "LTIMindtree",
+      "role": "AWS Python Developer",
+      "stack": "AWS, Python",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "RTR/authorization handled with TST Poland on 2026-05-28; application confirmation received in Gmail from LTIMindtree on 2026-05-28.",
+      "requirements": "AWS Python Developer role; details from recruiter/RTR and Gmail confirmation only.",
+      "notes": "Application confirmed by Gmail. This is not a QA-focused role; keep as historical application record unless a fuller JD is needed later.",
+      "links": [
+        "https://mail.google.com/mail/#all/19e6e7c5b77e6464",
+        "https://mail.google.com/mail/#all/19e6ef88956a72ee"
+      ],
+      "fit": true,
+      "recommendedCv": true,
+      "coverLetter": true,
+      "salaryAsk": "not listed",
+      "outreach": "Application confirmed by Gmail on 2026-05-28; RTR via TST Poland",
+      "outreachUrl": "https://mail.google.com/mail/#all/19e6ef88956a72ee",
+      "updatedAt": "2026-06-10T16:10:14.563Z"
+    },
+    {
       "slug": "luxoft-poland",
       "name": "Luxoft Poland",
       "role": "Senior QA Automation Engineer",
@@ -1916,22 +1942,23 @@
       "name": "Montrose Software",
       "role": "QA Automation Engineer",
       "stack": "Playwright, Selenium, Python/JavaScript/TypeScript, SQL, Agile/Scrum, Jira",
-      "status": "unavailable",
-      "stage": "vacancy_unavailable_verified",
-      "process": "Refreshed personalized Montrose Software CV generated on 2026-06-05 for JustJoinIt application.\nJustJoinIt showed \"Offer expired\" on 2026-06-08.",
+      "status": "applied",
+      "stage": "application_sent_vacancy_unavailable",
+      "process": "Application confirmation received in Gmail on 2026-05-06 via JustJoinIt. JustJoinIt later showed Offer expired on 2026-06-08.",
       "requirements": "Automation in manual-heavy project, framework building, coverage/reliability, strong QA fundamentals",
-      "notes": "Location: Kraków / Poland (remote option). Format: B2B or Permanent. New personalized CV uses Montrose-specific positioning around automation expansion, framework reliability, UI/API testing, CI/CD feedback, and manual-heavy project transition. Risk to keep honest: Python is supporting rather than primary.\nRemoved from active target list after availability check.",
+      "notes": "Application is confirmed by Gmail, but vacancy later became unavailable. Location: Kraków / Poland (remote option). Format: B2B or Permanent. Personalized CV used Montrose-specific positioning around automation expansion, framework reliability, UI/API testing, CI/CD feedback, and manual-heavy project transition.",
       "links": [
         "https://justjoin.it/job-offer/montrose-software-qa-automation-engineer-krakow-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software-qa-automation-engineer/montrose-software-qa-automation-engineer.cv.Yauheni.Sheima.pdf",
-        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software/montrose-software.cv.Yauheni.Sheima.pdf"
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software/montrose-software.cv.Yauheni.Sheima.pdf",
+        "https://mail.google.com/mail/#all/19dfe39aace0d364"
       ],
       "fit": "80/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/montrose-software/montrose-software.cv.Yauheni.Sheima.pdf",
       "salaryAsk": "not listed",
-      "outreach": "New personalized CV prepared",
-      "outreachUrl": "",
-      "updatedAt": "2026-06-08T08:21:55.756Z",
+      "outreach": "Application confirmed by Gmail on 2026-05-06; vacancy later unavailable",
+      "outreachUrl": "https://mail.google.com/mail/#all/19dfe39aace0d364",
+      "updatedAt": "2026-06-10T16:10:14.378Z",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/montrose-software/cover-letter.md"
     },
     {
@@ -2645,22 +2672,23 @@
     {
       "slug": "sii",
       "name": "Sii Poland",
-      "status": "contacted",
-      "stage": "cv_ready_outreach_sent",
-      "process": "LinkedIn vacancy 4407751011 provided by Yauheni on 2026-05-25. Tailored CV PDF prepared for Embedded QA Automation Engineer (f/m/x). 2026-05-25: Yauheni sent LinkedIn outreach to Martyna Słotwińska. Do not send further outreach without explicit confirmation.",
+      "status": "applied",
+      "stage": "application_sent_outreach_sent",
+      "process": "LinkedIn vacancy 4407751011 provided by Yauheni on 2026-05-25. Tailored CV PDF prepared and LinkedIn outreach sent to Martyna Słotwińska. Application confirmation received in Gmail on 2026-05-25 from Sii.",
       "requirements": "Minimum 5 years in similar position; strong Python-based test automation; networking automation frameworks and Linux; testing physical/virtual L2/L3 switches and routers; CI/CD tools such as Jenkins/GitLab; regression, stress, functional, performance and system-level testing on hardware platforms; English; Poland residency. Nice to have: C/C++, Docker, Ansible, Vagrant, traffic generators IxNetwork/Spirent/TRex.",
-      "notes": "Fit estimate: 72/100. Strong match on QA automation, Python-supported automation, CI/CD, Linux/Windows environments, regression/system-level testing, Docker/Kubernetes support, debugging and defect verification. Gaps/ramp-up: direct L2/L3 switch/router testing, networking automation frameworks, traffic generators, C/C++ depth, Ansible/Vagrant. Tailored CV PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sii-poland/sii-poland.cv.Yauheni.Sheima.pdf. HR outreach sent to Martyna Słotwińska on 2026-05-25. Lower-confidence additional lead: Nivedita Y. — Talent Acquisition and Recruitment Operations at Sii Poland, https://in.linkedin.com/in/niveditayadav22. LinkedIn scan artifact: /Users/yauhenisheima/.openclaw/workspace/projects/linkedin-recruiter-outreach/data/scans/sii-poland/_merged.json.",
+      "notes": "Application is confirmed by Gmail. Fit estimate: 72/100. Strong match on QA automation, Python-supported automation, CI/CD, Linux/Windows environments, regression/system-level testing, Docker/Kubernetes support, debugging and defect verification. Gaps/ramp-up: direct L2/L3 switch/router testing, networking automation frameworks, traffic generators, C/C++ depth, Ansible/Vagrant.",
       "links": [
-        "https://www.linkedin.com/jobs/view/4407751011"
+        "https://www.linkedin.com/jobs/view/4407751011",
+        "https://mail.google.com/mail/#all/19e60ee10bf41811"
       ],
       "fit": "72/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sii-poland/sii-poland.cv.Yauheni.Sheima.pdf",
-      "outreach": "Martyna Słotwińska — LinkedIn outreach sent",
-      "updatedAt": "2026-05-25T17:44:19.740Z",
+      "outreach": "Martyna Słotwińska — LinkedIn outreach sent; application confirmed by Gmail on 2026-05-25",
+      "updatedAt": "2026-06-10T16:10:14.190Z",
       "role": "Embedded QA Automation Engineer (f/m/x)",
       "stack": "Python test automation, Linux, networking automation frameworks, L2/L3 switches/routers, CI/CD, Jenkins/GitLab, Docker, Ansible/Vagrant, C/C++ nice-to-have",
-      "coverLetter": "",
-      "salaryAsk": "",
+      "coverLetter": true,
+      "salaryAsk": "not listed",
       "outreachUrl": "https://pl.linkedin.com/in/martynaslotwinska"
     },
     {
@@ -2747,24 +2775,25 @@
     {
       "slug": "state-street",
       "name": "State Street",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Imported from JustJoinIt shortlist",
-      "requirements": "Senior QA Automation Engineer; Stack: Playwright, Java, Selenium, REST, API, CI/CD",
-      "notes": "Imported from ranked shortlist CSV. Vacancy: Senior QA Automation Engineer.\nAvailability check on 2026-06-08: JustJoinIt page returned live job/apply markers.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Application confirmation received in Gmail on 2026-05-07 via JustJoinIt.",
+      "requirements": "Senior QA Automation Engineer; stack: Playwright, Java, Selenium, REST, API, CI/CD.",
+      "notes": "Application is confirmed by Gmail. Imported from JustJoinIt shortlist; role appears relevant for Playwright/Java/Selenium/API/CI/CD QA automation.",
       "links": [
         "https://justjoin.it/job-offer/state-street-senior-qa-automation-engineer-krakow-testing-940ba980",
-        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/state-street/state-street.cv.Yauheni.Sheima.pdf"
+        "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/state-street/state-street.cv.Yauheni.Sheima.pdf",
+        "https://mail.google.com/mail/#all/19e01c8cae1a1f32"
       ],
       "fit": "72/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/state-street/state-street.cv.Yauheni.Sheima.pdf",
-      "outreach": "Shortlisted from CSV",
-      "updatedAt": "2026-06-08T08:23:43.582Z",
-      "role": true,
-      "stack": true,
+      "outreach": "Application confirmed by Gmail on 2026-05-07",
+      "updatedAt": "2026-06-10T16:10:14.284Z",
+      "role": "QA Senior Automation Engineer",
+      "stack": "Playwright, Java, Selenium, REST, API, CI/CD",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/state-street/cover-letter.md",
-      "salaryAsk": true,
-      "outreachUrl": true
+      "salaryAsk": "not listed",
+      "outreachUrl": "https://mail.google.com/mail/#all/19e01c8cae1a1f32"
     },
     {
       "slug": "stonex-group-inc",
@@ -2809,6 +2838,28 @@
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/stonex-poland/cover-letter.md",
       "salaryAsk": "not listed",
       "outreachUrl": ""
+    },
+    {
+      "slug": "stonly",
+      "name": "Stonly",
+      "role": "Senior QA Automation Engineer",
+      "stack": "QA automation",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Application confirmation received in Gmail on 2026-06-09 via JustJoinIt.",
+      "requirements": "Senior QA Automation Engineer role; details from Gmail confirmation only.",
+      "notes": "Application confirmed by Gmail. Full JD not captured in Interviews yet; source confirmation is JustJoinIt application email.",
+      "links": [
+        "https://justjoin.it/offers/stonly-senior-qa-automation-engineer-krakow-testing",
+        "https://mail.google.com/mail/#all/19eacdbc0edd0847"
+      ],
+      "fit": true,
+      "recommendedCv": true,
+      "coverLetter": true,
+      "salaryAsk": "not listed",
+      "outreach": "Application confirmed by Gmail on 2026-06-09",
+      "outreachUrl": "https://mail.google.com/mail/#all/19eacdbc0edd0847",
+      "updatedAt": "2026-06-10T16:10:14.471Z"
     },
     {
       "slug": "storyblok",
@@ -2897,23 +2948,24 @@
     {
       "slug": "td-synnex-poland-dotnet",
       "name": "TD SYNNEX Poland",
-      "role": "Senior Test Automation Engineer (.NET)",
+      "role": "Senior Test Automation Engineer",
       "stack": ".NET, C#, test automation, CI/CD, SDET",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Application confirmation received in Gmail on 2026-06-08 from TD SYNNEX / Workday for R50666 Senior Test Automation Engineer.",
       "requirements": ".NET/C# automation foundation, senior QA automation, CI/CD feedback, enterprise product quality.",
-      "notes": "This is a good match for my C# automation foundation, enterprise QA background, CI/CD context, and framework-improvement experience.",
+      "notes": "Application is confirmed by Gmail. Good match for C# automation foundation, enterprise QA background, CI/CD context, and framework-improvement experience.",
       "links": [
-        "https://www.linkedin.com/jobs/view/4412912600"
+        "https://www.linkedin.com/jobs/view/4412912600",
+        "https://mail.google.com/mail/#all/19ea8ada01277567"
       ],
       "fit": "80/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/td-synnex-poland-dotnet/td-synnex-poland-dotnet.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/td-synnex-poland-dotnet/cover-letter.md",
-      "salaryAsk": "",
-      "outreach": "",
-      "outreachUrl": "",
-      "updatedAt": "2026-06-08T19:07:39.685Z"
+      "salaryAsk": "not listed",
+      "outreach": "Application confirmed by Gmail on 2026-06-08",
+      "outreachUrl": "https://mail.google.com/mail/#all/19ea8ada01277567",
+      "updatedAt": "2026-06-10T16:10:14.099Z"
     },
     {
       "slug": "telement",

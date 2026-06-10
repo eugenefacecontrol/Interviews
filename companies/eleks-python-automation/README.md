@@ -2,22 +2,23 @@
 
 - Role: Senior Test Automation Engineer (Python)
 - Stack: Python, Selenium, Jenkins, JavaScript, SQL, automated testing
-- Status: target
-- Stage: cv_ready_cover_letter_ready
+- Status: applied
+- Stage: application_sent
 - Fit: 78/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/eleks-python-automation/eleks-python-automation.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/eleks-python-automation/cover-letter.md
-- Salary Ask: —
-- Outreach: —
+- Salary Ask: not listed
+- Outreach: Application confirmed by Gmail on 2026-06-10
 
 ## Process
-Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.
+Application confirmation received in Gmail on 2026-06-10 via No Fluff Jobs.
 
 ## Requirements
 Senior test automation with Python/Selenium/Jenkins, remote Krakow context, SQL nice-to-have.
 
 ## Notes
-I see a good fit through senior automation, Selenium/Jenkins, scripting, SQL/backend validation, and CI/CD quality feedback. I would frame Python honestly as practical automation/scripting rather than my deepest long-term language.
+Application is confirmed by Gmail. Good fit through senior automation, Selenium/Jenkins, scripting, SQL/backend validation, and CI/CD quality feedback. Python should remain positioned honestly as practical automation/scripting rather than the deepest long-term language.
 
 ## Links
 - https://nofluffjobs.com/pl/job/senior-test-automation-engineer-python-eleks-remote
+- https://mail.google.com/mail/#all/19eb119111b520a6

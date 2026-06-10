@@ -3,19 +3,20 @@
   "name": "First Advantage",
   "role": "Senior QA Test Automation Engineer",
   "stack": "QA automation, Selenium/Playwright foundation, API testing, CI/CD",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+  "status": "applied",
+  "stage": "application_sent",
+  "process": "Application confirmation received in Gmail on 2026-06-10 from First Advantage / Workday.",
   "requirements": "Senior QA automation, framework maintainability, UI/API checks, defect triage.",
-  "notes": "This is a relevant senior QA automation role where I can emphasize automation framework improvement, API/UI checks, CI/CD feedback, and product-quality ownership.",
+  "notes": "Application is confirmed by Gmail. Relevant senior QA automation role emphasizing automation framework improvement, API/UI checks, CI/CD feedback, and product-quality ownership.",
   "links": [
-    "https://www.linkedin.com/jobs/view/4414498166"
+    "https://www.linkedin.com/jobs/view/4414498166",
+    "https://mail.google.com/mail/#all/19eb131e15ebeaca"
   ],
   "fit": "78/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/first-advantage-test-automation/first-advantage-test-automation.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/first-advantage-test-automation/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-08T19:07:39.752Z"
+  "salaryAsk": "not listed",
+  "outreach": "Application confirmed by Gmail on 2026-06-10",
+  "outreachUrl": "https://mail.google.com/mail/#all/19eb131e15ebeaca",
+  "updatedAt": "2026-06-10T16:10:13.825Z"
 }

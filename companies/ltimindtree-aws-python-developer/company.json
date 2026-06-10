@@ -1,0 +1,22 @@
+{
+  "slug": "ltimindtree-aws-python-developer",
+  "name": "LTIMindtree",
+  "role": "AWS Python Developer",
+  "stack": "AWS, Python",
+  "status": "applied",
+  "stage": "application_sent",
+  "process": "RTR/authorization handled with TST Poland on 2026-05-28; application confirmation received in Gmail from LTIMindtree on 2026-05-28.",
+  "requirements": "AWS Python Developer role; details from recruiter/RTR and Gmail confirmation only.",
+  "notes": "Application confirmed by Gmail. This is not a QA-focused role; keep as historical application record unless a fuller JD is needed later.",
+  "links": [
+    "https://mail.google.com/mail/#all/19e6e7c5b77e6464",
+    "https://mail.google.com/mail/#all/19e6ef88956a72ee"
+  ],
+  "fit": true,
+  "recommendedCv": true,
+  "coverLetter": true,
+  "salaryAsk": "not listed",
+  "outreach": "Application confirmed by Gmail on 2026-05-28; RTR via TST Poland",
+  "outreachUrl": "https://mail.google.com/mail/#all/19e6ef88956a72ee",
+  "updatedAt": "2026-06-10T16:10:14.563Z"
+}

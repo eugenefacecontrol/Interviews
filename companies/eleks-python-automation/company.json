@@ -3,19 +3,20 @@
   "name": "ELEKS",
   "role": "Senior Test Automation Engineer (Python)",
   "stack": "Python, Selenium, Jenkins, JavaScript, SQL, automated testing",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+  "status": "applied",
+  "stage": "application_sent",
+  "process": "Application confirmation received in Gmail on 2026-06-10 via No Fluff Jobs.",
   "requirements": "Senior test automation with Python/Selenium/Jenkins, remote Krakow context, SQL nice-to-have.",
-  "notes": "I see a good fit through senior automation, Selenium/Jenkins, scripting, SQL/backend validation, and CI/CD quality feedback. I would frame Python honestly as practical automation/scripting rather than my deepest long-term language.",
+  "notes": "Application is confirmed by Gmail. Good fit through senior automation, Selenium/Jenkins, scripting, SQL/backend validation, and CI/CD quality feedback. Python should remain positioned honestly as practical automation/scripting rather than the deepest long-term language.",
   "links": [
-    "https://nofluffjobs.com/pl/job/senior-test-automation-engineer-python-eleks-remote"
+    "https://nofluffjobs.com/pl/job/senior-test-automation-engineer-python-eleks-remote",
+    "https://mail.google.com/mail/#all/19eb119111b520a6"
   ],
   "fit": "78/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/eleks-python-automation/eleks-python-automation.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/eleks-python-automation/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-08T19:07:39.622Z"
+  "salaryAsk": "not listed",
+  "outreach": "Application confirmed by Gmail on 2026-06-10",
+  "outreachUrl": "https://mail.google.com/mail/#all/19eb119111b520a6",
+  "updatedAt": "2026-06-10T16:10:13.915Z"
 }
