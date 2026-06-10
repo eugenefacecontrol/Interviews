@@ -21,7 +21,7 @@ This is the canonical human-readable list of interview companies.
 | Astek Polska | applied | application_sent_vacancy_closed_after_application | 80/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/astek-java-selenium-playwright/astek-java-selenium-playwright.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/astek-java-selenium-playwright/cover-letter.md | 100-130 PLN/h B2B listed |  | 2026-06-08T08:21:55.756Z |
 | Atos | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.314Z |
 | Autodesk | applied | application_sent | 8/10 | CV 2 |  |  | Applied via Workday | 2026-05-11T12:00:00.000Z |
-| Avenga | applied | outreach_sent | 9/10 | CV 2 |  |  | Applied via site; sent to Karolina Zamysłowska (LinkedIn) | 2026-04-03T21:47:49.503Z |
+| Avenga | applied | application_sent_outreach_sent | 9/10 | CV 2 | true | 23-26k PLN net | Applied via No Fluff Jobs; LinkedIn outreach sent to Karolina Zamysłowska | 2026-06-10T16:12:21.067Z |
 | B2Bnetwork | applied | application_sent | 62/100 | CV 2 |  |  | Applied via LinkedIn | 2026-04-24T06:44:50.442Z |
 | Be in IT | closed | position_closed | 100/100 | CV 2 |  |  | Position closed / expired | 2026-04-26T07:40:52.389Z |
 | Billennium | contacted | recruiter_outreach | 78/100 | CV 2 |  |  | Katarzyna Zasada | 2026-05-05T16:10:47.458Z |
@@ -34,7 +34,7 @@ This is the canonical human-readable list of interview companies.
 | ClearCourse Dev | unavailable | vacancy_unavailable_verified | 46/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/clearcourse-dev/clearcourse-dev.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/clearcourse-dev/cover-letter.md | true | Shortlisted from CSV | 2026-06-08T08:21:55.756Z |
 | Cleverbit | contacted | recruiter_outreach | 8/10 | CV 2 |  |  | Karen Satariano Banavage — LinkedIn recruiter outreach | 2026-05-15T15:00:00.000Z |
 | Coherent Solutions | contacted | position_paused | 8/10 | CV 2 |  |  | Katerina Waraksa — LinkedIn process pause update received | 2026-05-25T16:01:10.761Z |
-| DataArt | contacted | recruiter_outreach | 92/100 | CV 2 |  |  | Kseniya Bazhenova | 2026-05-05T16:54:26.360Z |
+| DataArt | applied | application_sent_outreach_sent | 92/100 | CV 2 | true | 14-17.5k PLN net | Kseniya Bazhenova — LinkedIn outreach sent; application confirmed by Gmail on 2026-04-07 | 2026-06-10T16:12:20.975Z |
 | DCG | applied | application_sent_outreach_to_send | 76/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/dcg/dcg.cv.Yauheni.Sheima.pdf |  |  | Karolina Broja-Kloboda — LinkedIn message drafted | 2026-05-17T15:10:24.168Z |
 | DCV Technologies | applied | application_sent | 100/100 | CV 2 |  |  | Applied via JustJoinIt | 2026-04-16T15:21:42.904Z |
 | deBridge | contacted | cv_sent | 8/10 | CV 2 |  |  | Applied via Telegram to @leo_lomaev | 2026-04-23T07:05:02.485Z |
@@ -154,6 +154,7 @@ This is the canonical human-readable list of interview companies.
 | Unknown Telegram Vacancy via @andrey_kokhan | contacted | outreach_sent | true | CV 2 |  |  | Contacted @andrey_kokhan via Telegram | 2026-04-22T10:39:10.363Z |
 | Unknown Telegram Vacancy via @regina_ihr3 | contacted | cv_sent | true | CV 2 |  |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:57:24.802Z |
 | Upvanta sp. z o.o. | unavailable | vacancy_unavailable_verified | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/upvanta-sp-z-o-o/upvanta-sp-z-o-o.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/upvanta-sp-z-o-o/cover-letter.md | true | Shortlisted from CSV | 2026-06-08T08:21:55.756Z |
+| US3 Consulting / TCS | applied | representation_confirmed_application_process | true | true | true | not listed | Representation confirmed by email on 2026-05-06 | 2026-06-10T16:11:46.387Z |
 | Venchr | applied | application_sent | 62/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/venchr-senior-qa-playwright-uk/venchr-senior-qa-playwright-uk.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/venchr-senior-qa-playwright-uk/cover-letter.md | £50k-£65k listed |  | 2026-06-08T08:21:55.756Z |
 | Vention | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.863Z |
 | Verisk | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:10.216Z |

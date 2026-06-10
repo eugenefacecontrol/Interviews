@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T16:10:14.573Z",
+  "generatedAt": "2026-06-10T16:12:21.077Z",
   "companies": [
     {
       "slug": "acronis",
@@ -364,21 +364,25 @@
       "slug": "avenga",
       "name": "Avenga",
       "status": "applied",
-      "stage": "outreach_sent",
-      "process": "Applied and LinkedIn outreach sent",
-      "requirements": "QA Engineer with focus on test automation; 3+ years QA/test automation; JavaScript/TypeScript or C#; REST/GraphQL; Cypress or Playwright; Gherkin/Cucumber/SpecFlow; Postman; GitHub/Azure DevOps; Node.js/npm; agile/DevOps; plus mobile release/store management, cloud, containers, microservices",
-      "notes": "Applied via site. LinkedIn message sent to Karolina Zamysłowska: https://www.linkedin.com/in/karolina-zamysłowska/.",
+      "stage": "application_sent_outreach_sent",
+      "process": "Application confirmation received in Gmail on 2026-04-03 via No Fluff Jobs. LinkedIn outreach also sent.",
+      "requirements": "QA Engineer with focus on test automation; 3+ years QA/test automation; JavaScript/TypeScript or C#; REST/GraphQL; Cypress or Playwright; Gherkin/Cucumber/SpecFlow; Postman; GitHub/Azure DevOps; Node.js/npm; agile/DevOps.",
+      "notes": "Application is confirmed by Gmail. LinkedIn message sent to Karolina Zamysłowska.",
       "links": [
-        "https://nofluffjobs.com"
+        "https://nofluffjobs.com",
+        "https://mail.google.com/mail/#all/19d554a5996ffa1f"
       ],
-      "updatedAt": "2026-04-03T21:47:49.503Z",
-      "role": "Automation Engineer",
+      "updatedAt": "2026-06-10T16:12:21.067Z",
+      "role": "Test Automation Engineer - 100% remote",
       "salary": "23-26k PLN net",
-      "stack": "JS/TS, Playwright, Azure DevOps",
+      "stack": "JavaScript/TypeScript, C#, REST/GraphQL, Cypress/Playwright, Gherkin/Cucumber/SpecFlow, Postman, GitHub/Azure DevOps, Node.js/npm",
       "fit": "9/10",
       "cv": "qa-devops-cv.pdf",
       "recommendedCv": "CV 2",
-      "outreach": "Applied via site; sent to Karolina Zamysłowska (LinkedIn)"
+      "outreach": "Applied via No Fluff Jobs; LinkedIn outreach sent to Karolina Zamysłowska",
+      "coverLetter": true,
+      "salaryAsk": "23-26k PLN net",
+      "outreachUrl": "https://www.linkedin.com/in/karolina-zamysłowska/"
     },
     {
       "slug": "b2bnetwork",
@@ -630,24 +634,26 @@
     {
       "slug": "dataart",
       "name": "DataArt",
-      "status": "contacted",
-      "stage": "recruiter_outreach",
-      "process": "LinkedIn outreach sent regarding AQA Engineer with Playwright opening",
-      "requirements": "Strong Playwright; UI and API automation; CI/CD integration; Git; test plans, regression suites, defect tracking; AI tooling nice to have",
-      "notes": "User sent message to Kseniya Bazhenova via LinkedIn regarding vacancy https://www.dataart.team/vacancies/QAA00190",
+      "status": "applied",
+      "stage": "application_sent_outreach_sent",
+      "process": "Application confirmation received in Gmail on 2026-04-07 via JustJoinIt for Test Automation Engineer, IT Services. LinkedIn outreach was also sent to Kseniya Bazhenova regarding AQA Engineer with Playwright opening.",
+      "requirements": "Strong Playwright; UI and API automation; CI/CD integration; Git; test plans, regression suites, defect tracking; AI tooling nice to have.",
+      "notes": "Application is confirmed by Gmail. Prior outreach: user sent message to Kseniya Bazhenova via LinkedIn regarding vacancy https://www.dataart.team/vacancies/QAA00190.",
       "links": [
-        "https://www.dataart.team/vacancies/QAA00190"
+        "https://www.dataart.team/vacancies/QAA00190",
+        "https://mail.google.com/mail/#all/19d687c1e9cd7f27"
       ],
-      "updatedAt": "2026-05-05T16:54:26.360Z",
-      "role": "AQA Engineer with Playwright",
+      "updatedAt": "2026-06-10T16:12:20.975Z",
+      "role": "Test Automation Engineer, IT Services",
       "salary": "14-17.5k PLN net",
       "stack": "Playwright, JavaScript/TypeScript, API testing, GitHub Actions, CI/CD, Git, defect tracking, AI-assisted QA",
       "fit": "92/100",
       "cv": "qa-devops-cv.pdf",
       "recommendedCv": "CV 2",
-      "outreach": "Kseniya Bazhenova",
-      "salaryAsk": "",
-      "outreachUrl": "https://www.linkedin.com/in/kseniya-bazhenova-095871aa/"
+      "outreach": "Kseniya Bazhenova — LinkedIn outreach sent; application confirmed by Gmail on 2026-04-07",
+      "salaryAsk": "14-17.5k PLN net",
+      "outreachUrl": "https://www.linkedin.com/in/kseniya-bazhenova-095871aa/",
+      "coverLetter": true
     },
     {
       "slug": "dcg",
@@ -3116,6 +3122,28 @@
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/upvanta-sp-z-o-o/cover-letter.md",
       "salaryAsk": true,
       "outreachUrl": true
+    },
+    {
+      "slug": "us3-consulting-tcs-quality-assurance-automation-engineer",
+      "name": "US3 Consulting / TCS",
+      "role": "Quality Assurance Automation Engineer",
+      "stack": "QA automation",
+      "status": "applied",
+      "stage": "representation_confirmed_application_process",
+      "process": "Representation confirmation / authorization handled with US3 Consulting for TCS Quality Assurance Automation Engineer role on 2026-05-06; user confirmed representation by email.",
+      "requirements": "Quality Assurance Automation Engineer role for TCS via US3 Consulting; full JD not captured in Interviews.",
+      "notes": "Gmail evidence is representation/application-process authorization rather than a direct employer ATS confirmation. Keep as applied/representation-confirmed historical record.",
+      "links": [
+        "https://mail.google.com/mail/#all/19dfcbecce24d6e5",
+        "https://mail.google.com/mail/#all/19dfcc12ade8c9ca"
+      ],
+      "fit": true,
+      "recommendedCv": true,
+      "coverLetter": true,
+      "salaryAsk": "not listed",
+      "outreach": "Representation confirmed by email on 2026-05-06",
+      "outreachUrl": "https://mail.google.com/mail/#all/19dfcbecce24d6e5",
+      "updatedAt": "2026-06-10T16:11:46.387Z"
     },
     {
       "slug": "venchr-senior-qa-playwright-uk",

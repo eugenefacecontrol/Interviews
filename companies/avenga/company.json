@@ -1,16 +1,22 @@
 {
   "slug": "avenga",
   "name": "Avenga",
+  "role": "Test Automation Engineer - 100% remote",
+  "stack": "JavaScript/TypeScript, C#, REST/GraphQL, Cypress/Playwright, Gherkin/Cucumber/SpecFlow, Postman, GitHub/Azure DevOps, Node.js/npm",
   "status": "applied",
-  "stage": "outreach_sent",
-  "process": "Applied and LinkedIn outreach sent",
-  "requirements": "QA Engineer with focus on test automation; 3+ years QA/test automation; JavaScript/TypeScript or C#; REST/GraphQL; Cypress or Playwright; Gherkin/Cucumber/SpecFlow; Postman; GitHub/Azure DevOps; Node.js/npm; agile/DevOps; plus mobile release/store management, cloud, containers, microservices",
-  "notes": "Applied via site. LinkedIn message sent to Karolina Zamysłowska: https://www.linkedin.com/in/karolina-zamysłowska/.",
+  "stage": "application_sent_outreach_sent",
+  "process": "Application confirmation received in Gmail on 2026-04-03 via No Fluff Jobs. LinkedIn outreach also sent.",
+  "requirements": "QA Engineer with focus on test automation; 3+ years QA/test automation; JavaScript/TypeScript or C#; REST/GraphQL; Cypress or Playwright; Gherkin/Cucumber/SpecFlow; Postman; GitHub/Azure DevOps; Node.js/npm; agile/DevOps.",
+  "notes": "Application is confirmed by Gmail. LinkedIn message sent to Karolina Zamysłowska.",
   "links": [
-    "https://nofluffjobs.com"
+    "https://nofluffjobs.com",
+    "https://mail.google.com/mail/#all/19d554a5996ffa1f"
   ],
   "fit": "9/10",
   "recommendedCv": "CV 2",
-  "outreach": "Applied via site; sent to Karolina Zamysłowska (LinkedIn)",
-  "updatedAt": "2026-04-03T21:47:49.503Z"
+  "coverLetter": true,
+  "salaryAsk": "23-26k PLN net",
+  "outreach": "Applied via No Fluff Jobs; LinkedIn outreach sent to Karolina Zamysłowska",
+  "outreachUrl": "https://www.linkedin.com/in/karolina-zamysłowska/",
+  "updatedAt": "2026-06-10T16:12:21.067Z"
 }

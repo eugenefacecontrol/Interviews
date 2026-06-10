@@ -1,20 +1,22 @@
 {
   "slug": "dataart",
   "name": "DataArt",
-  "role": "AQA Engineer with Playwright",
+  "role": "Test Automation Engineer, IT Services",
   "stack": "Playwright, JavaScript/TypeScript, API testing, GitHub Actions, CI/CD, Git, defect tracking, AI-assisted QA",
-  "status": "contacted",
-  "stage": "recruiter_outreach",
-  "process": "LinkedIn outreach sent regarding AQA Engineer with Playwright opening. CV sent to Yuliia Shkotina.",
-  "requirements": "Strong Playwright; UI and API automation; CI/CD integration; Git; test plans, regression suites, defect tracking; AI tooling nice to have",
-  "notes": "User sent message to Kseniya Bazhenova via LinkedIn regarding vacancy https://www.dataart.team/vacancies/QAA00190\nUser also sent outreach to Yuliia Shkotina via LinkedIn: https://www.linkedin.com/in/yuliia-shkotina-b32050a2/",
+  "status": "applied",
+  "stage": "application_sent_outreach_sent",
+  "process": "Application confirmation received in Gmail on 2026-04-07 via JustJoinIt for Test Automation Engineer, IT Services. LinkedIn outreach was also sent to Kseniya Bazhenova regarding AQA Engineer with Playwright opening.",
+  "requirements": "Strong Playwright; UI and API automation; CI/CD integration; Git; test plans, regression suites, defect tracking; AI tooling nice to have.",
+  "notes": "Application is confirmed by Gmail. Prior outreach: user sent message to Kseniya Bazhenova via LinkedIn regarding vacancy https://www.dataart.team/vacancies/QAA00190.",
   "links": [
-    "https://www.dataart.team/vacancies/QAA00190"
+    "https://www.dataart.team/vacancies/QAA00190",
+    "https://mail.google.com/mail/#all/19d687c1e9cd7f27"
   ],
   "fit": "92/100",
   "recommendedCv": "CV 2",
-  "salaryAsk": "",
-  "outreach": "Kseniya Bazhenova; Yuliia Shkotina",
+  "coverLetter": true,
+  "salaryAsk": "14-17.5k PLN net",
+  "outreach": "Kseniya Bazhenova — LinkedIn outreach sent; application confirmed by Gmail on 2026-04-07",
   "outreachUrl": "https://www.linkedin.com/in/kseniya-bazhenova-095871aa/",
-  "updatedAt": "2026-05-05T16:54:26.360Z"
+  "updatedAt": "2026-06-10T16:12:20.975Z"
 }
