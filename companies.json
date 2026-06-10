@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T16:12:21.077Z",
+  "generatedAt": "2026-06-10T16:14:22.531Z",
   "companies": [
     {
       "slug": "acronis",
@@ -531,19 +531,19 @@
       "role": "Automation QA Engineer",
       "stack": "Python, RAGAS/LLM evaluation ramp-up, Azure DevOps, CI/CD regression checks, REST API testing, SQL/PostgreSQL, observability, latency benchmarking, QA automation",
       "status": "interviewing",
-      "stage": "recruiter_call_completed",
-      "process": "Target role found on LinkedIn on 2026-05-20. Yauheni was recommended by @maciekmaciak. Yauheni clarified on 2026-06-04 that he had already applied and had a call on 2026-05-29.",
+      "stage": "interview_completed",
+      "process": "Target role found on LinkedIn on 2026-05-20. Yauheni was recommended by @maciekmaciak. Yauheni clarified on 2026-06-04 that he had already applied and had a call on 2026-05-29. On 2026-06-10 Yauheni clarified the Ciklum interview had already taken place; keep as interview completed.",
       "requirements": "Automation QA Engineer for B&R Industrial Automation RAG architecture upgrade. Own evaluation lifecycle, offline acceptance testing, KPI measurement, golden dataset, RAGAS evaluation harness, CI/CD regression checks in Azure DevOps, hallucination root-cause taxonomy, code-generation correctness tracking, P95 latency benchmarking. Requires mid-senior background in AI QA/ML evaluation/data engineering, Python, LLM evaluation frameworks such as RAGAS/DeepEval/TruLens, PostgreSQL, Azure App Insights/observability, strong analytical mindset.",
-      "notes": "Applied before 2026-05-29; recruiter/intro call completed on 2026-05-29. Fit: 72/100. Strong match on QA automation, CI/CD guardrails, Azure DevOps, framework improvement, Python/PowerShell scripting, logs/observability context, SQL/PostgreSQL, error analysis, and metric-driven test feedback. Main risk: RAGAS/DeepEval/TruLens and production LLM evaluation are ramp-up areas, so frame as QA automation/evaluation engineer with strong CI/CD and failure-analysis background rather than ML researcher. Referral/source: @maciekmaciak. CV generated: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/ciklum/ciklum.cv.Yauheni.Sheima.pdf",
+      "notes": "Applied before 2026-05-29; recruiter/intro call completed on 2026-05-29; user clarified on 2026-06-10 that the Ciklum interview had already happened. Fit: 72/100. Strong match on QA automation, CI/CD guardrails, Azure DevOps, framework improvement, Python/PowerShell scripting, logs/observability context, SQL/PostgreSQL, error analysis, and metric-driven test feedback. Main risk: RAGAS/DeepEval/TruLens and production LLM evaluation are ramp-up areas, so frame as QA automation/evaluation engineer with strong CI/CD and failure-analysis background rather than ML researcher. Referral/source: @maciekmaciak. CV generated: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/ciklum/ciklum.cv.Yauheni.Sheima.pdf",
       "links": [
         "https://www.linkedin.com/jobs/view/4413298831"
       ],
       "fit": "72/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/ciklum/ciklum.cv.Yauheni.Sheima.pdf",
-      "salaryAsk": "",
-      "outreach": "Referral: @maciekmaciak; call completed 2026-05-29",
+      "salaryAsk": "not listed",
+      "outreach": "Referral: @maciekmaciak; interview completed",
       "outreachUrl": "https://www.linkedin.com/jobs/view/4413298831",
-      "updatedAt": "2026-06-04T18:24:47.195Z",
+      "updatedAt": "2026-06-10T16:14:22.520Z",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/ciklum/cover-letter.md"
     },
     {
