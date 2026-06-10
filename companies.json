@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T16:51:22.778Z",
+  "generatedAt": "2026-06-10T19:00:04.923Z",
   "companies": [
     {
       "slug": "acronis",
@@ -1646,11 +1646,11 @@
       "name": "ITM",
       "role": "Lead QA Engineer (C#)",
       "stack": "C#, Playwright, API, high-load, messaging/telecom, PostgreSQL, GitHub Actions, monitoring, non-functional testing, QA leadership",
-      "status": "target",
-      "stage": "stretch_target_high_requirements",
-      "process": "Hirify export 2026-06-03: selected as high-upside Europe remote Lead QA C# role. User clarified on 2026-06-10 that the company is ITM and the role has very high requirements / leadership expectations. CV and HR outreach text exist, but validate fit carefully before sending.",
+      "status": "skipped",
+      "stage": "high_requirements_lead_role",
+      "process": "Hirify export 2026-06-03: selected as high-upside Europe remote Lead QA C# role. User clarified on 2026-06-10 that the company is ITM and the role has very high requirements / leadership expectations. On 2026-06-10 user asked to remove it from active target list.",
       "requirements": "Lead QA Engineer role with strong leadership/process ownership expectations. Requires 8+ years QA; 6+ years C# automation; 3+ years Playwright or similar; high-load API/messaging/telecom; PostgreSQL; GitHub Actions; QA process definition; monitoring/observability; non-functional testing; 3+ years Python automation; English C1+. Salary listed 4,000-8,000 USD gross/month.",
-      "notes": "Company identified as ITM on 2026-06-10. Treat as stretch target only: leadership position with very high/hard requirements. Relevant background: C#/.NET foundation, API/UI automation, CI/CD, QA process and diagnostics. Main risks/gaps: Lead-level ownership expectations, C1 English, 3+ years Python automation, deep recent C# automation, and high-load messaging/telecom domain. Do not overclaim; only proceed if positioning is intentionally stretch/leadership-oriented.",
+      "notes": "Removed from active target list on 2026-06-10. Company identified as ITM. Reason: leadership position with very high/hard requirements. Relevant background exists in C#/.NET foundation, API/UI automation, CI/CD, QA process and diagnostics, but main gaps are Lead-level ownership expectations, C1 English, 3+ years Python automation, deep recent C# automation, and high-load messaging/telecom domain. Keep materials only for history; do not pursue unless strategy changes.",
       "links": [
         "https://hirify.me/jobs/488332-lead-qa-engineer-csharp"
       ],
@@ -1658,9 +1658,9 @@
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/hirify-lead-qa-csharp/cover-letter.md",
       "salaryAsk": "120-140 PLN/h gross or equivalent; role listed 4,000-8,000 USD gross/month",
-      "outreach": "HR message prepared; company identified as ITM; high-requirements lead role",
+      "outreach": "Skipped: high-requirements Lead QA role",
       "outreachUrl": "",
-      "updatedAt": "2026-06-10T16:51:22.767Z"
+      "updatedAt": "2026-06-10T19:00:04.913Z"
     },
     {
       "slug": "jacobs",
