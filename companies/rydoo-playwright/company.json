@@ -3,19 +3,19 @@
   "name": "Rydoo",
   "role": "Senior Automation QA Engineer (Playwright)",
   "stack": "Playwright, TypeScript/JavaScript, UI/API automation, CI/CD",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+  "status": "unavailable",
+  "stage": "linkedin_no_longer_accepting",
+  "process": "Fresh vacancy from 2026-06-08 latest job search. Materials were prepared, but on 2026-06-10 user reported Rydoo is no longer accepting applications.",
   "requirements": "Senior Playwright automation, product QA, maintainable UI/API coverage, release feedback.",
-  "notes": "I see a strong direct fit around Playwright automation, product-quality ownership, CI/CD-integrated checks, and pragmatic framework maintenance.",
+  "notes": "Strong direct fit around Playwright automation, product-quality ownership, CI/CD-integrated checks, and framework maintenance, but the vacancy is no longer accepting applications. Do not keep as active target unless a new opening appears.",
   "links": [
     "https://www.linkedin.com/jobs/view/4415217562"
   ],
   "fit": "84/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/rydoo-playwright/rydoo-playwright.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/rydoo-playwright/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "",
+  "salaryAsk": "not listed",
+  "outreach": "Vacancy no longer accepting applications",
   "outreachUrl": "",
-  "updatedAt": "2026-06-08T19:07:39.489Z"
+  "updatedAt": "2026-06-10T16:17:24.966Z"
 }
