@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T19:00:04.923Z",
+  "generatedAt": "2026-06-10T19:04:17.704Z",
   "companies": [
     {
       "slug": "acronis",
@@ -551,11 +551,11 @@
       "name": "Ciklum (Hirify TypeScript/Playwright)",
       "role": "Senior Automation QA Engineer (TypeScript/Playwright)",
       "stack": "TypeScript, JavaScript, Playwright, RESTful services, CI/CD, GitLab CI, BDD/TDD, performance/load testing, AWS",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready_hr_text_ready",
-      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Remote Poland; must be based in Poland. Yauheni clarified on 2026-06-04 that the hidden Hirify company is Ciklum. Keep separate from the Ciklum RAG/LLM evaluation role because this is a TypeScript/Playwright vacancy.",
+      "status": "skipped",
+      "stage": "duplicate_ciklum_process",
+      "process": "Shortlisted from remote/global QA/SDET sourcing on 2026-06-03. Remote Poland; must be based in Poland. Yauheni clarified on 2026-06-04 that the hidden Hirify company is Ciklum. On 2026-06-10 user asked to remove it from target because there is already an active Ciklum process/interview history.",
       "requirements": "Senior Automation QA Engineer focused on TypeScript/Playwright. Responsibilities: define and maintain automated tests across functional, integration, contract, performance and load testing; domain-level testing strategy; test data; coaching junior engineers; BDD/TDD collaboration; evaluate tools and quality processes. Requirements: deep QA practices in Agile, TypeScript/JavaScript with Playwright, RESTful services, CI/CD preferably GitLab CI, AWS, performance testing nice-to-have.",
-      "notes": "Company identified as Ciklum on 2026-06-04. Very strong fit for Playwright/TypeScript direction, API testing, CI/CD, strategy, and coaching. Risk: this may overlap with existing Ciklum application history; verify whether a second Ciklum application is acceptable before submitting. AWS/GitLab CI are adjacent rather than strongest. HR message stored in remote-global-qa-sdet-hr-messages-2026-06-03.md. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-typescript-playwright/hirify-typescript-playwright.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md\nAvailability check on 2026-06-08: Hirify page returned live/apply markers.",
+      "notes": "Removed from active target list on 2026-06-10 because it overlaps with existing Ciklum process/interview history. Strong technical fit for Playwright/TypeScript, API testing, CI/CD, strategy and coaching, but do not pursue as a separate Ciklum target unless Yauheni explicitly decides to apply to this separate vacancy.",
       "links": [
         "https://hirify.me/jobs/510280-senior-automation-qa-engineer-typescript-playwright",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-typescript-playwright/hirify-typescript-playwright.cv.Yauheni.Sheima.pdf"
@@ -564,9 +564,9 @@
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-typescript-playwright/hirify-typescript-playwright.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/hirify-typescript-playwright/cover-letter.md",
       "salaryAsk": "not listed; verify before applying",
-      "outreach": "HR message drafted; company identified as Ciklum",
+      "outreach": "Skipped: duplicate/overlapping Ciklum process",
       "outreachUrl": "",
-      "updatedAt": "2026-06-08T08:23:43.582Z"
+      "updatedAt": "2026-06-10T19:04:17.693Z"
     },
     {
       "slug": "clearcourse-dev",
