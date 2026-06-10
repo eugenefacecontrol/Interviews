@@ -3,19 +3,19 @@
   "name": "INDG | Grip",
   "role": "QA Automation Engineer (C#/TS)",
   "stack": "C#, TypeScript, QA automation, visual product platform, web automation",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
-  "requirements": "C#/TypeScript QA automation for a product platform, web automation, framework maintainability.",
-  "notes": "This is a strong match to my C# automation foundation plus TypeScript/Playwright direction, with product-focused automation and practical framework work.",
+  "status": "skipped",
+  "stage": "relocation_required",
+  "process": "Fresh vacancy from 2026-06-08 latest job search. Materials were prepared, but on 2026-06-10 user clarified the role requires relocation. Do not keep as active target unless relocation becomes acceptable.",
+  "requirements": "C#/TypeScript QA automation for a product platform, web automation, framework maintainability. Vacancy is listed via Relocate.me for Amsterdam, Netherlands, so relocation is expected.",
+  "notes": "Strong technical match to C# automation foundation plus TypeScript/Playwright direction, with product-focused automation and framework work, but skipped because the opportunity requires relocation to Amsterdam/Netherlands.",
   "links": [
     "https://relocate.me/the-netherlands/amsterdam/indg-grip/qa-automation-engineer-c-ts-8867"
   ],
   "fit": "82/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/indg-grip-csharp-ts/indg-grip-csharp-ts.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/indg-grip-csharp-ts/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "",
+  "salaryAsk": "not listed",
+  "outreach": "Skipped: relocation required",
   "outreachUrl": "",
-  "updatedAt": "2026-06-08T19:07:39.875Z"
+  "updatedAt": "2026-06-10T16:16:21.500Z"
 }
