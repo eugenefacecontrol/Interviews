@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-06-10T16:17:24.977Z",
+  "generatedAt": "2026-06-10T16:48:52.159Z",
   "companies": [
     {
       "slug": "acronis",
       "name": "Acronis",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Preparing CV for LinkedIn Senior Automation QA Engineer role in Acronis Cloud-to-Cloud Backup team. Gmail label Job Search/Rejections: rejection recorded for Senior Automation QA Engineer on 2026-05-14 (not moving forward with candidacy at this time).",
+      "status": "unavailable",
+      "stage": "linkedin_no_longer_accepting",
+      "process": "Preparing CV for LinkedIn Senior Automation QA Engineer role in Acronis Cloud-to-Cloud Backup team. On 2026-06-10 user reported Acronis is no longer accepting applications.",
       "requirements": "Senior Automation QA Engineer; Acronis Cloud-to-Cloud Backup team; develop and execute E2E, Component, Acceptance and Regression UI auto tests; collaborate with product managers, developers and global R&D teams; review product requirements; design test suites and test cases; develop automation tests for web UI; participate in automation code reviews; execute and maintain regression test suites; analyze test automation results; maintain documentation of test plans, test cases and test results; 5+ years Automation QA Python Engineer; QA theory; Python; API/UI testing; Playwright framework or similar; Jira; Git; Jenkins; Docker; analytical mindset; communication; Microsoft 365 or similar cloud-based systems is a plus; Upper-intermediate English; application in English; interviews without AI tools/external assistance.",
-      "notes": "New Acronis LinkedIn context replaces older rejected Workday role context. Strong fit on 7+ QA automation, Playwright, API/UI automation, E2E/regression testing, Jenkins/Git/Docker, test documentation, automation result analysis, QA theory and cloud-product context. Main gap: Python is practical scripting/automation-adjacent, while recent strongest stack is Playwright/TypeScript/C#/PowerShell; keep this honest. Important interview note: Acronis explicitly prohibits AI tools/external assistance during live interviews. PDF: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf Historical rejection source: Gmail label Job Search/Rejections. Role/vacancy: Senior Automation QA Engineer. Date: 2026-05-14. Reason: not moving forward with candidacy at this time.\nAvailability check on 2026-06-08: LinkedIn page live with \"Apply on company website\".",
+      "notes": "Strong fit on 7+ QA automation, Playwright, API/UI automation, E2E/regression testing, Jenkins/Git/Docker, test documentation, automation result analysis, QA theory and cloud-product context, but the current vacancy is no longer accepting applications. Main gap: Python is practical scripting/automation-adjacent, while recent strongest stack is Playwright/TypeScript/C#/PowerShell. Important interview note: Acronis explicitly prohibits AI tools/external assistance during live interviews. Keep materials for history only unless a new opening appears.",
       "links": [
         "https://www.linkedin.com/jobs/view/4409891066",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf"
       ],
       "fit": "78/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf",
-      "outreach": "CV context prepared",
+      "outreach": "Vacancy no longer accepting applications",
       "outreachUrl": true,
-      "updatedAt": "2026-06-08T08:23:43.582Z",
+      "updatedAt": "2026-06-10T16:48:52.149Z",
       "role": "Senior Automation QA Engineer",
       "stack": "Python, Playwright, API/UI testing, E2E tests, Component tests, Acceptance tests, Regression UI auto tests, Jira, Git, Jenkins, Docker, QA theory, cloud-based systems",
-      "salaryAsk": true,
+      "salaryAsk": "not listed",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/acronis/cover-letter.md"
     },
     {
@@ -111,17 +111,17 @@
     {
       "slug": "alior-bank",
       "name": "Alior Bank",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Initial outreach / CV submission planned",
+      "status": "applied",
+      "stage": "application_sent",
+      "process": "Initial outreach / CV submission was planned. On 2026-06-10 user clarified he had already applied.",
       "requirements": "Role: Senior Test Automation; Stack: C#, Selenium, Jenkins; Salary: N/A",
-      "notes": "Imported from CSV shortlist. Fit: 5/10. CV file: qa-devops-cv.pdf\nAvailability check on 2026-06-08: found concrete JustJoinIt/Pracuj/LinkedIn listing for Senior Test Automation Engineer; JustJoinIt page returned job description.",
+      "notes": "Application marked as sent based on user clarification on 2026-06-10. Imported from CSV shortlist. Fit: 5/10. Availability check on 2026-06-08 found concrete JustJoinIt/Pracuj/LinkedIn listing for Senior Test Automation Engineer; JustJoinIt page returned job description.",
       "links": [
         "https://justjoin.it/job-offer/alior-bank-sa-senior-test-automation-engineer-gdansk-testing",
         "https://www.aliorbank.pl/kariera",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alior-bank/alior-bank.cv.Yauheni.Sheima.pdf"
       ],
-      "updatedAt": "2026-06-08T08:23:43.582Z",
+      "updatedAt": "2026-06-10T16:48:51.864Z",
       "role": "Senior Test Automation",
       "salary": "N/A",
       "stack": "C#, Selenium, Jenkins",
@@ -129,8 +129,8 @@
       "cv": "qa-devops-cv.pdf",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alior-bank/alior-bank.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/alior-bank/cover-letter.md",
-      "salaryAsk": true,
-      "outreach": true,
+      "salaryAsk": "not listed",
+      "outreach": "Application sent",
       "outreachUrl": true
     },
     {
@@ -903,24 +903,24 @@
     {
       "slug": "epam-systems",
       "name": "EPAM Systems",
-      "status": "applied",
-      "stage": "application_sent",
-      "process": "Applied for Senior Automation Tester in Java / Test Automation Engineer (Java) role Gmail label Job Search/Rejections: rejection recorded for application via referral platform / no aligned open opportunities on 2025-02-03 (no open opportunities aligned with experience at that time).",
+      "status": "interviewing",
+      "stage": "interview_completed",
+      "process": "Applied for Senior Automation Tester in Java / Test Automation Engineer (Java). On 2026-06-10 user clarified EPAM Systems interview had already taken place. Historical Gmail rejection label exists for an older/general EPAM referral-platform context on 2025-02-03; keep this record focused on the current EPAM Systems application/interview.",
       "requirements": "Senior Automation Tester in Java / Test Automation Engineer (Java); Java; automation testing; exact stack per LinkedIn/EPAM career pages",
-      "notes": "Applied via LinkedIn and EPAM careers page. Contact person: Tatsiana Zubkova https://www.linkedin.com/in/tatsianazubkova/. Additional application link: https://careers.epam.com/en/vacancy/test-automation-engineer-java-bltwi6i1orra3ufguyz_en Historical rejection source: Gmail label Job Search/Rejections. Role/vacancy: application via referral platform / no aligned open opportunities. Date: 2025-02-03. Reason: no open opportunities aligned with experience at that time.",
+      "notes": "Interview completed based on user clarification on 2026-06-10. Applied via LinkedIn and EPAM careers page. Contact person: Tatsiana Zubkova https://www.linkedin.com/in/tatsianazubkova/. Additional application link: https://careers.epam.com/en/vacancy/test-automation-engineer-java-bltwi6i1orra3ufguyz_en. Keep separate from EPAM Systems (Python/Azure) target record.",
       "links": [
         "https://www.linkedin.com/jobs/view/4392631385",
         "https://careers.epam.com/en/vacancy/test-automation-engineer-java-bltwi6i1orra3ufguyz_en"
       ],
       "fit": "84/100",
       "recommendedCv": "CV 2",
-      "outreach": "Applied via Tatsiana Zubkova and EPAM careers",
-      "updatedAt": "2026-05-25T16:01:12.071Z",
-      "salaryAsk": "",
+      "outreach": "Applied via Tatsiana Zubkova and EPAM careers; interview completed",
+      "updatedAt": "2026-06-10T16:48:51.961Z",
+      "salaryAsk": "not listed",
       "role": "Senior Automation Tester in Java / Test Automation Engineer (Java)",
       "stack": "Java, automation testing",
-      "coverLetter": "",
-      "outreachUrl": ""
+      "coverLetter": true,
+      "outreachUrl": "https://www.linkedin.com/in/tatsianazubkova/"
     },
     {
       "slug": "epam-python-azure-automation",
@@ -1139,21 +1139,21 @@
       "name": "Forte Group",
       "role": "Senior SDET (TypeScript/Playwright)",
       "stack": "TypeScript, Playwright, SDET, UI/API automation, CI/CD",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+      "status": "interviewing",
+      "stage": "interview_completed",
+      "process": "Fresh vacancy from 2026-06-08 latest job search. Materials were prepared. On 2026-06-10 user clarified Forte Group interview had already taken place.",
       "requirements": "TypeScript and Playwright SDET work, framework maintainability, CI/CD feedback, API/UI quality.",
-      "notes": "This role matches my current Playwright/TypeScript direction and broader SDET profile: UI/API automation, framework improvement, CI/CD feedback, and defect evidence.",
+      "notes": "Interview completed based on user clarification on 2026-06-10. Strong match to current Playwright/TypeScript direction and broader SDET profile: UI/API automation, framework improvement, CI/CD feedback, and defect evidence.",
       "links": [
         "https://www.linkedin.com/jobs/view/4423368379"
       ],
       "fit": "86/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/forte-group-sdet-playwright/forte-group-sdet-playwright.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/forte-group-sdet-playwright/cover-letter.md",
-      "salaryAsk": "",
-      "outreach": "",
-      "outreachUrl": "",
-      "updatedAt": "2026-06-08T19:07:39.416Z"
+      "salaryAsk": "not listed",
+      "outreach": "Interview completed",
+      "outreachUrl": true,
+      "updatedAt": "2026-06-10T16:48:52.057Z"
     },
     {
       "slug": "fulfillment-iq",

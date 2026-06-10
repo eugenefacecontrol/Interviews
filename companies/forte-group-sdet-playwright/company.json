@@ -3,19 +3,19 @@
   "name": "Forte Group",
   "role": "Senior SDET (TypeScript/Playwright)",
   "stack": "TypeScript, Playwright, SDET, UI/API automation, CI/CD",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready",
-  "process": "Fresh vacancy from 2026-06-08 latest job search. Materials prepared; application not sent yet.",
+  "status": "interviewing",
+  "stage": "interview_completed",
+  "process": "Fresh vacancy from 2026-06-08 latest job search. Materials were prepared. On 2026-06-10 user clarified Forte Group interview had already taken place.",
   "requirements": "TypeScript and Playwright SDET work, framework maintainability, CI/CD feedback, API/UI quality.",
-  "notes": "This role matches my current Playwright/TypeScript direction and broader SDET profile: UI/API automation, framework improvement, CI/CD feedback, and defect evidence.",
+  "notes": "Interview completed based on user clarification on 2026-06-10. Strong match to current Playwright/TypeScript direction and broader SDET profile: UI/API automation, framework improvement, CI/CD feedback, and defect evidence.",
   "links": [
     "https://www.linkedin.com/jobs/view/4423368379"
   ],
   "fit": "86/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/forte-group-sdet-playwright/forte-group-sdet-playwright.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/forte-group-sdet-playwright/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "",
-  "outreachUrl": "",
-  "updatedAt": "2026-06-08T19:07:39.416Z"
+  "salaryAsk": "not listed",
+  "outreach": "Interview completed",
+  "outreachUrl": true,
+  "updatedAt": "2026-06-10T16:48:52.057Z"
 }
