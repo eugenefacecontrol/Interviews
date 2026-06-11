@@ -4,6 +4,7 @@ This is the canonical human-readable list of interview companies.
 
 | Company | Status | Stage | Fit | Recommended CV | Cover Letter | Salary Ask | Outreach | Last update |
 |---|---|---|---|---|---|---|---|---|
+| A-Players | target | recruiter_outreach_to_send | 95/100 |  |  | not listed | Hanna Zianovich — LinkedIn outreach drafted | 2026-06-11T09:40:36.369Z |
 | Acronis | unavailable | linkedin_no_longer_accepting | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/acronis/acronis.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/acronis/cover-letter.md | not listed | Vacancy no longer accepting applications | 2026-06-10T16:48:52.149Z |
 | Actimind | closed | compensation_too_low | 77/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/actimind-qa-python-ai/actimind-qa-python-ai.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/actimind-qa-python-ai/cover-letter.md | Listed from 2,200 USD/month; below target | Closed: compensation too low | 2026-06-04T17:38:15.304Z |
 | Ailleron | applied | cv_sent | 7/10 | CV 2 |  |  | Sent to Tanya Akulich (LinkedIn) | 2026-04-03T11:09:52.055Z |
@@ -25,6 +26,8 @@ This is the canonical human-readable list of interview companies.
 | B2Bnetwork | applied | application_sent | 62/100 | CV 2 |  |  | Applied via LinkedIn | 2026-04-24T06:44:50.442Z |
 | Be in IT | closed | position_closed | 100/100 | CV 2 |  |  | Position closed / expired | 2026-04-26T07:40:52.389Z |
 | Billennium | contacted | recruiter_outreach | 78/100 | CV 2 |  |  | Katarzyna Zasada | 2026-05-05T16:10:47.458Z |
+| Binance | target | to_apply_python_positioning_needed | 87/100 |  |  | not listed |  | 2026-06-11T09:40:35.947Z |
+| Braver IT | target | to_apply | 97/100 |  |  | not listed |  | 2026-06-11T09:40:35.394Z |
 | Britenet | unavailable | vacancy_unavailable_verified | 56/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/britenet/britenet.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/britenet/cover-letter.md | true | Shortlisted from CSV | 2026-06-08T08:21:55.756Z |
 | Capco | rejected | rejected_from_gmail_label | 4.65/5 | CV 2 |  |  | Rejected after application review | 2026-05-25T16:01:09.577Z |
 | CAT Digital / Caterpillar | applied | application_sent_outreach_sent | 82/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/cat-digital-senior-qa-java/cat-digital-senior-qa-java.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/cat-digital-senior-qa-java/cover-letter.md | 120-140 PLN/h gross or equivalent; role listed 5,600-6,400 USD gross/month | Telegram outreach sent to @RemoteITjob | 2026-06-04T17:31:26.764Z |
@@ -33,6 +36,7 @@ This is the canonical human-readable list of interview companies.
 | Ciklum (Hirify TypeScript/Playwright) | skipped | duplicate_ciklum_process | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-typescript-playwright/hirify-typescript-playwright.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/hirify-typescript-playwright/cover-letter.md | not listed; verify before applying | Skipped: duplicate/overlapping Ciklum process | 2026-06-10T19:04:17.693Z |
 | ClearCourse Dev | unavailable | vacancy_unavailable_verified | 46/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/clearcourse-dev/clearcourse-dev.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/clearcourse-dev/cover-letter.md | true | Shortlisted from CSV | 2026-06-08T08:21:55.756Z |
 | Cleverbit | contacted | recruiter_outreach | 8/10 | CV 2 |  |  | Karen Satariano Banavage — LinkedIn recruiter outreach | 2026-05-15T15:00:00.000Z |
+| co.brick | target | to_verify_then_apply | 86/100 |  |  | not listed |  | 2026-06-11T09:40:36.044Z |
 | Coherent Solutions | contacted | position_paused | 8/10 | CV 2 |  |  | Katerina Waraksa — LinkedIn process pause update received | 2026-05-25T16:01:10.761Z |
 | DataArt | applied | application_sent_outreach_sent | 92/100 | CV 2 | true | 14-17.5k PLN net | Kseniya Bazhenova — LinkedIn outreach sent; application confirmed by Gmail on 2026-04-07 | 2026-06-10T16:12:20.975Z |
 | DCG | applied | application_sent_outreach_to_send | 76/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/dcg/dcg.cv.Yauheni.Sheima.pdf |  |  | Karolina Broja-Kloboda — LinkedIn message drafted | 2026-05-17T15:10:24.168Z |
@@ -57,6 +61,7 @@ This is the canonical human-readable list of interview companies.
 | Exadel | applied | application_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/exadel/exadel.cv.Yauheni.Sheima.pdf |  |  | Application submitted | 2026-05-30T19:26:14.193Z |
 | Experis Manpower Group | unavailable | vacancy_unavailable_verified | 88/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/experis-manpower-group/experis-manpower-group.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/experis-manpower-group/cover-letter.md | 80-110 PLN/h net + VAT B2B | Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05 | 2026-06-08T08:21:55.756Z |
 | Fintech Platform via Hirify | contacted | cv_ready_cover_letter_ready_outreach_sent | 83/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-fintech-ai-qa/hirify-fintech-ai-qa.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/hirify-fintech-ai-qa/cover-letter.md | 120-140 PLN/h gross preferred or monthly equivalent; negotiable by scope | Telegram outreach sent to @ENI_ONE_LTD | 2026-06-04T17:22:29.474Z |
+| Fireblocks | target | to_apply | 91/100 |  |  | not listed |  | 2026-06-11T09:40:35.845Z |
 | First Advantage | applied | application_sent | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/first-advantage-test-automation/first-advantage-test-automation.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/first-advantage-test-automation/cover-letter.md | not listed | Application confirmed by Gmail on 2026-06-10 | 2026-06-10T16:10:13.825Z |
 | Forte Group | interviewing | interview_completed | 86/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/forte-group-sdet-playwright/forte-group-sdet-playwright.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/forte-group-sdet-playwright/cover-letter.md | not listed | Interview completed | 2026-06-10T16:48:52.057Z |
 | Fulfillment IQ | closed | position_closed | 78/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/fulfillment-iq/fulfillment-iq.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/remote-global-qa-sdet-hr-messages-2026-06-03.md | not listed | Closed: vacancy unavailable | 2026-06-04T18:27:23.868Z |
@@ -74,6 +79,7 @@ This is the canonical human-readable list of interview companies.
 | Hirify / Get IT | closed | compensation_too_low | 82/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-get-it-qa-automation/hirify-get-it-qa-automation.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/hirify-get-it-qa-automation/cover-letter.md | Listed 2,300-2,800 EUR/month; below target | Closed: compensation too low | 2026-06-04T18:10:42.102Z |
 | IBM | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.261Z |
 | INDG | Grip | skipped | relocation_required | 82/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/indg-grip-csharp-ts/indg-grip-csharp-ts.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/indg-grip-csharp-ts/cover-letter.md | not listed | Skipped: relocation required | 2026-06-10T16:16:21.500Z |
+| inFakt | target | to_apply | 96/100 |  |  | not listed |  | 2026-06-11T09:40:35.509Z |
 | Infogain | unavailable | vacancy_unavailable_verified | 88/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/infogain/infogain.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/infogain/cover-letter.md | not listed | Shortlisted from CSV; live JustJoinIt vacancy verified 2026-06-05 | 2026-06-08T08:21:55.756Z |
 | InPost | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.161Z |
 | INQUD | applied | application_sent | 84/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/inqud-qa-manual-automation/inqud-qa-manual-automation.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/inqud-qa-manual-automation/cover-letter.md | 120-140 PLN/h gross preferred; open to discuss if scope/contract fit is strong | HR message prepared; application sent | 2026-06-04T17:01:26.753Z |
@@ -87,6 +93,7 @@ This is the canonical human-readable list of interview companies.
 | JetBrains | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.062Z |
 | JTI | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.363Z |
 | Kaseya | rejected | rejected_from_gmail_label | 3/10 | CV 2 |  |  | Rejected by Kaseya after prior recruiter response / scheduling stage | 2026-05-25T16:01:09.480Z |
+| KBC Technologies Group | target | to_verify_then_apply | 83/100 |  |  | not listed |  | 2026-06-11T09:40:36.137Z |
 | Keepit | applied | application_sent | 7/10 | CV 2 |  |  | Applied via company site | 2026-04-15T17:55:29.230Z |
 | Kraken | applied | application_sent | 84/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/kraken-qa-automation-pro/kraken-qa-automation-pro.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/kraken-qa-automation-pro/cover-letter.md |  |  | 2026-06-08T08:33:17.742Z |
 | Link Group | unavailable | vacancy_unavailable_verified | 58/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/link-group/link-group.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/link-group/cover-letter.md | true | Przemysław Lorek | 2026-06-08T08:21:55.756Z |
@@ -111,6 +118,7 @@ This is the canonical human-readable list of interview companies.
 | Pacaya HR Experts | applied | application_sent | 8/10 | CV 2 |  |  | Applied via LinkedIn | 2026-04-19T07:02:15.387Z |
 | PaySet | rejected | rejected_after_application_review | 74/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/payset/payset.cv.Yauheni.Sheima.pdf |  |  | Natalie — rejection received | 2026-06-01T15:55:48.731Z |
 | People More | target | cv_ready_cover_letter_ready | 3/10 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/people-more/people-more.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/people-more/cover-letter.md | true | true | 2026-06-08T08:23:43.582Z |
+| Pirxey | target | to_apply_verify_degree_requirement | 92/100 |  |  | not listed |  | 2026-06-11T09:40:35.738Z |
 | Plain Concepts | closed | position_closed | 70/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/plain-concepts/plain-concepts.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/plain-concepts/cover-letter.md | not listed | Closed: vacancy closed | 2026-06-04T18:28:20.524Z |
 | Precisely | contacted | message_sent | 6/10 | CV 2 |  |  | Zuzanna Biel — LinkedIn message sent | 2026-05-11T16:00:00.000Z |
 | Prequel | closed | compensation_too_low | 72/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/prequel-automation-qa-java/prequel-automation-qa-java.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/prequel-automation-qa-java/cover-letter.md | Listed from 1,500 USD gross/month; below target | Closed: compensation too low | 2026-06-04T18:04:02.951Z |
@@ -148,6 +156,8 @@ This is the canonical human-readable list of interview companies.
 | TD SYNNEX Poland | applied | application_sent | 80/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/td-synnex-poland-dotnet/td-synnex-poland-dotnet.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/td-synnex-poland-dotnet/cover-letter.md | not listed | Application confirmed by Gmail on 2026-06-08 | 2026-06-10T16:10:14.099Z |
 | Telement | contacted | cv_sent | 8/10 | CV 2 |  |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:58:41.364Z |
 | Tenarai Europe | closed | position_closed | true | CV 2 |  |  | Applied via Wiktoria Banaś-Gałecka | 2026-04-24T10:29:46.207Z |
+| Toro Performance | target | to_apply | 94/100 |  |  | not listed |  | 2026-06-11T09:40:35.632Z |
+| Travelplanet.pl / Invia Group | target | to_apply_lower_priority | 79/100 |  |  | not listed |  | 2026-06-11T09:40:36.241Z |
 | Twelvedevs | target | outreach_to_send | 85/100 |  |  |  | Aliaksandra Kuzniatsova | 2026-06-11T08:55:46.631Z |
 | Twinslash | contacted | cv_sent | 6.5/10 | CV 2 |  |  | CV sent via Telegram to @It_recruiter_tech | 2026-04-23T07:11:56.821Z |
 | Ubiquiti | rejected | rejected | 6.5/10 | CV 2 |  |  | Rejected after application review | 2026-04-15T17:57:24.204Z |
