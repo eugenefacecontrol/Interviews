@@ -3,10 +3,10 @@
 - Role: Senior Automation QA Engineer / SDET (Python)
 - Stack: Python, SDET, QA automation, CI/CD, trading/backend platform testing
 - Status: target
-- Stage: to_apply_python_positioning_needed
+- Stage: cv_ready_cover_letter_ready_python_positioning_needed
 - Fit: 87/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/binance-senior-automation-qa-sdet-python/binance-senior-automation-qa-sdet-python.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/binance-senior-automation-qa-sdet-python/cover-letter.md
 - Salary Ask: not listed
 - Outreach: —
 

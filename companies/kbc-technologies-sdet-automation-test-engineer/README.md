@@ -3,10 +3,10 @@
 - Role: SDET (Automation Test Engineer)
 - Stack: SDET, test automation, contract, Krakow
 - Status: target
-- Stage: to_verify_then_apply
+- Stage: cv_ready_cover_letter_ready_to_verify
 - Fit: 83/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/kbc-technologies-sdet-automation-test-engineer/kbc-technologies-sdet-automation-test-engineer.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/kbc-technologies-sdet-automation-test-engineer/cover-letter.md
 - Salary Ask: not listed
 - Outreach: —
 

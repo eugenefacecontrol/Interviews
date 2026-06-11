@@ -3,10 +3,10 @@
 - Role: QA Automation Engineer (Playwright & TypeScript)
 - Stack: Playwright, TypeScript, Node.js, GitHub Actions, API testing, AI CLI tools
 - Status: target
-- Stage: to_apply_verify_degree_requirement
+- Stage: cv_ready_cover_letter_ready_verify_degree_requirement
 - Fit: 92/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/pirxey-playwright-typescript-qa/pirxey-playwright-typescript-qa.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/pirxey-playwright-typescript-qa/cover-letter.md
 - Salary Ask: not listed
 - Outreach: —
 

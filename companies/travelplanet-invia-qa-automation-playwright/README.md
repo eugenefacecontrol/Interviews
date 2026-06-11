@@ -3,10 +3,10 @@
 - Role: QA Automation Engineer
 - Stack: Playwright, REST, CI/CD, BrowserStack, web/backend testing
 - Status: target
-- Stage: to_apply_lower_priority
+- Stage: cv_ready_cover_letter_ready_lower_priority
 - Fit: 79/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/travelplanet-invia-qa-automation-playwright/travelplanet-invia-qa-automation-playwright.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/travelplanet-invia-qa-automation-playwright/cover-letter.md
 - Salary Ask: not listed
 - Outreach: —
 

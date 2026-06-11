@@ -3,10 +3,10 @@
 - Role: QA/Automation Tester (Java)
 - Stack: Java, REST Assured, Selenium/Playwright, TypeScript, Cucumber/JBehave, SQL, Postman/Bruno, Azure DevOps, banking workflows
 - Status: target
-- Stage: live_status_to_verify_cv_to_prepare
+- Stage: cv_ready_cover_letter_ready_live_status_to_verify
 - Fit: 76/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/scalo-qa-automation-java-katowice/scalo-qa-automation-java-katowice.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/scalo-qa-automation-java-katowice/cover-letter.md
 - Salary Ask: up to 120 PLN/h B2B
 - Outreach: User-reported status conflict: possible expired; live page fetched on 2026-06-07
 

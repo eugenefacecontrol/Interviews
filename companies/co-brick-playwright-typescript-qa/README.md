@@ -3,10 +3,10 @@
 - Role: Senior QA Automation Engineer (Playwright / TypeScript)
 - Stack: Playwright, TypeScript, QA automation
 - Status: target
-- Stage: to_verify_then_apply
+- Stage: cv_ready_cover_letter_ready_to_verify
 - Fit: 86/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/co-brick-playwright-typescript-qa/co-brick-playwright-typescript-qa.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/co-brick-playwright-typescript-qa/cover-letter.md
 - Salary Ask: not listed
 - Outreach: —
 

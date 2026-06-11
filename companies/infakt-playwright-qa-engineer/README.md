@@ -3,10 +3,10 @@
 - Role: QA Engineer (Playwright)
 - Stack: Playwright, TypeScript/JavaScript, API testing, CI/CD, GitHub Actions, AI tools
 - Status: target
-- Stage: to_apply
+- Stage: cv_ready_cover_letter_ready
 - Fit: 96/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/infakt-playwright-qa-engineer/infakt-playwright-qa-engineer.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/infakt-playwright-qa-engineer/cover-letter.md
 - Salary Ask: not listed
 - Outreach: —
 

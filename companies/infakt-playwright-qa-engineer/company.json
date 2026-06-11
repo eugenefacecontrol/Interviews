@@ -4,7 +4,7 @@
   "role": "QA Engineer (Playwright)",
   "stack": "Playwright, TypeScript/JavaScript, API testing, CI/CD, GitHub Actions, AI tools",
   "status": "target",
-  "stage": "to_apply",
+  "stage": "cv_ready_cover_letter_ready",
   "process": "Added from 2026-06-11 career-ops sourcing batch; target for application.",
   "requirements": "3+ years web test automation; strong Playwright TypeScript/JavaScript; API/backend testing; CI/CD/GitHub Actions; Charles/Proxyman; AI tools such as Claude Code/Cursor/Copilot.",
   "notes": "Very strong SDET/Playwright/AI-tools fit. Krakow hybrid, engineering-quality culture, product quality over test count.",
@@ -12,10 +12,10 @@
     "https://justjoin.it/job-offer/infakt-qa-engineer-playwright--krakow-testing"
   ],
   "fit": "96/100",
-  "recommendedCv": "",
-  "coverLetter": "",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/infakt-playwright-qa-engineer/infakt-playwright-qa-engineer.cv.Yauheni.Sheima.pdf",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/infakt-playwright-qa-engineer/cover-letter.md",
   "salaryAsk": "not listed",
   "outreach": "",
   "outreachUrl": "",
-  "updatedAt": "2026-06-11T09:40:35.509Z"
+  "updatedAt": "2026-06-11T11:23:20.372Z"
 }

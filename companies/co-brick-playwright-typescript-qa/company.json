@@ -4,7 +4,7 @@
   "role": "Senior QA Automation Engineer (Playwright / TypeScript)",
   "stack": "Playwright, TypeScript, QA automation",
   "status": "target",
-  "stage": "to_verify_then_apply",
+  "stage": "cv_ready_cover_letter_ready_to_verify",
   "process": "Added from 2026-06-11 LinkedIn CDP scan; target pending full JD verification.",
   "requirements": "Public LinkedIn hit indicates Playwright/TypeScript senior QA automation; full JD/details need verification because public page metadata was incomplete/odd.",
   "notes": "Potentially strong Playwright/TS fit. Verify full JD and part-time/category metadata before applying.",
@@ -12,10 +12,10 @@
     "https://www.linkedin.com/jobs/view/4426381493/"
   ],
   "fit": "86/100",
-  "recommendedCv": "",
-  "coverLetter": "",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/co-brick-playwright-typescript-qa/co-brick-playwright-typescript-qa.cv.Yauheni.Sheima.pdf",
+  "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/co-brick-playwright-typescript-qa/cover-letter.md",
   "salaryAsk": "not listed",
   "outreach": "",
   "outreachUrl": "",
-  "updatedAt": "2026-06-11T09:40:36.044Z"
+  "updatedAt": "2026-06-11T11:23:20.183Z"
 }

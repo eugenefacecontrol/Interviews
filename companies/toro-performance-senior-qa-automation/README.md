@@ -3,10 +3,10 @@
 - Role: Senior QA Automation Engineer
 - Stack: Playwright, API testing, mocking/stubbing, microservices, automation frameworks
 - Status: target
-- Stage: to_apply
+- Stage: cv_ready_cover_letter_ready
 - Fit: 94/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/toro-performance-senior-qa-automation/toro-performance-senior-qa-automation.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/toro-performance-senior-qa-automation/cover-letter.md
 - Salary Ask: not listed
 - Outreach: —
 

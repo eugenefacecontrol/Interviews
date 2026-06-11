@@ -3,10 +3,10 @@
 - Role: Fullstack QA Engineer
 - Stack: TypeScript, Playwright, frontend/API/integration testing, AI-powered B2C products, QA ownership
 - Status: target
-- Stage: recruiter_outreach_to_send
+- Stage: cv_ready_cover_letter_ready_outreach_to_send
 - Fit: 95/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/a-players-fullstack-qa-engineer/a-players-fullstack-qa-engineer.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/a-players-fullstack-qa-engineer/cover-letter.md
 - Salary Ask: not listed
 - Outreach: Hanna Zianovich — LinkedIn outreach drafted
 

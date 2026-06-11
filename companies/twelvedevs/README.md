@@ -3,10 +3,10 @@
 - Role: Middle AQA Engineer (JS/TS Playwright)
 - Stack: Playwright, TypeScript, JS, UI/API/Integration Testing, AI tools in QA, CI/CD
 - Status: target
-- Stage: outreach_to_send
+- Stage: cv_ready_cover_letter_ready_outreach_to_send
 - Fit: 85/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/twelvedevs/twelvedevs.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/twelvedevs/cover-letter.md
 - Salary Ask: —
 - Outreach: Aliaksandra Kuzniatsova
 

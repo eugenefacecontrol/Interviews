@@ -3,10 +3,10 @@
 - Role: Senior Automation QA Engineer (.NET / C# / Playwright)
 - Stack: .NET, C#, Playwright, Azure DevOps, PowerShell, SQL Server, xUnit/NUnit
 - Status: target
-- Stage: to_apply
+- Stage: cv_ready_cover_letter_ready
 - Fit: 97/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/braver-it-senior-automation-qa-dotnet/braver-it-senior-automation-qa-dotnet.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/braver-it-senior-automation-qa-dotnet/cover-letter.md
 - Salary Ask: not listed
 - Outreach: —
 

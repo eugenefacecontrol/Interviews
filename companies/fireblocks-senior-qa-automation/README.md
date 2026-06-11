@@ -3,10 +3,10 @@
 - Role: Senior QA Automation Engineer
 - Stack: API/frontend automation, fintech/crypto, logs/Datadog/Sentry, AI agents, product-quality ownership
 - Status: target
-- Stage: to_apply
+- Stage: cv_ready_cover_letter_ready
 - Fit: 91/100
-- Recommended CV: —
-- Cover Letter: —
+- Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/fireblocks-senior-qa-automation/fireblocks-senior-qa-automation.cv.Yauheni.Sheima.pdf
+- Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/fireblocks-senior-qa-automation/cover-letter.md
 - Salary Ask: not listed
 - Outreach: —
 
