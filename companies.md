@@ -148,6 +148,7 @@ This is the canonical human-readable list of interview companies.
 | TD SYNNEX Poland | applied | application_sent | 80/100 | /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/td-synnex-poland-dotnet/td-synnex-poland-dotnet.cv.Yauheni.Sheima.pdf | /Users/yauhenisheima/Sources/Interviews/companies/td-synnex-poland-dotnet/cover-letter.md | not listed | Application confirmed by Gmail on 2026-06-08 | 2026-06-10T16:10:14.099Z |
 | Telement | contacted | cv_sent | 8/10 | CV 2 |  |  | CV sent to @regina_ihr3 via Telegram | 2026-04-22T13:58:41.364Z |
 | Tenarai Europe | closed | position_closed | true | CV 2 |  |  | Applied via Wiktoria Banaś-Gałecka | 2026-04-24T10:29:46.207Z |
+| Twelvedevs | target | outreach_to_send | 85/100 |  |  |  | Aliaksandra Kuzniatsova | 2026-06-11T08:55:46.631Z |
 | Twinslash | contacted | cv_sent | 6.5/10 | CV 2 |  |  | CV sent via Telegram to @It_recruiter_tech | 2026-04-23T07:11:56.821Z |
 | Ubiquiti | rejected | rejected | 6.5/10 | CV 2 |  |  | Rejected after application review | 2026-04-15T17:57:24.204Z |
 | Unit8 | rejected | rejected_from_gmail_label |  |  |  |  |  | 2026-05-25T16:01:11.973Z |
