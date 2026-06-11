@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T11:23:20.961Z",
+  "generatedAt": "2026-06-11T14:47:01.478Z",
   "companies": [
     {
       "slug": "a-players-fullstack-qa-engineer",
@@ -133,16 +133,16 @@
       "slug": "alior-bank",
       "name": "Alior Bank",
       "status": "applied",
-      "stage": "application_sent",
-      "process": "Initial outreach / CV submission was planned. On 2026-06-10 user clarified he had already applied.",
+      "stage": "application_sent_confirmation_received",
+      "process": "Initial outreach / CV submission was planned. On 2026-06-10 user clarified he had already applied.\nGmail/eRecruiter confirmation on 2026-06-10: application for Senior Test Automation Engineer (K/M) at Alior Bank linked to candidate account.",
       "requirements": "Role: Senior Test Automation; Stack: C#, Selenium, Jenkins; Salary: N/A",
-      "notes": "Application marked as sent based on user clarification on 2026-06-10. Imported from CSV shortlist. Fit: 5/10. Availability check on 2026-06-08 found concrete JustJoinIt/Pracuj/LinkedIn listing for Senior Test Automation Engineer; JustJoinIt page returned job description.",
+      "notes": "Application marked as sent based on user clarification on 2026-06-10. Imported from CSV shortlist. Fit: 5/10. Availability check on 2026-06-08 found concrete JustJoinIt/Pracuj/LinkedIn listing for Senior Test Automation Engineer; JustJoinIt page returned job description.\nApplication confirmation received via eRecruiter.",
       "links": [
         "https://justjoin.it/job-offer/alior-bank-sa-senior-test-automation-engineer-gdansk-testing",
         "https://www.aliorbank.pl/kariera",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/alior-bank/alior-bank.cv.Yauheni.Sheima.pdf"
       ],
-      "updatedAt": "2026-06-10T16:48:51.864Z",
+      "updatedAt": "2026-06-11T14:47:01.356Z",
       "role": "Senior Test Automation",
       "salary": "N/A",
       "stack": "C#, Selenium, Jenkins",
@@ -152,7 +152,7 @@
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/alior-bank/cover-letter.md",
       "salaryAsk": "not listed",
       "outreach": "Application sent",
-      "outreachUrl": true
+      "outreachUrl": ""
     },
     {
       "slug": "alten-polska",
@@ -269,20 +269,20 @@
       "role": "AQA Engineer (C#+Python)",
       "stack": "C#, .NET, Python/Golang, Selenium or similar, XUnit or similar, REST/GraphQL API, Web UI automation, CI/CD, Jenkins/GitLab/GitHub Actions, Allure, TDD/BDD, AI for testing",
       "status": "interviewing",
-      "stage": "recruiter_screen_completed_cv_to_send",
-      "process": "Inbound recruiter message from Kseniya Vishnevskaya on LinkedIn on 2026-06-04. Remote AQA role for an online inspection and real-time quality-control platform in the automotive industry. Yauheni said the vacancy looks interesting; next step is to reply and continue conversation before applying.\nRecruiter screen completed with Kseniya Vishnevskaya on 2026-06-08. Project/client details clarified; Kseniya requested CV via LinkedIn. Next expected step after CV/internal review: technical interview in Russian with Aristek automation engineer and .NET developer, booked up to 1.5 hours.",
+      "stage": "sdet_interview_scheduled_2026-06-12_1130",
+      "process": "Inbound recruiter message from Kseniya Vishnevskaya on LinkedIn on 2026-06-04. Remote AQA role for an online inspection and real-time quality-control platform in the automotive industry. Yauheni said the vacancy looks interesting; next step is to reply and continue conversation before applying.\nRecruiter screen completed with Kseniya Vishnevskaya on 2026-06-08. Project/client details clarified; Kseniya requested CV via LinkedIn. Next expected step after CV/internal review: technical interview in Russian with Aristek automation engineer and .NET developer, booked up to 1.5 hours.\nGmail calendar invitation from Kseniya Vishnevskaya on 2026-06-10: SDET Interview with Yauheni Sheima | Aristek Systems, Fri Jun 12, 2026 11:30-13:00 GMT+2.",
       "requirements": "Middle AQA, remote, full-time, 3+ years. Build automated frameworks from scratch; API and Web UI automation for REST/GraphQL; CI/CD integration; code reviews and OOP; investigate failures/flaky tests; requirements review; Agile collaboration; optimize test suites and report metrics. Required: 3+ years AQA, testing theory/methodology, web/mobile testing tools, AI usage for testing, functional/regression/smoke/ad-hoc testing, English B2+, C#/.NET backend development experience, Python and/or Golang, Selenium or similar, XUnit or similar, TDD/BDD, integration/programmatic testing, test plans in CI/CD.",
-      "notes": "Good general QA automation fit: framework building, API/UI automation, CI/CD, defect analysis, reporting, and automotive quality-control domain. Main risk: role explicitly asks for extensive C#/.NET backend development and Python/Golang; position carefully as QA automation with C#/Selenium foundation and practical Python scripting, without overstating backend ownership. Suggested temporary CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf. Better next step: generate Aristek-specific CV before applying.\nAvailability check on 2026-06-08: Aristek page live in browser with full job description and \"Apply now\".\nCall notes saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/call-notes-2026-06-08.md. Key project facts: UK client, automotive scanner/computer-vision quality inspection product, production system, new team of 3 .NET devs + 2 frontend + 1 AQA + 1 DevOps, PO on client side, English meetings, fully remote EU hours, B2B via Lithuanian office/incubator, ASAP availability is a plus.",
+      "notes": "Good general QA automation fit: framework building, API/UI automation, CI/CD, defect analysis, reporting, and automotive quality-control domain. Main risk: role explicitly asks for extensive C#/.NET backend development and Python/Golang; position carefully as QA automation with C#/Selenium foundation and practical Python scripting, without overstating backend ownership. Suggested temporary CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf. Better next step: generate Aristek-specific CV before applying.\nAvailability check on 2026-06-08: Aristek page live in browser with full job description and \"Apply now\".\nCall notes saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/call-notes-2026-06-08.md. Key project facts: UK client, automotive scanner/computer-vision quality inspection product, production system, new team of 3 .NET devs + 2 frontend + 1 AQA + 1 DevOps, PO on client side, English meetings, fully remote EU hours, B2B via Lithuanian office/incubator, ASAP availability is a plus.\nNext Aristek step scheduled as SDET interview with Google Meet.",
       "links": [
         "https://aristeksystems.com/career/aqa-engineer-cpython/"
       ],
       "fit": "72/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/cover-letter.md",
-      "salaryAsk": true,
+      "salaryAsk": "",
       "outreach": "Kseniya Vishnevskaya — LinkedIn recruiter message received",
       "outreachUrl": "https://www.linkedin.com/in/kseniyavishnevskaya/",
-      "updatedAt": "2026-06-08T11:14:25.626Z"
+      "updatedAt": "2026-06-11T14:47:01.295Z"
     },
     {
       "slug": "aristocrat",
@@ -1873,11 +1873,11 @@
       "name": "KBC Technologies Group",
       "role": "SDET (Automation Test Engineer)",
       "stack": "SDET, test automation, contract, Krakow",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready_to_verify",
-      "process": "Added from 2026-06-11 LinkedIn CDP scan; target pending full JD verification.",
+      "status": "applied",
+      "stage": "application_sent_2026-06-11",
+      "process": "Added from 2026-06-11 LinkedIn CDP scan; target pending full JD verification.\nGmail confirmation from LinkedIn on 2026-06-11: application was sent to KBC Technologies Group for SDET (Automation Test Engineer), Cracow hybrid.",
       "requirements": "SDET / Automation Test Engineer contract in Krakow. LinkedIn public page exposes recruiter/poster but limited stack details; verify before applying.",
-      "notes": "Medium-high fit after stack verification. Recruiter/poster visible: Sachin K, UK & EU Recruitment Lead.",
+      "notes": "Medium-high fit after stack verification. Recruiter/poster visible: Sachin K, UK & EU Recruitment Lead.\nApplication confirmed by LinkedIn email.",
       "links": [
         "https://www.linkedin.com/jobs/view/4423889604/"
       ],
@@ -1887,7 +1887,7 @@
       "salaryAsk": "not listed",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-06-11T11:23:20.470Z"
+      "updatedAt": "2026-06-11T14:47:01.000Z"
     },
     {
       "slug": "keepit",
@@ -1912,11 +1912,11 @@
       "name": "Kraken",
       "role": "QA Automation Engineer - Pro",
       "stack": "QA automation, backend/API testing, crypto trading systems, market data, matching engine, remote",
-      "status": "applied",
-      "stage": "application_sent",
-      "process": "Sourced on 2026-06-07 from Working Nomads remote QA scan. Fresh posting, remote locations include Poland. Tailored CV and cover letter prepared on 2026-06-07. Application submitted by Yauheni on 2026-06-07.\nGmail confirmation from Kraken Hiring Team on 2026-06-07 09:57 UTC: \"Thank you for applying to Kraken\" for QA Automation Engineer - Pro.",
+      "status": "rejected",
+      "stage": "rejected_after_application_review",
+      "process": "Sourced on 2026-06-07 from Working Nomads remote QA scan. Fresh posting, remote locations include Poland. Tailored CV and cover letter prepared on 2026-06-07. Application submitted by Yauheni on 2026-06-07.\nGmail confirmation from Kraken Hiring Team on 2026-06-07 09:57 UTC: \"Thank you for applying to Kraken\" for QA Automation Engineer - Pro.\nGmail rejection from Kraken Hiring Team on 2026-06-11 for QA Automation Engineer - Pro.",
       "requirements": "Crypto/trading backend QA automation role for Kraken Pro team. Focus on trading backend services such as matching engine, market data gateways, internal/external APIs and trading services. Strong fit for backend/API QA and fintech/crypto positioning.",
-      "notes": "High priority from 2026-06-07 sourcing. Strong domain relevance after Scalable search. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/kraken-qa-automation-pro/kraken-qa-automation-pro.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/kraken-qa-automation-pro/cover-letter.md\nApplication confirmation email received from Kraken Hiring Team.",
+      "notes": "High priority from 2026-06-07 sourcing. Strong domain relevance after Scalable search. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/kraken-qa-automation-pro/kraken-qa-automation-pro.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/kraken-qa-automation-pro/cover-letter.md\nApplication confirmation email received from Kraken Hiring Team.\nApplication was not selected for further consideration.",
       "links": [
         "https://www.workingnomads.com/jobs/qa-automation-engineer-pro-kraken"
       ],
@@ -1926,7 +1926,7 @@
       "salaryAsk": "",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-06-08T08:33:17.742Z"
+      "updatedAt": "2026-06-11T14:47:01.178Z"
     },
     {
       "slug": "link-group",
@@ -2366,16 +2366,16 @@
     {
       "slug": "people-more",
       "name": "People More",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Initial outreach / CV submission planned",
+      "status": "applied",
+      "stage": "application_sent_tracker_received",
+      "process": "Initial outreach / CV submission planned\nGmail Smart Tracker email on 2026-06-10 confirms application to Mobile QA Engineer — Manual + AI-augmented at People More PSA.",
       "requirements": "Role: Manual QA; Stack: Manual API testing; Salary: 60-100 PLN/h",
-      "notes": "Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf\nAvailability check on 2026-06-08: found concrete active JustJoinIt listing for People More P.S.A. Mobile QA Engineer — Manual + AI-augmented.",
+      "notes": "Imported from CSV shortlist. Fit: 3/10. CV file: qa-devops-cv.pdf\nAvailability check on 2026-06-08: found concrete active JustJoinIt listing for People More P.S.A. Mobile QA Engineer — Manual + AI-augmented.\nApplication tracker received; status moved from target to applied.",
       "links": [
         "https://justjoin.it/job-offer/people-more-p-s-a--mobile-qa-engineer---manual-ai-augmented-poznan-testing",
         "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/people-more/people-more.cv.Yauheni.Sheima.pdf"
       ],
-      "updatedAt": "2026-06-08T08:23:43.582Z",
+      "updatedAt": "2026-06-11T14:47:01.236Z",
       "role": "Mobile QA Engineer — Manual + AI-augmented",
       "salary": "60-100 PLN/h",
       "stack": "Manual API testing",
@@ -2383,9 +2383,9 @@
       "cv": "qa-devops-cv.pdf",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/people-more/people-more.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/people-more/cover-letter.md",
-      "salaryAsk": true,
-      "outreach": true,
-      "outreachUrl": true
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": ""
     },
     {
       "slug": "pirxey-playwright-typescript-qa",
@@ -3125,10 +3125,10 @@
       "role": "Senior Test Automation Engineer",
       "stack": ".NET, C#, test automation, CI/CD, SDET, web/API automation",
       "status": "interviewing",
-      "stage": "recruiter_screen_completed_waiting_hiring_manager_slots",
-      "process": "Application confirmed in Gmail on 2026-06-08 for R50666 Senior Test Automation Engineer. Recruiter screen completed on 2026-06-11. Role confirmed as C#/.NET-focused test automation; second parallel role is Playwright-focused. Next step is a 45-minute video call with hiring manager Tugay; recruiter will send slots and ask for earlier availability if possible.",
+      "stage": "hiring_manager_interview_scheduled_2026-06-15_1400",
+      "process": "Application confirmed in Gmail on 2026-06-08 for R50666 Senior Test Automation Engineer. Recruiter screen completed on 2026-06-11. Role confirmed as C#/.NET-focused test automation; second parallel role is Playwright-focused. Next step is a 45-minute video call with hiring manager Tugay; recruiter will send slots and ask for earlier availability if possible.\nGmail invitation from TD SYNNEX confirmed hiring-manager interview: Jun 15, 2026, 14:00-14:45 Europe/Madrid/Warsaw, Microsoft Teams, interviewer Tugay Taskin.",
       "requirements": ".NET/C# automation framework design and scaling; web and API test automation; CI/CD continuous testing; agile collaboration with QA/developers; mostly Azure environment; slight AI exposure.",
-      "notes": "Recruiter praised the complete CV and moved to next stage. Strong points discussed: Definely C#/FlaUI framework improvement from 117 to ~200 tests without runtime increase, log reduction 1.5 GB to 11 MB, API automation via C#/NUnit plus Postman/Newman, Azure DevOps/CI/CD and Docker/diagnostics background. Salary expectation discussed: 18,000-20,000 PLN/month. Availability: ASAP / 1-2 weeks, no planned vacation. Main risk: Warsaw hybrid 2-3 days/week from Krakow. Call notes: companies/td-synnex-poland-dotnet/call-notes-2026-06-11-recruiter-screen.md",
+      "notes": "Recruiter praised the complete CV and moved to next stage. Strong points discussed: Definely C#/FlaUI framework improvement from 117 to ~200 tests without runtime increase, log reduction 1.5 GB to 11 MB, API automation via C#/NUnit plus Postman/Newman, Azure DevOps/CI/CD and Docker/diagnostics background. Salary expectation discussed: 18,000-20,000 PLN/month. Availability: ASAP / 1-2 weeks, no planned vacation. Main risk: Warsaw hybrid 2-3 days/week from Krakow. Call notes: companies/td-synnex-poland-dotnet/call-notes-2026-06-11-recruiter-screen.md\nNext step scheduled with Tugay Taskin; prepare for 45-minute .NET-focused technical/hiring-manager conversation.",
       "links": [
         "https://www.linkedin.com/jobs/view/4412912600",
         "https://mail.google.com/mail/#all/19ea8ada01277567"
@@ -3139,7 +3139,7 @@
       "salaryAsk": "18,000-20,000 PLN/month",
       "outreach": "Recruiter screen completed 2026-06-11; waiting for hiring manager slots",
       "outreachUrl": "https://mail.google.com/mail/#all/19ea8ada01277567",
-      "updatedAt": "2026-06-11T10:01:12.468Z"
+      "updatedAt": "2026-06-11T14:47:01.119Z"
     },
     {
       "slug": "telement",
@@ -3182,11 +3182,11 @@
       "name": "Toro Performance",
       "role": "Senior QA Automation Engineer",
       "stack": "Playwright, API testing, mocking/stubbing, microservices, automation frameworks",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Added from 2026-06-11 career-ops sourcing batch; target for application.",
+      "status": "applied",
+      "stage": "application_sent_2026-06-11",
+      "process": "Added from 2026-06-11 career-ops sourcing batch; target for application.\nGmail confirmation from JustJoinIt on 2026-06-11: application sent for Senior QA Automation Engineer Poland (Remote) at Toro Performance Sp. z o.o.",
       "requirements": "8+ years QA with strong automation; expert Playwright; API testing; mocking/stubbing; monolith-to-microservices transition; proactive self-driven mindset.",
-      "notes": "Strong remote Poland target. 8+ years is a stretch against 7+ but senior impact can be positioned.",
+      "notes": "Strong remote Poland target. 8+ years is a stretch against 7+ but senior impact can be positioned.\nApplication confirmed by JustJoinIt email.",
       "links": [
         "https://justjoin.it/job-offer/toro-performance-sp-z-o-o--senior-qa-automation-engineer-poland-remote--testing"
       ],
@@ -3196,7 +3196,7 @@
       "salaryAsk": "not listed",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-06-11T11:23:20.661Z"
+      "updatedAt": "2026-06-11T14:47:01.062Z"
     },
     {
       "slug": "travelplanet-invia-qa-automation-playwright",
@@ -3382,10 +3382,10 @@
       "role": "Senior QA Engineer (Playwright Specialist)",
       "stack": "Playwright, QA automation, remote UK",
       "status": "applied",
-      "stage": "application_sent",
-      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn showed pay range and similar jobs, but not enough JD detail.\nGmail/LinkedIn confirmation on 2026-06-07 11:24 UTC and LinkedIn application status on 2026-06-08: application submitted.",
+      "stage": "application_sent_confirmation_received",
+      "process": "Sourced on 2026-06-07 from LinkedIn search. Public LinkedIn showed pay range and similar jobs, but not enough JD detail.\nGmail/LinkedIn confirmation on 2026-06-07 11:24 UTC and LinkedIn application status on 2026-06-08: application submitted.\nGmail confirmation from LinkedIn on 2026-06-10: application sent to Senior QA Engineer (Playwright Specialist) — Remote (UK) at Venchr.",
       "requirements": "LinkedIn public metadata: Senior QA Engineer Playwright Specialist, remote UK / Manchester area, mid-senior, full-time, £50k-£65k base range.",
-      "notes": "Strong Playwright keyword, but likely UK-only remote. Verify work authorization/location before spending CV time. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/venchr-senior-qa-playwright-uk/venchr-senior-qa-playwright-uk.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/venchr-senior-qa-playwright-uk/cover-letter.md\nAvailability check on 2026-06-08 kept the vacancy live/visible.",
+      "notes": "Strong Playwright keyword, but likely UK-only remote. Verify work authorization/location before spending CV time. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/venchr-senior-qa-playwright-uk/venchr-senior-qa-playwright-uk.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/venchr-senior-qa-playwright-uk/cover-letter.md\nAvailability check on 2026-06-08 kept the vacancy live/visible.\nApplication confirmation received via LinkedIn email.",
       "links": [
         "https://uk.linkedin.com/jobs/view/%F0%9F%9A%80-senior-qa-engineer-playwright-specialist-%E2%80%94-remote-uk-%E2%80%94-%C2%A360%E2%80%9365k-at-venchr-4385251493"
       ],
@@ -3395,7 +3395,7 @@
       "salaryAsk": "£50k-£65k listed",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-06-08T08:21:55.756Z"
+      "updatedAt": "2026-06-11T14:47:01.414Z"
     },
     {
       "slug": "vention",
@@ -3541,6 +3541,25 @@
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/youriteams/cover-letter.md",
       "salaryAsk": "not listed",
       "outreachUrl": ""
+    },
+    {
+      "slug": "zabka-qa-automation-engineer",
+      "name": "Żabka",
+      "role": "QA Automation Engineer",
+      "stack": "QA Automation, exact stack not captured from email confirmation",
+      "status": "applied",
+      "stage": "application_sent_confirmation_received",
+      "process": "Gmail confirmations on 2026-06-10/2026-06-11 via eRecruiter/TRAFFIT: application for QA Automation Engineer at Żabka was received; employer will contact selected candidates only.",
+      "requirements": "Unknown from email confirmation; full vacancy context still needs to be captured if this process continues.",
+      "notes": "Added from Gmail confirmation. Need original job link/JD if available.",
+      "links": [],
+      "fit": "",
+      "recommendedCv": "",
+      "coverLetter": "",
+      "salaryAsk": "",
+      "outreach": "",
+      "outreachUrl": "",
+      "updatedAt": "2026-06-11T14:47:01.471Z"
     }
   ]
 }

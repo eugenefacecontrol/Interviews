@@ -2,8 +2,8 @@
 
 - Role: QA Automation Engineer - Pro
 - Stack: QA automation, backend/API testing, crypto trading systems, market data, matching engine, remote
-- Status: applied
-- Stage: application_sent
+- Status: rejected
+- Stage: rejected_after_application_review
 - Fit: 84/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/kraken-qa-automation-pro/kraken-qa-automation-pro.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/kraken-qa-automation-pro/cover-letter.md
@@ -13,6 +13,7 @@
 ## Process
 Sourced on 2026-06-07 from Working Nomads remote QA scan. Fresh posting, remote locations include Poland. Tailored CV and cover letter prepared on 2026-06-07. Application submitted by Yauheni on 2026-06-07.
 Gmail confirmation from Kraken Hiring Team on 2026-06-07 09:57 UTC: "Thank you for applying to Kraken" for QA Automation Engineer - Pro.
+Gmail rejection from Kraken Hiring Team on 2026-06-11 for QA Automation Engineer - Pro.
 
 ## Requirements
 Crypto/trading backend QA automation role for Kraken Pro team. Focus on trading backend services such as matching engine, market data gateways, internal/external APIs and trading services. Strong fit for backend/API QA and fintech/crypto positioning.
@@ -20,6 +21,7 @@ Crypto/trading backend QA automation role for Kraken Pro team. Focus on trading 
 ## Notes
 High priority from 2026-06-07 sourcing. Strong domain relevance after Scalable search. Tailored CV and cover letter prepared on 2026-06-07. CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/kraken-qa-automation-pro/kraken-qa-automation-pro.cv.Yauheni.Sheima.pdf Cover letter: /Users/yauhenisheima/Sources/Interviews/companies/kraken-qa-automation-pro/cover-letter.md
 Application confirmation email received from Kraken Hiring Team.
+Application was not selected for further consideration.
 
 ## Links
 - https://www.workingnomads.com/jobs/qa-automation-engineer-pro-kraken
