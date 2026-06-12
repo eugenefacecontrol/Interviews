@@ -23,6 +23,7 @@ Good general QA automation fit: framework building, API/UI automation, CI/CD, de
 Availability check on 2026-06-08: Aristek page live in browser with full job description and "Apply now".
 Call notes saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/call-notes-2026-06-08.md. Key project facts: UK client, automotive scanner/computer-vision quality inspection product, production system, new team of 3 .NET devs + 2 frontend + 1 AQA + 1 DevOps, PO on client side, English meetings, fully remote EU hours, B2B via Lithuanian office/incubator, ASAP availability is a plus.
 Next Aristek step scheduled as SDET interview with Google Meet.
+Second-stage technical interview prep saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/second-stage-prep-2026-06-12.md. Covers 1.5-hour SDET technical interview: framework design, C#/.NET/xUnit, Selenium, REST/GraphQL, CI/CD, flaky tests, microservices, product-specific scenarios, and ready answer phrasing.
 
 ## Links
 - https://aristeksystems.com/career/aqa-engineer-cpython/
