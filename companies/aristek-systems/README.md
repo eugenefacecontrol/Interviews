@@ -25,6 +25,7 @@ Call notes saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-syst
 Next Aristek step scheduled as SDET interview with Google Meet.
 Second-stage technical interview prep saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/second-stage-prep-2026-06-12.md. Covers 1.5-hour SDET technical interview: framework design, C#/.NET/xUnit, Selenium, REST/GraphQL, CI/CD, flaky tests, microservices, product-specific scenarios, and ready answer phrasing.
 First-stage recruiter call transcript saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/recruiter-call-transcript-2026-06-08.txt. Review/evaluation saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/first-stage-review-2026-06-08.md. Overall: positive recruiter screen; moved forward to technical interview, ASAP availability and English accepted as positive signals; polish EPAM/current-product/AI wording before future calls.
+Friend technical prep notes converted to interview Q&A file: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/friend-technical-questions-2026-06-12.md. Covers testing theory, framework architecture/choice, flaky tests, C# basics, async/code review, collections, EF/LINQ, SQL joins, and CI/CD.
 
 ## Links
 - https://aristeksystems.com/career/aqa-engineer-cpython/
