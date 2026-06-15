@@ -1,0 +1,142 @@
+Подготовка к C sharp code review вопросу.
+
+Если мне показывают такой код, я не пытаюсь сразу найти всё. Я иду по порядку.
+
+Первое: async проблема.
+В коде есть To List Async dot Result. Это блокирует поток и ломает нормальный async flow. В реальном приложении это может привести к deadlock или проблемам с производительностью. Я бы сделал метод truly async и использовал await.
+
+Второе: работа с базой.
+В оригинальном коде сначала загружаются все книги через To List Async, а потом фильтрация делается в памяти через Where. Это плохо, потому что мы тянем лишние данные из базы. Правильнее применить Where до To List Async, чтобы Entity Framework перевёл запрос в SQL, и база вернула только нужные записи.
+
+Третье: dependency injection.
+Book Db Context создаётся прямо внутри метода через new. Это tight coupling. Такой код сложнее тестировать, сложнее мокать, и он хуже управляется приложением. Я бы передал Book Db Context через constructor injection.
+
+Четвёртое: validation.
+Проверка User Name is null или All char Is White Space работает неидеально и читается хуже. Я бы использовал string dot Is Null Or White Space.
+
+Пятое: exception.
+Throw new Exception слишком общий вариант. Для неправильного аргумента лучше использовать Argument Exception, например: User name is incorrect.
+
+Шестое: readability and naming.
+Параметр User Name должен быть camel case: user name. Свойство в Book лучше назвать Pascal case: User Name. Lambda parameter underscore лучше заменить на нормальное имя, например b. Is Favourite equals true можно заменить на просто Is Favourite.
+
+Моя короткая версия ответа:
+
+The biggest problems are blocking async, in-memory filtering, and lack of dependency injection. I would inject the context, make the method truly async, filter in the database, improve validation and exception type, and clean up naming.
+
+Если спрашивают про работу напрямую с базой, я отвечаю так:
+
+I would move filtering to the database level. Instead of loading all records into memory and filtering in C sharp, I would apply Where before To List Async. Entity Framework can translate that into SQL, so the database returns only the needed records.
+
+Для QA automation можно добавить:
+
+Direct database access can be useful for test data setup, cleanup, and backend state verification. But I would use it carefully. API setup is often closer to real product behavior, while database setup is useful when UI or API setup is too slow, unavailable, or too complex.
+
+Финальная мысль:
+
+Even as an AQA, I need to read and review automation and framework code. These issues matter because they affect stability, performance, testability, and CI reliability.
+
+Блок два. Вопросы, которые стоит спросить компанию или заказчика.
+
+Первый вопрос:
+What are the main quality risks in the product right now?
+Этот вопрос показывает, что я думаю не только о тестах, а о продуктовых рисках.
+
+Второй вопрос:
+What are the most critical user workflows for the first automation coverage?
+Например: scanner data ingestion, defect review, report generation, permissions, or customer approval.
+
+Третий вопрос:
+What is currently covered by automated tests, and what would you expect the new AQA to build first?
+
+Четвёртый вопрос:
+Is the automation framework expected to be built from scratch, or is there an existing codebase to extend?
+
+Пятый вопрос:
+What is the expected balance between UI automation, API or integration tests, and manual or exploratory testing?
+
+Шестой вопрос:
+How much C sharp and dot net backend work is expected from the AQA role?
+Is the expectation mainly automation and framework work around a dot net product, or also production backend feature development?
+Это важный вопрос, потому что мой сильный профиль — QA automation and SDET, not backend feature ownership.
+
+Седьмой вопрос:
+How do test environments and test data work today?
+Can QA create, reset, or prepare data independently?
+
+Восьмой вопрос:
+How are CI/CD pipelines organized now?
+Which checks should block pull requests or releases?
+
+Девятый вопрос:
+What would success look like for this AQA after the first one or two months?
+
+Десятый вопрос:
+Are there any restrictions around AI tools, source code, logs, screenshots, or customer data?
+Это хороший вопрос, потому что Aristek продвигает AI, но клиент может быть осторожным с безопасностью.
+
+Блок три. Возможные вопросы ко мне и короткие ответы.
+
+Вопрос:
+Tell us about yourself and your relevant experience.
+
+Ответ:
+I am a QA Automation Engineer with more than seven years of experience in QA, test automation, UI and API testing, regression validation, defect investigation, and CI/CD quality workflows. My strongest area is making automation useful for the engineering team: stable checks, clear framework structure, understandable failures, and actionable feedback.
+
+Вопрос:
+Why are you interested in this project?
+
+Ответ:
+The project is interesting because it is not just a simple web application. It is connected to real production quality: automotive inspection, scanners, computer vision, defect review, reporting, and traceability. From a QA automation perspective, that creates meaningful risks and good areas for API, UI, integration, and regression automation.
+
+Вопрос:
+Why do you think you fit this role?
+
+Ответ:
+I think I fit because this role needs someone who can combine QA thinking with engineering practice: understand product risk, build stable automation, work with APIs, UI, CI, investigate failures, and communicate clearly with developers and the client. That is exactly the area where my experience is strongest.
+
+Вопрос:
+How would you start automation from scratch?
+
+Ответ:
+I would start with product risks and pipeline needs, not with tool choice. First I would clarify critical workflows, current manual regression, API boundaries, environments, test data, CI constraints, and reporting expectations. Then I would split the framework into clear layers: test layer, page objects, API clients, test data builders, configuration, assertions, reporting, and utilities.
+
+Вопрос:
+What would you automate first for our product?
+
+Ответ:
+I would start with the critical business workflows. For this product I would expect candidates such as inspection data intake, defect review, defect status changes, approve and reject flows, report generation, permissions, and audit trail. I would likely start with API-level checks for data transitions and contracts, plus a smaller UI smoke suite for the key reviewer workflow.
+
+Вопрос:
+How do you handle flaky tests?
+
+Ответ:
+I do not treat rerun as the real fix. First I classify the failure: product bug, test bug, environment issue, test data issue, timing issue, external dependency, or infrastructure issue. Then I check logs, screenshots, network responses, timestamps, environment health, and recent changes. After that I fix the root cause: better waits, stable selectors, isolated test data, cleanup, or moving fragile checks from UI to API level.
+
+Вопрос:
+How strong are you with C sharp and dot net?
+
+Ответ:
+My profile is QA automation first, not backend feature ownership. I can work with automation code, OOP, typed languages, test runners, APIs, logs, and CI. If the role expects framework, API, and UI automation around a dot net product, that fits me. If it expects full backend feature development, I would want to clarify that expectation.
+
+Вопрос:
+How do you use AI in testing?
+
+Ответ:
+I use AI as an engineering assistant for test ideas, edge cases, draft test cases, code review suggestions, log analysis, helper scripts, and refactoring ideas. I do not treat it as an authority. I validate the output and follow client privacy and security rules, especially for code, logs, and production-like data.
+
+Вопрос:
+Why QA automation instead of DevOps?
+
+Ответ:
+I like DevOps because it is also automation, and that experience helps me with CI, environments, logs, and infrastructure thinking. But QA automation fits me better long-term because it is closer to product behavior and user workflows. I enjoy selectors, API behavior, test design, failure analysis, and seeing the direct quality impact.
+
+Вопрос:
+What do you need from us to be productive?
+
+Ответ:
+Clear priorities, access to environments, logs, API documentation, stable test data strategy, CI visibility, and a way to discuss testability with developers early. I can work independently, but automation becomes much better when quality is part of the development workflow.
+
+Финальный короткий closing:
+
+Thank you, the product sounds interesting and the automation scope looks close to my experience. I especially like that it is a real production-quality domain with scanner data, computer vision, web workflows, and reporting. I would be glad to continue.

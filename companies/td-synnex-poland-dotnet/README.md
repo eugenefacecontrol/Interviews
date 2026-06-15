@@ -3,16 +3,17 @@
 - Role: Senior Test Automation Engineer
 - Stack: .NET, C#, test automation, CI/CD, SDET, web/API automation
 - Status: interviewing
-- Stage: hiring_manager_interview_scheduled_2026-06-15_1400
-- Fit: 85/100
+- Stage: hiring_manager_technical_completed_feedback_pending
+- Fit: 72/100
 - Recommended CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/td-synnex-poland-dotnet/td-synnex-poland-dotnet.cv.Yauheni.Sheima.pdf
 - Cover Letter: /Users/yauhenisheima/Sources/Interviews/companies/td-synnex-poland-dotnet/cover-letter.md
 - Salary Ask: 18,000-20,000 PLN/month
-- Outreach: Recruiter screen completed 2026-06-11; waiting for hiring manager slots
+- Outreach: Hiring-manager / technical interview completed 2026-06-15; waiting for official feedback
 
 ## Process
 Application confirmed in Gmail on 2026-06-08 for R50666 Senior Test Automation Engineer. Recruiter screen completed on 2026-06-11. Role confirmed as C#/.NET-focused test automation; second parallel role is Playwright-focused. Next step is a 45-minute video call with hiring manager Tugay; recruiter will send slots and ask for earlier availability if possible.
 Gmail invitation from TD SYNNEX confirmed hiring-manager interview: Jun 15, 2026, 14:00-14:45 Europe/Madrid/Warsaw, Microsoft Teams, interviewer Tugay Taskin.
+Hiring-manager / technical interview with Tugay Taskin completed on 2026-06-15. Transcript saved to companies/td-synnex-poland-dotnet/hiring-manager-transcript-2026-06-15.txt; notes saved to companies/td-synnex-poland-dotnet/hiring-manager-notes-2026-06-15.md. Await official recruiter feedback.
 
 ## Requirements
 .NET/C# automation framework design and scaling; web and API test automation; CI/CD continuous testing; agile collaboration with QA/developers; mostly Azure environment; slight AI exposure.
@@ -20,6 +21,7 @@ Gmail invitation from TD SYNNEX confirmed hiring-manager interview: Jun 15, 2026
 ## Notes
 Recruiter praised the complete CV and moved to next stage. Strong points discussed: Definely C#/FlaUI framework improvement from 117 to ~200 tests without runtime increase, log reduction 1.5 GB to 11 MB, API automation via C#/NUnit plus Postman/Newman, Azure DevOps/CI/CD and Docker/diagnostics background. Salary expectation discussed: 18,000-20,000 PLN/month. Availability: ASAP / 1-2 weeks, no planned vacation. Main risk: Warsaw hybrid 2-3 days/week from Krakow. Call notes: companies/td-synnex-poland-dotnet/call-notes-2026-06-11-recruiter-screen.md
 Next step scheduled with Tugay Taskin; prepare for 45-minute .NET-focused technical/hiring-manager conversation.
+Hiring-manager interview assessed as high risk. Tugay expected stronger focused expertise/ownership in one ecosystem, especially Microsoft/Azure DevOps/.NET automation, large-scale framework delivery, Azure DevOps test management/test run association, open-source tooling strategy, and end-to-end quality ownership from acceptance criteria to sign-off. Weakest answer: user-story quality flow in Azure DevOps; answer should have started from acceptance criteria, test case design, negative/edge scenarios, automation, PR, pipeline, execution association, dashboard/reporting, and sign-off. Stronger points: AI discussion, API preconditions, Fiddler/session exploration, Definely framework/log improvements, and honest non-overclaiming.
 
 ## Links
 - https://www.linkedin.com/jobs/view/4412912600
