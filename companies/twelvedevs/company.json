@@ -3,19 +3,19 @@
   "name": "Twelvedevs",
   "role": "Middle AQA Engineer (JS/TS Playwright)",
   "stack": "Playwright, TypeScript, JS, UI/API/Integration Testing, AI tools in QA, CI/CD",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready_outreach_to_send",
-  "process": "Found HR Alexandra Kuzniatsova on LinkedIn. Interested in the role, drafted outreach message.",
+  "status": "contacted",
+  "stage": "salary_expectation_sent_waiting_recruiter_response",
+  "process": "Found HR Alexandra Kuzniatsova on LinkedIn. Interested in the role, drafted outreach message.\nLinkedIn outreach sent to Aliaksandra Kuzniatsova on 2026-06-15: Yauheni expressed interest in Middle AQA Engineer and mentioned Playwright TS, UI/API automation, CI/CD, and daily AI tool usage. Aliaksandra asked salary expectations. Yauheni replied on 2026-06-15: approximately 15,000 PLN/month, negotiable depending on scope and project.",
   "requirements": "Playwright (JS/TS), UI/API/Integration Testing, AI in QA, AI agents experience, CI/CD understanding, English B2",
-  "notes": "Strong fit — Playwright/TS, API automation, CI/CD, AI tools daily usage",
+  "notes": "Strong fit — Playwright/TS, API automation, CI/CD, AI tools daily usage\nSalary expectation shared with recruiter: approximately 15,000 PLN/month, negotiable depending on scope/project. Waiting for role details / next response.",
   "links": [
     "https://www.linkedin.com/in/aliaksandra-kuzniatsova-a49761387/"
   ],
   "fit": "85/100",
   "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/twelvedevs/twelvedevs.cv.Yauheni.Sheima.pdf",
   "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/twelvedevs/cover-letter.md",
-  "salaryAsk": "",
-  "outreach": "Aliaksandra Kuzniatsova",
+  "salaryAsk": "15,000 PLN/month, negotiable depending on scope/project",
+  "outreach": "Aliaksandra Kuzniatsova — LinkedIn outreach sent; salary expectation answered",
   "outreachUrl": "https://www.linkedin.com/in/aliaksandra-kuzniatsova-a49761387/",
-  "updatedAt": "2026-06-11T11:23:20.950Z"
+  "updatedAt": "2026-06-15T17:55:57.100Z"
 }
