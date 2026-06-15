@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T13:50:19.073Z",
+  "generatedAt": "2026-06-15T15:45:09.765Z",
   "companies": [
     {
       "slug": "a-players-fullstack-qa-engineer",
@@ -2846,24 +2846,24 @@
     {
       "slug": "sii",
       "name": "Sii Poland",
-      "status": "applied",
-      "stage": "application_sent_outreach_sent",
-      "process": "LinkedIn vacancy 4407751011 provided by Yauheni on 2026-05-25. Tailored CV PDF prepared and LinkedIn outreach sent to Martyna Słotwińska. Application confirmation received in Gmail on 2026-05-25 from Sii.",
+      "status": "rejected",
+      "stage": "rejected_no_matching_position_2026-06-15",
+      "process": "LinkedIn vacancy 4407751011 provided by Yauheni on 2026-05-25. Tailored CV PDF prepared and LinkedIn outreach sent to Martyna Słotwińska. Application confirmation received in Gmail on 2026-05-25 from Sii.\nRejection / no matching position email received from Patrycja Płaczek, Senior Recruitment Specialist, on 2026-06-15: currently no open positions matching Yauheni expectations and skills; Sii will contact if a suitable offer appears.",
       "requirements": "Minimum 5 years in similar position; strong Python-based test automation; networking automation frameworks and Linux; testing physical/virtual L2/L3 switches and routers; CI/CD tools such as Jenkins/GitLab; regression, stress, functional, performance and system-level testing on hardware platforms; English; Poland residency. Nice to have: C/C++, Docker, Ansible, Vagrant, traffic generators IxNetwork/Spirent/TRex.",
-      "notes": "Application is confirmed by Gmail. Fit estimate: 72/100. Strong match on QA automation, Python-supported automation, CI/CD, Linux/Windows environments, regression/system-level testing, Docker/Kubernetes support, debugging and defect verification. Gaps/ramp-up: direct L2/L3 switch/router testing, networking automation frameworks, traffic generators, C/C++ depth, Ansible/Vagrant.",
+      "notes": "Application is confirmed by Gmail. Fit estimate: 72/100. Strong match on QA automation, Python-supported automation, CI/CD, Linux/Windows environments, regression/system-level testing, Docker/Kubernetes support, debugging and defect verification. Gaps/ramp-up: direct L2/L3 switch/router testing, networking automation frameworks, traffic generators, C/C++ depth, Ansible/Vagrant.\nRejected/closed by Sii after conversation. Feedback was generic: no current open positions matching expectations and skills. Treat as closed, not a technical rejection.",
       "links": [
         "https://www.linkedin.com/jobs/view/4407751011",
         "https://mail.google.com/mail/#all/19e60ee10bf41811"
       ],
       "fit": "72/100",
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/sii-poland/sii-poland.cv.Yauheni.Sheima.pdf",
-      "outreach": "Martyna Słotwińska — LinkedIn outreach sent; application confirmed by Gmail on 2026-05-25",
-      "updatedAt": "2026-06-10T16:10:14.190Z",
+      "outreach": "Patrycja Płaczek — rejection/no matching position email received 2026-06-15",
+      "updatedAt": "2026-06-15T15:45:09.754Z",
       "role": "Embedded QA Automation Engineer (f/m/x)",
       "stack": "Python test automation, Linux, networking automation frameworks, L2/L3 switches/routers, CI/CD, Jenkins/GitLab, Docker, Ansible/Vagrant, C/C++ nice-to-have",
       "coverLetter": true,
       "salaryAsk": "not listed",
-      "outreachUrl": "https://pl.linkedin.com/in/martynaslotwinska"
+      "outreachUrl": ""
     },
     {
       "slug": "softswiss",
