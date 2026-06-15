@@ -3,11 +3,11 @@
   "name": "Pirxey",
   "role": "QA Automation Engineer (Playwright & TypeScript)",
   "stack": "Playwright, TypeScript, Node.js, GitHub Actions, API testing, AI CLI tools",
-  "status": "target",
-  "stage": "cv_ready_cover_letter_ready_verify_degree_requirement",
-  "process": "Added from 2026-06-11 career-ops sourcing batch; target for application after checking degree requirement.",
+  "status": "applied",
+  "stage": "application_sent_no_confirmation",
+  "process": "Added from 2026-06-11 career-ops sourcing batch; target for application after checking degree requirement. Yauheni applied on 2026-06-15; no confirmation email received/expected.",
   "requirements": "Commercial Playwright E2E automation; advanced TypeScript; POM; Node.js; Chrome DevTools; Git/GitHub; YAML/GitHub Actions; AI coding tools; fluent English; technical university/engineer degree requirement to verify.",
-  "notes": "100% remote B2B and strong Playwright/TS fit. Verify whether BSUIR degree satisfies the stated Politechnika/engineer requirement.",
+  "notes": "Applied on 2026-06-15. 100% remote B2B and strong Playwright/TS fit. Degree requirement may still need clarification if recruiter asks. No confirmation email received after applying.",
   "links": [
     "https://justjoin.it/job-offer/pirxey-qa-automation-engineer-playwright-typescript--gdansk-testing"
   ],
@@ -17,5 +17,5 @@
   "salaryAsk": "not listed",
   "outreach": "",
   "outreachUrl": "",
-  "updatedAt": "2026-06-11T11:23:20.566Z"
+  "updatedAt": "2026-06-15T19:21:56.743Z"
 }
