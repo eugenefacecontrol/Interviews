@@ -3,11 +3,11 @@
   "name": "XM",
   "role": "Software Development Engineers in Test (Python)",
   "stack": "Python, PyTest, Requests, REST API testing, Selenium, Playwright, test automation framework development, CI/CD, Docker, Grafana, performance testing, Kafka, AWS, WebSockets",
-  "status": "interviewing",
-  "stage": "hr_screen_completed_waiting_technical_feedback",
-  "process": "Application submitted by Yauheni via Lever on 2026-05-19. Annual salary expectation entered: 56 500 EUR/year. HR screen completed on 2026-06-02. Recruiter will submit notes to the technical team; feedback expected by end of week or early next week. If positive, next step is a ~2h technical interview with Python live coding, then final call with Head of QA, offer, and background check.",
+  "status": "rejected",
+  "stage": "rejected_after_technical_assessment_2026-06-15",
+  "process": "Application submitted by Yauheni via Lever on 2026-05-19. Annual salary expectation entered: 56 500 EUR/year. HR screen completed on 2026-06-02. Recruiter will submit notes to the technical team; feedback expected by end of week or early next week. If positive, next step is a ~2h technical interview with Python live coding, then final call with Head of QA, offer, and background check.\nRecruitment feedback email from Paraskevi Stergiou on 2026-06-15: XM decided not to move forward after the interview process.",
   "requirements": "SDET Python role for Forex/trading brokerage core. Python automation team in 100+ QA department; Java and Python automation teams are separate. Responsibilities include Python automation testing with frameworks/libraries such as PyTest, Requests, Selenium, Playwright; REST API testing; functional/performance automation; test framework and library work; CI/CD pipeline setup with DevOps collaboration; cross-functional scrum work with QAs, DevOps, PMs, BAs, product and other stakeholders. Advantages/risks: Kafka, AWS, WebSockets, performance testing, finance/trading domain.",
-  "notes": "HR screen notes saved in companies/xm/hr-screen-postmortem-2026-06-02.md. Contract: Poland has no entity; company requires direct B2B/freelancer setup and does not accept incubator/umbrella. 8h/day, 40h/week, Cyprus time zone and calendar. Benefits: 21 paid leave days, birthday leave, 5 paid sick leave days, 150 EUR/month food allowance on invoice, annual performance bonus eligibility after 1 year. Salary stated on call: 4,500 EUR/month. Fit remains strong for API/framework/CI/CD/logs/automation reliability; main weaknesses shown in call were Leapwork/no-code story, Python depth framing, and missing prepared technology list. Education gap in CV was fixed after the call and all personalized CV PDFs were regenerated.",
+  "notes": "HR screen notes saved in companies/xm/hr-screen-postmortem-2026-06-02.md. Contract: Poland has no entity; company requires direct B2B/freelancer setup and does not accept incubator/umbrella. 8h/day, 40h/week, Cyprus time zone and calendar. Benefits: 21 paid leave days, birthday leave, 5 paid sick leave days, 150 EUR/month food allowance on invoice, annual performance bonus eligibility after 1 year. Salary stated on call: 4,500 EUR/month. Fit remains strong for API/framework/CI/CD/logs/automation reliability; main weaknesses shown in call were Leapwork/no-code story, Python depth framing, and missing prepared technology list. Education gap in CV was fixed after the call and all personalized CV PDFs were regenerated.\nGmail rejection feedback on 2026-06-15 called out weaker-than-needed automation testing depth in Python, PyTest, test automation design patterns, and practical coding implementation.",
   "links": [
     "https://jobs.eu.lever.co/xm/209047d8-149c-43bd-97e5-10d872901d4a"
   ],
@@ -17,5 +17,5 @@
   "salaryAsk": "4,500 EUR/month B2B (application previously: 56,500 EUR/year)",
   "outreach": "",
   "outreachUrl": "",
-  "updatedAt": "2026-06-02T09:05:06.004Z"
+  "updatedAt": "2026-06-15T13:28:46.000Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T08:52:55.878Z",
+  "generatedAt": "2026-07-03T22:19:36.871Z",
   "companies": [
     {
       "slug": "a-players-fullstack-qa-engineer",
@@ -268,11 +268,11 @@
       "name": "Aristek Systems",
       "role": "AQA Engineer (C#+Python)",
       "stack": "C#, .NET, Python/Golang, Selenium or similar, XUnit or similar, REST/GraphQL API, Web UI automation, CI/CD, Jenkins/GitLab/GitHub Actions, Allure, TDD/BDD, AI for testing",
-      "status": "interviewing",
-      "stage": "sdet_interview_scheduled_2026-06-12_1130",
-      "process": "Inbound recruiter message from Kseniya Vishnevskaya on LinkedIn on 2026-06-04. Remote AQA role for an online inspection and real-time quality-control platform in the automotive industry. Yauheni said the vacancy looks interesting; next step is to reply and continue conversation before applying.\nRecruiter screen completed with Kseniya Vishnevskaya on 2026-06-08. Project/client details clarified; Kseniya requested CV via LinkedIn. Next expected step after CV/internal review: technical interview in Russian with Aristek automation engineer and .NET developer, booked up to 1.5 hours.\nGmail calendar invitation from Kseniya Vishnevskaya on 2026-06-10: SDET Interview with Yauheni Sheima | Aristek Systems, Fri Jun 12, 2026 11:30-13:00 GMT+2.",
+      "status": "joined",
+      "stage": "offer_accepted_started_2026-06-22",
+      "process": "Inbound recruiter message from Kseniya Vishnevskaya on LinkedIn on 2026-06-04. Remote AQA role for an online inspection and real-time quality-control platform in the automotive industry. Yauheni said the vacancy looks interesting; next step is to reply and continue conversation before applying.\nRecruiter screen completed with Kseniya Vishnevskaya on 2026-06-08. Project/client details clarified; Kseniya requested CV via LinkedIn. Next expected step after CV/internal review: technical interview in Russian with Aristek automation engineer and .NET developer, booked up to 1.5 hours.\nGmail calendar invitation from Kseniya Vishnevskaya on 2026-06-10: SDET Interview with Yauheni Sheima | Aristek Systems, Fri Jun 12, 2026 11:30-13:00 GMT+2.\nGmail offer email from Kseniya Vishnevskaya on 2026-06-16: Aristek invited Yauheni to join the team.\nYauheni accepted the offer on 2026-06-16 and confirmed readiness to start on 2026-06-22.\nAristek welcome/start emails received on 2026-06-17 and 2026-06-22.",
       "requirements": "Middle AQA, remote, full-time, 3+ years. Build automated frameworks from scratch; API and Web UI automation for REST/GraphQL; CI/CD integration; code reviews and OOP; investigate failures/flaky tests; requirements review; Agile collaboration; optimize test suites and report metrics. Required: 3+ years AQA, testing theory/methodology, web/mobile testing tools, AI usage for testing, functional/regression/smoke/ad-hoc testing, English B2+, C#/.NET backend development experience, Python and/or Golang, Selenium or similar, XUnit or similar, TDD/BDD, integration/programmatic testing, test plans in CI/CD.",
-      "notes": "Good general QA automation fit: framework building, API/UI automation, CI/CD, defect analysis, reporting, and automotive quality-control domain. Main risk: role explicitly asks for extensive C#/.NET backend development and Python/Golang; position carefully as QA automation with C#/Selenium foundation and practical Python scripting, without overstating backend ownership. Suggested temporary CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf. Better next step: generate Aristek-specific CV before applying.\nAvailability check on 2026-06-08: Aristek page live in browser with full job description and \"Apply now\".\nCall notes saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/call-notes-2026-06-08.md. Key project facts: UK client, automotive scanner/computer-vision quality inspection product, production system, new team of 3 .NET devs + 2 frontend + 1 AQA + 1 DevOps, PO on client side, English meetings, fully remote EU hours, B2B via Lithuanian office/incubator, ASAP availability is a plus.\nNext Aristek step scheduled as SDET interview with Google Meet.\nSecond-stage technical interview prep saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/second-stage-prep-2026-06-12.md. Covers 1.5-hour SDET technical interview: framework design, C#/.NET/xUnit, Selenium, REST/GraphQL, CI/CD, flaky tests, microservices, product-specific scenarios, and ready answer phrasing.\nFirst-stage recruiter call transcript saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/recruiter-call-transcript-2026-06-08.txt. Review/evaluation saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/first-stage-review-2026-06-08.md. Overall: positive recruiter screen; moved forward to technical interview, ASAP availability and English accepted as positive signals; polish EPAM/current-product/AI wording before future calls.\nFriend technical prep notes converted to interview Q&A file: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/friend-technical-questions-2026-06-12.md. Covers testing theory, framework architecture/choice, flaky tests, C# basics, async/code review, collections, EF/LINQ, SQL joins, and CI/CD.",
+      "notes": "Good general QA automation fit: framework building, API/UI automation, CI/CD, defect analysis, reporting, and automotive quality-control domain. Main risk: role explicitly asks for extensive C#/.NET backend development and Python/Golang; position carefully as QA automation with C#/Selenium foundation and practical Python scripting, without overstating backend ownership. Suggested temporary CV: /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf. Better next step: generate Aristek-specific CV before applying.\nAvailability check on 2026-06-08: Aristek page live in browser with full job description and \"Apply now\".\nCall notes saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/call-notes-2026-06-08.md. Key project facts: UK client, automotive scanner/computer-vision quality inspection product, production system, new team of 3 .NET devs + 2 frontend + 1 AQA + 1 DevOps, PO on client side, English meetings, fully remote EU hours, B2B via Lithuanian office/incubator, ASAP availability is a plus.\nNext Aristek step scheduled as SDET interview with Google Meet.\nSecond-stage technical interview prep saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/second-stage-prep-2026-06-12.md. Covers 1.5-hour SDET technical interview: framework design, C#/.NET/xUnit, Selenium, REST/GraphQL, CI/CD, flaky tests, microservices, product-specific scenarios, and ready answer phrasing.\nFirst-stage recruiter call transcript saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/recruiter-call-transcript-2026-06-08.txt. Review/evaluation saved: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/first-stage-review-2026-06-08.md. Overall: positive recruiter screen; moved forward to technical interview, ASAP availability and English accepted as positive signals; polish EPAM/current-product/AI wording before future calls.\nFriend technical prep notes converted to interview Q&A file: /Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/friend-technical-questions-2026-06-12.md. Covers testing theory, framework architecture/choice, flaky tests, C# basics, async/code review, collections, EF/LINQ, SQL joins, and CI/CD.\nOutcome from Gmail: offer received on 2026-06-16, accepted the same day, and onboarding/welcome emails confirmed start on 2026-06-22.",
       "links": [
         "https://aristeksystems.com/career/aqa-engineer-cpython/"
       ],
@@ -280,9 +280,9 @@
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hirify-lead-qa-csharp/hirify-lead-qa-csharp.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/aristek-systems/cover-letter.md",
       "salaryAsk": "",
-      "outreach": "Kseniya Vishnevskaya — LinkedIn recruiter message received",
+      "outreach": "Kseniya Vishnevskaya — recruiter message received; offer accepted; started 2026-06-22",
       "outreachUrl": "https://www.linkedin.com/in/kseniyavishnevskaya/",
-      "updatedAt": "2026-06-12T15:03:10.195Z"
+      "updatedAt": "2026-06-22T07:57:02.000Z"
     },
     {
       "slug": "aristocrat",
@@ -487,11 +487,11 @@
       "name": "Braver IT",
       "role": "Senior Automation QA Engineer (.NET / C# / Playwright)",
       "stack": ".NET, C#, Playwright, Azure DevOps, PowerShell, SQL Server, xUnit/NUnit",
-      "status": "target",
-      "stage": "cv_ready_cover_letter_ready",
-      "process": "Added from 2026-06-11 career-ops sourcing batch; target for application.",
+      "status": "applied",
+      "stage": "application_in_progress_nofluffjobs_2026-07-03",
+      "process": "Added from 2026-06-11 career-ops sourcing batch; target for application.\nApplied via No Fluff Jobs before 2026-07-03.\nNo Fluff Jobs notification on 2026-07-03: application status changed to in progress.",
       "requirements": "5+ years QA automation; Playwright; C#; xUnit/NUnit; ASP.NET Core; Azure DevOps CI/CD; SQL Server; Windows/IIS/PowerShell; English B2.",
-      "notes": "Top match for C#/.NET + Playwright + Microsoft ecosystem positioning. Valid to 2026-07-02. Prioritize first.",
+      "notes": "Top match for C#/.NET + Playwright + Microsoft ecosystem positioning. Valid to 2026-07-02. Prioritize first.\nGmail evidence on 2026-07-03: No Fluff Jobs reports the Braver IT application moved to in progress.",
       "links": [
         "https://nofluffjobs.com/pl/job/senior-automation-qa-engineer-braver-it-warszawa"
       ],
@@ -499,9 +499,9 @@
       "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/braver-it-senior-automation-qa-dotnet/braver-it-senior-automation-qa-dotnet.cv.Yauheni.Sheima.pdf",
       "coverLetter": "/Users/yauhenisheima/Sources/Interviews/companies/braver-it-senior-automation-qa-dotnet/cover-letter.md",
       "salaryAsk": "not listed",
-      "outreach": "",
+      "outreach": "Applied via No Fluff Jobs; status changed to in progress on 2026-07-03",
       "outreachUrl": "",
-      "updatedAt": "2026-06-11T11:23:20.087Z"
+      "updatedAt": "2026-07-03T08:16:25.000Z"
     },
     {
       "slug": "britenet",
@@ -2411,11 +2411,11 @@
       "name": "Pirxey",
       "role": "QA Automation Engineer (Playwright & TypeScript)",
       "stack": "Playwright, TypeScript, Node.js, GitHub Actions, API testing, AI CLI tools",
-      "status": "applied",
-      "stage": "application_sent_no_confirmation",
-      "process": "Added from 2026-06-11 career-ops sourcing batch; target for application after checking degree requirement. Yauheni applied on 2026-06-15; no confirmation email received/expected.",
+      "status": "rejected",
+      "stage": "rejected_after_first_stage_2026-07-01",
+      "process": "Added from 2026-06-11 career-ops sourcing batch; target for application after checking degree requirement. Yauheni applied on 2026-06-15; no confirmation email received/expected.\nTRAFFIT email on 2026-07-01: application volume exceeded expectations and Pirxey did not invite Yauheni to the next stage.",
       "requirements": "Commercial Playwright E2E automation; advanced TypeScript; POM; Node.js; Chrome DevTools; Git/GitHub; YAML/GitHub Actions; AI coding tools; fluent English; technical university/engineer degree requirement to verify.",
-      "notes": "Applied on 2026-06-15. 100% remote B2B and strong Playwright/TS fit. Degree requirement may still need clarification if recruiter asks. No confirmation email received after applying.",
+      "notes": "Applied on 2026-06-15. 100% remote B2B and strong Playwright/TS fit. Degree requirement may still need clarification if recruiter asks. No confirmation email received after applying.\nGmail update on 2026-07-01: rejected after the first screening stage because the number of applications exceeded expectations.",
       "links": [
         "https://justjoin.it/job-offer/pirxey-qa-automation-engineer-playwright-typescript--gdansk-testing"
       ],
@@ -2425,7 +2425,7 @@
       "salaryAsk": "not listed",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-06-15T19:21:56.743Z"
+      "updatedAt": "2026-07-01T11:30:43.000Z"
     },
     {
       "slug": "plain-concepts",
@@ -2992,10 +2992,10 @@
       "slug": "stonex-group-inc",
       "name": "StoneX Group Inc.",
       "status": "interviewing",
-      "stage": "interview_scheduled_1h_three_interviewers",
-      "process": "Interview scheduled: 1 hour with three interviewers. Earlier LinkedIn outreach was sent to Marina Yanusheuskaya for the same StoneX Senior QA Automation Engineer with Agentic Dev role. The vacancy is currently readable again via JustJoinIt/MindPal after being marked unavailable on 2026-06-07. Prepare around Global Payments, automation architecture, agentic QA, UAT ownership, secure/risk-based testing, and influencing quality standards without direct people management.",
+      "stage": "second_round_technical_selected_2026-07-07_1200",
+      "process": "Interview scheduled: 1 hour with three interviewers. Earlier LinkedIn outreach was sent to Marina Yanusheuskaya for the same StoneX Senior QA Automation Engineer with Agentic Dev role. The vacancy is currently readable again via JustJoinIt/MindPal after being marked unavailable on 2026-06-07. Prepare around Global Payments, automation architecture, agentic QA, UAT ownership, secure/risk-based testing, and influencing quality standards without direct people management.\nFirst-round interview completed on 2026-06-24.\nDariusz Kozyra invited Yauheni to the 2nd round on 2026-06-30: 1.5h technical interview in the Krakow office.\nYauheni selected the 2026-07-07 12:00 slot on 2026-07-02; final confirmation email is still pending in Gmail.",
       "requirements": "Senior QA Automation Engineer for Global Payments. Lead automation architecture across frontend Playwright/Cypress, backend/API xUnit and REST automation, and performance testing with NBomber or equivalent. Define strategy aligned to architecture and business risk; integrate with Azure DevOps/GitHub Actions; improve reliability, speed, maintainability, observability, and testability. Use AI-assisted tools responsibly for test generation, brittle-suite refactoring, UAT scenarios, documentation, coverage analysis, and gap detection. Own UAT cycles for settlements, reconciliations, cross-border flows; support secure testing with SAST/DAST/dependency scanning/vulnerability validation; mentor and influence SDETs/developers without formal management.",
-      "notes": "Interview prep created in companies/stonex-group-inc/interview-prep-2026-06-24.md. Position is strategic quality engineering, not only test execution. Strong talking points: 7+ years QA automation overall, Java/Selenium/API/CI background, pragmatic Playwright ramp-up, risk-based QA, CI reliability, test data/environment discipline, UAT/business workflow validation, and responsible AI-generated test review. Gaps to handle honestly: Playwright is around 0.5 years, so frame it as recent hands-on plus transferable automation architecture experience; ask which language/framework stack is primary in the team.",
+      "notes": "Interview prep created in companies/stonex-group-inc/interview-prep-2026-06-24.md. Position is strategic quality engineering, not only test execution. Strong talking points: 7+ years QA automation overall, Java/Selenium/API/CI background, pragmatic Playwright ramp-up, risk-based QA, CI reliability, test data/environment discipline, UAT/business workflow validation, and responsible AI-generated test review. Gaps to handle honestly: Playwright is around 0.5 years, so frame it as recent hands-on plus transferable automation architecture experience; ask which language/framework stack is primary in the team.\nGmail evidence: advanced to the second round; recruiter proposed slots on 2026-06-30 and Yauheni selected 2026-07-07 12:00 on 2026-07-02.",
       "links": [
         "https://www.linkedin.com/jobs/view/4399998338",
         "https://justjoin.it/job-offer/stonex-poland-senior-qa-automation-engineer-with-agentic-dev-krakow-testing",
@@ -3006,8 +3006,8 @@
       "fit": "78/100",
       "recommendedCv": "CV 2",
       "salaryAsk": "not listed",
-      "outreach": "Marina Yanusheuskaya — prior LinkedIn outreach sent; interview now scheduled",
-      "updatedAt": "2026-06-24T08:52:55.865Z",
+      "outreach": "Marina Yanusheuskaya — prior LinkedIn outreach sent; first round done; second-round technical selected for 2026-07-07 12:00",
+      "updatedAt": "2026-07-02T16:32:00.000Z",
       "role": "Senior QA Automation Engineer with Agentic Dev",
       "stack": "Playwright/Cypress, REST API automation, xUnit, NBomber/performance, Azure DevOps, GitHub Actions, AI-assisted testing, UAT, secure/risk-based testing, payments",
       "coverLetter": "",
@@ -3505,11 +3505,11 @@
       "name": "XM",
       "role": "Software Development Engineers in Test (Python)",
       "stack": "Python, PyTest, Requests, REST API testing, Selenium, Playwright, test automation framework development, CI/CD, Docker, Grafana, performance testing, Kafka, AWS, WebSockets",
-      "status": "interviewing",
-      "stage": "hr_screen_completed_waiting_technical_feedback",
-      "process": "Application submitted by Yauheni via Lever on 2026-05-19. Annual salary expectation entered: 56 500 EUR/year. HR screen completed on 2026-06-02. Recruiter will submit notes to the technical team; feedback expected by end of week or early next week. If positive, next step is a ~2h technical interview with Python live coding, then final call with Head of QA, offer, and background check.",
+      "status": "rejected",
+      "stage": "rejected_after_technical_assessment_2026-06-15",
+      "process": "Application submitted by Yauheni via Lever on 2026-05-19. Annual salary expectation entered: 56 500 EUR/year. HR screen completed on 2026-06-02. Recruiter will submit notes to the technical team; feedback expected by end of week or early next week. If positive, next step is a ~2h technical interview with Python live coding, then final call with Head of QA, offer, and background check.\nRecruitment feedback email from Paraskevi Stergiou on 2026-06-15: XM decided not to move forward after the interview process.",
       "requirements": "SDET Python role for Forex/trading brokerage core. Python automation team in 100+ QA department; Java and Python automation teams are separate. Responsibilities include Python automation testing with frameworks/libraries such as PyTest, Requests, Selenium, Playwright; REST API testing; functional/performance automation; test framework and library work; CI/CD pipeline setup with DevOps collaboration; cross-functional scrum work with QAs, DevOps, PMs, BAs, product and other stakeholders. Advantages/risks: Kafka, AWS, WebSockets, performance testing, finance/trading domain.",
-      "notes": "HR screen notes saved in companies/xm/hr-screen-postmortem-2026-06-02.md. Contract: Poland has no entity; company requires direct B2B/freelancer setup and does not accept incubator/umbrella. 8h/day, 40h/week, Cyprus time zone and calendar. Benefits: 21 paid leave days, birthday leave, 5 paid sick leave days, 150 EUR/month food allowance on invoice, annual performance bonus eligibility after 1 year. Salary stated on call: 4,500 EUR/month. Fit remains strong for API/framework/CI/CD/logs/automation reliability; main weaknesses shown in call were Leapwork/no-code story, Python depth framing, and missing prepared technology list. Education gap in CV was fixed after the call and all personalized CV PDFs were regenerated.",
+      "notes": "HR screen notes saved in companies/xm/hr-screen-postmortem-2026-06-02.md. Contract: Poland has no entity; company requires direct B2B/freelancer setup and does not accept incubator/umbrella. 8h/day, 40h/week, Cyprus time zone and calendar. Benefits: 21 paid leave days, birthday leave, 5 paid sick leave days, 150 EUR/month food allowance on invoice, annual performance bonus eligibility after 1 year. Salary stated on call: 4,500 EUR/month. Fit remains strong for API/framework/CI/CD/logs/automation reliability; main weaknesses shown in call were Leapwork/no-code story, Python depth framing, and missing prepared technology list. Education gap in CV was fixed after the call and all personalized CV PDFs were regenerated.\nGmail rejection feedback on 2026-06-15 called out weaker-than-needed automation testing depth in Python, PyTest, test automation design patterns, and practical coding implementation.",
       "links": [
         "https://jobs.eu.lever.co/xm/209047d8-149c-43bd-97e5-10d872901d4a"
       ],
@@ -3518,7 +3518,7 @@
       "salaryAsk": "4,500 EUR/month B2B (application previously: 56,500 EUR/year)",
       "outreach": "",
       "outreachUrl": "",
-      "updatedAt": "2026-06-02T09:05:06.004Z",
+      "updatedAt": "2026-06-15T13:28:46.000Z",
       "coverLetter": ""
     },
     {
