@@ -1,0 +1,21 @@
+{
+  "slug": "hackerrank-sdet-ii",
+  "name": "HackerRank",
+  "role": "Software Development Engineer in Test II",
+  "stack": "Playwright, SerenityJS, JavaScript/TypeScript, REST API testing, Jenkins/GitHub Actions, Cucumber, CI/CD",
+  "status": "target",
+  "stage": "cv_ready_eligibility_to_verify",
+  "process": "Sourced from USA / Global Job Boards QA-SDET sweep on 2026-07-11 via Wellfound. Tailored CV prepared in cv-master-profile. Before applying, verify remote-from-Poland eligibility and whether EU candidates are accepted.",
+  "requirements": "SDET II role with Playwright/SerenityJS, JavaScript/TypeScript automation, REST API testing, CI/CD through Jenkins/GitHub Actions, and Cucumber/BDD context.",
+  "notes": "Strong keyword fit for Playwright/TypeScript, REST API testing, CI/CD and SDET responsibilities. Need verify location eligibility; do not overclaim SerenityJS/Cucumber as primary background, position them as ramp-up around existing Playwright/API automation foundation.",
+  "links": [
+    "https://wellfound.com/jobs/4084500-software-development-engineer-in-test-ii"
+  ],
+  "fit": "84/100",
+  "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hackerrank-sdet-ii/hackerrank-sdet-ii.cv.Yauheni.Sheima.pdf",
+  "coverLetter": "",
+  "salaryAsk": "not listed",
+  "outreach": "Eligibility check needed before application",
+  "outreachUrl": "",
+  "updatedAt": "2026-07-11T13:30:13.970Z"
+}

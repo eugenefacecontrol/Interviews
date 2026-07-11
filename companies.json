@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T16:33:02.779Z",
+  "generatedAt": "2026-07-11T13:30:40.375Z",
   "companies": [
     {
       "slug": "a-players-fullstack-qa-engineer",
@@ -85,6 +85,27 @@
       "outreach": "Pankaj Sharma - LinkedIn job poster",
       "outreachUrl": "https://www.linkedin.com/in/pspankaj",
       "updatedAt": "2026-07-05T16:14:34.534Z"
+    },
+    {
+      "slug": "affirm-test-enablers",
+      "name": "Affirm",
+      "role": "Senior Software Engineer, Backend (Test Enablers)",
+      "stack": "Test platform, backend validation, CI signal, test data, mocking, integration/E2E validation, load testing, developer productivity",
+      "status": "target",
+      "stage": "cv_ready_eligibility_to_verify",
+      "process": "Sourced from USA / Global Job Boards QA-SDET sweep on 2026-07-11 via Built In. Tailored CV prepared in cv-master-profile. Before applying, verify Poland/EU eligibility, B2B/EOR/contractor option, timezone expectations, and whether US work authorization is required.",
+      "requirements": "Test platform / developer productivity role: synthetic identities, test data seeding, mocking, deterministic validation, load testing, CI signal quality, contract/integration/performance testing.",
+      "notes": "Strong fit from QA automation architecture, CI/CD, diagnostics, test environment reproducibility, and developer-productivity angle. More backend/platform engineering than classic QA, so position honestly around SDET/test infrastructure and practical backend validation rather than pure backend ownership.",
+      "links": [
+        "https://builtin.com/job/senior-software-engineer-backend-test-enablers/10019361"
+      ],
+      "fit": "82/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/affirm-test-enablers/affirm-test-enablers.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "Built In showed 308,000-428,000 PLN/year",
+      "outreach": "Eligibility check needed before application",
+      "outreachUrl": "",
+      "updatedAt": "2026-07-11T13:30:00.954Z"
     },
     {
       "slug": "ailleron",
@@ -754,6 +775,27 @@
       "stack": "Python, SQL, API testing, Azure, Databricks, containers, CI/CD",
       "coverLetter": "",
       "salaryAsk": ""
+    },
+    {
+      "slug": "cracken-sdet",
+      "name": "Cracken",
+      "role": "Software Development Engineer in Test (SDET)",
+      "stack": "Python, JavaScript/TypeScript or Go, test frameworks, CI/CD, AI agents, cybersecurity, smoke/regression/integration testing",
+      "status": "target",
+      "stage": "cv_ready_eligibility_to_verify",
+      "process": "Sourced from USA / Global Job Boards QA-SDET sweep on 2026-07-11 via Built In. Tailored CV prepared in cv-master-profile. Before applying, verify remote eligibility, expected cybersecurity depth, and whether Poland/EU candidates are accepted.",
+      "requirements": "SDET role involving automated frameworks, Python and JavaScript/TypeScript or Go context, smoke/regression/integration automation, CI/CD quality gates, AI agents, and cybersecurity product domain.",
+      "notes": "Interesting AI/security QA role with good SDET and CI/CD overlap. Main gap is deep cybersecurity domain ownership, so position around automation, diagnostics, release gates, environment stability, and AI-assisted workflows rather than security specialization.",
+      "links": [
+        "https://builtin.com/job/software-development-engineer-test-sdet/8071785"
+      ],
+      "fit": "76/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/cracken-sdet/cracken-sdet.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "not listed",
+      "outreach": "Eligibility and cybersecurity-depth check needed before application",
+      "outreachUrl": "",
+      "updatedAt": "2026-07-11T13:30:40.365Z"
     },
     {
       "slug": "dataart",
@@ -1494,6 +1536,27 @@
       "updatedAt": "2026-06-04T16:23:52.307Z"
     },
     {
+      "slug": "hackerrank-sdet-ii",
+      "name": "HackerRank",
+      "role": "Software Development Engineer in Test II",
+      "stack": "Playwright, SerenityJS, JavaScript/TypeScript, REST API testing, Jenkins/GitHub Actions, Cucumber, CI/CD",
+      "status": "target",
+      "stage": "cv_ready_eligibility_to_verify",
+      "process": "Sourced from USA / Global Job Boards QA-SDET sweep on 2026-07-11 via Wellfound. Tailored CV prepared in cv-master-profile. Before applying, verify remote-from-Poland eligibility and whether EU candidates are accepted.",
+      "requirements": "SDET II role with Playwright/SerenityJS, JavaScript/TypeScript automation, REST API testing, CI/CD through Jenkins/GitHub Actions, and Cucumber/BDD context.",
+      "notes": "Strong keyword fit for Playwright/TypeScript, REST API testing, CI/CD and SDET responsibilities. Need verify location eligibility; do not overclaim SerenityJS/Cucumber as primary background, position them as ramp-up around existing Playwright/API automation foundation.",
+      "links": [
+        "https://wellfound.com/jobs/4084500-software-development-engineer-in-test-ii"
+      ],
+      "fit": "84/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/hackerrank-sdet-ii/hackerrank-sdet-ii.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "not listed",
+      "outreach": "Eligibility check needed before application",
+      "outreachUrl": "",
+      "updatedAt": "2026-07-11T13:30:13.970Z"
+    },
+    {
       "slug": "happy-team",
       "name": "Happy Team",
       "status": "unavailable",
@@ -1554,6 +1617,27 @@
       "outreach": "",
       "outreachUrl": "",
       "updatedAt": "2026-05-25T16:01:10.411Z"
+    },
+    {
+      "slug": "helius-senior-qa-engineer",
+      "name": "Helius Technologies",
+      "role": "Senior QA Engineer (Remote)",
+      "stack": "API automation, Postman/Insomnia, Playwright/Puppeteer/Selenium, E2E testing, performance/security testing context, Web3/crypto",
+      "status": "target",
+      "stage": "cv_ready_eligibility_to_verify",
+      "process": "Sourced from USA / Global Job Boards QA-SDET sweep on 2026-07-11 via CareerBuilder. Tailored CV prepared in cv-master-profile. Before applying, verify whether the role is truly remote from Poland and not US-only / agency-only.",
+      "requirements": "Senior QA Engineer with API automation via Postman/Insomnia, E2E testing frameworks such as Puppeteer/Playwright/Selenium, manual/automated coverage, bug documentation, and performance/security testing as plus.",
+      "notes": "Broad good fit for senior QA automation, API/UI testing, bug diagnostics, CI/CD and release readiness. Main risks are source quality, possible staffing/agency flow, Web3/crypto domain, and US/location eligibility.",
+      "links": [
+        "https://www.careerbuilder.com/job-details/senior-qa-engineer-remote--530f1f15-3d36-4d5c-9558-b0b0ec2fe5d1"
+      ],
+      "fit": "78/100",
+      "recommendedCv": "/Users/yauhenisheima/.openclaw/workspace/cv-master-profile/pdf/helius-senior-qa-engineer/helius-senior-qa-engineer.cv.Yauheni.Sheima.pdf",
+      "coverLetter": "",
+      "salaryAsk": "not listed",
+      "outreach": "Eligibility/source-quality check needed before application",
+      "outreachUrl": "",
+      "updatedAt": "2026-07-11T13:30:28.736Z"
     },
     {
       "slug": "hirify-get-it-qa-automation",
